@@ -29,31 +29,19 @@ The musolla database supports querying by location, ideally finding a musolla wi
 You can refer to `tools/test_geohash.js` for a sample implementation although the script deals with local files as opposed to file served over http. (TODO: Provide example codes for querying over http)
 
 **Example Querying for Location 1.434466, 103.785648**
-1. Find bounding coordinates given a lat, lng and distance to bound. In our case, for our coordinates with distance 1km: (1.425472798056653, 103.77665197881018) and (1.443459201943347, 103.79464402118982)
-2. Get the geohashes of the given bounding box:
-```
-w23b17
-w23b1e
-w23b1g
-w23b1k
-w23b1s
-w23b1u
-w23b1m
-w23b1t
-w23b1v
-w23b1q
-w23b1w
-w23b1y
-```
-3. Download the listing of Musolla for these geohashes. Example:
+
+1. Find bounding coordinates given a lat, lng and distance to bound. In our case, for our coordinates with distance 1km: `(1.425472798056653, 103.77665197881018)` and `(1.443459201943347, 103.79464402118982)`
+2. Get the geohashes of the given bounding box. (It should be a list of hashes)
+3. Download the musolla data for the geohashes. Example link to a geohash:
 [https://raw.githubusercontent.com/ruqqq/musolla-database/master/geohashed/w23b1t.json](https://raw.githubusercontent.com/ruqqq/musolla-database/master/geohashed/w23b1t.json)
-4. 404 (File not found) means there are no data for the particular sub-geohash otherwise concatenate all the hits to build a list of result.
+4. If you get a `404 (File not found)` means there are no data for the particular geohash. Otherwise concatenate all the data from the geohashes which returned `200` to build a list of result.
 
 # How to Contribute
-## Method 1: Create GitHub Issue
+## 2 Methods:
+### Method 1: Create GitHub Issue (Layman Method)
 Create a [GitHub issue](https://github.com/ruqqq/musolla-database/issues) with the relevant details of the musolla. Refer to data format section below for list of columns/fields needed.
 
-## Method 2: Pull Request
+### Method 2: Pull Request (Advanced Method)
 Send pull requests to add new musolla and/or images. No programming needed, just basic text editing, file management and minimal Git skills. (TODO: Add manual for non-geeks)
 
 ## Updating geohashed Database (optional)
