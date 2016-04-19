@@ -1,0 +1,22 @@
+{
+  "w21z7pbs29": {
+    "address": "101 Thomson Road S(307591)",
+    "createdAt": "2014-12-23T04:46:36.994Z",
+    "directions": "From the lift, walk straight towards the white generators. Once in front, turn right",
+    "level": "5A",
+    "location": {
+      "latitude": 1.317725,
+      "longitude": 103.843487
+    },
+    "mrt": "Novena",
+    "name": "United Square",
+    "provision": "Prayer Mat, Slippers, Al-Qur'an, Sarong, Telekung, Chair",
+    "remarks": "Shared male and female praying area. Nearest lift to musolla is located beside Efflorescence shop on level 1.",
+    "toiletLevel": "5A",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:32:50.162Z",
+    "uuid": "7775c203-3ced-4e68-9393-e0670cf799cd",
+    "type": "Musolla",
+    "geohash": "w21z7pbs29"
+  }
+}

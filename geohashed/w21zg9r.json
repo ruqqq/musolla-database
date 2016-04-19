@@ -1,0 +1,16 @@
+{
+  "w21zg9rb5z": {
+    "address": "2,Seranggon North Avenue 2, Singapore 555876",
+    "contact": "6281 4287",
+    "createdAt": "2014-12-23T06:50:22.156Z",
+    "location": {
+      "latitude": 1.369213,
+      "longitude": 103.875558
+    },
+    "name": "Al-Istiqamah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:47.043Z",
+    "uuid": "707522c6-ab2d-413f-a989-9c05529d7c25",
+    "geohash": "w21zg9rb5z"
+  }
+}

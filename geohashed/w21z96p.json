@@ -1,0 +1,17 @@
+{
+  "w21z96pf2q": {
+    "address": "461 Clementi Road S(599491)",
+    "createdAt": "2014-12-23T04:46:37.900Z",
+    "directions": "Blk A (Stairs 24 beside lecture theatre 1.17A)",
+    "location": {
+      "latitude": 1.329766,
+      "longitude": 103.776529
+    },
+    "mrt": "Clementi",
+    "name": "Singapore Institute of Management, Blk A",
+    "updatedAt": "2014-12-23T05:35:22.475Z",
+    "uuid": "7b1cf79a-9fbd-465a-8f18-a3198fd92462",
+    "type": "Musolla",
+    "geohash": "w21z96pf2q"
+  }
+}

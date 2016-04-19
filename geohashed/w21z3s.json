@@ -1,0 +1,38 @@
+{
+  "w21z3s4sf2": {
+    "address": "S16 Science Drive 2, Faculty of Science 6 (S), 117546",
+    "createdAt": "2014-12-23T04:46:37.962Z",
+    "directions": "S15 Science - Alight at the Science bus stop. Walk towards S16. Turn to the left and walk towards S15. Take the lift to the 6th floor. Climb the stairs to the musolla.",
+    "level": "6",
+    "location": {
+      "latitude": 1.297203,
+      "longitude": 103.780386
+    },
+    "mrt": "Kent Ridge",
+    "name": "S15 Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:10:05.675Z",
+    "uuid": "227b79db-6657-462f-8c1a-ee2934fccc28",
+    "type": "Musolla",
+    "geohash": "w21z3s4sf2"
+  },
+  "w21z3s4xe1": {
+    "address": "S16 Science Drive 2, Faculty of Science 6 (S), 117546",
+    "createdAt": "2014-12-23T04:46:37.947Z",
+    "directions": "S17 Department of Mathematics - Alight at the Science bus stop. Cross over to the department of Mathematics. Take the lift to the 4th floor. Exit the lift area, turn to the left and walk towards the Exit door. Enter the Exit door and climb the stairs to the musolla.",
+    "level": "4",
+    "location": {
+      "latitude": 1.297683,
+      "longitude": 103.780418
+    },
+    "mrt": "Kent Ridge",
+    "name": "S17 Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:10:10.304Z",
+    "uuid": "209e6912-5cd9-48fa-9b94-867a56083de8",
+    "type": "Musolla",
+    "geohash": "w21z3s4xe1"
+  }
+}

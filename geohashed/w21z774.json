@@ -1,0 +1,36 @@
+{
+  "w21z774g4w": {
+    "address": "6 Raffles Blvd, Marina Square S(039594)",
+    "createdAt": "2014-12-23T04:46:37.316Z",
+    "directions": "Go down the escalator beside QiJi to basement. Out the glass door, turn left and left again. Head to the extreme left of the carpark. Musolla is located near carpark ramp.",
+    "level": "Basement Carpark (Green zone)",
+    "location": {
+      "latitude": 1.291442,
+      "longitude": 103.857647
+    },
+    "mrt": "City Hall",
+    "name": "Marina Square",
+    "provision": "Prayer Mat, Chair, Sarong, Tasbih, Songkok, Al-Quran, Telekung, Fan",
+    "remarks": "There is an ablution area near the musolla. Shared male and female praying area.",
+    "toiletLevel": "Male: B1, Female: 1",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:34:25.311Z",
+    "uuid": "5a2c042c-1041-48f9-8cd7-cc0273c82534",
+    "type": "Musolla",
+    "geohash": "w21z774g4w",
+    "images": [
+      {
+        "uuid": "2e5a75e6-2dbd-4cec-b3d6-dfed3b915e8e",
+        "uploaderName": "Hazim SmileAlways",
+        "createdAt": "2015-06-15T07:56:36.988Z",
+        "updatedAt": "2015-06-15T07:56:36.988Z"
+      },
+      {
+        "uuid": "93c09b16-d15b-4990-83d0-f9045aa1b668",
+        "uploaderName": "Hazim SmileAlways",
+        "createdAt": "2015-06-15T07:57:07.206Z",
+        "updatedAt": "2015-06-15T07:57:07.206Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "w21z3kj09p": {
+    "address": "12 Kent Ridge Crescent, Central Library (S), 119275",
+    "createdAt": "2014-12-23T04:46:38.006Z",
+    "directions": "Central Forum FASS - Alight at the Central Library bus stop. Climb the stairs to the library. Turn to the right to the book drop. Go down the narrow stairs beside the book drop. The musolla is halfway between the 1st and 2nd floor.",
+    "level": "2",
+    "location": {
+      "latitude": 1.2965112,
+      "longitude": 103.7727887
+    },
+    "mrt": "Kent Ridge",
+    "name": "Central Forum FASS, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "2",
+    "updatedAt": "2015-01-16T02:09:57.085Z",
+    "uuid": "fe1d3336-7de3-472c-99e0-7132f2707e24",
+    "type": "Musolla",
+    "geohash": "w21z3kj09p",
+    "images": [
+      {
+        "uuid": "1ae63fae-5db6-4438-8a2a-9fcd05004235",
+        "caption": "Another Angle of Praying Area",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:14:02.236Z",
+        "updatedAt": "2015-08-27T09:14:02.236Z"
+      },
+      {
+        "uuid": "b6aed830-6f26-4605-a17b-7aa626673d36",
+        "caption": "Provided Sarong And Sejadah",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:14:44.927Z",
+        "updatedAt": "2015-08-27T09:14:44.927Z"
+      },
+      {
+        "uuid": "815f7f57-2758-475c-bd3c-48ca89519c80",
+        "caption": "Large Praying Area",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:12:56.322Z",
+        "updatedAt": "2015-08-27T09:12:56.322Z"
+      }
+    ]
+  }
+}

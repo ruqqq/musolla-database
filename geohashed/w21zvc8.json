@@ -1,0 +1,16 @@
+{
+  "w21zvc86g5": {
+    "address": "2 Pasir Ris Walk, Singapore 518239",
+    "contact": "6583 8711",
+    "createdAt": "2014-12-23T06:50:22.144Z",
+    "location": {
+      "latitude": 1.371037,
+      "longitude": 103.9641
+    },
+    "name": "Al-Istighfar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:48.500Z",
+    "uuid": "7469dec1-9dc2-435d-8851-b5ce03b63268",
+    "geohash": "w21zvc86g5"
+  }
+}

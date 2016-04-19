@@ -1,0 +1,22 @@
+{
+  "w21z6v1uf6": {
+    "address": "391A Orchard Road S(238873)",
+    "createdAt": "2014-12-23T04:46:37.361Z",
+    "directions": "Proceed towards the public toilet. Go straight to the washing bay past the toilets. There is a small room that states \"Store\" for prayers.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.302707,
+      "longitude": 103.834289
+    },
+    "mrt": "Orchard",
+    "name": "Takashimaya at Ngee Ann City Tower A",
+    "provision": "Slippers, Prayer Mat, Radio, Stool, Sarong, Fan",
+    "remarks": "Strictly for staffs/tenants. Shared male and female toilet. Basins are located outside musolla.",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "updatedAt": "2014-12-23T05:34:30.715Z",
+    "uuid": "5be66a13-02bf-4cd3-bfd9-9dc04fb61e50",
+    "type": "Musolla",
+    "geohash": "w21z6v1uf6"
+  }
+}

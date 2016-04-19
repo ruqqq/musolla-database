@@ -1,0 +1,44 @@
+{
+  "w21z6vbfyu": {
+    "address": "10 Scotts Road S(228221)",
+    "createdAt": "2014-12-23T04:46:37.463Z",
+    "directions": "From the entrance, walk straight past the Straits Kitchen and lift lobby into the carpark. Once past the carpark entrance, turn right and look for door that states 'Prayer Room'.",
+    "femaleCapacity": 3,
+    "level": "1 (Carpark)",
+    "location": {
+      "latitude": 1.306497,
+      "longitude": 103.83311
+    },
+    "maleCapacity": 8,
+    "mrt": "Orchard",
+    "name": "Grand Hyatt Hotel",
+    "provision": "Prayer Mat, Sarong, Sejadah, Songkok, Telekung, Attar, Tasbih, Al-Quran, Mirror, Chair, Slippers",
+    "remarks": "Strictly for staffs/tenants. Male and female praying area are segregated by a sliding curtain.",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:34:42.173Z",
+    "uuid": "362c38a7-be18-4e1d-b534-999f2ecdb58e",
+    "type": "Musolla",
+    "geohash": "w21z6vbfyu"
+  },
+  "w21z6vbw8g": {
+    "address": "25 Scotts Road S(228220)",
+    "createdAt": "2014-12-23T04:46:37.418Z",
+    "directions": "From hotel entrance, walk straight and turn right to the male and female toilets next to the lift lobby. There will be signs that lead to the musolla (surau). Go upstairs to the carpark. Turn left before the entrance to the carpark (enter the door that states 'surau').",
+    "femaleCapacity": 6,
+    "level": "2",
+    "location": {
+      "latitude": 1.307137,
+      "longitude": 103.83251
+    },
+    "maleCapacity": 12,
+    "mrt": "Orchard",
+    "name": "Royal Plaza on Scotts",
+    "provision": "Prayer Mat, Telekung, Al-Quran, Tasbih, Chair, Slippers, Attar",
+    "remarks": "There is an ablution area in the musolla. Male and female praying area are segregated by a sliding wall.",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:34:36.248Z",
+    "uuid": "c10ef04b-5903-46c7-badf-19d30ac5a23a",
+    "type": "Musolla",
+    "geohash": "w21z6vbw8g"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "w21z5peqdp": {
+    "address": "37 Palmer Road, Singapore 079424",
+    "contact": "6220 9257",
+    "createdAt": "2014-12-23T06:50:21.994Z",
+    "location": {
+      "latitude": 1.272822,
+      "longitude": 103.847333
+    },
+    "name": "Haji Muhammad Salleh Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:28.160Z",
+    "uuid": "e44260dc-aa7e-4390-910b-0d4958a1c7ce",
+    "geohash": "w21z5peqdp"
+  }
+}

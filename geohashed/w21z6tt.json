@@ -1,0 +1,23 @@
+{
+  "w21z6tt9c1": {
+    "address": "190 Orchard Boulevard S(248646)",
+    "createdAt": "2014-12-23T04:46:37.433Z",
+    "directions": "Go to the hotel lift lobby and go down to basement 2. Out the lift, exit right. Turn left and left again and walk straight to carpark no. 39 - 41. ",
+    "femaleCapacity": 2,
+    "level": "Basement 2 (Carpark B2 B)",
+    "location": {
+      "latitude": 1.304937,
+      "longitude": 103.828402
+    },
+    "maleCapacity": 4,
+    "mrt": "Orchard",
+    "name": "Four Seasons Hotel",
+    "provision": "Prayer Mat, Chair, Sejadah, Mirror, Sarong, Telekung, Al-Quran",
+    "remarks": "There is also an ablution area near the musolla. Strictly for staffs/tenants. Male and female praying areas are segregated by a sliding curtain.",
+    "toiletLevel": "B2",
+    "updatedAt": "2014-12-23T05:34:39.076Z",
+    "uuid": "50f6a8fa-2ce1-4178-8a9e-b0c0c482e8ac",
+    "type": "Musolla",
+    "geohash": "w21z6tt9c1"
+  }
+}

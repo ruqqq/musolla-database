@@ -1,0 +1,21 @@
+{
+  "w21z3w65bk": {
+    "address": "500 Dover Road S(139651)",
+    "createdAt": "2014-12-23T04:46:37.746Z",
+    "directions": "T21 ",
+    "level": "B1",
+    "location": {
+      "latitude": 1.309416,
+      "longitude": 103.779613
+    },
+    "mrt": "Dover",
+    "name": "Singapore Polytechnic, T21",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Musolla is within view of the basement study corner.",
+    "toiletLevel": "B1",
+    "updatedAt": "2014-12-23T05:35:12.095Z",
+    "uuid": "eeb543e3-691f-4191-a845-4ceee1ad460d",
+    "type": "Musolla",
+    "geohash": "w21z3w65bk"
+  }
+}

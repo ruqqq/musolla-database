@@ -1,0 +1,22 @@
+{
+  "w23b1tqdgw": {
+    "address": "1 Woodlands Square, Causeway Point, Singapore 738099",
+    "createdAt": "2015-07-09T04:32:25.186Z",
+    "directions": "Go past the toilet beside Giordano and turn left into the lift lobby",
+    "level": "1",
+    "location": {
+      "latitude": 1.435594,
+      "longitude": 103.785934
+    },
+    "name": "Causeway Point",
+    "provision": "Prayer Mat",
+    "remarks": "Lift Lobby (Goods Lift)",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 4,
+    "updatedAt": "2015-07-09T04:32:25.186Z",
+    "uuid": "e76be0fa-4356-4d0f-a72f-b29d1a79b19c",
+    "geohash": "w23b1tqdgw",
+    "submitterName": "Tengku Hafidz"
+  }
+}

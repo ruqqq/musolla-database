@@ -1,0 +1,20 @@
+{
+  "w21z9d8kzr": {
+    "address": "535 Clementi Road S(599489)",
+    "createdAt": "2014-12-23T04:46:37.694Z",
+    "directions": "Block 16 Stadium (Level 3, near the washroom)",
+    "level": "3",
+    "location": {
+      "latitude": 1.332948,
+      "longitude": 103.777515
+    },
+    "mrt": "Clementi",
+    "name": "Ngee Ann Polytechnic, Block 16",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "3",
+    "updatedAt": "2014-12-23T05:35:07.015Z",
+    "uuid": "9539d224-5da1-4dcc-bfef-a36b1f69dd1a",
+    "type": "Musolla",
+    "geohash": "w21z9d8kzr"
+  }
+}

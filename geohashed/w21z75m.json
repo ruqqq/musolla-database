@@ -1,0 +1,16 @@
+{
+  "w21z75mxh0": {
+    "address": "39 Hill Street, Singapore 179364",
+    "contact": "6224 1021",
+    "createdAt": "2014-12-23T06:50:21.874Z",
+    "location": {
+      "latitude": 1.293469,
+      "longitude": 103.850506
+    },
+    "name": "Burhani Mosque",
+    "type": "Mosque",
+    "updatedAt": "2015-07-02T06:55:25.481Z",
+    "uuid": "ebf8111d-807b-41f2-95e6-50bb909ed99c",
+    "geohash": "w21z75mxh0"
+  }
+}

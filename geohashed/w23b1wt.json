@@ -1,0 +1,20 @@
+{
+  "w23b1wt4ps": {
+    "address": "31 Riverside Road S(739087)",
+    "createdAt": "2014-12-23T04:46:36.959Z",
+    "directions": "There is a small office space at a corner for prayer. For direction, enquire Muslim staff.",
+    "level": "1",
+    "location": {
+      "latitude": 1.442321,
+      "longitude": 103.784053
+    },
+    "mrt": "Woodlands",
+    "name": "Sakura Restaurant",
+    "provision": "Prayer Mat",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:32:47.282Z",
+    "uuid": "073aa964-102f-4671-9821-c61ccec42070",
+    "type": "Musolla",
+    "geohash": "w23b1wt4ps"
+  }
+}

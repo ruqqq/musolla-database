@@ -1,0 +1,34 @@
+{
+  "w21z37h711": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": "",
+    "createdAt": "2014-12-23T06:50:22.547Z",
+    "location": {
+      "latitude": 1.291418,
+      "longitude": 103.771756
+    },
+    "name": "Hussain Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:15.786Z",
+    "uuid": "499c79f1-2ecb-4099-81df-193d7f86b75e",
+    "geohash": "w21z37h711"
+  },
+  "w21z37sjrv": {
+    "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
+    "createdAt": "2014-12-23T04:46:38.052Z",
+    "directions": "FASS AS4 \"Deck\" Canteen - From Muslim Stall1, walk straight, turn left and enter the door next to the handicapped toilet. Walk straight, on your left is \"Centre of Language Studies\". Turn right and enter the door (near to female toilet) to lift. Go to level 6. Turn right; enter the door to staircase A.",
+    "level": "6",
+    "location": {
+      "latitude": 1.294571,
+      "longitude": 103.771702
+    },
+    "mrt": "Kent Ridge",
+    "name": "AS4 Arts and Social Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:10:47.120Z",
+    "uuid": "6884ccfd-9be9-4165-855b-4bfb01dba9c9",
+    "type": "Musolla",
+    "geohash": "w21z37sjrv"
+  }
+}

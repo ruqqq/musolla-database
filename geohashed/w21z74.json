@@ -1,0 +1,50 @@
+{
+  "w21z74vu88": {
+    "address": "1 Coleman Street S(170803)",
+    "createdAt": "2014-12-23T04:46:37.266Z",
+    "directions": "Enter straircase 2 located beside unit #03-09. Enter another door (any one). Musolla is located under the staircase.",
+    "level": "3",
+    "location": {
+      "latitude": 1.290294,
+      "longitude": 103.850701
+    },
+    "mrt": "City Hall",
+    "name": "Adelphi",
+    "provision": "Prayer Mat, Telekung, Slippers, Carpet",
+    "remarks": "Shared male and female praying area.",
+    "toiletLevel": "3",
+    "unisexCapacity": 6,
+    "updatedAt": "2014-12-23T05:34:23.772Z",
+    "uuid": "c9ea9723-df34-4e56-b71f-26bec0e2b41a",
+    "type": "Musolla",
+    "geohash": "w21z74vu88"
+  },
+  "w21z743n5q": {
+    "address": "10 Keng Cheow Street, Singapore 059607",
+    "contact": "6532 6764",
+    "createdAt": "2014-12-23T06:50:21.926Z",
+    "location": {
+      "latitude": 1.287841,
+      "longitude": 103.844294
+    },
+    "name": "Omar Kg Melaka Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:05.334Z",
+    "uuid": "cc4e296b-b6ed-42ad-aa44-0396c0c40972",
+    "geohash": "w21z743n5q"
+  },
+  "w21z74j20h": {
+    "address": "UOB Plaza 80, Raffles Place, #B1-01,S(048624)",
+    "contact": "6536 5238",
+    "createdAt": "2014-12-23T06:50:22.078Z",
+    "location": {
+      "latitude": 1.285427,
+      "longitude": 103.849993
+    },
+    "name": "Moulana Mohd Ali Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:16.669Z",
+    "uuid": "a558d090-3328-417f-aece-9fe955090b17",
+    "geohash": "w21z74j20h"
+  }
+}

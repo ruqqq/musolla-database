@@ -1,0 +1,16 @@
+{
+  "w21z9bv7dv": {
+    "address": "34 Jalan Haji Alias, Singapore 268534",
+    "contact": "6468 4844",
+    "createdAt": "2014-12-23T06:50:22.225Z",
+    "location": {
+      "latitude": 1.323111,
+      "longitude": 103.795177
+    },
+    "name": "Al-Huda Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:37.707Z",
+    "uuid": "046236a0-b77a-4c81-895e-f8381b648159",
+    "geohash": "w21z9bv7dv"
+  }
+}

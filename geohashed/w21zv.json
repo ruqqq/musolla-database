@@ -1,0 +1,77 @@
+{
+  "w21zv6pkhe": {
+    "address": "120 Pasir Ris Central, Singapore 519640",
+    "createdAt": "2015-11-21T11:42:29.255Z",
+    "directions": "Find toilet. After toilet, turn right to loading bay. Walk pass emergency eyewash. Enter 'hallway'. There's a partition. That's the solat place.",
+    "level": "1",
+    "location": {
+      "latitude": 1.3739975,
+      "longitude": 103.95179990000001
+    },
+    "name": "Pasir Ris Swimming Complex",
+    "provision": "Prayer Mat",
+    "remarks": "Please take wuduk at toilet first. Can't remember if there's telekung for ladies.",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 4,
+    "updatedAt": "2015-11-21T11:42:29.255Z",
+    "uuid": "10f4dac8-5636-4b90-945f-2065160404f5",
+    "geohash": "w21zv6pkhe",
+    "submitterName": "Ai Ni Tay"
+  },
+  "w21zve1epq": {
+    "address": "1 Pasir Ris Close S(519599)",
+    "createdAt": "2014-12-23T04:46:37.056Z",
+    "directions": "Head to the end of the Asli Village Halal Foodcourt. Musolla is located near Pizza Hut, directly behind Lotus Secret Bun.",
+    "level": "1",
+    "location": {
+      "latitude": 1.379336,
+      "longitude": 103.955017
+    },
+    "mrt": "Pasir Ris",
+    "name": "Downtown East",
+    "provision": "Prayer Mat, Al-Quran, Slippers, Telekung",
+    "remarks": "Ablution area is located behind the musolla. Segregated male and female praying area.",
+    "toiletLevel": "1",
+    "unisexCapacity": 3,
+    "updatedAt": "2014-12-23T05:33:01.445Z",
+    "uuid": "ebc063d2-2fb3-4319-a0a8-3bdd58e44e9a",
+    "type": "Musolla",
+    "geohash": "w21zve1epq"
+  },
+  "w21zvc86g5": {
+    "address": "2 Pasir Ris Walk, Singapore 518239",
+    "contact": "6583 8711",
+    "createdAt": "2014-12-23T06:50:22.144Z",
+    "location": {
+      "latitude": 1.371037,
+      "longitude": 103.9641
+    },
+    "name": "Al-Istighfar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:48.500Z",
+    "uuid": "7469dec1-9dc2-435d-8851-b5ce03b63268",
+    "geohash": "w21zvc86g5"
+  },
+  "w21zv41t0w": {
+    "address": "60 Tampines North Drive 2 S(5287640",
+    "createdAt": "2014-12-23T04:46:37.087Z",
+    "directions": "Level 4, near the toilet at extreme end of IKEA Restaurant & Café. There are signs to lead to the location.",
+    "femaleCapacity": 5,
+    "level": "4",
+    "location": {
+      "latitude": 1.374183,
+      "longitude": 103.932748
+    },
+    "maleCapacity": 5,
+    "mrt": "Tampines",
+    "name": "IKEA Tampines",
+    "provision": "Prayer Mat, Telekung, Sejadah, Stool",
+    "remarks": "There is an ablution area in the musolla. Musolla is air-conditioned. Segregated male and female praying area. ",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-02T04:33:35.313Z",
+    "uuid": "67dc14c2-8cc4-48ed-a38b-32ee72ade045",
+    "type": "Musolla",
+    "geohash": "w21zv41t0w"
+  }
+}

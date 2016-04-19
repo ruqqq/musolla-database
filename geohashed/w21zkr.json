@@ -1,0 +1,30 @@
+{
+  "w21zkr0upe": {
+    "address": "130 Joo Chiat Road, Singapore 427727",
+    "contact": "6345 2884",
+    "createdAt": "2014-12-23T06:50:22.402Z",
+    "location": {
+      "latitude": 1.31357,
+      "longitude": 103.899067
+    },
+    "name": "Khalid Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:57.993Z",
+    "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
+    "geohash": "w21zkr0upe"
+  },
+  "w21zkrvhfq": {
+    "address": "1 Jalan Eunos, Singapore 419493",
+    "contact": "6744 5544",
+    "createdAt": "2014-12-23T06:50:22.357Z",
+    "location": {
+      "latitude": 1.317836,
+      "longitude": 103.904678
+    },
+    "name": "Darul Aman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:13.971Z",
+    "uuid": "79b51ceb-884f-4ab7-b206-d8199163bfc3",
+    "geohash": "w21zkrvhfq"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "w21z3kkc80": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T01:01:50.217Z",
+    "directions": "E5 Engineering - Proceed to Level 4 staircase landing near elevator on E5 side.",
+    "femaleCapacity": 3,
+    "level": "4",
+    "location": {
+      "latitude": 1.298022,
+      "longitude": 103.772395
+    },
+    "name": "E5 Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female ONLY.",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:13:56.743Z",
+    "uuid": "303dc6de-5a04-4f0b-a288-df85ac7cdf23",
+    "type": "Musolla",
+    "geohash": "w21z3kkc80"
+  }
+}

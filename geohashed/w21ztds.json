@@ -1,0 +1,23 @@
+{
+  "w21ztdsss3": {
+    "address": "1 Expo Drive S(486150)",
+    "createdAt": "2014-12-23T04:46:37.071Z",
+    "directions": "Take the staircase/elevator up to level 2. The staircase is located at the entrance to Hall 6 from level 2. (There is a door with a musolla sign to the staircase.)",
+    "femaleCapacity": 6,
+    "level": "2",
+    "location": {
+      "latitude": 1.332875,
+      "longitude": 103.959004
+    },
+    "maleCapacity": 6,
+    "mrt": "Expo",
+    "name": "Singapore Expo, Hall 6",
+    "provision": "Telekung, Stool, Prayer Mat, Songkok, Sewing Kit, Mirror, Fan, Slippers",
+    "remarks": "Segregated male and female praying area.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-01-02T04:37:02.705Z",
+    "uuid": "d1fa8eab-21b9-432e-ba93-6e9b03c76f1e",
+    "type": "Musolla",
+    "geohash": "w21ztdsss3"
+  }
+}

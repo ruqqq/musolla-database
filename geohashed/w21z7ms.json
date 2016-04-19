@@ -1,0 +1,16 @@
+{
+  "w21z7ms6tv": {
+    "address": "471 Victoria Street, Singapore 198370",
+    "contact": "6294 3862",
+    "createdAt": "2014-12-23T06:50:22.067Z",
+    "location": {
+      "latitude": 1.305083,
+      "longitude": 103.859848
+    },
+    "name": "Malabar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:18.682Z",
+    "uuid": "d263595e-163b-4ea5-8847-22bfce7f1492",
+    "geohash": "w21z7ms6tv"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "w21z3ks609": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T01:06:49.424Z",
+    "directions": "E3 Engineering - Proceed to Level 6 staircase landing near male toilet.",
+    "level": "6",
+    "location": {
+      "latitude": 1.299486,
+      "longitude": 103.771729
+    },
+    "maleCapacity": 3,
+    "name": "E3 Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Male ONLY.",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:13:56.311Z",
+    "uuid": "3b549f23-8963-4669-91c5-a6a7b08a0d1a",
+    "type": "Musolla",
+    "geohash": "w21z3ks609",
+    "images": [
+      {
+        "uuid": "e31f41b5-6284-410d-88d6-0afbb39b7b08",
+        "caption": "Sejadah and Sarongs",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-24T07:17:00.298Z",
+        "updatedAt": "2015-08-24T07:17:00.298Z"
+      }
+    ]
+  }
+}

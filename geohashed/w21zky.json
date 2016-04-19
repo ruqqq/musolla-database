@@ -1,0 +1,16 @@
+{
+  "w21zkymxpw": {
+    "address": "451 Marine Parade Road, Singapore 449283",
+    "contact": "6243 7060",
+    "createdAt": "2014-12-23T06:50:22.369Z",
+    "location": {
+      "latitude": 1.309982,
+      "longitude": 103.927558
+    },
+    "name": "Kampung Siglap Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:52.898Z",
+    "uuid": "6f7ca455-c755-4218-b085-64afc10fe98d",
+    "geohash": "w21zkymxpw"
+  }
+}

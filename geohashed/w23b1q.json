@@ -1,0 +1,30 @@
+{
+  "w23b1qk2z8": {
+    "address": "6 Admiralty Road, Singapore 739983",
+    "contact": "6363 1383",
+    "createdAt": "2014-12-23T06:50:22.247Z",
+    "location": {
+      "latitude": 1.440713,
+      "longitude": 103.772035
+    },
+    "name": "An-Nur Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:34.411Z",
+    "uuid": "5469a4ff-900c-4c82-a305-77952588b945",
+    "geohash": "w23b1qk2z8",
+    "images": [
+      {
+        "uuid": "03a4488a-1dcd-4549-a1f4-dcd9f1a80c2c",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-05-29T05:58:11.239Z",
+        "updatedAt": "2015-05-29T05:58:11.239Z"
+      },
+      {
+        "uuid": "a320b22a-147f-4e3a-b2bf-1abc07f35c63",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-05-29T05:58:38.520Z",
+        "updatedAt": "2015-05-29T05:58:38.520Z"
+      }
+    ]
+  }
+}

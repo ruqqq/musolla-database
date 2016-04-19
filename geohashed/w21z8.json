@@ -1,0 +1,89 @@
+{
+  "w21z8f9256": {
+    "ACL": {
+      "*": {
+        "read": true
+      }
+    },
+    "address": "1 Venture Avenue Singapore 608521",
+    "createdAt": "2015-02-06T02:31:35.483Z",
+    "directions": "At the basement carpark, find the signage that states staircase L. Turn right and you will see the prayer rooms.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.3321042,
+      "longitude": 103.7457591
+    },
+    "mrt": "Jurong East",
+    "name": "Big Box",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female prayer room might be locked. Ablution place is provided.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-05-05T07:00:32.309Z",
+    "uuid": "39f26f71-0d11-4cc2-82cb-ca2c1993c5f2",
+    "type": "Musolla",
+    "geohash": "w21z8f9256"
+  },
+  "w21z8g40t6": {
+    "address": "2 Jurong East Street 21 S(609601)",
+    "createdAt": "2014-12-23T04:46:37.206Z",
+    "directions": "Take lift lobby A beside McDonald's. At level 4, follow the signboards",
+    "femaleCapacity": 4,
+    "level": "4",
+    "location": {
+      "latitude": 1.334938,
+      "longitude": 103.746872
+    },
+    "maleCapacity": 4,
+    "mrt": "Jurong East",
+    "name": "IMM Building",
+    "provision": "Slippers, Prayer Mat, Sarong, Tasbih, Al-Quran, Telekung, Fan, Chair, Water Dipper",
+    "remarks": "Segregated praying area for male and female. Ablution area is beside the toilet (outside musolla). Keys to ablution area can be taken from the musolla. Return the key after use.",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-02T04:33:52.318Z",
+    "uuid": "43c95d07-1993-4d27-a78c-23bf65f9aab2",
+    "type": "Musolla",
+    "geohash": "w21z8g40t6"
+  },
+  "w21z8ey1w5": {
+    "address": "271 Jurong East Street 21, Singapore 609603",
+    "contact": "6567 7777",
+    "createdAt": "2014-12-23T06:50:22.482Z",
+    "location": {
+      "latitude": 1.339237,
+      "longitude": 103.741415
+    },
+    "name": "Al-Mukminin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:07.668Z",
+    "uuid": "cb94171b-7be0-4ef3-8d1f-33e1a1d42755",
+    "geohash": "w21z8ey1w5"
+  },
+  "w21z85n79p": {
+    "address": "550 Yung An Road, Singapore 618617",
+    "contact": "6268 1846",
+    "createdAt": "2014-12-23T06:50:22.503Z",
+    "location": {
+      "latitude": 1.335478,
+      "longitude": 103.719574
+    },
+    "name": "Assyakirin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:09.977Z",
+    "uuid": "360f7e82-be30-4a56-b19e-0c0aabf58a89",
+    "geohash": "w21z85n79p"
+  },
+  "w21z88eu48": {
+    "address": "492 Teban Gardens Road, Singapore 608878",
+    "contact": "6561 7990",
+    "createdAt": "2014-12-23T06:50:22.536Z",
+    "location": {
+      "latitude": 1.321794,
+      "longitude": 103.738175
+    },
+    "name": "Hasanah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:14.214Z",
+    "uuid": "08a38300-4e71-4a65-9983-d15ab4d70321",
+    "geohash": "w21z88eu48"
+  }
+}

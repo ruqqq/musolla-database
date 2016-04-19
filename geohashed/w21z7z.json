@@ -1,0 +1,16 @@
+{
+  "w21z7zpx3z": {
+    "address": "583 Geylang Road, Singapore 389522",
+    "contact": "6747 5607",
+    "createdAt": "2014-12-23T06:50:22.391Z",
+    "location": {
+      "latitude": 1.314149,
+      "longitude": 103.886115
+    },
+    "name": "Khadijah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:56.423Z",
+    "uuid": "0ca2524b-9518-460d-8ad3-9224629d9087",
+    "geohash": "w21z7zpx3z"
+  }
+}

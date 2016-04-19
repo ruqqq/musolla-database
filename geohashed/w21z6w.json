@@ -1,0 +1,23 @@
+{
+  "w21z6wj9s6": {
+    "address": "442 Orchard Rd S(238879)",
+    "createdAt": "2014-12-23T04:46:37.448Z",
+    "directions": "Go down to basement 3 from the lift situated to the left of the taxi stand (outside the hotel lobby). Out the lift, turn right towards the carpark ramps. Before the carpark ramps, turn right and walk straight. Once you reach the end, turn left to the musolla.",
+    "femaleCapacity": 3,
+    "level": "Basement 3 (Carpark)",
+    "location": {
+      "latitude": 1.307644,
+      "longitude": 103.82854
+    },
+    "maleCapacity": 7,
+    "mrt": "Orchard",
+    "name": "Orchard Hotel",
+    "provision": "Prayer Mat, Telekung, Tasbih, Fan, Chair, Al-Quran, Sarong, Songkok, Mirror",
+    "remarks": "There is also an ablution area outside musolla. Strictly for staffs/tenants. Male and female praying areas are segregated.",
+    "toiletLevel": "B3",
+    "updatedAt": "2014-12-23T05:34:40.727Z",
+    "uuid": "2acf998e-0037-4757-a7f1-ca85143c5c6e",
+    "type": "Musolla",
+    "geohash": "w21z6wj9s6"
+  }
+}

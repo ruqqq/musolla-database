@@ -1,0 +1,18 @@
+{
+  "w21zt6ke6f": {
+    "address": "336 Bedok Road S(469512)",
+    "createdAt": "2014-12-23T04:46:37.149Z",
+    "directions": "Prayer room is for their staff but customers may ask permission to use it",
+    "level": "2",
+    "location": {
+      "latitude": 1.331288,
+      "longitude": 103.947952
+    },
+    "mrt": "Tanah Merah",
+    "name": "SPIZE at Bedok",
+    "updatedAt": "2014-12-23T05:34:12.098Z",
+    "uuid": "5b5a6a21-d2d3-4755-bf73-18b824e78118",
+    "type": "Musolla",
+    "geohash": "w21zt6ke6f"
+  }
+}

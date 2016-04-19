@@ -1,0 +1,16 @@
+{
+  "w21z7ht9vs": {
+    "address": "51 Bencoolen Street, #01-01, Singapore 189630",
+    "contact": "6333 3016",
+    "createdAt": "2014-12-23T06:50:21.863Z",
+    "location": {
+      "latitude": 1.299457,
+      "longitude": 103.850565
+    },
+    "name": "Bencoolen Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:54.113Z",
+    "uuid": "a7566046-15b1-4153-9507-0214264bd6a1",
+    "geohash": "w21z7ht9vs"
+  }
+}

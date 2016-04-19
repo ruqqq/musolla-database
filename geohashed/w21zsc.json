@@ -1,0 +1,16 @@
+{
+  "w21zscsu68": {
+    "address": "155 Bedok North Avenue 1, Singapore 469751",
+    "contact": "6449 2420",
+    "createdAt": "2014-12-23T06:50:22.324Z",
+    "location": {
+      "latitude": 1.327329,
+      "longitude": 103.926316
+    },
+    "name": "Al-Ansar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:19.936Z",
+    "uuid": "683f61a9-4dbe-4445-a3c2-1006da17c713",
+    "geohash": "w21zscsu68"
+  }
+}

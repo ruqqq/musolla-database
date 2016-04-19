@@ -1,0 +1,44 @@
+{
+  "w21zdbqfpz": {
+    "address": "10 Gentle Road, Singapore 309194",
+    "contact": "6251 2729",
+    "createdAt": "2014-12-23T06:50:21.785Z",
+    "location": {
+      "latitude": 1.320116,
+      "longitude": 103.841397
+    },
+    "name": "Abdul Hamid Kg Pasiran Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:26.320Z",
+    "uuid": "efe89cdd-b444-4c21-bdbf-89e84f94a48a",
+    "geohash": "w21zdbqfpz"
+  },
+  "w21zdg08ks": {
+    "address": "441B, Jalan Mashhor, Singapore 299173",
+    "contact": "6250 0120",
+    "createdAt": "2014-12-23T06:50:21.937Z",
+    "location": {
+      "latitude": 1.334904,
+      "longitude": 103.832669
+    },
+    "name": "Omar Salmah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:04.037Z",
+    "uuid": "25dc62cf-5b4a-4c64-8b3e-abd7263edfb1",
+    "geohash": "w21zdg08ks"
+  },
+  "w21zd83mc9": {
+    "address": "2 Lewis Road, Singapore 258590",
+    "contact": "6732 6170",
+    "createdAt": "2014-12-23T06:50:21.852Z",
+    "location": {
+      "latitude": 1.320727,
+      "longitude": 103.822589
+    },
+    "name": "Ba'alwie Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:02.651Z",
+    "uuid": "c0d55b2f-8d28-4b7b-8a9a-85584c20f730",
+    "geohash": "w21zd83mc9"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "w21zv41t0w": {
+    "address": "60 Tampines North Drive 2 S(5287640",
+    "createdAt": "2014-12-23T04:46:37.087Z",
+    "directions": "Level 4, near the toilet at extreme end of IKEA Restaurant & Café. There are signs to lead to the location.",
+    "femaleCapacity": 5,
+    "level": "4",
+    "location": {
+      "latitude": 1.374183,
+      "longitude": 103.932748
+    },
+    "maleCapacity": 5,
+    "mrt": "Tampines",
+    "name": "IKEA Tampines",
+    "provision": "Prayer Mat, Telekung, Sejadah, Stool",
+    "remarks": "There is an ablution area in the musolla. Musolla is air-conditioned. Segregated male and female praying area. ",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-02T04:33:35.313Z",
+    "uuid": "67dc14c2-8cc4-48ed-a38b-32ee72ade045",
+    "type": "Musolla",
+    "geohash": "w21zv41t0w"
+  }
+}

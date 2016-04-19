@@ -1,0 +1,20 @@
+{
+  "w21z3k77f0": {
+    "address": "4 Architecture Drive, School of Design & Environment (S), 117566",
+    "createdAt": "2014-12-23T04:46:38.037Z",
+    "directions": "Architecture (SDE3) - Alight from SDE bus stop. Walk towards Centre For English Language Communication building. Pass it and keep walking along the pavement until you pass a bookshop on your left. Walk straight and turn right, take the lift and go to level 4. Turn right, walk pass the lecture room and turn right when you see staircase, go up and turn left. Female toilet is opposite LR422. Male toilet is opposite LR427. Musolla is at the staircase landing near to the female toilet.",
+    "level": "4",
+    "location": {
+      "latitude": 1.298408,
+      "longitude": 103.770427
+    },
+    "mrt": "Kent Ridge",
+    "name": "SDE3 Design and Environment, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:11:50.807Z",
+    "uuid": "8f6805a9-8bc3-4e26-9c28-d01f9392cf69",
+    "type": "Musolla",
+    "geohash": "w21z3k77f0"
+  }
+}

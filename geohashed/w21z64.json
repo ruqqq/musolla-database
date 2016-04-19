@@ -1,0 +1,43 @@
+{
+  "w21z64sbp3": {
+    "address": "317 Alexandra Road S(159965)",
+    "createdAt": "2014-12-23T04:46:37.164Z",
+    "directions": "Basement carpark, underneath escalator near parking lot number 250. Look out for greyish door that states 'Male's Prayer Room' or 'Female's Prayer Room'.",
+    "femaleCapacity": 5,
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.288155,
+      "longitude": 103.805666
+    },
+    "maleCapacity": 5,
+    "mrt": "Queenstown",
+    "name": "IKEA Alexandra",
+    "provision": "Slippers, Al-Quran, Prayer mat, Chair, Fan, Tasbih, Sarong, Telekung",
+    "remarks": "There is an ablution area in the musolla. Musolla is air-conditioned. Segregated male and female praying area. ",
+    "toiletLevel": "Basement 1",
+    "updatedAt": "2015-01-02T04:33:49.918Z",
+    "uuid": "5e304bba-6586-4311-b587-9705d71dc3e6",
+    "type": "Musolla",
+    "geohash": "w21z64sbp3"
+  },
+  "w21z647mu7": {
+    "address": "1 Queensway S(149053)",
+    "createdAt": "2014-12-23T04:46:37.189Z",
+    "directions": "Near the toilet and cargo lift number 3. Enter the exit door (Staircase D). Turn right and proceed to the end.",
+    "level": "2",
+    "location": {
+      "latitude": 1.287777,
+      "longitude": 103.803474
+    },
+    "mrt": "Queenstown",
+    "name": "Queensway Shopping Centre",
+    "provision": "Slippers, Prayer Mat",
+    "remarks": "Shared area for male and female. Ablution area beside the praying area. No fan or aircon.",
+    "toiletLevel": "2",
+    "unisexCapacity": 3,
+    "updatedAt": "2014-12-23T05:34:15.166Z",
+    "uuid": "9552b56a-fb47-49b7-9bc7-39f6431da83d",
+    "type": "Musolla",
+    "geohash": "w21z647mu7"
+  }
+}

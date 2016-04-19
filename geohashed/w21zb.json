@@ -1,0 +1,50 @@
+{
+  "w21zbgsqw6": {
+    "address": "1 Teck Whye Crescent, Singapore 688847",
+    "contact": "6760 1139",
+    "createdAt": "2014-12-23T06:50:22.471Z",
+    "location": {
+      "latitude": 1.382658,
+      "longitude": 103.750003
+    },
+    "name": "Al-Khair Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:06.664Z",
+    "uuid": "b176dcf8-c780-410c-a666-415893428dc9",
+    "geohash": "w21zbgsqw6"
+  },
+  "w21zbu0g6f": {
+    "address": "21 Choa Chu Kang Ave 4 S(689812)",
+    "createdAt": "2014-12-23T04:46:36.922Z",
+    "directions": "Proceed to level 4 and find the staircase beside the library",
+    "level": "4",
+    "location": {
+      "latitude": 1.384848,
+      "longitude": 103.745046
+    },
+    "mrt": "Choa Chu Kang",
+    "name": "Lot One",
+    "provision": "Qiblah Direction",
+    "remarks": "Shared male and female praying area. Not an official praying area.",
+    "toiletLevel": "4",
+    "unisexCapacity": 5,
+    "updatedAt": "2014-12-23T05:35:45.408Z",
+    "uuid": "bd574847-11da-412b-810b-e5f650f8a7ba",
+    "type": "Musolla",
+    "geohash": "w21zbu0g6f"
+  },
+  "w21zb47cxq": {
+    "address": "11 Jalan Ibadat, Singapore 698955",
+    "contact": "6764 6334",
+    "createdAt": "2014-12-23T06:50:22.458Z",
+    "location": {
+      "latitude": 1.374957,
+      "longitude": 103.716409
+    },
+    "name": "Al-Firdaus Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:05.137Z",
+    "uuid": "dba10912-3bc1-4e7c-83b8-c04ee14b5f03",
+    "geohash": "w21zb47cxq"
+  }
+}

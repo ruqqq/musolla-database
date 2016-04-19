@@ -1,0 +1,22 @@
+{
+  "w21z74vu88": {
+    "address": "1 Coleman Street S(170803)",
+    "createdAt": "2014-12-23T04:46:37.266Z",
+    "directions": "Enter straircase 2 located beside unit #03-09. Enter another door (any one). Musolla is located under the staircase.",
+    "level": "3",
+    "location": {
+      "latitude": 1.290294,
+      "longitude": 103.850701
+    },
+    "mrt": "City Hall",
+    "name": "Adelphi",
+    "provision": "Prayer Mat, Telekung, Slippers, Carpet",
+    "remarks": "Shared male and female praying area.",
+    "toiletLevel": "3",
+    "unisexCapacity": 6,
+    "updatedAt": "2014-12-23T05:34:23.772Z",
+    "uuid": "c9ea9723-df34-4e56-b71f-26bec0e2b41a",
+    "type": "Musolla",
+    "geohash": "w21z74vu88"
+  }
+}

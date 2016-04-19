@@ -1,0 +1,24 @@
+{
+  "w21z7m5crz": {
+    "address": "3 Muscat Street, Singapore 198833",
+    "contact": "6293 4405",
+    "createdAt": "2014-12-23T06:50:22.100Z",
+    "location": {
+      "latitude": 1.302136,
+      "longitude": 103.85925
+    },
+    "name": "Sultan Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:12.586Z",
+    "uuid": "d681a099-d828-4055-b579-4162966da0a6",
+    "geohash": "w21z7m5crz",
+    "images": [
+      {
+        "uuid": "5dee4b22-f65c-4631-b82c-297652eebd9c",
+        "uploaderName": "Muhd Danish",
+        "createdAt": "2015-05-26T11:17:31.266Z",
+        "updatedAt": "2015-06-01T04:11:23.386Z"
+      }
+    ]
+  }
+}

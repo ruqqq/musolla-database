@@ -1,0 +1,18 @@
+{
+  "w21zkqh73z": {
+    "address": "381 Joo Chiat Road S(427621)",
+    "createdAt": "2014-12-23T04:46:37.134Z",
+    "directions": "Take the lift to level 4, turn left and enter stair A exit door. Go up to level 5 and turn left and proceed straight to the extreme end where the musolla is located. There are signs to lead to the location.",
+    "level": "5",
+    "location": {
+      "latitude": 1.307971,
+      "longitude": 103.903625
+    },
+    "mrt": "Eunos",
+    "name": "Lagun Sari at OCN Building",
+    "updatedAt": "2014-12-23T05:34:10.560Z",
+    "uuid": "ab40d106-a9d5-44a1-96d7-98ddf0c32cf9",
+    "type": "Musolla",
+    "geohash": "w21zkqh73z"
+  }
+}

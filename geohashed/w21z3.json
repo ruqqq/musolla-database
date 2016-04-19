@@ -1,0 +1,338 @@
+{
+  "w21z39pt8t": {
+    "address": "2 Lorong Sarhad, Singapore 119173",
+    "contact": "6479 6442",
+    "createdAt": "2014-12-23T06:50:22.447Z",
+    "location": {
+      "latitude": 1.280882,
+      "longitude": 103.787187
+    },
+    "name": "Ahmad Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:03.616Z",
+    "uuid": "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d",
+    "geohash": "w21z39pt8t"
+  },
+  "w21z3w65bk": {
+    "address": "500 Dover Road S(139651)",
+    "createdAt": "2014-12-23T04:46:37.746Z",
+    "directions": "T21 ",
+    "level": "B1",
+    "location": {
+      "latitude": 1.309416,
+      "longitude": 103.779613
+    },
+    "mrt": "Dover",
+    "name": "Singapore Polytechnic, T21",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Musolla is within view of the basement study corner.",
+    "toiletLevel": "B1",
+    "updatedAt": "2014-12-23T05:35:12.095Z",
+    "uuid": "eeb543e3-691f-4191-a845-4ceee1ad460d",
+    "type": "Musolla",
+    "geohash": "w21z3w65bk"
+  },
+  "w21z3ket7p": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T02:01:11.818Z",
+    "directions": "EA Engineering - Proceed to Level 7 staircase landing near cafe.",
+    "femaleCapacity": 3,
+    "level": "7",
+    "location": {
+      "latitude": 1.300076,
+      "longitude": 103.770812
+    },
+    "name": "EA Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female ONLY.",
+    "toiletLevel": "7",
+    "updatedAt": "2015-01-16T02:13:55.852Z",
+    "uuid": "af4660c2-804c-41ef-80ac-4683a2219d4c",
+    "type": "Musolla",
+    "geohash": "w21z3ket7p"
+  },
+  "w21z37h711": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": "",
+    "createdAt": "2014-12-23T06:50:22.547Z",
+    "location": {
+      "latitude": 1.291418,
+      "longitude": 103.771756
+    },
+    "name": "Hussain Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:15.786Z",
+    "uuid": "499c79f1-2ecb-4099-81df-193d7f86b75e",
+    "geohash": "w21z37h711"
+  },
+  "w21z37sjrv": {
+    "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
+    "createdAt": "2014-12-23T04:46:38.052Z",
+    "directions": "FASS AS4 \"Deck\" Canteen - From Muslim Stall1, walk straight, turn left and enter the door next to the handicapped toilet. Walk straight, on your left is \"Centre of Language Studies\". Turn right and enter the door (near to female toilet) to lift. Go to level 6. Turn right; enter the door to staircase A.",
+    "level": "6",
+    "location": {
+      "latitude": 1.294571,
+      "longitude": 103.771702
+    },
+    "mrt": "Kent Ridge",
+    "name": "AS4 Arts and Social Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:10:47.120Z",
+    "uuid": "6884ccfd-9be9-4165-855b-4bfb01dba9c9",
+    "type": "Musolla",
+    "geohash": "w21z37sjrv"
+  },
+  "w21z3ks609": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T01:06:49.424Z",
+    "directions": "E3 Engineering - Proceed to Level 6 staircase landing near male toilet.",
+    "level": "6",
+    "location": {
+      "latitude": 1.299486,
+      "longitude": 103.771729
+    },
+    "maleCapacity": 3,
+    "name": "E3 Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Male ONLY.",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:13:56.311Z",
+    "uuid": "3b549f23-8963-4669-91c5-a6a7b08a0d1a",
+    "type": "Musolla",
+    "geohash": "w21z3ks609",
+    "images": [
+      {
+        "uuid": "e31f41b5-6284-410d-88d6-0afbb39b7b08",
+        "caption": "Sejadah and Sarongs",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-24T07:17:00.298Z",
+        "updatedAt": "2015-08-24T07:17:00.298Z"
+      }
+    ]
+  },
+  "w21z3qgvbu": {
+    "address": "3002 Commonwealth Avenue West, S(129579)",
+    "contact": "6777 0028",
+    "createdAt": "2014-12-23T06:50:22.514Z",
+    "location": {
+      "latitude": 1.312505,
+      "longitude": 103.771061
+    },
+    "name": "Darussalam Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:11.242Z",
+    "uuid": "61c35d35-3e2d-4635-aaa2-c84e6770ee12",
+    "geohash": "w21z3qgvbu"
+  },
+  "w21z3kkc80": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T01:01:50.217Z",
+    "directions": "E5 Engineering - Proceed to Level 4 staircase landing near elevator on E5 side.",
+    "femaleCapacity": 3,
+    "level": "4",
+    "location": {
+      "latitude": 1.298022,
+      "longitude": 103.772395
+    },
+    "name": "E5 Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female ONLY.",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:13:56.743Z",
+    "uuid": "303dc6de-5a04-4f0b-a288-df85ac7cdf23",
+    "type": "Musolla",
+    "geohash": "w21z3kkc80"
+  },
+  "w21z3k77f0": {
+    "address": "4 Architecture Drive, School of Design & Environment (S), 117566",
+    "createdAt": "2014-12-23T04:46:38.037Z",
+    "directions": "Architecture (SDE3) - Alight from SDE bus stop. Walk towards Centre For English Language Communication building. Pass it and keep walking along the pavement until you pass a bookshop on your left. Walk straight and turn right, take the lift and go to level 4. Turn right, walk pass the lecture room and turn right when you see staircase, go up and turn left. Female toilet is opposite LR422. Male toilet is opposite LR427. Musolla is at the staircase landing near to the female toilet.",
+    "level": "4",
+    "location": {
+      "latitude": 1.298408,
+      "longitude": 103.770427
+    },
+    "mrt": "Kent Ridge",
+    "name": "SDE3 Design and Environment, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:11:50.807Z",
+    "uuid": "8f6805a9-8bc3-4e26-9c28-d01f9392cf69",
+    "type": "Musolla",
+    "geohash": "w21z3k77f0"
+  },
+  "w21z3s4sf2": {
+    "address": "S16 Science Drive 2, Faculty of Science 6 (S), 117546",
+    "createdAt": "2014-12-23T04:46:37.962Z",
+    "directions": "S15 Science - Alight at the Science bus stop. Walk towards S16. Turn to the left and walk towards S15. Take the lift to the 6th floor. Climb the stairs to the musolla.",
+    "level": "6",
+    "location": {
+      "latitude": 1.297203,
+      "longitude": 103.780386
+    },
+    "mrt": "Kent Ridge",
+    "name": "S15 Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:10:05.675Z",
+    "uuid": "227b79db-6657-462f-8c1a-ee2934fccc28",
+    "type": "Musolla",
+    "geohash": "w21z3s4sf2"
+  },
+  "w21z3eg0gc": {
+    "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
+    "createdAt": "2014-12-23T04:46:38.021Z",
+    "directions": "AS6 FASS - Alight at the Central Library bus stop. Climb the stairs to the library. Turn to the right and walk down the walkway towards AS6. Turn to the left and enter AS6 glass door. Walk all the way to the exit door at the opposite end. Take the lift to level 5. Exit through the exit door to the staircase landing.",
+    "level": "5",
+    "location": {
+      "latitude": 1.295149,
+      "longitude": 103.781145
+    },
+    "mrt": "Kent Ridge",
+    "name": "AS6 Arts and Social Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "5",
+    "updatedAt": "2015-01-16T02:10:50.746Z",
+    "uuid": "10d70a8f-983d-4ff9-8e3c-993a4bb7e9c3",
+    "type": "Musolla",
+    "geohash": "w21z3eg0gc"
+  },
+  "w21z3ysgrh": {
+    "address": "39 Lorong Liput, Singapore 277746",
+    "contact": "6462 0112",
+    "createdAt": "2014-12-23T06:50:22.280Z",
+    "location": {
+      "latitude": 1.310703,
+      "longitude": 103.79467
+    },
+    "name": "Kampong-Holland  Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:25.679Z",
+    "uuid": "8901cc32-c475-4b9a-94e7-b9fa22426c58",
+    "geohash": "w21z3ysgrh"
+  },
+  "w21z3k6mfj": {
+    "address": "81 Clementi Road, Singapore 129797",
+    "contact": "6776 5612",
+    "createdAt": "2014-12-23T06:50:22.589Z",
+    "location": {
+      "latitude": 1.298779,
+      "longitude": 103.76905
+    },
+    "name": "Tentera Di Raja Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:20.773Z",
+    "uuid": "5a59c0ad-4475-41a1-ba70-2fb035f25a9b",
+    "geohash": "w21z3k6mfj"
+  },
+  "w21z3fz13s": {
+    "address": "100 Jalan Hang Jebat, Singapore 139533",
+    "contact": "6471 0728",
+    "createdAt": "2014-12-23T06:50:22.525Z",
+    "location": {
+      "latitude": 1.289758,
+      "longitude": 103.797529
+    },
+    "name": "Hang Jebat Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:12.825Z",
+    "uuid": "453eb561-e362-4d0e-9a25-c89f20b4a21e",
+    "geohash": "w21z3fz13s"
+  },
+  "w21z3s4xe1": {
+    "address": "S16 Science Drive 2, Faculty of Science 6 (S), 117546",
+    "createdAt": "2014-12-23T04:46:37.947Z",
+    "directions": "S17 Department of Mathematics - Alight at the Science bus stop. Cross over to the department of Mathematics. Take the lift to the 4th floor. Exit the lift area, turn to the left and walk towards the Exit door. Enter the Exit door and climb the stairs to the musolla.",
+    "level": "4",
+    "location": {
+      "latitude": 1.297683,
+      "longitude": 103.780418
+    },
+    "mrt": "Kent Ridge",
+    "name": "S17 Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-16T02:10:10.304Z",
+    "uuid": "209e6912-5cd9-48fa-9b94-867a56083de8",
+    "type": "Musolla",
+    "geohash": "w21z3s4xe1"
+  },
+  "w21z3kqsb6": {
+    "address": "21 Lower Kent Ridge Road S(119077)",
+    "createdAt": "2014-12-23T04:46:37.916Z",
+    "directions": "YIH - Take A1 from Kent Ridge MRT. Alight at YIH bus stop. Climb the stairs towards Student Service Centre to level 3.",
+    "level": "3",
+    "location": {
+      "latitude": 1.29859,
+      "longitude": 103.774811
+    },
+    "mrt": "Kent Ridge",
+    "name": "YIH, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "3",
+    "updatedAt": "2015-01-16T02:10:16.613Z",
+    "uuid": "be641313-1f42-426e-8a09-fc9406eb99be",
+    "type": "Musolla",
+    "geohash": "w21z3kqsb6"
+  },
+  "w21z3mtkk7": {
+    "address": "21 Lower Kent Ridge Road S(119077)",
+    "createdAt": "2014-12-23T04:46:37.931Z",
+    "directions": "Utown - Take D1 from Kent Ridge MRT. Alight at UTown bus stop. Walk towards Education Resource Centre (ERC). Go to the 2nd floor. Go towards the exit/toilet. Enter the Exit door (stairs 3).",
+    "level": "2",
+    "location": {
+      "latitude": 1.305377,
+      "longitude": 103.7732626
+    },
+    "mrt": "Kent Ridge",
+    "name": "Utown, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "2",
+    "updatedAt": "2015-01-16T02:10:13.486Z",
+    "uuid": "4fd40876-3207-4df6-8d50-27ce7d5725e7",
+    "type": "Musolla",
+    "geohash": "w21z3mtkk7"
+  },
+  "w21z3kj09p": {
+    "address": "12 Kent Ridge Crescent, Central Library (S), 119275",
+    "createdAt": "2014-12-23T04:46:38.006Z",
+    "directions": "Central Forum FASS - Alight at the Central Library bus stop. Climb the stairs to the library. Turn to the right to the book drop. Go down the narrow stairs beside the book drop. The musolla is halfway between the 1st and 2nd floor.",
+    "level": "2",
+    "location": {
+      "latitude": 1.2965112,
+      "longitude": 103.7727887
+    },
+    "mrt": "Kent Ridge",
+    "name": "Central Forum FASS, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "2",
+    "updatedAt": "2015-01-16T02:09:57.085Z",
+    "uuid": "fe1d3336-7de3-472c-99e0-7132f2707e24",
+    "type": "Musolla",
+    "geohash": "w21z3kj09p",
+    "images": [
+      {
+        "uuid": "1ae63fae-5db6-4438-8a2a-9fcd05004235",
+        "caption": "Another Angle of Praying Area",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:14:02.236Z",
+        "updatedAt": "2015-08-27T09:14:02.236Z"
+      },
+      {
+        "uuid": "b6aed830-6f26-4605-a17b-7aa626673d36",
+        "caption": "Provided Sarong And Sejadah",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:14:44.927Z",
+        "updatedAt": "2015-08-27T09:14:44.927Z"
+      },
+      {
+        "uuid": "815f7f57-2758-475c-bd3c-48ca89519c80",
+        "caption": "Large Praying Area",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-08-27T09:12:56.322Z",
+        "updatedAt": "2015-08-27T09:12:56.322Z"
+      }
+    ]
+  }
+}

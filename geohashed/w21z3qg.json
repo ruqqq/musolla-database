@@ -1,0 +1,16 @@
+{
+  "w21z3qgvbu": {
+    "address": "3002 Commonwealth Avenue West, S(129579)",
+    "contact": "6777 0028",
+    "createdAt": "2014-12-23T06:50:22.514Z",
+    "location": {
+      "latitude": 1.312505,
+      "longitude": 103.771061
+    },
+    "name": "Darussalam Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:11.242Z",
+    "uuid": "61c35d35-3e2d-4635-aaa2-c84e6770ee12",
+    "geohash": "w21z3qgvbu"
+  }
+}

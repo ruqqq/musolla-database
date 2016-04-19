@@ -1,0 +1,20 @@
+{
+  "w21z3eg0gc": {
+    "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
+    "createdAt": "2014-12-23T04:46:38.021Z",
+    "directions": "AS6 FASS - Alight at the Central Library bus stop. Climb the stairs to the library. Turn to the right and walk down the walkway towards AS6. Turn to the left and enter AS6 glass door. Walk all the way to the exit door at the opposite end. Take the lift to level 5. Exit through the exit door to the staircase landing.",
+    "level": "5",
+    "location": {
+      "latitude": 1.295149,
+      "longitude": 103.781145
+    },
+    "mrt": "Kent Ridge",
+    "name": "AS6 Arts and Social Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "5",
+    "updatedAt": "2015-01-16T02:10:50.746Z",
+    "uuid": "10d70a8f-983d-4ff9-8e3c-993a4bb7e9c3",
+    "type": "Musolla",
+    "geohash": "w21z3eg0gc"
+  }
+}

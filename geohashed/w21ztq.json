@@ -1,0 +1,23 @@
+{
+  "w21ztq4xgf": {
+    "address": "4 Tampines Central 5 S(529510)",
+    "createdAt": "2014-12-23T04:46:37.102Z",
+    "directions": "Head towards level 3 lift lobby, turn right down the hallway. Musolla is located in rooms with sliding doors",
+    "femaleCapacity": 3,
+    "level": "3",
+    "location": {
+      "latitude": 1.352661,
+      "longitude": 103.945245
+    },
+    "maleCapacity": 2,
+    "mrt": "Tampines",
+    "name": "Tampines Mall",
+    "provision": "Prayer Mat, Telekung, Slippers",
+    "remarks": "Segregated male and female praying area.",
+    "toiletLevel": "3",
+    "updatedAt": "2015-01-13T10:18:13.444Z",
+    "uuid": "a47c10e2-6863-4606-8372-5978ad38f397",
+    "type": "Musolla",
+    "geohash": "w21ztq4xgf"
+  }
+}

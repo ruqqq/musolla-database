@@ -1,0 +1,320 @@
+{
+  "w21z6v2fxy": {
+    "address": "435 Orchard Road S(238877)",
+    "createdAt": "2014-12-23T04:46:37.376Z",
+    "directions": "Take the lift to level 7 carpark. Out the door (no. 7), turn left and walk straight to the end of carpark (near iSetan sign), near carpark no. 123 & no. 124. Take the pathway near the trubines and it will lead to a \"Fire Exit/Staircase 2\" door. Open the door to the staircase landing. Musolla is located inside. ",
+    "level": "7 (Carpark)",
+    "location": {
+      "latitude": 1.303718,
+      "longitude": 103.833155
+    },
+    "mrt": "Orchard",
+    "name": "Wisma Atria Shopping Centre",
+    "provision": "Slippers, Telekung, Prayer Mat, Al-Quran, Fan, Standing separator, Sarong, Chair",
+    "remarks": "There is also a small white ceramic basin outside the musolla for ablution. Shared male and female praying area.",
+    "toiletLevel": "6",
+    "unisexCapacity": 10,
+    "updatedAt": "2014-12-23T05:34:32.681Z",
+    "uuid": "10c51bad-d498-4c8d-8ed5-fdae600f4829",
+    "type": "Musolla",
+    "geohash": "w21z6v2fxy"
+  },
+  "w21z62nug3": {
+    "address": "50 Telok Blangah Way, Singapore 098801",
+    "contact": "6272 5309",
+    "createdAt": "2014-12-23T06:50:21.972Z",
+    "location": {
+      "latitude": 1.275238,
+      "longitude": 103.819231
+    },
+    "name": "Al-Amin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:32.046Z",
+    "uuid": "311fcabc-5709-44b9-a044-4b03d03e33c0",
+    "geohash": "w21z62nug3"
+  },
+  "w21z6vbfyu": {
+    "address": "10 Scotts Road S(228221)",
+    "createdAt": "2014-12-23T04:46:37.463Z",
+    "directions": "From the entrance, walk straight past the Straits Kitchen and lift lobby into the carpark. Once past the carpark entrance, turn right and look for door that states 'Prayer Room'.",
+    "femaleCapacity": 3,
+    "level": "1 (Carpark)",
+    "location": {
+      "latitude": 1.306497,
+      "longitude": 103.83311
+    },
+    "maleCapacity": 8,
+    "mrt": "Orchard",
+    "name": "Grand Hyatt Hotel",
+    "provision": "Prayer Mat, Sarong, Sejadah, Songkok, Telekung, Attar, Tasbih, Al-Quran, Mirror, Chair, Slippers",
+    "remarks": "Strictly for staffs/tenants. Male and female praying area are segregated by a sliding curtain.",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:34:42.173Z",
+    "uuid": "362c38a7-be18-4e1d-b534-999f2ecdb58e",
+    "type": "Musolla",
+    "geohash": "w21z6vbfyu"
+  },
+  "w21z64sbp3": {
+    "address": "317 Alexandra Road S(159965)",
+    "createdAt": "2014-12-23T04:46:37.164Z",
+    "directions": "Basement carpark, underneath escalator near parking lot number 250. Look out for greyish door that states 'Male's Prayer Room' or 'Female's Prayer Room'.",
+    "femaleCapacity": 5,
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.288155,
+      "longitude": 103.805666
+    },
+    "maleCapacity": 5,
+    "mrt": "Queenstown",
+    "name": "IKEA Alexandra",
+    "provision": "Slippers, Al-Quran, Prayer mat, Chair, Fan, Tasbih, Sarong, Telekung",
+    "remarks": "There is an ablution area in the musolla. Musolla is air-conditioned. Segregated male and female praying area. ",
+    "toiletLevel": "Basement 1",
+    "updatedAt": "2015-01-02T04:33:49.918Z",
+    "uuid": "5e304bba-6586-4311-b587-9705d71dc3e6",
+    "type": "Musolla",
+    "geohash": "w21z64sbp3"
+  },
+  "w21z6v3w5c": {
+    "address": "304 Orchard Road, Singapore 238863",
+    "createdAt": "2015-01-09T09:34:08.823Z",
+    "directions": "Take the lift to level 10, walk straight (about 50 metres) and turn left.",
+    "level": "10",
+    "location": {
+      "latitude": 1.3042934,
+      "longitude": 103.8340165
+    },
+    "mrt": "Orchard",
+    "name": "Lucky Plaza",
+    "toiletLevel": "Mall's toilets",
+    "updatedAt": "2015-01-09T09:39:13.324Z",
+    "uuid": "4e03f25d-877e-4bef-829f-997c72968fd9",
+    "type": "Musolla",
+    "geohash": "w21z6v3w5c",
+    "images": [
+      {
+        "uuid": "ebd2b1c1-358b-4f68-a559-629b1e754f01",
+        "caption": "Musholla",
+        "uploaderName": "Ahmad Syarif",
+        "createdAt": "2016-02-26T11:56:55.488Z",
+        "updatedAt": "2016-02-26T11:56:55.488Z"
+      },
+      {
+        "uuid": "67947ecd-813b-4992-8d27-a95c6406acf9",
+        "caption": "Ablution in toilet Near The Musholla",
+        "uploaderName": "Ahmad Syarif",
+        "createdAt": "2016-02-26T11:58:00.460Z",
+        "updatedAt": "2016-02-26T11:58:00.460Z"
+      }
+    ]
+  },
+  "w21z6ejs3z": {
+    "address": "10 Delta Avenue, Singapore 169831",
+    "contact": "6272 1750",
+    "createdAt": "2014-12-23T06:50:22.054Z",
+    "location": {
+      "latitude": 1.291665,
+      "longitude": 103.828431
+    },
+    "name": "Kampong Delta Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:20.064Z",
+    "uuid": "adbce676-a31e-48e5-a231-03df20bc6430",
+    "geohash": "w21z6ejs3z"
+  },
+  "w21z647mu7": {
+    "address": "1 Queensway S(149053)",
+    "createdAt": "2014-12-23T04:46:37.189Z",
+    "directions": "Near the toilet and cargo lift number 3. Enter the exit door (Staircase D). Turn right and proceed to the end.",
+    "level": "2",
+    "location": {
+      "latitude": 1.287777,
+      "longitude": 103.803474
+    },
+    "mrt": "Queenstown",
+    "name": "Queensway Shopping Centre",
+    "provision": "Slippers, Prayer Mat",
+    "remarks": "Shared area for male and female. Ablution area beside the praying area. No fan or aircon.",
+    "toiletLevel": "2",
+    "unisexCapacity": 3,
+    "updatedAt": "2014-12-23T05:34:15.166Z",
+    "uuid": "9552b56a-fb47-49b7-9bc7-39f6431da83d",
+    "type": "Musolla",
+    "geohash": "w21z647mu7"
+  },
+  "w21z6vbw8g": {
+    "address": "25 Scotts Road S(228220)",
+    "createdAt": "2014-12-23T04:46:37.418Z",
+    "directions": "From hotel entrance, walk straight and turn right to the male and female toilets next to the lift lobby. There will be signs that lead to the musolla (surau). Go upstairs to the carpark. Turn left before the entrance to the carpark (enter the door that states 'surau').",
+    "femaleCapacity": 6,
+    "level": "2",
+    "location": {
+      "latitude": 1.307137,
+      "longitude": 103.83251
+    },
+    "maleCapacity": 12,
+    "mrt": "Orchard",
+    "name": "Royal Plaza on Scotts",
+    "provision": "Prayer Mat, Telekung, Al-Quran, Tasbih, Chair, Slippers, Attar",
+    "remarks": "There is an ablution area in the musolla. Male and female praying area are segregated by a sliding wall.",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:34:36.248Z",
+    "uuid": "c10ef04b-5903-46c7-badf-19d30ac5a23a",
+    "type": "Musolla",
+    "geohash": "w21z6vbw8g"
+  },
+  "w21z6v76jz": {
+    "address": "Bideford Rd #01-01, Cairnhill Place, S(229650)",
+    "contact": "6235 3172",
+    "createdAt": "2014-12-23T06:50:21.807Z",
+    "location": {
+      "latitude": 1.303638,
+      "longitude": 103.836502
+    },
+    "name": "Al-Falah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:34.323Z",
+    "uuid": "c7782a4a-d406-436e-866d-9e1120dabb3b",
+    "geohash": "w21z6v76jz"
+  },
+  "w21z6f7kkp": {
+    "address": "405 Havelock Road S(169633)",
+    "createdAt": "2014-12-23T04:46:37.478Z",
+    "directions": "Beside Kintamani Indonesian Restaurant",
+    "level": "3",
+    "location": {
+      "latitude": 1.287541,
+      "longitude": 103.836424
+    },
+    "mrt": "Outram",
+    "name": "Furama River Front Hotel ",
+    "updatedAt": "2014-12-23T05:34:43.307Z",
+    "uuid": "05caf965-ec0b-4f2b-8145-e4112cb13a39",
+    "type": "Musolla",
+    "geohash": "w21z6f7kkp"
+  },
+  "w21z6dkhty": {
+    "address": "355 Jalan Bukit Ho Swee, Singapore 169567",
+    "createdAt": "2016-01-13T08:24:04.830Z",
+    "directions": "Walk to Multi Purpose Hall, Musollah is behind the stage of multi purpose Hall.",
+    "level": "3",
+    "location": {
+      "latitude": 1.2875819999999998,
+      "longitude": 103.826545
+    },
+    "name": "PSB Academy",
+    "provision": "Prayer Mat, Kain",
+    "remarks": "Wuduk at Handicap toilet @ Level 2",
+    "toiletLevel": "3",
+    "type": "Musolla",
+    "unisexCapacity": 3,
+    "updatedAt": "2016-01-13T08:24:04.830Z",
+    "uuid": "03e42983-a5c4-4e8e-a28e-cc0fa43dbb56",
+    "geohash": "w21z6dkhty",
+    "submitterName": "Sean Abdullah"
+  },
+  "w21z67kh5x": {
+    "address": "946 Margaret Drive, Singapore 149309",
+    "contact": "6472 7298",
+    "createdAt": "2014-12-23T06:50:22.028Z",
+    "location": {
+      "latitude": 1.292992,
+      "longitude": 103.815465
+    },
+    "name": "Jamek Queenstown Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:23.421Z",
+    "uuid": "7836b47e-f8b8-4e88-b92d-76e04b72c2ae",
+    "geohash": "w21z67kh5x"
+  },
+  "w21z6wj9s6": {
+    "address": "442 Orchard Rd S(238879)",
+    "createdAt": "2014-12-23T04:46:37.448Z",
+    "directions": "Go down to basement 3 from the lift situated to the left of the taxi stand (outside the hotel lobby). Out the lift, turn right towards the carpark ramps. Before the carpark ramps, turn right and walk straight. Once you reach the end, turn left to the musolla.",
+    "femaleCapacity": 3,
+    "level": "Basement 3 (Carpark)",
+    "location": {
+      "latitude": 1.307644,
+      "longitude": 103.82854
+    },
+    "maleCapacity": 7,
+    "mrt": "Orchard",
+    "name": "Orchard Hotel",
+    "provision": "Prayer Mat, Telekung, Tasbih, Fan, Chair, Al-Quran, Sarong, Songkok, Mirror",
+    "remarks": "There is also an ablution area outside musolla. Strictly for staffs/tenants. Male and female praying areas are segregated.",
+    "toiletLevel": "B3",
+    "updatedAt": "2014-12-23T05:34:40.727Z",
+    "uuid": "2acf998e-0037-4757-a7f1-ca85143c5c6e",
+    "type": "Musolla",
+    "geohash": "w21z6wj9s6"
+  },
+  "w21z6v1uf6": {
+    "address": "391A Orchard Road S(238873)",
+    "createdAt": "2014-12-23T04:46:37.361Z",
+    "directions": "Proceed towards the public toilet. Go straight to the washing bay past the toilets. There is a small room that states \"Store\" for prayers.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.302707,
+      "longitude": 103.834289
+    },
+    "mrt": "Orchard",
+    "name": "Takashimaya at Ngee Ann City Tower A",
+    "provision": "Slippers, Prayer Mat, Radio, Stool, Sarong, Fan",
+    "remarks": "Strictly for staffs/tenants. Shared male and female toilet. Basins are located outside musolla.",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "updatedAt": "2014-12-23T05:34:30.715Z",
+    "uuid": "5be66a13-02bf-4cd3-bfd9-9dc04fb61e50",
+    "type": "Musolla",
+    "geohash": "w21z6v1uf6"
+  },
+  "w21z66x91k": {
+    "address": "601 Tiong Bahru Road, Singapore 158787",
+    "contact": "6273 3848",
+    "createdAt": "2014-12-23T06:50:22.043Z",
+    "location": {
+      "latitude": 1.288345,
+      "longitude": 103.82017
+    },
+    "name": "Jamiyah Ar-Rabitah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2016-03-25T04:55:55.773Z",
+    "uuid": "7a8fde24-443c-4a2e-a90d-8129d722db13",
+    "geohash": "w21z66x91k"
+  },
+  "w21z6tt9c1": {
+    "address": "190 Orchard Boulevard S(248646)",
+    "createdAt": "2014-12-23T04:46:37.433Z",
+    "directions": "Go to the hotel lift lobby and go down to basement 2. Out the lift, exit right. Turn left and left again and walk straight to carpark no. 39 - 41. ",
+    "femaleCapacity": 2,
+    "level": "Basement 2 (Carpark B2 B)",
+    "location": {
+      "latitude": 1.304937,
+      "longitude": 103.828402
+    },
+    "maleCapacity": 4,
+    "mrt": "Orchard",
+    "name": "Four Seasons Hotel",
+    "provision": "Prayer Mat, Chair, Sejadah, Mirror, Sarong, Telekung, Al-Quran",
+    "remarks": "There is also an ablution area near the musolla. Strictly for staffs/tenants. Male and female praying areas are segregated by a sliding curtain.",
+    "toiletLevel": "B2",
+    "updatedAt": "2014-12-23T05:34:39.076Z",
+    "uuid": "50f6a8fa-2ce1-4178-8a9e-b0c0c482e8ac",
+    "type": "Musolla",
+    "geohash": "w21z6tt9c1"
+  },
+  "w21z6h39cz": {
+    "address": "590 Stirling Road, Singapore 148952",
+    "contact": "6473 7400",
+    "createdAt": "2014-12-23T06:50:22.089Z",
+    "location": {
+      "latitude": 1.2981,
+      "longitude": 103.800973
+    },
+    "name": "Mujahidin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:15.168Z",
+    "uuid": "2a5f80ba-606f-40f5-a333-b6f34a223dd7",
+    "geohash": "w21z6h39cz"
+  }
+}

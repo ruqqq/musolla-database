@@ -1,0 +1,44 @@
+{
+  "w21z7tjzt5": {
+    "address": "1 Stadium Place, Singapore 397628",
+    "createdAt": "2015-06-10T09:37:31.296Z",
+    "directions": "From NTUC xtra, walk towards the toilet beside it. The location is at the fire exit before the toilet.",
+    "level": "1",
+    "location": {
+      "latitude": 1.303184,
+      "longitude": 103.872862
+    },
+    "name": "Kallang Wave Mall",
+    "provision": "Prayer Mat, Telekung, Slippers Provided For.",
+    "remarks": "The area is a long corridor, so if you bring your own prayer mat, you can pray there too.",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 3,
+    "updatedAt": "2015-06-10T09:37:31.296Z",
+    "uuid": "25bb0b8b-0fc0-4fc2-a6f9-d7c2bfbb6357",
+    "geohash": "w21z7tjzt5",
+    "submitterName": "Nadiahh Zul",
+    "images": [
+      {
+        "uuid": "73dcd619-8f98-4fa6-bb6b-138c24f99764",
+        "caption": "The Entrance",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:15:30.216Z",
+        "updatedAt": "2015-07-13T11:15:30.216Z"
+      },
+      {
+        "uuid": "d2b43a2a-dcd3-43b3-9e9a-353864fd0613",
+        "caption": "One Long Stretch Of Solah Area",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:14:48.861Z",
+        "updatedAt": "2015-07-13T11:14:48.861Z"
+      },
+      {
+        "uuid": "7d61fa48-ee36-4e60-8571-29427652f10a",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:16:16.277Z",
+        "updatedAt": "2015-07-13T11:16:16.277Z"
+      }
+    ]
+  }
+}

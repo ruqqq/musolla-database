@@ -1,0 +1,22 @@
+{
+  "w21z6dkhty": {
+    "address": "355 Jalan Bukit Ho Swee, Singapore 169567",
+    "createdAt": "2016-01-13T08:24:04.830Z",
+    "directions": "Walk to Multi Purpose Hall, Musollah is behind the stage of multi purpose Hall.",
+    "level": "3",
+    "location": {
+      "latitude": 1.2875819999999998,
+      "longitude": 103.826545
+    },
+    "name": "PSB Academy",
+    "provision": "Prayer Mat, Kain",
+    "remarks": "Wuduk at Handicap toilet @ Level 2",
+    "toiletLevel": "3",
+    "type": "Musolla",
+    "unisexCapacity": 3,
+    "updatedAt": "2016-01-13T08:24:04.830Z",
+    "uuid": "03e42983-a5c4-4e8e-a28e-cc0fa43dbb56",
+    "geohash": "w21z6dkhty",
+    "submitterName": "Sean Abdullah"
+  }
+}

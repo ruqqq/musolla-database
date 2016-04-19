@@ -1,0 +1,22 @@
+{
+  "w21z6v2fxy": {
+    "address": "435 Orchard Road S(238877)",
+    "createdAt": "2014-12-23T04:46:37.376Z",
+    "directions": "Take the lift to level 7 carpark. Out the door (no. 7), turn left and walk straight to the end of carpark (near iSetan sign), near carpark no. 123 & no. 124. Take the pathway near the trubines and it will lead to a \"Fire Exit/Staircase 2\" door. Open the door to the staircase landing. Musolla is located inside. ",
+    "level": "7 (Carpark)",
+    "location": {
+      "latitude": 1.303718,
+      "longitude": 103.833155
+    },
+    "mrt": "Orchard",
+    "name": "Wisma Atria Shopping Centre",
+    "provision": "Slippers, Telekung, Prayer Mat, Al-Quran, Fan, Standing separator, Sarong, Chair",
+    "remarks": "There is also a small white ceramic basin outside the musolla for ablution. Shared male and female praying area.",
+    "toiletLevel": "6",
+    "unisexCapacity": 10,
+    "updatedAt": "2014-12-23T05:34:32.681Z",
+    "uuid": "10c51bad-d498-4c8d-8ed5-fdae600f4829",
+    "type": "Musolla",
+    "geohash": "w21z6v2fxy"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "w21z7jryeg": {
+    "address": "41 Dunlop Street, Singapore 209369",
+    "contact": "6295 4209",
+    "createdAt": "2014-12-23T06:50:21.775Z",
+    "location": {
+      "latitude": 1.304386,
+      "longitude": 103.853585
+    },
+    "name": "Abdul Gafoor Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:19.547Z",
+    "uuid": "5c64e639-29aa-49ab-a355-6482f7e2da53",
+    "geohash": "w21z7jryeg"
+  }
+}

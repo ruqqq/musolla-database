@@ -1,0 +1,36 @@
+{
+  "w21xzdk3b4": {
+    "address": "11 Lim Chu Kang Road, Muslim Cemetary, S(719452)",
+    "contact": "6792 9378",
+    "createdAt": "2014-12-23T06:50:22.569Z",
+    "location": {
+      "latitude": 1.374978,
+      "longitude": 103.694806
+    },
+    "name": "Pusara Aman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:18.677Z",
+    "uuid": "0915da42-48d8-4dd0-b343-dd3d00192808",
+    "geohash": "w21xzdk3b4"
+  },
+  "w21xxvgn0n": {
+    "address": "1 Jurong West Central 2 S(648886)",
+    "createdAt": "2014-12-23T04:46:37.221Z",
+    "directions": "Take the escalator to basement carpark and turn left at the exit",
+    "level": "Basement 2 Carpark",
+    "location": {
+      "latitude": 1.351008,
+      "longitude": 103.70408
+    },
+    "mrt": "Boon Lay",
+    "name": "Jurong Point",
+    "provision": "Telekung, Prayer Mat,Sarong",
+    "remarks": "Musolla is air-conditioned. If the musolla is locked, get the room key from the guard.",
+    "toiletLevel": "B1",
+    "unisexCapacity": 6,
+    "updatedAt": "2014-12-23T05:34:19.431Z",
+    "uuid": "654fdd90-ee59-484d-b251-1d4258af7012",
+    "type": "Musolla",
+    "geohash": "w21xxvgn0n"
+  }
+}

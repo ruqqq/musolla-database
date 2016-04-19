@@ -1,0 +1,17 @@
+{
+  "w21zwrgppu": {
+    "address": "80 Airport Boulevard, Singapore 819642\n",
+    "createdAt": "2015-01-02T10:06:09.720Z",
+    "directions": "Arrival Transit: Below Gate Holdroom C1 at Arrival West.",
+    "location": {
+      "latitude": 1.3621589,
+      "longitude": 103.9900509
+    },
+    "mrt": "Changi ",
+    "name": "Changi Airport Terminal 1",
+    "updatedAt": "2015-01-05T02:40:03.648Z",
+    "uuid": "7948f21b-0fc8-474e-84b9-5260ca6ff8e2",
+    "type": "Musolla",
+    "geohash": "w21zwrgppu"
+  }
+}

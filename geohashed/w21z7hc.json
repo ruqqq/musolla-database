@@ -1,0 +1,42 @@
+{
+  "w21z7hc8wk": {
+    "address": "68 Orchard Road S(238839)",
+    "createdAt": "2014-12-23T04:46:37.236Z",
+    "directions": "Enter the EXIT door at lift lobby level 5. Lift lobby is located between Seahorse and V.Hive.",
+    "level": "5",
+    "location": {
+      "latitude": 1.300614,
+      "longitude": 103.845105
+    },
+    "mrt": "Dhoby Ghaut",
+    "name": "Plaza Singapura",
+    "provision": "Prayer Mat, Telekung, Slippers",
+    "remarks": "Not an official praying area. Shared male & female area. Provision found in the hosereel cabinet.",
+    "toiletLevel": "5",
+    "unisexCapacity": 10,
+    "updatedAt": "2014-12-23T05:34:20.700Z",
+    "uuid": "eaac65c0-f3fa-4f97-9fb9-36e3901f9eca",
+    "type": "Musolla",
+    "geohash": "w21z7hc8wk"
+  },
+  "w21z7hc9v7": {
+    "address": "68 Orchard Rd, Singapore 238839",
+    "createdAt": "2015-07-09T04:32:56.497Z",
+    "directions": "Located at staircase near lift, end of Spotlight outlet. Adjacent to the home furnishing section of Spotlight outlet. There's a room in between the staircase and the lifts.\n\nRoom is not entitled for prayers. However, prayers are allowed.\n\nWudu' to be taken at the washroom beside it.",
+    "level": "5",
+    "location": {
+      "latitude": 1.300824,
+      "longitude": 103.845069
+    },
+    "name": "Plaza Singapura",
+    "provision": "None",
+    "remarks": "Bring own sejadah/praying mat. And telekung (for muslimah)",
+    "toiletLevel": "5",
+    "type": "Musolla",
+    "unisexCapacity": 20,
+    "updatedAt": "2015-07-09T04:32:56.497Z",
+    "uuid": "bac9cb06-6886-4729-b6a0-ed18c917bb11",
+    "geohash": "w21z7hc9v7",
+    "submitterName": "Radin Khairulirwan"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "w23b69068u": {
+    "address": "1 Admiralty Lane, Singapore 757620",
+    "contact": "6756 3008",
+    "createdAt": "2014-12-23T06:50:22.258Z",
+    "location": {
+      "latitude": 1.456144,
+      "longitude": 103.821187
+    },
+    "name": "Assyafaah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:30.804Z",
+    "uuid": "8964eae7-d869-41b6-af84-085c4119e645",
+    "geohash": "w23b69068u"
+  },
+  "w23b1wt4ps": {
+    "address": "31 Riverside Road S(739087)",
+    "createdAt": "2014-12-23T04:46:36.959Z",
+    "directions": "There is a small office space at a corner for prayer. For direction, enquire Muslim staff.",
+    "level": "1",
+    "location": {
+      "latitude": 1.442321,
+      "longitude": 103.784053
+    },
+    "mrt": "Woodlands",
+    "name": "Sakura Restaurant",
+    "provision": "Prayer Mat",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:32:47.282Z",
+    "uuid": "073aa964-102f-4671-9821-c61ccec42070",
+    "type": "Musolla",
+    "geohash": "w23b1wt4ps"
+  },
+  "w23b4v9fe0": {
+    "address": "950 Yishun Ave 2, Singapore 769099",
+    "contact": "6752 1402",
+    "createdAt": "2014-12-23T06:50:22.269Z",
+    "location": {
+      "latitude": 1.436895,
+      "longitude": 103.834327
+    },
+    "name": "Darul Makmur  Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:26.892Z",
+    "uuid": "41623051-0a4b-4487-ba92-bcdf4c004f70",
+    "geohash": "w23b4v9fe0"
+  },
+  "w23b42pdn2": {
+    "address": "15 Jalan Ulu Seletar, Singapore 769227",
+    "contact": "6454 0848",
+    "createdAt": "2014-12-23T06:50:21.796Z",
+    "location": {
+      "latitude": 1.406598,
+      "longitude": 103.820393
+    },
+    "name": "Ahmad Ibrahim Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:40.494Z",
+    "uuid": "9f259807-283c-46d5-a06a-7b57ff3f32fd",
+    "geohash": "w23b42pdn2"
+  },
+  "w23b6cx5zx": {
+    "address": "27-B, Jalan Mempurong, Singapore 759055",
+    "contact": "6257 7614",
+    "createdAt": "2014-12-23T06:50:22.291Z",
+    "location": {
+      "latitude": 1.45912,
+      "longitude": 103.841724
+    },
+    "name": "Petempatan Melayu Sembawang Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:23.684Z",
+    "uuid": "e928dcf3-883f-45db-b391-47971f702142",
+    "geohash": "w23b6cx5zx"
+  },
+  "w23b1tr82g": {
+    "address": "900 South Woodlands Drive S(730900)",
+    "createdAt": "2014-12-23T04:46:36.944Z",
+    "directions": "Proceed to level 1 library entrance and enter the exit door on the left. Walk to the end for female area. For male, take the staircase inside to level 2.",
+    "femaleCapacity": 4,
+    "level": "1",
+    "location": {
+      "latitude": 1.435152,
+      "longitude": 103.787195
+    },
+    "maleCapacity": 10,
+    "mrt": "Woodlands",
+    "name": "Civic Centre",
+    "remarks": "Not an official praying area. Shared male & female area.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-01-14T14:38:24.710Z",
+    "uuid": "801fe031-ae33-4e16-a2d5-f55a0d292c55",
+    "type": "Musolla",
+    "geohash": "w23b1tr82g"
+  },
+  "w23b1qk2z8": {
+    "address": "6 Admiralty Road, Singapore 739983",
+    "contact": "6363 1383",
+    "createdAt": "2014-12-23T06:50:22.247Z",
+    "location": {
+      "latitude": 1.440713,
+      "longitude": 103.772035
+    },
+    "name": "An-Nur Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:34.411Z",
+    "uuid": "5469a4ff-900c-4c82-a305-77952588b945",
+    "geohash": "w23b1qk2z8",
+    "images": [
+      {
+        "uuid": "03a4488a-1dcd-4549-a1f4-dcd9f1a80c2c",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-05-29T05:58:11.239Z",
+        "updatedAt": "2015-05-29T05:58:11.239Z"
+      },
+      {
+        "uuid": "a320b22a-147f-4e3a-b2bf-1abc07f35c63",
+        "uploaderName": "Faruq Rasid",
+        "createdAt": "2015-05-29T05:58:38.520Z",
+        "updatedAt": "2015-05-29T05:58:38.520Z"
+      }
+    ]
+  },
+  "w23b1tqdgw": {
+    "address": "1 Woodlands Square, Causeway Point, Singapore 738099",
+    "createdAt": "2015-07-09T04:32:25.186Z",
+    "directions": "Go past the toilet beside Giordano and turn left into the lift lobby",
+    "level": "1",
+    "location": {
+      "latitude": 1.435594,
+      "longitude": 103.785934
+    },
+    "name": "Causeway Point",
+    "provision": "Prayer Mat",
+    "remarks": "Lift Lobby (Goods Lift)",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 4,
+    "updatedAt": "2015-07-09T04:32:25.186Z",
+    "uuid": "e76be0fa-4356-4d0f-a72f-b29d1a79b19c",
+    "geohash": "w23b1tqdgw",
+    "submitterName": "Tengku Hafidz"
+  },
+  "w23b4u6c2h": {
+    "address": "Yishun Avenue 2 S(769098)",
+    "createdAt": "2014-12-23T04:46:36.979Z",
+    "directions": "Head to the lift lobby on level 4, nect to Kid@Play waterpark. The lift lobby is right beside the washroom. Enter the staircase landing in front of the cargo lifts. Musolla is on the top floor.",
+    "level": "4",
+    "location": {
+      "latitude": 1.429836,
+      "longitude": 103.835568
+    },
+    "mrt": "Yishun",
+    "name": "Northpoint",
+    "remarks": "Not an official praying area. Shared male & female area. Provision found in the hosereel cabinet.",
+    "toiletLevel": "4",
+    "unisexCapacity": 2,
+    "updatedAt": "2014-12-23T05:32:49.084Z",
+    "uuid": "f8ccc11e-65aa-4fcf-b2b1-614d276b6630",
+    "type": "Musolla",
+    "geohash": "w23b4u6c2h",
+    "images": [
+      {
+        "uuid": "28f2650f-a6ed-46ba-90e7-a60196ae12b1",
+        "uploaderName": "Tengku Hafidz",
+        "createdAt": "2015-06-04T06:34:11.389Z",
+        "updatedAt": "2015-06-04T06:34:11.389Z"
+      }
+    ]
+  }
+}

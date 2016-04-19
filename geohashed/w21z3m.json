@@ -1,0 +1,20 @@
+{
+  "w21z3mtkk7": {
+    "address": "21 Lower Kent Ridge Road S(119077)",
+    "createdAt": "2014-12-23T04:46:37.931Z",
+    "directions": "Utown - Take D1 from Kent Ridge MRT. Alight at UTown bus stop. Walk towards Education Resource Centre (ERC). Go to the 2nd floor. Go towards the exit/toilet. Enter the Exit door (stairs 3).",
+    "level": "2",
+    "location": {
+      "latitude": 1.305377,
+      "longitude": 103.7732626
+    },
+    "mrt": "Kent Ridge",
+    "name": "Utown, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "2",
+    "updatedAt": "2015-01-16T02:10:13.486Z",
+    "uuid": "4fd40876-3207-4df6-8d50-27ce7d5725e7",
+    "type": "Musolla",
+    "geohash": "w21z3mtkk7"
+  }
+}

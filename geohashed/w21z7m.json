@@ -1,0 +1,52 @@
+{
+  "w21z7mntqm": {
+    "address": "4001 Beach Road, Singapore 199584",
+    "contact": "6297 2774",
+    "createdAt": "2014-12-23T06:50:22.006Z",
+    "location": {
+      "latitude": 1.302812,
+      "longitude": 103.862957
+    },
+    "name": "Hajjah Fatimah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:26.699Z",
+    "uuid": "4db6cbe7-273a-4d8f-b9fd-16b1555ef49a",
+    "geohash": "w21z7mntqm"
+  },
+  "w21z7ms6tv": {
+    "address": "471 Victoria Street, Singapore 198370",
+    "contact": "6294 3862",
+    "createdAt": "2014-12-23T06:50:22.067Z",
+    "location": {
+      "latitude": 1.305083,
+      "longitude": 103.859848
+    },
+    "name": "Malabar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:18.682Z",
+    "uuid": "d263595e-163b-4ea5-8847-22bfce7f1492",
+    "geohash": "w21z7ms6tv"
+  },
+  "w21z7m5crz": {
+    "address": "3 Muscat Street, Singapore 198833",
+    "contact": "6293 4405",
+    "createdAt": "2014-12-23T06:50:22.100Z",
+    "location": {
+      "latitude": 1.302136,
+      "longitude": 103.85925
+    },
+    "name": "Sultan Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:12.586Z",
+    "uuid": "d681a099-d828-4055-b579-4162966da0a6",
+    "geohash": "w21z7m5crz",
+    "images": [
+      {
+        "uuid": "5dee4b22-f65c-4631-b82c-297652eebd9c",
+        "uploaderName": "Muhd Danish",
+        "createdAt": "2015-05-26T11:17:31.266Z",
+        "updatedAt": "2015-06-01T04:11:23.386Z"
+      }
+    ]
+  }
+}

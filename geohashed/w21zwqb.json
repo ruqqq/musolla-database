@@ -1,0 +1,18 @@
+{
+  "w21zwqbxmq": {
+    "address": "65 Airport Boulevard, Singapore 819663",
+    "createdAt": "2015-01-02T10:11:01.722Z",
+    "directions": "Departure Transit: Lounge South, behind Mont Blanc.",
+    "level": "2",
+    "location": {
+      "latitude": 1.356716,
+      "longitude": 103.98651
+    },
+    "mrt": "Changi",
+    "name": "Changi Airport Terminal 3",
+    "updatedAt": "2015-01-05T02:39:05.684Z",
+    "uuid": "d4e4a3a6-12c4-4da2-979a-45d25198b1fa",
+    "type": "Musolla",
+    "geohash": "w21zwqbxmq"
+  }
+}

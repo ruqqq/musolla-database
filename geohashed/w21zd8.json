@@ -1,0 +1,16 @@
+{
+  "w21zd83mc9": {
+    "address": "2 Lewis Road, Singapore 258590",
+    "contact": "6732 6170",
+    "createdAt": "2014-12-23T06:50:21.852Z",
+    "location": {
+      "latitude": 1.320727,
+      "longitude": 103.822589
+    },
+    "name": "Ba'alwie Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:02.651Z",
+    "uuid": "c0d55b2f-8d28-4b7b-8a9a-85584c20f730",
+    "geohash": "w21zd83mc9"
+  }
+}

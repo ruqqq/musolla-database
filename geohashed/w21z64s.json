@@ -1,0 +1,23 @@
+{
+  "w21z64sbp3": {
+    "address": "317 Alexandra Road S(159965)",
+    "createdAt": "2014-12-23T04:46:37.164Z",
+    "directions": "Basement carpark, underneath escalator near parking lot number 250. Look out for greyish door that states 'Male's Prayer Room' or 'Female's Prayer Room'.",
+    "femaleCapacity": 5,
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.288155,
+      "longitude": 103.805666
+    },
+    "maleCapacity": 5,
+    "mrt": "Queenstown",
+    "name": "IKEA Alexandra",
+    "provision": "Slippers, Al-Quran, Prayer mat, Chair, Fan, Tasbih, Sarong, Telekung",
+    "remarks": "There is an ablution area in the musolla. Musolla is air-conditioned. Segregated male and female praying area. ",
+    "toiletLevel": "Basement 1",
+    "updatedAt": "2015-01-02T04:33:49.918Z",
+    "uuid": "5e304bba-6586-4311-b587-9705d71dc3e6",
+    "type": "Musolla",
+    "geohash": "w21z64sbp3"
+  }
+}

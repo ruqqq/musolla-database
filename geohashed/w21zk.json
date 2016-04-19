@@ -1,0 +1,107 @@
+{
+  "w21zkx4byd": {
+    "address": "90 Lor K Telok Kurau, Singapore 425723",
+    "contact": "6345 6504",
+    "createdAt": "2014-12-23T06:50:22.302Z",
+    "location": {
+      "latitude": 1.313007,
+      "longitude": 103.912757
+    },
+    "name": "Abdul Aleem Siddique Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:22.506Z",
+    "uuid": "8bde9cee-d9da-4f24-a02f-78b727345b4d",
+    "geohash": "w21zkx4byd"
+  },
+  "w21zkprrf6": {
+    "address": "32 Onan Road S(424484)",
+    "createdAt": "2014-12-23T04:46:37.117Z",
+    "directions": "Take the staircase to level 2. Male's praying area is at level2, for female take another staircase beside ablution area",
+    "level": "2",
+    "location": {
+      "latitude": 1.315581,
+      "longitude": 103.896776
+    },
+    "mrt": "Paya Lebar",
+    "name": "Darul Arqam",
+    "provision": "Prayer Mat, Telekung, Sarong, Songkok, Perfume, Mirror",
+    "remarks": "Segregated male and female praying area. Ablution place is provided.",
+    "toiletLevel": "2",
+    "updatedAt": "2014-12-23T05:33:07.583Z",
+    "uuid": "7a44b110-d078-432e-b37e-b1374a75c5e2",
+    "type": "Musolla",
+    "geohash": "w21zkprrf6"
+  },
+  "w21zkr0upe": {
+    "address": "130 Joo Chiat Road, Singapore 427727",
+    "contact": "6345 2884",
+    "createdAt": "2014-12-23T06:50:22.402Z",
+    "location": {
+      "latitude": 1.31357,
+      "longitude": 103.899067
+    },
+    "name": "Khalid Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:57.993Z",
+    "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
+    "geohash": "w21zkr0upe"
+  },
+  "w21zkpgf7s": {
+    "address": "25 Paya Lebar Road, Singapore 409004",
+    "contact": "6747 2743",
+    "createdAt": "2014-12-23T06:50:22.436Z",
+    "location": {
+      "latitude": 1.317394,
+      "longitude": 103.892021
+    },
+    "name": "Wak Tanjong Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:02.416Z",
+    "uuid": "ac87d5ea-e43d-48eb-8181-00fb4248cd51",
+    "geohash": "w21zkpgf7s"
+  },
+  "w21zkrvhfq": {
+    "address": "1 Jalan Eunos, Singapore 419493",
+    "contact": "6744 5544",
+    "createdAt": "2014-12-23T06:50:22.357Z",
+    "location": {
+      "latitude": 1.317836,
+      "longitude": 103.904678
+    },
+    "name": "Darul Aman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:13.971Z",
+    "uuid": "79b51ceb-884f-4ab7-b206-d8199163bfc3",
+    "geohash": "w21zkrvhfq"
+  },
+  "w21zkymxpw": {
+    "address": "451 Marine Parade Road, Singapore 449283",
+    "contact": "6243 7060",
+    "createdAt": "2014-12-23T06:50:22.369Z",
+    "location": {
+      "latitude": 1.309982,
+      "longitude": 103.927558
+    },
+    "name": "Kampung Siglap Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:52.898Z",
+    "uuid": "6f7ca455-c755-4218-b085-64afc10fe98d",
+    "geohash": "w21zkymxpw"
+  },
+  "w21zkqh73z": {
+    "address": "381 Joo Chiat Road S(427621)",
+    "createdAt": "2014-12-23T04:46:37.134Z",
+    "directions": "Take the lift to level 4, turn left and enter stair A exit door. Go up to level 5 and turn left and proceed straight to the extreme end where the musolla is located. There are signs to lead to the location.",
+    "level": "5",
+    "location": {
+      "latitude": 1.307971,
+      "longitude": 103.903625
+    },
+    "mrt": "Eunos",
+    "name": "Lagun Sari at OCN Building",
+    "updatedAt": "2014-12-23T05:34:10.560Z",
+    "uuid": "ab40d106-a9d5-44a1-96d7-98ddf0c32cf9",
+    "type": "Musolla",
+    "geohash": "w21zkqh73z"
+  }
+}

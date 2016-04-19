@@ -1,0 +1,88 @@
+{
+  "w21zt6ke6f": {
+    "address": "336 Bedok Road S(469512)",
+    "createdAt": "2014-12-23T04:46:37.149Z",
+    "directions": "Prayer room is for their staff but customers may ask permission to use it",
+    "level": "2",
+    "location": {
+      "latitude": 1.331288,
+      "longitude": 103.947952
+    },
+    "mrt": "Tanah Merah",
+    "name": "SPIZE at Bedok",
+    "updatedAt": "2014-12-23T05:34:12.098Z",
+    "uuid": "5b5a6a21-d2d3-4755-bf73-18b824e78118",
+    "type": "Musolla",
+    "geohash": "w21zt6ke6f"
+  },
+  "w21ztnwxqz": {
+    "address": "503 Tampines Avenue 5, Singapore 529651",
+    "contact": "6786 5545",
+    "createdAt": "2014-12-23T06:50:22.192Z",
+    "location": {
+      "latitude": 1.35535,
+      "longitude": 103.939882
+    },
+    "name": "Darul Ghufran Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:42.321Z",
+    "uuid": "842b4871-72f9-43e7-9e4d-320d58bcea8c",
+    "geohash": "w21ztnwxqz"
+  },
+  "w21ztq4xgf": {
+    "address": "4 Tampines Central 5 S(529510)",
+    "createdAt": "2014-12-23T04:46:37.102Z",
+    "directions": "Head towards level 3 lift lobby, turn right down the hallway. Musolla is located in rooms with sliding doors",
+    "femaleCapacity": 3,
+    "level": "3",
+    "location": {
+      "latitude": 1.352661,
+      "longitude": 103.945245
+    },
+    "maleCapacity": 2,
+    "mrt": "Tampines",
+    "name": "Tampines Mall",
+    "provision": "Prayer Mat, Telekung, Slippers",
+    "remarks": "Segregated male and female praying area.",
+    "toiletLevel": "3",
+    "updatedAt": "2015-01-13T10:18:13.444Z",
+    "uuid": "a47c10e2-6863-4606-8372-5978ad38f397",
+    "type": "Musolla",
+    "geohash": "w21ztq4xgf"
+  },
+  "w21ztdsss3": {
+    "address": "1 Expo Drive S(486150)",
+    "createdAt": "2014-12-23T04:46:37.071Z",
+    "directions": "Take the staircase/elevator up to level 2. The staircase is located at the entrance to Hall 6 from level 2. (There is a door with a musolla sign to the staircase.)",
+    "femaleCapacity": 6,
+    "level": "2",
+    "location": {
+      "latitude": 1.332875,
+      "longitude": 103.959004
+    },
+    "maleCapacity": 6,
+    "mrt": "Expo",
+    "name": "Singapore Expo, Hall 6",
+    "provision": "Telekung, Stool, Prayer Mat, Songkok, Sewing Kit, Mirror, Fan, Slippers",
+    "remarks": "Segregated male and female praying area.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-01-02T04:37:02.705Z",
+    "uuid": "d1fa8eab-21b9-432e-ba93-6e9b03c76f1e",
+    "type": "Musolla",
+    "geohash": "w21ztdsss3"
+  },
+  "w21zt88sbk": {
+    "address": "11A, Jalan Bilal Bedok Singapore 468862",
+    "contact": "6442 7704",
+    "createdAt": "2014-12-23T06:50:22.347Z",
+    "location": {
+      "latitude": 1.321944,
+      "longitude": 103.953344
+    },
+    "name": "Al-Taqua Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:15.324Z",
+    "uuid": "c7623ffe-e628-4663-a50a-d47412fec80f",
+    "geohash": "w21zt88sbk"
+  }
+}

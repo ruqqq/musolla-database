@@ -1,0 +1,26 @@
+{
+  "w21z8f9256": {
+    "ACL": {
+      "*": {
+        "read": true
+      }
+    },
+    "address": "1 Venture Avenue Singapore 608521",
+    "createdAt": "2015-02-06T02:31:35.483Z",
+    "directions": "At the basement carpark, find the signage that states staircase L. Turn right and you will see the prayer rooms.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.3321042,
+      "longitude": 103.7457591
+    },
+    "mrt": "Jurong East",
+    "name": "Big Box",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female prayer room might be locked. Ablution place is provided.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-05-05T07:00:32.309Z",
+    "uuid": "39f26f71-0d11-4cc2-82cb-ca2c1993c5f2",
+    "type": "Musolla",
+    "geohash": "w21z8f9256"
+  }
+}

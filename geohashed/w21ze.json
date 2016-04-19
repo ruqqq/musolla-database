@@ -1,0 +1,86 @@
+{
+  "w21zenqj5c": {
+    "address": "9A Bishan Street 14, Singapore 579786",
+    "contact": "6354 3138",
+    "createdAt": "2014-12-23T06:50:21.830Z",
+    "location": {
+      "latitude": 1.353559,
+      "longitude": 103.851182
+    },
+    "name": "An Nahdhah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:45.910Z",
+    "uuid": "fa1d6bc2-21d1-4567-863c-9c22c542c7e7",
+    "geohash": "w21zenqj5c"
+  },
+  "w21zedsm0u": {
+    "address": "66 Pheng Geck Avenue, Singapore 348261",
+    "contact": "6280 0300",
+    "createdAt": "2014-12-23T06:50:22.335Z",
+    "location": {
+      "latitude": 1.332976,
+      "longitude": 103.87062
+    },
+    "name": "Alkaff Upp Serangoon Rd Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:16.944Z",
+    "uuid": "36c4c291-ed47-4b50-826a-4da5c498061e",
+    "geohash": "w21zedsm0u"
+  },
+  "w21zeyfcuz": {
+    "address": "2 Hillside Drive Upper Serangoon Road, S(548920)",
+    "contact": "6284 5459",
+    "createdAt": "2014-12-23T06:50:22.214Z",
+    "location": {
+      "latitude": 1.355779,
+      "longitude": 103.879718
+    },
+    "name": "Haji Yusoff Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:40.543Z",
+    "uuid": "b714f4e1-06d6-4b4a-98a4-5d86f87b2f3c",
+    "geohash": "w21zeyfcuz"
+  },
+  "w21zehwbgm": {
+    "address": "275 Braddell Road, Singapore 579704",
+    "contact": "6256 1166",
+    "createdAt": "2014-12-23T06:50:21.915Z",
+    "location": {
+      "latitude": 1.343235,
+      "longitude": 103.852193
+    },
+    "name": "Muhajirin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:06.672Z",
+    "uuid": "33806974-5d3f-40d5-9f47-12e2ec59e8fe",
+    "geohash": "w21zehwbgm"
+  },
+  "w21zec7gpg": {
+    "address": "1 Mattar Road, Singapore 387713",
+    "contact": "6749 2382",
+    "createdAt": "2014-12-23T06:50:22.424Z",
+    "location": {
+      "latitude": 1.325757,
+      "longitude": 103.881217
+    },
+    "name": "Sallim Mattar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:00.330Z",
+    "uuid": "1d3cdfab-0890-408c-b703-714a6f7c763a",
+    "geohash": "w21zec7gpg"
+  },
+  "w21ze32v3v": {
+    "address": "76 Kim Keat Road, Singapore 328835",
+    "contact": "6255 8262",
+    "createdAt": "2014-12-23T06:50:21.885Z",
+    "location": {
+      "latitude": 1.326157,
+      "longitude": 103.85487
+    },
+    "name": "Hajjah Rahimabi Kebun Limau Mosque",
+    "type": "Mosque",
+    "updatedAt": "2015-06-17T15:57:05.478Z",
+    "uuid": "d67e8436-1e02-4ca3-a114-bfb2b17ff141",
+    "geohash": "w21ze32v3v"
+  }
+}

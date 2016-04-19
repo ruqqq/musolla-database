@@ -1,0 +1,42 @@
+{
+  "w23b1tr82g": {
+    "address": "900 South Woodlands Drive S(730900)",
+    "createdAt": "2014-12-23T04:46:36.944Z",
+    "directions": "Proceed to level 1 library entrance and enter the exit door on the left. Walk to the end for female area. For male, take the staircase inside to level 2.",
+    "femaleCapacity": 4,
+    "level": "1",
+    "location": {
+      "latitude": 1.435152,
+      "longitude": 103.787195
+    },
+    "maleCapacity": 10,
+    "mrt": "Woodlands",
+    "name": "Civic Centre",
+    "remarks": "Not an official praying area. Shared male & female area.",
+    "toiletLevel": "1",
+    "updatedAt": "2015-01-14T14:38:24.710Z",
+    "uuid": "801fe031-ae33-4e16-a2d5-f55a0d292c55",
+    "type": "Musolla",
+    "geohash": "w23b1tr82g"
+  },
+  "w23b1tqdgw": {
+    "address": "1 Woodlands Square, Causeway Point, Singapore 738099",
+    "createdAt": "2015-07-09T04:32:25.186Z",
+    "directions": "Go past the toilet beside Giordano and turn left into the lift lobby",
+    "level": "1",
+    "location": {
+      "latitude": 1.435594,
+      "longitude": 103.785934
+    },
+    "name": "Causeway Point",
+    "provision": "Prayer Mat",
+    "remarks": "Lift Lobby (Goods Lift)",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 4,
+    "updatedAt": "2015-07-09T04:32:25.186Z",
+    "uuid": "e76be0fa-4356-4d0f-a72f-b29d1a79b19c",
+    "geohash": "w23b1tqdgw",
+    "submitterName": "Tengku Hafidz"
+  }
+}

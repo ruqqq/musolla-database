@@ -1,0 +1,30 @@
+{
+  "w23b69068u": {
+    "address": "1 Admiralty Lane, Singapore 757620",
+    "contact": "6756 3008",
+    "createdAt": "2014-12-23T06:50:22.258Z",
+    "location": {
+      "latitude": 1.456144,
+      "longitude": 103.821187
+    },
+    "name": "Assyafaah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:30.804Z",
+    "uuid": "8964eae7-d869-41b6-af84-085c4119e645",
+    "geohash": "w23b69068u"
+  },
+  "w23b6cx5zx": {
+    "address": "27-B, Jalan Mempurong, Singapore 759055",
+    "contact": "6257 7614",
+    "createdAt": "2014-12-23T06:50:22.291Z",
+    "location": {
+      "latitude": 1.45912,
+      "longitude": 103.841724
+    },
+    "name": "Petempatan Melayu Sembawang Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:23.684Z",
+    "uuid": "e928dcf3-883f-45db-b391-47971f702142",
+    "geohash": "w23b6cx5zx"
+  }
+}

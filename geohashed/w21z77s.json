@@ -1,0 +1,19 @@
+{
+  "w21z77s647": {
+    "address": "3 Temasek Avenue S(039190)",
+    "createdAt": "2014-12-23T04:46:37.403Z",
+    "directions": "Take lift from main lobby to Basement 1 and turn right. Enter exit door (to carpark B1) and turn right towards carpark. Turn left and there is a small prayer place located at the extreme end.",
+    "level": "Basement 1 Carpark (next to parking bays 28-29 (Red))",
+    "location": {
+      "latitude": 1.294001,
+      "longitude": 103.859702
+    },
+    "mrt": "City Hall/Esplanade",
+    "name": "Suntec City/Millenia Walk",
+    "remarks": "Ablution place is provided outside the room",
+    "updatedAt": "2014-12-23T05:34:34.443Z",
+    "uuid": "1516c631-2d37-4045-9fe0-d37e5494d5d0",
+    "type": "Musolla",
+    "geohash": "w21z77s647"
+  }
+}

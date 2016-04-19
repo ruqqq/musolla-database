@@ -1,0 +1,23 @@
+{
+  "w21z75x6cc": {
+    "address": "252 North Bridge Road S(179103)",
+    "createdAt": "2014-12-23T04:46:37.331Z",
+    "directions": "Beside Quest Salon #02-27. Go straight between WAREHOUSE and BCBGMAXAZRIA.",
+    "femaleCapacity": 2,
+    "level": "2",
+    "location": {
+      "latitude": 1.294118,
+      "longitude": 103.852813
+    },
+    "maleCapacity": 6,
+    "mrt": "City Hall",
+    "name": "Raffles City Shopping Centre",
+    "provision": "Prayer Mat, Telekung, Slippers, Tasbih, Al-Quran, Sarong, Songkok, Telekung",
+    "remarks": "Segregated male and female praying area. Can also be accessed from Swissotel The Stamford Hotel.",
+    "toiletLevel": "2",
+    "updatedAt": "2014-12-23T05:34:26.787Z",
+    "uuid": "78452ab4-009b-4ef4-958b-cb74c16f71be",
+    "type": "Musolla",
+    "geohash": "w21z75x6cc"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "w21z4kz9j5": {
+    "address": "8 Sentosa Gateway S(098269)",
+    "createdAt": "2014-12-23T04:46:37.025Z",
+    "directions": "B1, Beach Station yellow zone carpark. Take the escalator opposite the information counter to the basement carpark. Turn right and there is a separate room for male & female with a sign stated \"Prayer Room\". Ablution can be taken at the nearby water point just to the right of the musolla.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.256752,
+      "longitude": 103.820331
+    },
+    "mrt": "Harbourfront",
+    "name": "Sentosa Island, Beach Station",
+    "updatedAt": "2014-12-23T05:32:54.683Z",
+    "uuid": "7e07b4f9-1098-4732-9272-d3fec9c56e20",
+    "type": "Musolla",
+    "geohash": "w21z4kz9j5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "w21zve1epq": {
+    "address": "1 Pasir Ris Close S(519599)",
+    "createdAt": "2014-12-23T04:46:37.056Z",
+    "directions": "Head to the end of the Asli Village Halal Foodcourt. Musolla is located near Pizza Hut, directly behind Lotus Secret Bun.",
+    "level": "1",
+    "location": {
+      "latitude": 1.379336,
+      "longitude": 103.955017
+    },
+    "mrt": "Pasir Ris",
+    "name": "Downtown East",
+    "provision": "Prayer Mat, Al-Quran, Slippers, Telekung",
+    "remarks": "Ablution area is located behind the musolla. Segregated male and female praying area.",
+    "toiletLevel": "1",
+    "unisexCapacity": 3,
+    "updatedAt": "2014-12-23T05:33:01.445Z",
+    "uuid": "ebc063d2-2fb3-4319-a0a8-3bdd58e44e9a",
+    "type": "Musolla",
+    "geohash": "w21zve1epq"
+  }
+}

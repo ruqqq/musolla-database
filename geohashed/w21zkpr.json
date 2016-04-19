@@ -1,0 +1,21 @@
+{
+  "w21zkprrf6": {
+    "address": "32 Onan Road S(424484)",
+    "createdAt": "2014-12-23T04:46:37.117Z",
+    "directions": "Take the staircase to level 2. Male's praying area is at level2, for female take another staircase beside ablution area",
+    "level": "2",
+    "location": {
+      "latitude": 1.315581,
+      "longitude": 103.896776
+    },
+    "mrt": "Paya Lebar",
+    "name": "Darul Arqam",
+    "provision": "Prayer Mat, Telekung, Sarong, Songkok, Perfume, Mirror",
+    "remarks": "Segregated male and female praying area. Ablution place is provided.",
+    "toiletLevel": "2",
+    "updatedAt": "2014-12-23T05:33:07.583Z",
+    "uuid": "7a44b110-d078-432e-b37e-b1374a75c5e2",
+    "type": "Musolla",
+    "geohash": "w21zkprrf6"
+  }
+}

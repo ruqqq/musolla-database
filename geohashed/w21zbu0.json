@@ -1,0 +1,22 @@
+{
+  "w21zbu0g6f": {
+    "address": "21 Choa Chu Kang Ave 4 S(689812)",
+    "createdAt": "2014-12-23T04:46:36.922Z",
+    "directions": "Proceed to level 4 and find the staircase beside the library",
+    "level": "4",
+    "location": {
+      "latitude": 1.384848,
+      "longitude": 103.745046
+    },
+    "mrt": "Choa Chu Kang",
+    "name": "Lot One",
+    "provision": "Qiblah Direction",
+    "remarks": "Shared male and female praying area. Not an official praying area.",
+    "toiletLevel": "4",
+    "unisexCapacity": 5,
+    "updatedAt": "2014-12-23T05:35:45.408Z",
+    "uuid": "bd574847-11da-412b-810b-e5f650f8a7ba",
+    "type": "Musolla",
+    "geohash": "w21zbu0g6f"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "w21z75jqjn": {
+    "address": "3 Coleman Street S(179804)",
+    "createdAt": "2014-12-23T04:46:37.346Z",
+    "directions": "Proceed to exit opposite shop #B1-08.",
+    "level": "Basement 2",
+    "location": {
+      "latitude": 1.29196,
+      "longitude": 103.8502
+    },
+    "mrt": "City Hall",
+    "name": "Peninsula Shopping Centre",
+    "provision": "Prayer Mat, Sarong",
+    "toiletLevel": "B2",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:34:29.506Z",
+    "uuid": "ae46d59b-2ce7-4b64-8d3b-5e7608973da6",
+    "type": "Musolla",
+    "geohash": "w21z75jqjn"
+  }
+}

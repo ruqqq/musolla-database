@@ -1,0 +1,16 @@
+{
+  "w21z62nug3": {
+    "address": "50 Telok Blangah Way, Singapore 098801",
+    "contact": "6272 5309",
+    "createdAt": "2014-12-23T06:50:21.972Z",
+    "location": {
+      "latitude": 1.275238,
+      "longitude": 103.819231
+    },
+    "name": "Al-Amin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:32.046Z",
+    "uuid": "311fcabc-5709-44b9-a044-4b03d03e33c0",
+    "geohash": "w21z62nug3"
+  }
+}

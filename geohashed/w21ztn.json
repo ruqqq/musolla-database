@@ -1,0 +1,16 @@
+{
+  "w21ztnwxqz": {
+    "address": "503 Tampines Avenue 5, Singapore 529651",
+    "contact": "6786 5545",
+    "createdAt": "2014-12-23T06:50:22.192Z",
+    "location": {
+      "latitude": 1.35535,
+      "longitude": 103.939882
+    },
+    "name": "Darul Ghufran Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:42.321Z",
+    "uuid": "842b4871-72f9-43e7-9e4d-320d58bcea8c",
+    "geohash": "w21ztnwxqz"
+  }
+}

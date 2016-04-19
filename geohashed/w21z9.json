@@ -1,0 +1,63 @@
+{
+  "w21z9d8kzr": {
+    "address": "535 Clementi Road S(599489)",
+    "createdAt": "2014-12-23T04:46:37.694Z",
+    "directions": "Block 16 Stadium (Level 3, near the washroom)",
+    "level": "3",
+    "location": {
+      "latitude": 1.332948,
+      "longitude": 103.777515
+    },
+    "mrt": "Clementi",
+    "name": "Ngee Ann Polytechnic, Block 16",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "3",
+    "updatedAt": "2014-12-23T05:35:07.015Z",
+    "uuid": "9539d224-5da1-4dcc-bfef-a36b1f69dd1a",
+    "type": "Musolla",
+    "geohash": "w21z9d8kzr"
+  },
+  "w21z9bv7dv": {
+    "address": "34 Jalan Haji Alias, Singapore 268534",
+    "contact": "6468 4844",
+    "createdAt": "2014-12-23T06:50:22.225Z",
+    "location": {
+      "latitude": 1.323111,
+      "longitude": 103.795177
+    },
+    "name": "Al-Huda Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:37.707Z",
+    "uuid": "046236a0-b77a-4c81-895e-f8381b648159",
+    "geohash": "w21z9bv7dv"
+  },
+  "w21z9n0f49": {
+    "address": "30 Bukit Batok East Ave 2, Singapore 659919",
+    "contact": "6899 5840",
+    "createdAt": "2014-12-23T06:50:22.492Z",
+    "location": {
+      "latitude": 1.351671,
+      "longitude": 103.756025
+    },
+    "name": "Ar-Raudhah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:08.802Z",
+    "uuid": "e4c890ba-4299-4671-87f4-ff26ef71321d",
+    "geohash": "w21z9n0f49"
+  },
+  "w21z96pf2q": {
+    "address": "461 Clementi Road S(599491)",
+    "createdAt": "2014-12-23T04:46:37.900Z",
+    "directions": "Blk A (Stairs 24 beside lecture theatre 1.17A)",
+    "location": {
+      "latitude": 1.329766,
+      "longitude": 103.776529
+    },
+    "mrt": "Clementi",
+    "name": "Singapore Institute of Management, Blk A",
+    "updatedAt": "2014-12-23T05:35:22.475Z",
+    "uuid": "7b1cf79a-9fbd-465a-8f18-a3198fd92462",
+    "type": "Musolla",
+    "geohash": "w21z96pf2q"
+  }
+}

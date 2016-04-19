@@ -1,0 +1,16 @@
+{
+  "w23b42pdn2": {
+    "address": "15 Jalan Ulu Seletar, Singapore 769227",
+    "contact": "6454 0848",
+    "createdAt": "2014-12-23T06:50:21.796Z",
+    "location": {
+      "latitude": 1.406598,
+      "longitude": 103.820393
+    },
+    "name": "Ahmad Ibrahim Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:40.494Z",
+    "uuid": "9f259807-283c-46d5-a06a-7b57ff3f32fd",
+    "geohash": "w23b42pdn2"
+  }
+}

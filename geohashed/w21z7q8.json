@@ -1,0 +1,16 @@
+{
+  "w21z7q84ze": {
+    "address": "265 Serangoon Road, Singapore 218099",
+    "contact": "6295 1478",
+    "createdAt": "2014-12-23T06:50:21.841Z",
+    "location": {
+      "latitude": 1.31061,
+      "longitude": 103.854087
+    },
+    "name": "Anggulia Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:48.534Z",
+    "uuid": "e57d9a3e-28e9-418f-b263-a8982677fff3",
+    "geohash": "w21z7q84ze"
+  }
+}

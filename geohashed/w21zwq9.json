@@ -1,0 +1,18 @@
+{
+  "w21zwq9zrf": {
+    "address": "60 Airport Boulevard, Singapore 819643\n",
+    "createdAt": "2015-01-02T10:09:00.144Z",
+    "directions": "Departure Transit: Lounge North, near gate E, behind Aido.",
+    "level": "2",
+    "location": {
+      "latitude": 1.355322,
+      "longitude": 103.988337
+    },
+    "mrt": "Changi",
+    "name": "Changi Airport Terminal 2",
+    "updatedAt": "2015-01-05T02:39:31.574Z",
+    "uuid": "f767f531-c7bc-432c-9c95-192687c9ca35",
+    "type": "Musolla",
+    "geohash": "w21zwq9zrf"
+  }
+}

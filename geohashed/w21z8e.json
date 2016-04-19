@@ -1,0 +1,16 @@
+{
+  "w21z8ey1w5": {
+    "address": "271 Jurong East Street 21, Singapore 609603",
+    "contact": "6567 7777",
+    "createdAt": "2014-12-23T06:50:22.482Z",
+    "location": {
+      "latitude": 1.339237,
+      "longitude": 103.741415
+    },
+    "name": "Al-Mukminin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:07.668Z",
+    "uuid": "cb94171b-7be0-4ef3-8d1f-33e1a1d42755",
+    "geohash": "w21z8ey1w5"
+  }
+}

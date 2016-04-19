@@ -1,0 +1,56 @@
+{
+  "w21z75jqjn": {
+    "address": "3 Coleman Street S(179804)",
+    "createdAt": "2014-12-23T04:46:37.346Z",
+    "directions": "Proceed to exit opposite shop #B1-08.",
+    "level": "Basement 2",
+    "location": {
+      "latitude": 1.29196,
+      "longitude": 103.8502
+    },
+    "mrt": "City Hall",
+    "name": "Peninsula Shopping Centre",
+    "provision": "Prayer Mat, Sarong",
+    "toiletLevel": "B2",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:34:29.506Z",
+    "uuid": "ae46d59b-2ce7-4b64-8d3b-5e7608973da6",
+    "type": "Musolla",
+    "geohash": "w21z75jqjn"
+  },
+  "w21z75mxh0": {
+    "address": "39 Hill Street, Singapore 179364",
+    "contact": "6224 1021",
+    "createdAt": "2014-12-23T06:50:21.874Z",
+    "location": {
+      "latitude": 1.293469,
+      "longitude": 103.850506
+    },
+    "name": "Burhani Mosque",
+    "type": "Mosque",
+    "updatedAt": "2015-07-02T06:55:25.481Z",
+    "uuid": "ebf8111d-807b-41f2-95e6-50bb909ed99c",
+    "geohash": "w21z75mxh0"
+  },
+  "w21z75x6cc": {
+    "address": "252 North Bridge Road S(179103)",
+    "createdAt": "2014-12-23T04:46:37.331Z",
+    "directions": "Beside Quest Salon #02-27. Go straight between WAREHOUSE and BCBGMAXAZRIA.",
+    "femaleCapacity": 2,
+    "level": "2",
+    "location": {
+      "latitude": 1.294118,
+      "longitude": 103.852813
+    },
+    "maleCapacity": 6,
+    "mrt": "City Hall",
+    "name": "Raffles City Shopping Centre",
+    "provision": "Prayer Mat, Telekung, Slippers, Tasbih, Al-Quran, Sarong, Songkok, Telekung",
+    "remarks": "Segregated male and female praying area. Can also be accessed from Swissotel The Stamford Hotel.",
+    "toiletLevel": "2",
+    "updatedAt": "2014-12-23T05:34:26.787Z",
+    "uuid": "78452ab4-009b-4ef4-958b-cb74c16f71be",
+    "type": "Musolla",
+    "geohash": "w21z75x6cc"
+  }
+}

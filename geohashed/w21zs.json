@@ -1,0 +1,86 @@
+{
+  "w21zscsu68": {
+    "address": "155 Bedok North Avenue 1, Singapore 469751",
+    "contact": "6449 2420",
+    "createdAt": "2014-12-23T06:50:22.324Z",
+    "location": {
+      "latitude": 1.327329,
+      "longitude": 103.926316
+    },
+    "name": "Al-Ansar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:19.936Z",
+    "uuid": "683f61a9-4dbe-4445-a3c2-1006da17c713",
+    "geohash": "w21zscsu68"
+  },
+  "w21zspu0ng": {
+    "address": "120 Tampines Road, Singapore 535136",
+    "contact": "6287 9225",
+    "createdAt": "2014-12-23T06:50:22.203Z",
+    "location": {
+      "latitude": 1.360952,
+      "longitude": 103.892509
+    },
+    "name": "En-Naeem Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:41.330Z",
+    "uuid": "e1d61299-8b36-4697-96c2-887f8a602fae",
+    "geohash": "w21zspu0ng"
+  },
+  "w21zs2yvpj": {
+    "address": "30 Jalan Ismail, Singapore 419285",
+    "contact": "6846 8404",
+    "createdAt": "2014-12-23T06:50:22.313Z",
+    "location": {
+      "latitude": 1.323368,
+      "longitude": 103.907277
+    },
+    "name": "Al-Abdul Razak Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:20.909Z",
+    "uuid": "232e59e9-8522-4c04-8617-4c611f5acbe7",
+    "geohash": "w21zs2yvpj"
+  },
+  "w21zs8ub2f": {
+    "address": "67 Jalan Lapang, Singapore 419007",
+    "contact": "6243 2129",
+    "createdAt": "2014-12-23T06:50:22.413Z",
+    "location": {
+      "latitude": 1.322534,
+      "longitude": 103.915254
+    },
+    "name": "Mydin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:59.093Z",
+    "uuid": "ab18c5d8-7c0f-48b3-b315-5994c1fc05ed",
+    "geohash": "w21zs8ub2f"
+  },
+  "w21zse7f52": {
+    "address": "200 Bedok Reservoir Road, Singapore 479221",
+    "contact": "6242 7244",
+    "createdAt": "2014-12-23T06:50:22.167Z",
+    "location": {
+      "latitude": 1.336558,
+      "longitude": 103.913986
+    },
+    "name": "Alkaff Kampung Melayu Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:45.802Z",
+    "uuid": "388ecd6c-4b30-472e-be29-dfe01d64d72e",
+    "geohash": "w21zse7f52"
+  },
+  "w21zs849zw": {
+    "address": "450 Changi Road, Singapore 419877",
+    "contact": "6440 4742",
+    "createdAt": "2014-12-23T06:50:22.380Z",
+    "location": {
+      "latitude": 1.318692,
+      "longitude": 103.912451
+    },
+    "name": "Kassim Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:54.205Z",
+    "uuid": "f10ff22f-6d02-44fb-b546-3664c3f770ea",
+    "geohash": "w21zs849zw"
+  }
+}

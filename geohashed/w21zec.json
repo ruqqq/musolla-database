@@ -1,0 +1,16 @@
+{
+  "w21zec7gpg": {
+    "address": "1 Mattar Road, Singapore 387713",
+    "contact": "6749 2382",
+    "createdAt": "2014-12-23T06:50:22.424Z",
+    "location": {
+      "latitude": 1.325757,
+      "longitude": 103.881217
+    },
+    "name": "Sallim Mattar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:00.330Z",
+    "uuid": "1d3cdfab-0890-408c-b703-714a6f7c763a",
+    "geohash": "w21zec7gpg"
+  }
+}

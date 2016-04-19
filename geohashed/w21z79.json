@@ -1,0 +1,20 @@
+{
+  "w21z790z4d": {
+    "address": "18 Marina Gardens Drive, Singapore 018953",
+    "createdAt": "2015-01-02T10:18:09.180Z",
+    "directions": "Beside Texas Chicken at the Supreme Dining Area. Look for a small room (white door) which states 'Musholla'.",
+    "location": {
+      "latitude": 1.2811198,
+      "longitude": 103.865893
+    },
+    "mrt": "Bayfront",
+    "name": "Gardens by the Bay",
+    "provision": "All amenities are provided.",
+    "toiletLevel": "Near Supreme Dining Area",
+    "unisexCapacity": 5,
+    "updatedAt": "2015-01-05T02:37:44.454Z",
+    "uuid": "a03a7d82-bf7e-4fb6-967f-7ff0efacf21e",
+    "type": "Musolla",
+    "geohash": "w21z790z4d"
+  }
+}

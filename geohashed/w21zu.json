@@ -1,0 +1,34 @@
+{
+  "w21zu080wq": {
+    "address": "1033 Upper Serangoon Road S(534768)",
+    "createdAt": "2014-12-23T04:46:37.494Z",
+    "directions": "3rd level staircase landing, behind one of the older lecture theatres. ",
+    "level": "3",
+    "location": {
+      "latitude": 1.365172,
+      "longitude": 103.886996
+    },
+    "mrt": "Ang Mo Kio",
+    "name": "Serangoon Junior College",
+    "provision": "Ablution Facilities",
+    "toiletLevel": "1",
+    "updatedAt": "2014-12-23T05:34:44.670Z",
+    "uuid": "9b35e834-00d1-492a-a792-54c9ea07beee",
+    "type": "Musolla",
+    "geohash": "w21zu080wq"
+  },
+  "w21zu5fyxu": {
+    "address": "151 Compassvale Bow, Singapore 544997",
+    "contact": "6489 0224",
+    "createdAt": "2014-12-23T06:50:22.181Z",
+    "location": {
+      "latitude": 1.384042,
+      "longitude": 103.890838
+    },
+    "name": "Al-Mawaddah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:43.875Z",
+    "uuid": "8882f6a1-cf5a-4315-abc2-aed4d01e0746",
+    "geohash": "w21zu5fyxu"
+  }
+}

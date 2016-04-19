@@ -1,0 +1,20 @@
+{
+  "w21z37sjrv": {
+    "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
+    "createdAt": "2014-12-23T04:46:38.052Z",
+    "directions": "FASS AS4 \"Deck\" Canteen - From Muslim Stall1, walk straight, turn left and enter the door next to the handicapped toilet. Walk straight, on your left is \"Centre of Language Studies\". Turn right and enter the door (near to female toilet) to lift. Go to level 6. Turn right; enter the door to staircase A.",
+    "level": "6",
+    "location": {
+      "latitude": 1.294571,
+      "longitude": 103.771702
+    },
+    "mrt": "Kent Ridge",
+    "name": "AS4 Arts and Social Science, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "6",
+    "updatedAt": "2015-01-16T02:10:47.120Z",
+    "uuid": "6884ccfd-9be9-4165-855b-4bfb01dba9c9",
+    "type": "Musolla",
+    "geohash": "w21z37sjrv"
+  }
+}

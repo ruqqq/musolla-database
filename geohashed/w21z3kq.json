@@ -1,0 +1,20 @@
+{
+  "w21z3kqsb6": {
+    "address": "21 Lower Kent Ridge Road S(119077)",
+    "createdAt": "2014-12-23T04:46:37.916Z",
+    "directions": "YIH - Take A1 from Kent Ridge MRT. Alight at YIH bus stop. Climb the stairs towards Student Service Centre to level 3.",
+    "level": "3",
+    "location": {
+      "latitude": 1.29859,
+      "longitude": 103.774811
+    },
+    "mrt": "Kent Ridge",
+    "name": "YIH, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "toiletLevel": "3",
+    "updatedAt": "2015-01-16T02:10:16.613Z",
+    "uuid": "be641313-1f42-426e-8a09-fc9406eb99be",
+    "type": "Musolla",
+    "geohash": "w21z3kqsb6"
+  }
+}

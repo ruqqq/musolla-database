@@ -1,0 +1,464 @@
+{
+  "w21z7156f0": {
+    "address": "192 Telok Ayer Street, Singapore 068635",
+    "contact": "6220 6306",
+    "createdAt": "2014-12-23T06:50:21.959Z",
+    "location": {
+      "latitude": 1.280381,
+      "longitude": 103.84733
+    },
+    "name": "Al-Abrar (Koochoo Pally) Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:00.387Z",
+    "uuid": "f51a6365-5ecb-45ac-9fdb-ad443bd03f3b",
+    "geohash": "w21z7156f0"
+  },
+  "w21z719ghd": {
+    "address": "218 South Bridge Road, Singapore 058767",
+    "contact": "6221 4165",
+    "createdAt": "2014-12-23T06:50:22.017Z",
+    "location": {
+      "latitude": 1.283183,
+      "longitude": 103.845372
+    },
+    "name": "Jamae Chulia Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:24.882Z",
+    "uuid": "b3f32310-abfb-4c5c-8704-a2e14f5fad1e",
+    "geohash": "w21z719ghd"
+  },
+  "w21z75jqjn": {
+    "address": "3 Coleman Street S(179804)",
+    "createdAt": "2014-12-23T04:46:37.346Z",
+    "directions": "Proceed to exit opposite shop #B1-08.",
+    "level": "Basement 2",
+    "location": {
+      "latitude": 1.29196,
+      "longitude": 103.8502
+    },
+    "mrt": "City Hall",
+    "name": "Peninsula Shopping Centre",
+    "provision": "Prayer Mat, Sarong",
+    "toiletLevel": "B2",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:34:29.506Z",
+    "uuid": "ae46d59b-2ce7-4b64-8d3b-5e7608973da6",
+    "type": "Musolla",
+    "geohash": "w21z75jqjn"
+  },
+  "w21z75mxh0": {
+    "address": "39 Hill Street, Singapore 179364",
+    "contact": "6224 1021",
+    "createdAt": "2014-12-23T06:50:21.874Z",
+    "location": {
+      "latitude": 1.293469,
+      "longitude": 103.850506
+    },
+    "name": "Burhani Mosque",
+    "type": "Mosque",
+    "updatedAt": "2015-07-02T06:55:25.481Z",
+    "uuid": "ebf8111d-807b-41f2-95e6-50bb909ed99c",
+    "geohash": "w21z75mxh0"
+  },
+  "w21z77s647": {
+    "address": "3 Temasek Avenue S(039190)",
+    "createdAt": "2014-12-23T04:46:37.403Z",
+    "directions": "Take lift from main lobby to Basement 1 and turn right. Enter exit door (to carpark B1) and turn right towards carpark. Turn left and there is a small prayer place located at the extreme end.",
+    "level": "Basement 1 Carpark (next to parking bays 28-29 (Red))",
+    "location": {
+      "latitude": 1.294001,
+      "longitude": 103.859702
+    },
+    "mrt": "City Hall/Esplanade",
+    "name": "Suntec City/Millenia Walk",
+    "remarks": "Ablution place is provided outside the room",
+    "updatedAt": "2014-12-23T05:34:34.443Z",
+    "uuid": "1516c631-2d37-4045-9fe0-d37e5494d5d0",
+    "type": "Musolla",
+    "geohash": "w21z77s647"
+  },
+  "w21z7ndgnk": {
+    "address": "100 Bukit Timah Road, Singapore 229899",
+    "createdAt": "2015-01-02T10:13:01.731Z",
+    "directions": "Women's Wing, at the staircase landing beside 24hr clinic (behind Exit door).",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.3106589,
+      "longitude": 103.8468218
+    },
+    "mrt": "Little India",
+    "name": "KK Women's and Children's Hospital",
+    "provision": "Slippers, Prayer Mat, Telekong",
+    "toiletLevel": "Basement 1",
+    "updatedAt": "2015-01-05T02:38:26.481Z",
+    "uuid": "a1870d7d-7eda-4f4f-bf69-f5af22967b95",
+    "type": "Musolla",
+    "geohash": "w21z7ndgnk",
+    "images": [
+      {
+        "uuid": "3c517489-0d45-4ef8-b028-36327d8178e3",
+        "caption": "Exit Door #23",
+        "uploaderName": "Riyavul Haja",
+        "createdAt": "2015-05-30T22:10:03.012Z",
+        "updatedAt": "2015-05-30T22:10:03.012Z"
+      }
+    ]
+  },
+  "w21z74vu88": {
+    "address": "1 Coleman Street S(170803)",
+    "createdAt": "2014-12-23T04:46:37.266Z",
+    "directions": "Enter straircase 2 located beside unit #03-09. Enter another door (any one). Musolla is located under the staircase.",
+    "level": "3",
+    "location": {
+      "latitude": 1.290294,
+      "longitude": 103.850701
+    },
+    "mrt": "City Hall",
+    "name": "Adelphi",
+    "provision": "Prayer Mat, Telekung, Slippers, Carpet",
+    "remarks": "Shared male and female praying area.",
+    "toiletLevel": "3",
+    "unisexCapacity": 6,
+    "updatedAt": "2014-12-23T05:34:23.772Z",
+    "uuid": "c9ea9723-df34-4e56-b71f-26bec0e2b41a",
+    "type": "Musolla",
+    "geohash": "w21z74vu88"
+  },
+  "w21z7ht9vs": {
+    "address": "51 Bencoolen Street, #01-01, Singapore 189630",
+    "contact": "6333 3016",
+    "createdAt": "2014-12-23T06:50:21.863Z",
+    "location": {
+      "latitude": 1.299457,
+      "longitude": 103.850565
+    },
+    "name": "Bencoolen Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:54.113Z",
+    "uuid": "a7566046-15b1-4153-9507-0214264bd6a1",
+    "geohash": "w21z7ht9vs"
+  },
+  "w21z743n5q": {
+    "address": "10 Keng Cheow Street, Singapore 059607",
+    "contact": "6532 6764",
+    "createdAt": "2014-12-23T06:50:21.926Z",
+    "location": {
+      "latitude": 1.287841,
+      "longitude": 103.844294
+    },
+    "name": "Omar Kg Melaka Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:05.334Z",
+    "uuid": "cc4e296b-b6ed-42ad-aa44-0396c0c40972",
+    "geohash": "w21z743n5q"
+  },
+  "w21z7q84ze": {
+    "address": "265 Serangoon Road, Singapore 218099",
+    "contact": "6295 1478",
+    "createdAt": "2014-12-23T06:50:21.841Z",
+    "location": {
+      "latitude": 1.31061,
+      "longitude": 103.854087
+    },
+    "name": "Anggulia Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:48.534Z",
+    "uuid": "e57d9a3e-28e9-418f-b263-a8982677fff3",
+    "geohash": "w21z7q84ze"
+  },
+  "w21z74j20h": {
+    "address": "UOB Plaza 80, Raffles Place, #B1-01,S(048624)",
+    "contact": "6536 5238",
+    "createdAt": "2014-12-23T06:50:22.078Z",
+    "location": {
+      "latitude": 1.285427,
+      "longitude": 103.849993
+    },
+    "name": "Moulana Mohd Ali Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:16.669Z",
+    "uuid": "a558d090-3328-417f-aece-9fe955090b17",
+    "geohash": "w21z74j20h"
+  },
+  "w21z7mntqm": {
+    "address": "4001 Beach Road, Singapore 199584",
+    "contact": "6297 2774",
+    "createdAt": "2014-12-23T06:50:22.006Z",
+    "location": {
+      "latitude": 1.302812,
+      "longitude": 103.862957
+    },
+    "name": "Hajjah Fatimah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:26.699Z",
+    "uuid": "4db6cbe7-273a-4d8f-b9fd-16b1555ef49a",
+    "geohash": "w21z7mntqm"
+  },
+  "w21z75x6cc": {
+    "address": "252 North Bridge Road S(179103)",
+    "createdAt": "2014-12-23T04:46:37.331Z",
+    "directions": "Beside Quest Salon #02-27. Go straight between WAREHOUSE and BCBGMAXAZRIA.",
+    "femaleCapacity": 2,
+    "level": "2",
+    "location": {
+      "latitude": 1.294118,
+      "longitude": 103.852813
+    },
+    "maleCapacity": 6,
+    "mrt": "City Hall",
+    "name": "Raffles City Shopping Centre",
+    "provision": "Prayer Mat, Telekung, Slippers, Tasbih, Al-Quran, Sarong, Songkok, Telekung",
+    "remarks": "Segregated male and female praying area. Can also be accessed from Swissotel The Stamford Hotel.",
+    "toiletLevel": "2",
+    "updatedAt": "2014-12-23T05:34:26.787Z",
+    "uuid": "78452ab4-009b-4ef4-958b-cb74c16f71be",
+    "type": "Musolla",
+    "geohash": "w21z75x6cc"
+  },
+  "w21z7ybv6v": {
+    "address": "245 Geylang Road, Singapore 389304",
+    "contact": "6846 0857",
+    "createdAt": "2014-12-23T06:50:21.983Z",
+    "location": {
+      "latitude": 1.312425,
+      "longitude": 103.876883
+    },
+    "name": "Haji Mohd Salleh Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:54.406Z",
+    "uuid": "732c4ce2-be89-4f64-a50b-25aa4cc8224b",
+    "geohash": "w21z7ybv6v"
+  },
+  "w21z7ms6tv": {
+    "address": "471 Victoria Street, Singapore 198370",
+    "contact": "6294 3862",
+    "createdAt": "2014-12-23T06:50:22.067Z",
+    "location": {
+      "latitude": 1.305083,
+      "longitude": 103.859848
+    },
+    "name": "Malabar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:18.682Z",
+    "uuid": "d263595e-163b-4ea5-8847-22bfce7f1492",
+    "geohash": "w21z7ms6tv"
+  },
+  "w21z7hc8wk": {
+    "address": "68 Orchard Road S(238839)",
+    "createdAt": "2014-12-23T04:46:37.236Z",
+    "directions": "Enter the EXIT door at lift lobby level 5. Lift lobby is located between Seahorse and V.Hive.",
+    "level": "5",
+    "location": {
+      "latitude": 1.300614,
+      "longitude": 103.845105
+    },
+    "mrt": "Dhoby Ghaut",
+    "name": "Plaza Singapura",
+    "provision": "Prayer Mat, Telekung, Slippers",
+    "remarks": "Not an official praying area. Shared male & female area. Provision found in the hosereel cabinet.",
+    "toiletLevel": "5",
+    "unisexCapacity": 10,
+    "updatedAt": "2014-12-23T05:34:20.700Z",
+    "uuid": "eaac65c0-f3fa-4f97-9fb9-36e3901f9eca",
+    "type": "Musolla",
+    "geohash": "w21z7hc8wk"
+  },
+  "w21z7tjzt5": {
+    "address": "1 Stadium Place, Singapore 397628",
+    "createdAt": "2015-06-10T09:37:31.296Z",
+    "directions": "From NTUC xtra, walk towards the toilet beside it. The location is at the fire exit before the toilet.",
+    "level": "1",
+    "location": {
+      "latitude": 1.303184,
+      "longitude": 103.872862
+    },
+    "name": "Kallang Wave Mall",
+    "provision": "Prayer Mat, Telekung, Slippers Provided For.",
+    "remarks": "The area is a long corridor, so if you bring your own prayer mat, you can pray there too.",
+    "toiletLevel": "1",
+    "type": "Musolla",
+    "unisexCapacity": 3,
+    "updatedAt": "2015-06-10T09:37:31.296Z",
+    "uuid": "25bb0b8b-0fc0-4fc2-a6f9-d7c2bfbb6357",
+    "geohash": "w21z7tjzt5",
+    "submitterName": "Nadiahh Zul",
+    "images": [
+      {
+        "uuid": "73dcd619-8f98-4fa6-bb6b-138c24f99764",
+        "caption": "The Entrance",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:15:30.216Z",
+        "updatedAt": "2015-07-13T11:15:30.216Z"
+      },
+      {
+        "uuid": "d2b43a2a-dcd3-43b3-9e9a-353864fd0613",
+        "caption": "One Long Stretch Of Solah Area",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:14:48.861Z",
+        "updatedAt": "2015-07-13T11:14:48.861Z"
+      },
+      {
+        "uuid": "7d61fa48-ee36-4e60-8571-29427652f10a",
+        "uploaderName": "Muhammad Fadhli Hussain",
+        "createdAt": "2015-07-13T11:16:16.277Z",
+        "updatedAt": "2015-07-13T11:16:16.277Z"
+      }
+    ]
+  },
+  "w21z7hc9v7": {
+    "address": "68 Orchard Rd, Singapore 238839",
+    "createdAt": "2015-07-09T04:32:56.497Z",
+    "directions": "Located at staircase near lift, end of Spotlight outlet. Adjacent to the home furnishing section of Spotlight outlet. There's a room in between the staircase and the lifts.\n\nRoom is not entitled for prayers. However, prayers are allowed.\n\nWudu' to be taken at the washroom beside it.",
+    "level": "5",
+    "location": {
+      "latitude": 1.300824,
+      "longitude": 103.845069
+    },
+    "name": "Plaza Singapura",
+    "provision": "None",
+    "remarks": "Bring own sejadah/praying mat. And telekung (for muslimah)",
+    "toiletLevel": "5",
+    "type": "Musolla",
+    "unisexCapacity": 20,
+    "updatedAt": "2015-07-09T04:32:56.497Z",
+    "uuid": "bac9cb06-6886-4729-b6a0-ed18c917bb11",
+    "geohash": "w21z7hc9v7",
+    "submitterName": "Radin Khairulirwan"
+  },
+  "w21z7ph8nn": {
+    "address": "46 Bristol Road, Singapore 219852",
+    "contact": "6293 8357",
+    "createdAt": "2014-12-23T06:50:21.948Z",
+    "location": {
+      "latitude": 1.3129,
+      "longitude": 103.849221
+    },
+    "name": "Tasek Utara Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:02.407Z",
+    "uuid": "941c63b1-20dd-407a-adeb-d6e8451d6572",
+    "geohash": "w21z7ph8nn"
+  },
+  "w21z7pbs29": {
+    "address": "101 Thomson Road S(307591)",
+    "createdAt": "2014-12-23T04:46:36.994Z",
+    "directions": "From the lift, walk straight towards the white generators. Once in front, turn right",
+    "level": "5A",
+    "location": {
+      "latitude": 1.317725,
+      "longitude": 103.843487
+    },
+    "mrt": "Novena",
+    "name": "United Square",
+    "provision": "Prayer Mat, Slippers, Al-Qur'an, Sarong, Telekung, Chair",
+    "remarks": "Shared male and female praying area. Nearest lift to musolla is located beside Efflorescence shop on level 1.",
+    "toiletLevel": "5A",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:32:50.162Z",
+    "uuid": "7775c203-3ced-4e68-9393-e0670cf799cd",
+    "type": "Musolla",
+    "geohash": "w21z7pbs29"
+  },
+  "w21z790z4d": {
+    "address": "18 Marina Gardens Drive, Singapore 018953",
+    "createdAt": "2015-01-02T10:18:09.180Z",
+    "directions": "Beside Texas Chicken at the Supreme Dining Area. Look for a small room (white door) which states 'Musholla'.",
+    "location": {
+      "latitude": 1.2811198,
+      "longitude": 103.865893
+    },
+    "mrt": "Bayfront",
+    "name": "Gardens by the Bay",
+    "provision": "All amenities are provided.",
+    "toiletLevel": "Near Supreme Dining Area",
+    "unisexCapacity": 5,
+    "updatedAt": "2015-01-05T02:37:44.454Z",
+    "uuid": "a03a7d82-bf7e-4fb6-967f-7ff0efacf21e",
+    "type": "Musolla",
+    "geohash": "w21z790z4d"
+  },
+  "w21z774g4w": {
+    "address": "6 Raffles Blvd, Marina Square S(039594)",
+    "createdAt": "2014-12-23T04:46:37.316Z",
+    "directions": "Go down the escalator beside QiJi to basement. Out the glass door, turn left and left again. Head to the extreme left of the carpark. Musolla is located near carpark ramp.",
+    "level": "Basement Carpark (Green zone)",
+    "location": {
+      "latitude": 1.291442,
+      "longitude": 103.857647
+    },
+    "mrt": "City Hall",
+    "name": "Marina Square",
+    "provision": "Prayer Mat, Chair, Sarong, Tasbih, Songkok, Al-Quran, Telekung, Fan",
+    "remarks": "There is an ablution area near the musolla. Shared male and female praying area.",
+    "toiletLevel": "Male: B1, Female: 1",
+    "unisexCapacity": 4,
+    "updatedAt": "2014-12-23T05:34:25.311Z",
+    "uuid": "5a2c042c-1041-48f9-8cd7-cc0273c82534",
+    "type": "Musolla",
+    "geohash": "w21z774g4w",
+    "images": [
+      {
+        "uuid": "2e5a75e6-2dbd-4cec-b3d6-dfed3b915e8e",
+        "uploaderName": "Hazim SmileAlways",
+        "createdAt": "2015-06-15T07:56:36.988Z",
+        "updatedAt": "2015-06-15T07:56:36.988Z"
+      },
+      {
+        "uuid": "93c09b16-d15b-4990-83d0-f9045aa1b668",
+        "uploaderName": "Hazim SmileAlways",
+        "createdAt": "2015-06-15T07:57:07.206Z",
+        "updatedAt": "2015-06-15T07:57:07.206Z"
+      }
+    ]
+  },
+  "w21z7jryeg": {
+    "address": "41 Dunlop Street, Singapore 209369",
+    "contact": "6295 4209",
+    "createdAt": "2014-12-23T06:50:21.775Z",
+    "location": {
+      "latitude": 1.304386,
+      "longitude": 103.853585
+    },
+    "name": "Abdul Gafoor Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:53:19.547Z",
+    "uuid": "5c64e639-29aa-49ab-a355-6482f7e2da53",
+    "geohash": "w21z7jryeg"
+  },
+  "w21z7zpx3z": {
+    "address": "583 Geylang Road, Singapore 389522",
+    "contact": "6747 5607",
+    "createdAt": "2014-12-23T06:50:22.391Z",
+    "location": {
+      "latitude": 1.314149,
+      "longitude": 103.886115
+    },
+    "name": "Khadijah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:56.423Z",
+    "uuid": "0ca2524b-9518-460d-8ad3-9224629d9087",
+    "geohash": "w21z7zpx3z"
+  },
+  "w21z7m5crz": {
+    "address": "3 Muscat Street, Singapore 198833",
+    "contact": "6293 4405",
+    "createdAt": "2014-12-23T06:50:22.100Z",
+    "location": {
+      "latitude": 1.302136,
+      "longitude": 103.85925
+    },
+    "name": "Sultan Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:12.586Z",
+    "uuid": "d681a099-d828-4055-b579-4162966da0a6",
+    "geohash": "w21z7m5crz",
+    "images": [
+      {
+        "uuid": "5dee4b22-f65c-4631-b82c-297652eebd9c",
+        "uploaderName": "Muhd Danish",
+        "createdAt": "2015-05-26T11:17:31.266Z",
+        "updatedAt": "2015-06-01T04:11:23.386Z"
+      }
+    ]
+  }
+}

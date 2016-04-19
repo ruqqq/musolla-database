@@ -1,0 +1,16 @@
+{
+  "w21z39pt8t": {
+    "address": "2 Lorong Sarhad, Singapore 119173",
+    "contact": "6479 6442",
+    "createdAt": "2014-12-23T06:50:22.447Z",
+    "location": {
+      "latitude": 1.280882,
+      "longitude": 103.787187
+    },
+    "name": "Ahmad Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:56:03.616Z",
+    "uuid": "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d",
+    "geohash": "w21z39pt8t"
+  }
+}

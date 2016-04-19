@@ -1,0 +1,16 @@
+{
+  "w21zkr0upe": {
+    "address": "130 Joo Chiat Road, Singapore 427727",
+    "contact": "6345 2884",
+    "createdAt": "2014-12-23T06:50:22.402Z",
+    "location": {
+      "latitude": 1.31357,
+      "longitude": 103.899067
+    },
+    "name": "Khalid Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:57.993Z",
+    "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
+    "geohash": "w21zkr0upe"
+  }
+}

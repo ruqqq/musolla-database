@@ -1,0 +1,16 @@
+{
+  "w21zehwbgm": {
+    "address": "275 Braddell Road, Singapore 579704",
+    "contact": "6256 1166",
+    "createdAt": "2014-12-23T06:50:21.915Z",
+    "location": {
+      "latitude": 1.343235,
+      "longitude": 103.852193
+    },
+    "name": "Muhajirin Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:06.672Z",
+    "uuid": "33806974-5d3f-40d5-9f47-12e2ec59e8fe",
+    "geohash": "w21zehwbgm"
+  }
+}

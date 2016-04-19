@@ -1,0 +1,29 @@
+{
+  "w21z7ndgnk": {
+    "address": "100 Bukit Timah Road, Singapore 229899",
+    "createdAt": "2015-01-02T10:13:01.731Z",
+    "directions": "Women's Wing, at the staircase landing beside 24hr clinic (behind Exit door).",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.3106589,
+      "longitude": 103.8468218
+    },
+    "mrt": "Little India",
+    "name": "KK Women's and Children's Hospital",
+    "provision": "Slippers, Prayer Mat, Telekong",
+    "toiletLevel": "Basement 1",
+    "updatedAt": "2015-01-05T02:38:26.481Z",
+    "uuid": "a1870d7d-7eda-4f4f-bf69-f5af22967b95",
+    "type": "Musolla",
+    "geohash": "w21z7ndgnk",
+    "images": [
+      {
+        "uuid": "3c517489-0d45-4ef8-b028-36327d8178e3",
+        "caption": "Exit Door #23",
+        "uploaderName": "Riyavul Haja",
+        "createdAt": "2015-05-30T22:10:03.012Z",
+        "updatedAt": "2015-05-30T22:10:03.012Z"
+      }
+    ]
+  }
+}

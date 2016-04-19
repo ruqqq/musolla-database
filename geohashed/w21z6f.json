@@ -1,0 +1,18 @@
+{
+  "w21z6f7kkp": {
+    "address": "405 Havelock Road S(169633)",
+    "createdAt": "2014-12-23T04:46:37.478Z",
+    "directions": "Beside Kintamani Indonesian Restaurant",
+    "level": "3",
+    "location": {
+      "latitude": 1.287541,
+      "longitude": 103.836424
+    },
+    "mrt": "Outram",
+    "name": "Furama River Front Hotel ",
+    "updatedAt": "2014-12-23T05:34:43.307Z",
+    "uuid": "05caf965-ec0b-4f2b-8145-e4112cb13a39",
+    "type": "Musolla",
+    "geohash": "w21z6f7kkp"
+  }
+}

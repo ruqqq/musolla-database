@@ -1,0 +1,16 @@
+{
+  "w21z6ejs3z": {
+    "address": "10 Delta Avenue, Singapore 169831",
+    "contact": "6272 1750",
+    "createdAt": "2014-12-23T06:50:22.054Z",
+    "location": {
+      "latitude": 1.291665,
+      "longitude": 103.828431
+    },
+    "name": "Kampong Delta Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:20.064Z",
+    "uuid": "adbce676-a31e-48e5-a231-03df20bc6430",
+    "geohash": "w21z6ejs3z"
+  }
+}

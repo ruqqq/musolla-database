@@ -1,0 +1,21 @@
+{
+  "w21z3ket7p": {
+    "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
+    "createdAt": "2015-01-16T02:01:11.818Z",
+    "directions": "EA Engineering - Proceed to Level 7 staircase landing near cafe.",
+    "femaleCapacity": 3,
+    "level": "7",
+    "location": {
+      "latitude": 1.300076,
+      "longitude": 103.770812
+    },
+    "name": "EA Engineering, NUS",
+    "provision": "Prayer Mat, Telekung, Sarong",
+    "remarks": "Female ONLY.",
+    "toiletLevel": "7",
+    "updatedAt": "2015-01-16T02:13:55.852Z",
+    "uuid": "af4660c2-804c-41ef-80ac-4683a2219d4c",
+    "type": "Musolla",
+    "geohash": "w21z3ket7p"
+  }
+}

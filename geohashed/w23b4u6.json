@@ -1,0 +1,29 @@
+{
+  "w23b4u6c2h": {
+    "address": "Yishun Avenue 2 S(769098)",
+    "createdAt": "2014-12-23T04:46:36.979Z",
+    "directions": "Head to the lift lobby on level 4, nect to Kid@Play waterpark. The lift lobby is right beside the washroom. Enter the staircase landing in front of the cargo lifts. Musolla is on the top floor.",
+    "level": "4",
+    "location": {
+      "latitude": 1.429836,
+      "longitude": 103.835568
+    },
+    "mrt": "Yishun",
+    "name": "Northpoint",
+    "remarks": "Not an official praying area. Shared male & female area. Provision found in the hosereel cabinet.",
+    "toiletLevel": "4",
+    "unisexCapacity": 2,
+    "updatedAt": "2014-12-23T05:32:49.084Z",
+    "uuid": "f8ccc11e-65aa-4fcf-b2b1-614d276b6630",
+    "type": "Musolla",
+    "geohash": "w23b4u6c2h",
+    "images": [
+      {
+        "uuid": "28f2650f-a6ed-46ba-90e7-a60196ae12b1",
+        "uploaderName": "Tengku Hafidz",
+        "createdAt": "2015-06-04T06:34:11.389Z",
+        "updatedAt": "2015-06-04T06:34:11.389Z"
+      }
+    ]
+  }
+}

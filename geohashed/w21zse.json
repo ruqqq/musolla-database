@@ -1,0 +1,16 @@
+{
+  "w21zse7f52": {
+    "address": "200 Bedok Reservoir Road, Singapore 479221",
+    "contact": "6242 7244",
+    "createdAt": "2014-12-23T06:50:22.167Z",
+    "location": {
+      "latitude": 1.336558,
+      "longitude": 103.913986
+    },
+    "name": "Alkaff Kampung Melayu Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:55:45.802Z",
+    "uuid": "388ecd6c-4b30-472e-be29-dfe01d64d72e",
+    "geohash": "w21zse7f52"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "w21z7mntqm": {
+    "address": "4001 Beach Road, Singapore 199584",
+    "contact": "6297 2774",
+    "createdAt": "2014-12-23T06:50:22.006Z",
+    "location": {
+      "latitude": 1.302812,
+      "longitude": 103.862957
+    },
+    "name": "Hajjah Fatimah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2014-12-23T06:54:26.699Z",
+    "uuid": "4db6cbe7-273a-4d8f-b9fd-16b1555ef49a",
+    "geohash": "w21z7mntqm"
+  }
+}

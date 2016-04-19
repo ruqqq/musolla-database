@@ -1,0 +1,23 @@
+{
+  "w21z8g40t6": {
+    "address": "2 Jurong East Street 21 S(609601)",
+    "createdAt": "2014-12-23T04:46:37.206Z",
+    "directions": "Take lift lobby A beside McDonald's. At level 4, follow the signboards",
+    "femaleCapacity": 4,
+    "level": "4",
+    "location": {
+      "latitude": 1.334938,
+      "longitude": 103.746872
+    },
+    "maleCapacity": 4,
+    "mrt": "Jurong East",
+    "name": "IMM Building",
+    "provision": "Slippers, Prayer Mat, Sarong, Tasbih, Al-Quran, Telekung, Fan, Chair, Water Dipper",
+    "remarks": "Segregated praying area for male and female. Ablution area is beside the toilet (outside musolla). Keys to ablution area can be taken from the musolla. Return the key after use.",
+    "toiletLevel": "4",
+    "updatedAt": "2015-01-02T04:33:52.318Z",
+    "uuid": "43c95d07-1993-4d27-a78c-23bf65f9aab2",
+    "type": "Musolla",
+    "geohash": "w21z8g40t6"
+  }
+}
