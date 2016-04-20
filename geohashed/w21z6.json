@@ -316,5 +316,26 @@
     "updatedAt": "2014-12-23T06:54:15.168Z",
     "uuid": "2a5f80ba-606f-40f5-a333-b6f34a223dd7",
     "geohash": "w21z6h39cz"
+  },
+  "w21z6yg6tv": {
+    "uuid": "f5454fb2-ae3c-4ed0-8f72-16764ca98c19",
+    "name": "Sheraton Towers",
+    "address": "39 Scotts Rd, Singapore 228230",
+    "location": {
+      "latitude": 1.3119539999999998,
+      "longitude": 103.836501
+    },
+    "type": "Musolla",
+    "geohash": "w21z6yg6tv",
+    "directions": "Take the lift lobby carpark down to B4. Exit the door to the carpark and go down the stairs. Prayer area is at the right corner of the carpark. There is a tap next to the area.",
+    "level": "B4",
+    "provisions": "Prayer Mat, Telekung",
+    "toiletLevel": "2",
+    "unisexCapacity": 0,
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "submitterName": "Norhana H.",
+    "createdAt": "2016-04-20T07:00:37.134Z",
+    "updatedAt": "2016-04-20T07:00:37.134Z"
   }
 }
