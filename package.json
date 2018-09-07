@@ -1,0 +1,18 @@
+{
+  "name": "musolla-database",
+  "version": "1.0.0",
+  "description": "Flat file + JSON database to make musolla data (info/details, location and images) readily available/accessible on GitHub and open-source.",
+  "main": "index.js",
+  "repository": "https://github.com/ruqqq/musolla-database.git",
+  "author": "Faruq Rasid <me@ruqqq.sg>",
+  "license": "LGPL v3.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.22.2",
+    "ngeohash": "^0.6.0",
+    "puppeteer": "^1.8.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "uuid4": "^1.0.0"
+  }
+}

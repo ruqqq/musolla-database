@@ -1,18 +1,4 @@
 {
-  "fa1d6bc2-21d1-4567-863c-9c22c542c7e7": {
-    "address": "9A Bishan Street 14, Singapore 579786",
-    "contact": "6354 3138",
-    "createdAt": "2014-12-23T06:50:21.830Z",
-    "location": {
-      "latitude": 1.353559,
-      "longitude": 103.851182
-    },
-    "name": "An Nahdhah Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:45.910Z",
-    "uuid": "fa1d6bc2-21d1-4567-863c-9c22c542c7e7",
-    "geohash": "w21zenqj5c"
-  },
   "8964eae7-d869-41b6-af84-085c4119e645": {
     "address": "1 Admiralty Lane, Singapore 757620",
     "contact": "6756 3008",
@@ -25,7 +11,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:30.804Z",
     "uuid": "8964eae7-d869-41b6-af84-085c4119e645",
-    "geohash": "w23b69068u"
+    "geohash": "w23b69068u",
+    "remarks": "This mosque is the fifth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community in the Northern part of Singapore. It also acts as a replacement due to the closure of two old mosques in the Sembawang area - Jumah Sembawang Mosque and Naval Base Mosque. The mosque which can accommodate about 4,000 people at one time was opened to the public on 9th April 2004.",
+    "mosqueType": "MBMF"
   },
   "9b35e834-00d1-492a-a792-54c9ea07beee": {
     "address": "1033 Upper Serangoon Road S(534768)",
@@ -44,20 +32,6 @@
     "uuid": "9b35e834-00d1-492a-a792-54c9ea07beee",
     "type": "Musolla",
     "geohash": "w21zu080wq"
-  },
-  "f51a6365-5ecb-45ac-9fdb-ad443bd03f3b": {
-    "address": "192 Telok Ayer Street, Singapore 068635",
-    "contact": "6220 6306",
-    "createdAt": "2014-12-23T06:50:21.959Z",
-    "location": {
-      "latitude": 1.280381,
-      "longitude": 103.84733
-    },
-    "name": "Al-Abrar (Koochoo Pally) Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:00.387Z",
-    "uuid": "f51a6365-5ecb-45ac-9fdb-ad443bd03f3b",
-    "geohash": "w21z7156f0"
   },
   "7d9e16bd-7d7d-44c1-9dff-771642407eaf": {
     "address": "535 Clementi Road S(599489)",
@@ -79,7 +53,7 @@
   },
   "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d": {
     "address": "2 Lorong Sarhad, Singapore 119173",
-    "contact": "6479 6442",
+    "contact": "4479 6442",
     "createdAt": "2014-12-23T06:50:22.447Z",
     "location": {
       "latitude": 1.280882,
@@ -89,7 +63,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:03.616Z",
     "uuid": "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d",
-    "geohash": "w21z39pt8t"
+    "geohash": "w21z39pt8t",
+    "remarks": "Originally a typical kampung mosque built in 1934 on a piece of land given by a Mr Ahmat Yahya, the mosque has been redeveloped with better facilities.   Located in the Central part of the island, the masjid serves the residents and workers around the area",
+    "mosqueType": "Wakaf"
   },
   "b3f32310-abfb-4c5c-8704-a2e14f5fad1e": {
     "address": "218 South Bridge Road, Singapore 058767",
@@ -103,7 +79,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:24.882Z",
     "uuid": "b3f32310-abfb-4c5c-8704-a2e14f5fad1e",
-    "geohash": "w21z719ghd"
+    "geohash": "w21z719ghd",
+    "remarks": "The masjid was a contribution by the Chulian community. Built in 1826, it has gone through several places of renovation and expansion. The building bears the imprint of South Indian architecture in its narrow frontages, which are defined by minaret-style towers. Located in the Central part of the island, it serves office workers and has a capacity of 1500 people. It is one of the few masjids in Singapore, which organizes religious classes in Tamil.",
+    "mosqueType": "Wakaf"
   },
   "52c0615c-9776-4590-b475-654504f77d7b": {
     "address": "500 Dover Road S(139651)",
@@ -123,20 +101,6 @@
     "type": "Musolla",
     "geohash": "w21z3w65bk"
   },
-  "efe89cdd-b444-4c21-bdbf-89e84f94a48a": {
-    "address": "10 Gentle Road, Singapore 309194",
-    "contact": "6251 2729",
-    "createdAt": "2014-12-23T06:50:21.785Z",
-    "location": {
-      "latitude": 1.320116,
-      "longitude": 103.841397
-    },
-    "name": "Abdul Hamid Kg Pasiran Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:26.320Z",
-    "uuid": "efe89cdd-b444-4c21-bdbf-89e84f94a48a",
-    "geohash": "w21zdbqfpz"
-  },
   "683f61a9-4dbe-4445-a3c2-1006da17c713": {
     "address": "155 Bedok North Avenue 1, Singapore 469751",
     "contact": "6449 2420",
@@ -149,7 +113,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:19.936Z",
     "uuid": "683f61a9-4dbe-4445-a3c2-1006da17c713",
-    "geohash": "w21zscsu68"
+    "geohash": "w21zscsu68",
+    "remarks": "Al-Ansar with its prominent tower minaret is among the first few masjids built under the Phase One of the Mosque Building Fund. Completed in 1981, the masjid located in the East can fill up to 3000 people at any one time. Located in the heart of the densely populated Bedok housing estate, the masjid offers madrasah classes. It is also one of the few masjids, which organizes religious classes in Tamil and one of the only two masjids with a full-time welfare officer.",
+    "mosqueType": "MBMF"
   },
   "7cdbb1df-a60d-4e61-bf5f-a78b0778cadf": {
     "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
@@ -264,20 +230,6 @@
     "type": "Musolla",
     "geohash": "w21z9d8kzr"
   },
-  "36c4c291-ed47-4b50-826a-4da5c498061e": {
-    "address": "66 Pheng Geck Avenue, Singapore 348261",
-    "contact": "6280 0300",
-    "createdAt": "2014-12-23T06:50:22.335Z",
-    "location": {
-      "latitude": 1.332976,
-      "longitude": 103.87062
-    },
-    "name": "Alkaff Upp Serangoon Rd Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:16.944Z",
-    "uuid": "36c4c291-ed47-4b50-826a-4da5c498061e",
-    "geohash": "w21zedsm0u"
-  },
   "ae46d59b-2ce7-4b64-8d3b-5e7608973da6": {
     "address": "3 Coleman Street S(179804)",
     "createdAt": "2014-12-23T04:46:37.346Z",
@@ -313,20 +265,6 @@
     "type": "Musolla",
     "geohash": "w21zt6ke6f"
   },
-  "499c79f1-2ecb-4099-81df-193d7f86b75e": {
-    "address": "394 Pasir Panjang Road, Singapore 118730",
-    "contact": "",
-    "createdAt": "2014-12-23T06:50:22.547Z",
-    "location": {
-      "latitude": 1.291418,
-      "longitude": 103.771756
-    },
-    "name": "Hussain Sulaiman Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:56:15.786Z",
-    "uuid": "499c79f1-2ecb-4099-81df-193d7f86b75e",
-    "geohash": "w21z37h711"
-  },
   "311fcabc-5709-44b9-a044-4b03d03e33c0": {
     "address": "50 Telok Blangah Way, Singapore 098801",
     "contact": "6272 5309",
@@ -339,7 +277,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:32.046Z",
     "uuid": "311fcabc-5709-44b9-a044-4b03d03e33c0",
-    "geohash": "w21z62nug3"
+    "geohash": "w21z62nug3",
+    "remarks": "Inspired by Sumatran Minang architecture, this masjid with its brown structure stands out from the high-rise housing estate in Telok Blangah. Located at the Central District, it was built in 1991 with resources from the Mosque Building Fund. With a capacity of 3000, the masjid offers weekend madrasah and weekday classes to a total of 600 children. Islamic knowledge classes are also held during the evening.",
+    "mosqueType": "MBMF"
   },
   "6884ccfd-9be9-4165-855b-4bfb01dba9c9": {
     "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
@@ -406,7 +346,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:42.321Z",
     "uuid": "842b4871-72f9-43e7-9e4d-320d58bcea8c",
-    "geohash": "w21ztnwxqz"
+    "geohash": "w21ztnwxqz",
+    "remarks": "The brick-clad wall panels which blend with the nearby sports facilities have given way to a bluish tile after an extensive and major repair work was carried out in 1999. Built under the Mosque Building Fund in 1991, the masjid sited next to busy Tampines Central in the East can accommodate up to 4,500 people. It has daily kindergarten and madrasah classes. In the evening, the masjid is a bustle of activities as men and women attend the various religious classes offered",
+    "mosqueType": "MBMF"
   },
   "e1d61299-8b36-4697-96c2-887f8a602fae": {
     "address": "120 Tampines Road, Singapore 535136",
@@ -420,10 +362,12 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:41.330Z",
     "uuid": "e1d61299-8b36-4697-96c2-887f8a602fae",
-    "geohash": "w21zspu0ng"
+    "geohash": "w21zspu0ng",
+    "remarks": "Built under Phase Two of the Mosque Building Fund, the masjid located at the junction of Tampines Road and Hougang Ave 3, with its box-like structure and tall minaret stands out prominently, next to high-rise residential flats. Built in 1983, it serves the religious needs of residents in surrounding Hougang areas.",
+    "mosqueType": "MBMF"
   },
   "25dc62cf-5b4a-4c64-8b3e-abd7263edfb1": {
-    "address": "441B, Jalan Mashhor, Singapore 299173",
+    "address": "441-B Jalan Mashor, Singapore 299173",
     "contact": "6250 0120",
     "createdAt": "2014-12-23T06:50:21.937Z",
     "location": {
@@ -434,7 +378,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:04.037Z",
     "uuid": "25dc62cf-5b4a-4c64-8b3e-abd7263edfb1",
-    "geohash": "w21zdg08ks"
+    "geohash": "w21zdg08ks",
+    "remarks": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Television Corporation of Singapore staff nearby. Its activities include korban, Eid and Friday prayers.",
+    "mosqueType": "TOL"
   },
   "5e304bba-6586-4311-b587-9705d71dc3e6": {
     "address": "317 Alexandra Road S(159965)",
@@ -458,8 +404,8 @@
     "geohash": "w21z64sbp3"
   },
   "8bde9cee-d9da-4f24-a02f-78b727345b4d": {
-    "address": "90 Lor K Telok Kurau, Singapore 425723",
-    "contact": "6345 6504",
+    "address": "90 Lorong K, Telok Kurau, Singapore 425723",
+    "contact": "6346 0153",
     "createdAt": "2014-12-23T06:50:22.302Z",
     "location": {
       "latitude": 1.313007,
@@ -469,7 +415,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:22.506Z",
     "uuid": "8bde9cee-d9da-4f24-a02f-78b727345b4d",
-    "geohash": "w21zkx4byd"
+    "geohash": "w21zkx4byd",
+    "mosqueType": "Wakaf"
   },
   "10f4dac8-5636-4b90-945f-2065160404f5": {
     "address": "120 Pasir Ris Central, Singapore 519640",
@@ -493,7 +440,7 @@
   },
   "ebf8111d-807b-41f2-95e6-50bb909ed99c": {
     "address": "39 Hill Street, Singapore 179364",
-    "contact": "6224 1021",
+    "contact": "6334 3712",
     "createdAt": "2014-12-23T06:50:21.874Z",
     "location": {
       "latitude": 1.293469,
@@ -503,7 +450,9 @@
     "type": "Mosque",
     "updatedAt": "2015-07-02T06:55:25.481Z",
     "uuid": "ebf8111d-807b-41f2-95e6-50bb909ed99c",
-    "geohash": "w21z75mxh0"
+    "geohash": "w21z75mxh0",
+    "remarks": "Sandwiched between high-rise buildings, this old generation masjid was established by the Dawoodi Bohra community in Singapore as early as 1829. Conveniently located in the Central district, it can accommodate up to 150 people. It is also frequented by office workers in the Hill Street and High Street areas.",
+    "mosqueType": "Wakaf"
   },
   "8882f6a1-cf5a-4315-abc2-aed4d01e0746": {
     "address": "151 Compassvale Bow, Singapore 544997",
@@ -517,7 +466,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:43.875Z",
     "uuid": "8882f6a1-cf5a-4315-abc2-aed4d01e0746",
-    "geohash": "w21zu5fyxu"
+    "geohash": "w21zu5fyxu",
+    "remarks": "This Phase 4 mosque was built to cater to the large demographic of young families in the Buangkok and Sengkang area. Aside from it's numerous family friendly features for the young and the old, it also boasts a number of environmentally-friendly features that are energy-conserving. Due to this mosque has attained the Greenmark Certification from the Building and Construction Authority.",
+    "mosqueType": "MBMF"
   },
   "d4e4a3a6-12c4-4da2-979a-45d25198b1fa": {
     "address": "65 Airport Boulevard, Singapore 819663",
@@ -547,7 +498,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:06.672Z",
     "uuid": "33806974-5d3f-40d5-9f47-12e2ec59e8fe",
-    "geohash": "w21zehwbgm"
+    "geohash": "w21zehwbgm",
+    "remarks": "The masjid has been re-built as part of the Singapore Islamic Hub development and was opened to public in January 2009.  \n\nMasjid Muhajirin is the first masjid to be built under the Mosque Building Fund. Back then it was easily recognizable by its prominent dome and minaret at the entrance of the building.  Sited next to the Islamic Centre of the Islamic Religious Council of Singapore, it was completed in April 1977 with a capacity of 1400 people and serves Muslims of all ages living in Toa Payoh and Bishan.",
+    "mosqueType": "MBMF"
   },
   "27a49ee1-f6ca-4e13-a2a4-53da251eca07": {
     "address": "10 Bukit Panjang Ring Road, S(679943)",
@@ -636,20 +589,6 @@
         "updatedAt": "2015-05-18T04:21:06.245Z"
       }
     ]
-  },
-  "41623051-0a4b-4487-ba92-bcdf4c004f70": {
-    "address": "950 Yishun Ave 2, Singapore 769099",
-    "contact": "6752 1402",
-    "createdAt": "2014-12-23T06:50:22.269Z",
-    "location": {
-      "latitude": 1.436895,
-      "longitude": 103.834327
-    },
-    "name": "Darul Makmur  Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:26.892Z",
-    "uuid": "41623051-0a4b-4487-ba92-bcdf4c004f70",
-    "geohash": "w23b4v9fe0"
   },
   "1516c631-2d37-4045-9fe0-d37e5494d5d0": {
     "address": "3 Temasek Avenue S(039190)",
@@ -766,7 +705,7 @@
     "geohash": "w21z74vu88"
   },
   "a7566046-15b1-4153-9507-0214264bd6a1": {
-    "address": "51 Bencoolen Street, #01-01, Singapore 189630",
+    "address": "59 Bencoolen Street, #01-01, Singapore 189633",
     "contact": "6333 3016",
     "createdAt": "2014-12-23T06:50:21.863Z",
     "location": {
@@ -777,7 +716,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:53:54.113Z",
     "uuid": "a7566046-15b1-4153-9507-0214264bd6a1",
-    "geohash": "w21z7ht9vs"
+    "geohash": "w21z7ht9vs",
+    "remarks": "This masjid was originally built in 1845. In 2001, the mosque's site was redeveloped as part of a mixed development comprising of a commercial block and a 12-storey residential complex. The redeveloped masjid, which is part of the complex, was opened to the public in May 2004. It can accommodate about 1,100 worshippers.",
+    "mosqueType": "Wakaf"
   },
   "303dc6de-5a04-4f0b-a288-df85ac7cdf23": {
     "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
@@ -810,7 +751,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:00.330Z",
     "uuid": "1d3cdfab-0890-408c-b703-714a6f7c763a",
-    "geohash": "w21zec7gpg"
+    "geohash": "w21zec7gpg",
+    "remarks": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+    "mosqueType": "Wakaf"
   },
   "4e03f25d-877e-4bef-829f-997c72968fd9": {
     "address": "304 Orchard Road, Singapore 238863",
@@ -916,7 +859,7 @@
     "geohash": "w21xzdk3b4"
   },
   "707522c6-ab2d-413f-a989-9c05529d7c25": {
-    "address": "2,Seranggon North Avenue 2, Singapore 555876",
+    "address": "2 Serangoon North Avenue 2, Singapore 555876",
     "contact": "6281 4287",
     "createdAt": "2014-12-23T06:50:22.156Z",
     "location": {
@@ -927,7 +870,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:47.043Z",
     "uuid": "707522c6-ab2d-413f-a989-9c05529d7c25",
-    "geohash": "w21zg9rb5z"
+    "geohash": "w21zg9rb5z",
+    "remarks": "At one glance, the masjid blends the architectural flavours of buildings in the Middle East, Nusantra and Mauritius. Its cream and turquoise-green structure stands proudly amidst the housing estate in Serangoon. One of the newest masjids under the Mosque Building Fund, it was completed in May 1999 and can accommodate up to 3300 people at any given time. Located in the Northeast, it is dubbed the multimedia masjid for its IT facilities.",
+    "mosqueType": "MBMF"
   },
   "0c9c34d8-66ab-414a-9d3b-fb9770d48257": {
     "address": "180 Ang Mo Kio Ave 8 S(569830)",
@@ -961,7 +906,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:57.993Z",
     "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
-    "geohash": "w21zkr0upe"
+    "geohash": "w21zkr0upe",
+    "remarks": "First built in 1917, this old generation masjid underwent several restorations, the most recent one in 1998. Located in the Central part of the island, its newly-restored building which comes complete with a minaret at the front porch can fill up to 2500 people. Ramadan is a busy month for the mosque as an average of 800 Muslims break their fast at the mosque daily. There are regular religious classes for children and adults.",
+    "mosqueType": "Wakaf"
   },
   "ebc063d2-2fb3-4319-a0a8-3bdd58e44e9a": {
     "address": "1 Pasir Ris Close S(519599)",
@@ -995,7 +942,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:53:40.494Z",
     "uuid": "9f259807-283c-46d5-a06a-7b57ff3f32fd",
-    "geohash": "w23b42pdn2"
+    "geohash": "w23b42pdn2",
+    "remarks": "Built in 1958, this old generation zinc-roofed mosque located in the North part of the island serves the religious needs of Muslim living and working in the vicinity. It can accommodate 200 Muslims at any one time. It offers nursery, kindergarten and weekend madrasah classes for children of nearby residents. Altogether, a total of 480 children attend classes at various times, at the masjid. Since the ‘70s, there have been several renovation and repair works carried out.",
+    "mosqueType": "TOL"
   },
   "39f26f71-0d11-4cc2-82cb-ca2c1993c5f2": {
     "ACL": {
@@ -1033,7 +982,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:02.416Z",
     "uuid": "ac87d5ea-e43d-48eb-8181-00fb4248cd51",
-    "geohash": "w21zkpgf7s"
+    "geohash": "w21zkpgf7s",
+    "remarks": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
+    "mosqueType": "Wakaf"
   },
   "717ca5e2-3fe9-427d-b879-a33b35fead52": {
     "address": "500 Dover Road S(139651)",
@@ -1065,7 +1016,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:05.334Z",
     "uuid": "cc4e296b-b6ed-42ad-aa44-0396c0c40972",
-    "geohash": "w21z743n5q"
+    "geohash": "w21z743n5q",
+    "remarks": "The oldest masjid in Singapore, it has humble beginnings as a wooden surau way back in 1820. Monetary contributions from wealthy merchant Syed Abdullah bin Omar Aljunied made possible its rebuilding in 1855. The old generation masjid located in the Central, underwent yet another major rebuilding project several years ago in which a tall minaret with a small roof dome is added at the entrance of the mosque. With a capacity of 500 people, it is the focal point for office workers during daily and Friday prayers",
+    "mosqueType": "Leasehold"
   },
   "0a0fccba-a46d-4a24-baf2-585c3dd073d1": {
     "address": "500 Dover Road S(139651)",
@@ -1115,7 +1068,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:13.971Z",
     "uuid": "79b51ceb-884f-4ab7-b206-d8199163bfc3",
-    "geohash": "w21zkrvhfq"
+    "geohash": "w21zkrvhfq",
+    "remarks": "A squarish minaret in this Mosque Building Fund masjid combines Malay architecture and Islamic art. Nominated for the prestigious Aga Khan Award in 1989 as an excellent example of tropical architecture, the masjid features the early pitched-roof structure commonly found in the Malay archipelago. Built in 1986, the masjid located in the East can accommodate up to 3,500 people. Besides madrasah classes, it is also popular venue for haj courses organized by travel agents. The masjid has since undergone a major addition and alteration project which was completed in 2005.",
+    "mosqueType": "MBMF"
   },
   "046236a0-b77a-4c81-895e-f8381b648159": {
     "address": "34 Jalan Haji Alias, Singapore 268534",
@@ -1129,10 +1084,12 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:37.707Z",
     "uuid": "046236a0-b77a-4c81-895e-f8381b648159",
-    "geohash": "w21z9bv7dv"
+    "geohash": "w21z9bv7dv",
+    "remarks": "In the past, this old generation masjid served the needs of residents living in the Malay kampung near Sixth Avenue, Bukit Timah. With resettlement, the masjid located in the Central area now serves the workers in Bukit Timah area and some residents nearby. Built in 1966, the masjid, which can accommodate up to 400 people, has undergone several renovations. Its activities are confined to daily and Friday prayers as well as celebrations of Islamic festivities.",
+    "mosqueType": "Wakaf"
   },
   "e928dcf3-883f-45db-b391-47971f702142": {
-    "address": "27-B, Jalan Mempurong, Singapore 759055",
+    "address": "27-B Jalan Mempurong, Singapore 759055",
     "contact": "6257 7614",
     "createdAt": "2014-12-23T06:50:22.291Z",
     "location": {
@@ -1143,7 +1100,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:23.684Z",
     "uuid": "e928dcf3-883f-45db-b391-47971f702142",
-    "geohash": "w23b6cx5zx"
+    "geohash": "w23b6cx5zx",
+    "remarks": "Surrounded by lush greeneries and a reasonably huge compound, there is an air of serenity at this old generation masjid built in 1970. Located in the North and away from busy streets, it offers weekend madrasah classes as well as religious classes on a weekly basis. It has a capacity of 300 people.",
+    "mosqueType": "TOL"
   },
   "43c95d07-1993-4d27-a78c-23bf65f9aab2": {
     "address": "2 Jurong East Street 21 S(609601)",
@@ -1212,7 +1171,9 @@
         "createdAt": "2015-05-29T05:58:38.520Z",
         "updatedAt": "2015-05-29T05:58:38.520Z"
       }
-    ]
+    ],
+    "remarks": "Located in the North part of the island, An-Nur is more than just a landmark in Woodlands. The masjid has created a name for its outreach programme and grassroots activities through its Qaryah (outreach) initiatives. It is also one of the masjids, which provide strong support for the kidney donation campaign. Built in 1980 under the Mosque Building fund, An-Nur can accommodate up to 2800 worshippers. There are madrasah and kindergarten classes offered at the masjid to children of the neighbouring estate",
+    "mosqueType": "MBMF"
   },
   "e76be0fa-4356-4d0f-a72f-b29d1a79b19c": {
     "address": "1 Woodlands Square, Causeway Point, Singapore 738099",
@@ -1246,7 +1207,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:20.064Z",
     "uuid": "adbce676-a31e-48e5-a231-03df20bc6430",
-    "geohash": "w21z6ejs3z"
+    "geohash": "w21z6ejs3z",
+    "remarks": "Tucked away among Housing Board skyscraper flats, this redeveloped masjid was built on the old site of surau Delta which was first built in 1960. The new two-storey building was completed in 1995 increasing its capacity to 500 people. Its main activities are confined to daily and Friday prayers as well as celebrations of Maulid and other religious occasions.",
+    "mosqueType": "TOL"
   },
   "b176dcf8-c780-410c-a666-415893428dc9": {
     "address": "1 Teck Whye Crescent, Singapore 688847",
@@ -1260,7 +1223,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:06.664Z",
     "uuid": "b176dcf8-c780-410c-a666-415893428dc9",
-    "geohash": "w21zbgsqw6"
+    "geohash": "w21zbgsqw6",
+    "mosqueType": "MBMF"
   },
   "cb94171b-7be0-4ef3-8d1f-33e1a1d42755": {
     "address": "271 Jurong East Street 21, Singapore 609603",
@@ -1274,7 +1238,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:07.668Z",
     "uuid": "cb94171b-7be0-4ef3-8d1f-33e1a1d42755",
-    "geohash": "w21z8ey1w5"
+    "geohash": "w21z8ey1w5",
+    "remarks": "The masjid, financed by the Mosque Building Fund, was originally completed in 1987.  Located in the West, it has since undergone a major upgrading from a 2-storey to a 4-storey with basement building, which was completed in June 2006 and can now accommodate a congregation of about 4,500.  It offers a range of Islamic Learning programmes serving the needs of the residents in the nearby HDB estates .",
+    "mosqueType": "MBMF"
   },
   "9552b56a-fb47-49b7-9bc7-39f6431da83d": {
     "address": "1 Queensway S(149053)",
@@ -1403,20 +1369,6 @@
     "type": "Musolla",
     "geohash": "w21z4kz9j5"
   },
-  "e57d9a3e-28e9-418f-b263-a8982677fff3": {
-    "address": "265 Serangoon Road, Singapore 218099",
-    "contact": "6295 1478",
-    "createdAt": "2014-12-23T06:50:21.841Z",
-    "location": {
-      "latitude": 1.31061,
-      "longitude": 103.854087
-    },
-    "name": "Anggulia Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:48.534Z",
-    "uuid": "e57d9a3e-28e9-418f-b263-a8982677fff3",
-    "geohash": "w21z7q84ze"
-  },
   "c7782a4a-d406-436e-866d-9e1120dabb3b": {
     "address": "Bideford Rd #01-01, Cairnhill Place, S(229650)",
     "contact": "6235 3172",
@@ -1459,7 +1411,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:20.909Z",
     "uuid": "232e59e9-8522-4c04-8617-4c611f5acbe7",
-    "geohash": "w21zs2yvpj"
+    "geohash": "w21zs2yvpj",
+    "remarks": "Nested amidst the private house of the well-to-do Malays in the East, this old generation masjid was built in 1965. The masjid with a capacity of 300, underwent minor renovations in 1997 to include additional facilities. It has a full-time imam (religious teacher) and noja (masjid helper). Religious classes are held on an ad-hoc basis. There are religious classes for the ladies every Thursday evening. Classes for the men are held every Friday evening.  Currently, major upgrading works are currently being done on the mosque.",
+    "mosqueType": "Wakaf"
   },
   "fa9c53eb-a8c3-4984-96f9-b28af296a034": {
     "address": "MD3 Medical Drive, Saw Swee Hock School of Public Health 16 (S), 117597",
@@ -1526,7 +1480,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:26.699Z",
     "uuid": "4db6cbe7-273a-4d8f-b9fd-16b1555ef49a",
-    "geohash": "w21z7mntqm"
+    "geohash": "w21z7mntqm",
+    "remarks": "This is another old generation masjid built from donation from a wealthy lady named Fatimah. Located in the Central district, it was completed in 1846. the masjid bears the imprint of colonial architect J T Thomson, is a charming blend of local and European architecture. It is today one of Singapore’s national monuments. Extensive renovation work was carried out several years ago in which its leaning minaret was righted. The masjid, which can accommodate up to 600 people offers religious lectures on an ad-hoc basis. It is particularly popular among office workers in Jalan Sultan area",
+    "mosqueType": "Wakaf"
   },
   "05caf965-ec0b-4f2b-8145-e4112cb13a39": {
     "address": "405 Havelock Road S(169633)",
@@ -1579,7 +1535,7 @@
     "geohash": "w21z3eg0gc"
   },
   "e4c890ba-4299-4671-87f4-ff26ef71321d": {
-    "address": "30 Bukit Batok East Ave 2, Singapore 659919",
+    "address": "30 Bukit Batok East Avenue 2, Singapore 659919",
     "contact": "6899 5840",
     "createdAt": "2014-12-23T06:50:22.492Z",
     "location": {
@@ -1590,7 +1546,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:08.802Z",
     "uuid": "e4c890ba-4299-4671-87f4-ff26ef71321d",
-    "geohash": "w21z9n0f49"
+    "geohash": "w21z9n0f49",
+    "remarks": "The masjid prides itself for having an extensive library of Islamic literatures. Built in 1993, it is located in the West and is one of the pioneer masjids offering computer facilities to Muslims. It can accommodate up to 3,000 worshippers. The masjid built under the Mosque Building Fund also has complete jenazah (death ritual) services, which is rare among the other mosques. One of its strength is its family development unit, which offers assistance in cash and kind to needy families, single parents as well as kidney patients.",
+    "mosqueType": "MBMF"
   },
   "ae944dc4-5ac5-40fe-bbc5-d74d4a136bd0": {
     "address": "Pulau Bukom, P O Box 1908, S(903808)",
@@ -1647,34 +1605,6 @@
     "uuid": "d1fa8eab-21b9-432e-ba93-6e9b03c76f1e",
     "type": "Musolla",
     "geohash": "w21ztdsss3"
-  },
-  "732c4ce2-be89-4f64-a50b-25aa4cc8224b": {
-    "address": "245 Geylang Road, Singapore 389304",
-    "contact": "6846 0857",
-    "createdAt": "2014-12-23T06:50:21.983Z",
-    "location": {
-      "latitude": 1.312425,
-      "longitude": 103.876883
-    },
-    "name": "Haji Mohd Salleh Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:54:54.406Z",
-    "uuid": "732c4ce2-be89-4f64-a50b-25aa4cc8224b",
-    "geohash": "w21z7ybv6v"
-  },
-  "8901cc32-c475-4b9a-94e7-b9fa22426c58": {
-    "address": "39 Lorong Liput, Singapore 277746",
-    "contact": "6462 0112",
-    "createdAt": "2014-12-23T06:50:22.280Z",
-    "location": {
-      "latitude": 1.310703,
-      "longitude": 103.79467
-    },
-    "name": "Kampong-Holland  Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:25.679Z",
-    "uuid": "8901cc32-c475-4b9a-94e7-b9fa22426c58",
-    "geohash": "w21z3ysgrh"
   },
   "f8ccc11e-65aa-4fcf-b2b1-614d276b6630": {
     "address": "Yishun Avenue 2 S(769098)",
@@ -1733,7 +1663,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:18.682Z",
     "uuid": "d263595e-163b-4ea5-8847-22bfce7f1492",
-    "geohash": "w21z7ms6tv"
+    "geohash": "w21z7ms6tv",
+    "remarks": "One can hardly miss this blue-tiled building adorned with gold-coloured domes located at the junction of Victoria Street and Jalan Sultan. This redeveloped masjid was first built in 1918. in 1962, it underwent major rebuilding into what it is today. Located in the Central part of the island, it serves the needs of office workers around the area and has a capacity of 1000 people. Besides religious classes, it organizes zikir sessions.",
+    "mosqueType": "Leasehold"
   },
   "1deeb9b0-ba6f-41ba-81c1-0fb1e87ee001": {
     "address": "68 Orchard Road S(238839)",
@@ -1867,11 +1799,13 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:20.773Z",
     "uuid": "5a59c0ad-4475-41a1-ba70-2fb035f25a9b",
-    "geohash": "w21z3k6mfj"
+    "geohash": "w21z3k6mfj",
+    "remarks": "Built in 1961 by Muslim members of the British army, this old generation masjid was renamed Tentera Di Raja in recognition of their contributions. Located in the West and close to the National University of Singapore, it is distinguished by its minaret topped by a gold-painted dome. With a capacity of 1000 people, its newly-set up Youth Wing whose members are mostly undergraduates has recently embarked on a tuition scheme called EMAS (English, Maths and Science) for primary six children.",
+    "mosqueType": "TOL"
   },
   "7469dec1-9dc2-435d-8851-b5ce03b63268": {
     "address": "2 Pasir Ris Walk, Singapore 518239",
-    "contact": "6583 8711",
+    "contact": "6426 7130",
     "createdAt": "2014-12-23T06:50:22.144Z",
     "location": {
       "latitude": 1.371037,
@@ -1881,7 +1815,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:48.500Z",
     "uuid": "7469dec1-9dc2-435d-8851-b5ce03b63268",
-    "geohash": "w21zvc86g5"
+    "geohash": "w21zvc86g5",
+    "remarks": "This three-storey masjid is one of the most recent mosques built under Phase Three of the Mosque Building Fund. Completed in June 1999, it is located in the East, along Pasir Ris Drive 3. it can be recognized by its outstanding blue dome and modern yet Islamic architecture. The masjid, which can accommodate a congregation of 3300 people offers madrasah and kindergarten classes. It is a hive of activities during the evening when religious classes opened its doors to Muslims in the vicinity and also those living nearby.",
+    "mosqueType": "MBMF"
   },
   "55858153-d624-4ad1-acaf-055e53304591": {
     "address": "535 Clementi Road S(599489)",
@@ -1900,20 +1836,6 @@
     "uuid": "55858153-d624-4ad1-acaf-055e53304591",
     "type": "Musolla",
     "geohash": "w21z9d8kzr"
-  },
-  "e44260dc-aa7e-4390-910b-0d4958a1c7ce": {
-    "address": "37 Palmer Road, Singapore 079424",
-    "contact": "6220 9257",
-    "createdAt": "2014-12-23T06:50:21.994Z",
-    "location": {
-      "latitude": 1.272822,
-      "longitude": 103.847333
-    },
-    "name": "Haji Muhammad Salleh Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:54:28.160Z",
-    "uuid": "e44260dc-aa7e-4390-910b-0d4958a1c7ce",
-    "geohash": "w21z5peqdp"
   },
   "4eba44f0-34a3-4063-94c0-7b44f0f6c562": {
     "address": "500 Dover Road S(139651)",
@@ -1934,7 +1856,7 @@
     "geohash": "w21z3w65bk"
   },
   "c7623ffe-e628-4663-a50a-d47412fec80f": {
-    "address": "11A, Jalan Bilal Bedok Singapore 468862",
+    "address": "11A Jalan Bilal, Singapore 468862",
     "contact": "6442 7704",
     "createdAt": "2014-12-23T06:50:22.347Z",
     "location": {
@@ -1945,7 +1867,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:15.324Z",
     "uuid": "c7623ffe-e628-4663-a50a-d47412fec80f",
-    "geohash": "w21zt88sbk"
+    "geohash": "w21zt88sbk",
+    "remarks": "In the ‘60s, this masjid was one of the important symbols for the villagers living in kampung around Bedok. Built in 1883, this single-storey masjid has gone several renovations. It now serves the handful residents living nearby as well as in the East. With a capacity of 400 worshippers, the masjid holds regular religious classes.",
+    "mosqueType": "Wakaf"
   },
   "22ca913f-5a4d-4111-ac6e-b48afb5ecfaa": {
     "address": "180 Ang Mo Kio Ave 8 S(569830)",
@@ -1979,7 +1903,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:09.977Z",
     "uuid": "360f7e82-be30-4a56-b19e-0c0aabf58a89",
-    "geohash": "w21z85n79p"
+    "geohash": "w21z85n79p",
+    "remarks": "One of the oldest masjids under the Mosque Building Fund, the original masjid building was opened to the public in 1978. It served the religious needs of Muslims living in the West, specifically in the Jurong area. The masjid was rebuilt to maximize land usage in order to cater to the growing needs of the residents at the neighbourhood. It was reopened on 27 Dec 2002 and can accomodate 6000 worshippers, double the capacity of the older building.",
+    "mosqueType": "MBMF"
   },
   "af4660c2-804c-41ef-80ac-4683a2219d4c": {
     "address": "9 Engineering Drive 1, Faculty of Engineering (S), 117575",
@@ -2012,7 +1938,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:52.898Z",
     "uuid": "6f7ca455-c755-4218-b085-64afc10fe98d",
-    "geohash": "w21zkymxpw"
+    "geohash": "w21zkymxpw",
+    "remarks": "Architects responsible for the design of this masjid built under Phase Two of the Mosque Building Fund have succeeded in preserving the architecture and ambience of a kampung. Originally, a small 80-year-old masjid, the new masjid in the same site was completed in 1992. Located in the East, it has a capacity of 3000 people. Besides madrasah classes, there is a Tahfiz Al-Quran center. A Centre of Family Development provides guidance and courses to enhance family life.",
+    "mosqueType": "MBMF"
   },
   "bac9cb06-6886-4729-b6a0-ed18c917bb11": {
     "address": "68 Orchard Rd, Singapore 238839",
@@ -2046,11 +1974,13 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:12.825Z",
     "uuid": "453eb561-e362-4d0e-9a25-c89f20b4a21e",
-    "geohash": "w21z3fz13s"
+    "geohash": "w21z3fz13s",
+    "remarks": "From a small surau, this old generation masjid has grown into what it is today. Built in 1952, this zinc-roofed masjid underwent major renovations in 1996 to expand on its prayer hall. Today it can accommodate 600 worshippers. Located in the Central part of the island, the masjid offers weekend madrasah classes to students living around Queenstown area. It also organizes zikir sessions where praises to Allah are recited.",
+    "mosqueType": "TOL"
   },
   "7836b47e-f8b8-4e88-b92d-76e04b72c2ae": {
     "address": "946 Margaret Drive, Singapore 149309",
-    "contact": "6472 7298",
+    "contact": "6928 0442",
     "createdAt": "2014-12-23T06:50:22.028Z",
     "location": {
       "latitude": 1.292992,
@@ -2060,7 +1990,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:23.421Z",
     "uuid": "7836b47e-f8b8-4e88-b92d-76e04b72c2ae",
-    "geohash": "w21z67kh5x"
+    "geohash": "w21z67kh5x",
+    "remarks": "Much of what was built in 1965 is retained today in this 35-year-old masjid. Located in the Central part of the island, this old generation masjid built in 1965 serves office workers around the area and has a capacity of 400 worshippers. Activities are confined to weekend madrasah classes as well as religious lectures on Thursday, Friday and Saturday.",
+    "mosqueType": "Leasehold"
   },
   "60cb2846-d943-4b1f-9d2c-bfd5c0c5bc74": {
     "address": "180 Ang Mo Kio Ave 8 S(569830)",
@@ -2085,7 +2017,7 @@
   },
   "941c63b1-20dd-407a-adeb-d6e8451d6572": {
     "address": "46 Bristol Road, Singapore 219852",
-    "contact": "6293 8357",
+    "contact": "6293 8351",
     "createdAt": "2014-12-23T06:50:21.948Z",
     "location": {
       "latitude": 1.3129,
@@ -2095,21 +2027,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:02.407Z",
     "uuid": "941c63b1-20dd-407a-adeb-d6e8451d6572",
-    "geohash": "w21z7ph8nn"
-  },
-  "8c13242b-7472-4d22-8956-8e9026cea568": {
-    "address": "30 Telok Blangah Road, Singapore 098827",
-    "contact": "6273 6043",
-    "createdAt": "2014-12-23T06:50:22.115Z",
-    "location": {
-      "latitude": 1.266313,
-      "longitude": 103.824247
-    },
-    "name": "Temenggong Daing Ibrahim Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:54:09.780Z",
-    "uuid": "8c13242b-7472-4d22-8956-8e9026cea568",
-    "geohash": "w21z4wd8b3"
+    "geohash": "w21z7ph8nn",
+    "remarks": "In sharp contrast to a Saracenic style masjid or avant-garde looking religious structures, this old generation masjid is simple yet functional. Located at the junction of Bristol Road and Carlisle Road, this one-storey masjid can accommodate up to 120 people. Built in 1907 its main activities include daily and Friday prayers as well as occasional religious lectures.",
+    "mosqueType": "Wakaf"
   },
   "67dc14c2-8cc4-48ed-a38b-32ee72ade045": {
     "address": "60 Tampines North Drive 2 S(5287640",
@@ -2251,7 +2171,7 @@
   },
   "c0d55b2f-8d28-4b7b-8a9a-85584c20f730": {
     "address": "2 Lewis Road, Singapore 258590",
-    "contact": "6732 6170",
+    "contact": "6732 6795",
     "createdAt": "2014-12-23T06:50:21.852Z",
     "location": {
       "latitude": 1.320727,
@@ -2261,7 +2181,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:02.651Z",
     "uuid": "c0d55b2f-8d28-4b7b-8a9a-85584c20f730",
-    "geohash": "w21zd83mc9"
+    "geohash": "w21zd83mc9",
+    "remarks": "Built in 1952 by a prominent and well-respected imam from the Alatas family, this old generation masjid has served the needs of university undergraduates in Bukit Timah before the campus was relocated to Kent Ridge. Today, the one-storey masjid, which is located in the Central, can accommodate up to 400 worshippers for daily and Friday prayers. It is also crowded during Hari Raya prayers. On Thursday evenings, many Muslims gather for recitation of praises to Allah.",
+    "mosqueType": "Wakaf"
   },
   "7a8fde24-443c-4a2e-a90d-8129d722db13": {
     "address": "601 Tiong Bahru Road, Singapore 158787",
@@ -2275,7 +2197,9 @@
     "type": "Mosque",
     "updatedAt": "2016-03-25T04:55:55.773Z",
     "uuid": "7a8fde24-443c-4a2e-a90d-8129d722db13",
-    "geohash": "w21z66x91k"
+    "geohash": "w21z66x91k",
+    "remarks": "Redeveloped in 1985 on the same site as the old masjid, this three-storey cream structure can accommodate up to 2000 people. The first masjid was built in 1960. Today, the masjid in Central part of the island serves the needs of residents in Redhill, Tiong Bahru and Alexandra areas, besides the office workers at the nearby industrial estates. Besides madrasah and kindergarten classes, it organizes regular religious classes for the adults.",
+    "mosqueType": "Leasehold"
   },
   "5a2c042c-1041-48f9-8cd7-cc0273c82534": {
     "address": "6 Raffles Blvd, Marina Square S(039594)",
@@ -2356,7 +2280,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:59.093Z",
     "uuid": "ab18c5d8-7c0f-48b3-b315-5994c1fc05ed",
-    "geohash": "w21zs8ub2f"
+    "geohash": "w21zs8ub2f",
+    "remarks": "This masjid was originally completed in 1935.  Located in the Eastern part of the island, it has been rebuilt in 2001 which increased its capacity to 1,000 people.  Built to serve the needs of the neighbourhood along Changi Road, its activities are mainly religious lectures.",
+    "mosqueType": "Wakaf"
   },
   "388ecd6c-4b30-472e-be29-dfe01d64d72e": {
     "address": "200 Bedok Reservoir Road, Singapore 479221",
@@ -2370,7 +2296,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:45.802Z",
     "uuid": "388ecd6c-4b30-472e-be29-dfe01d64d72e",
-    "geohash": "w21zse7f52"
+    "geohash": "w21zse7f52",
+    "remarks": "It is one of the few masjids, which offer religious classes for the hearing-impaired and disabled. On Sunday mornings, hundreds of children dressed in their Muslim attire complete with headgear stroll into the mosque compounds to be part of the various religious classes. The masjid, which is located in the East, can fill up to 3,000 worshippers.  Built under the Mosque Building Fund in November 1994, it replaced the older generation mosque of the same name.",
+    "mosqueType": "MBMF"
   },
   "4fd40876-3207-4df6-8d50-27ce7d5725e7": {
     "address": "21 Lower Kent Ridge Road S(119077)",
@@ -2402,7 +2330,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:53:19.547Z",
     "uuid": "5c64e639-29aa-49ab-a355-6482f7e2da53",
-    "geohash": "w21z7jryeg"
+    "geohash": "w21z7jryeg",
+    "remarks": "Originally built in 1859, this masjid with its unique architecture has earned the distinction as  one of Singapore's national monuments. It has an unabashed mélange of styles – a mix of Southern Indian, Moghul and Europeans influences.  Located in the Central part of Singapore, it has since been redeveloped (re-opened in 1998) with a capacity of 3000 and offers madrasah classes in Tamil besides its usual religious classes.",
+    "mosqueType": "Wakaf"
   },
   "8b94b271-f7ab-480e-9f82-ce7820164e89": {
     "address": "500 Dover Road S(139651)",
@@ -2443,20 +2373,6 @@
     "type": "Musolla",
     "geohash": "w21z6tt9c1"
   },
-  "d67e8436-1e02-4ca3-a114-bfb2b17ff141": {
-    "address": "76 Kim Keat Road, Singapore 328835",
-    "contact": "6255 8262",
-    "createdAt": "2014-12-23T06:50:21.885Z",
-    "location": {
-      "latitude": 1.326157,
-      "longitude": 103.85487
-    },
-    "name": "Hajjah Rahimabi Kebun Limau Mosque",
-    "type": "Mosque",
-    "updatedAt": "2015-06-17T15:57:05.478Z",
-    "uuid": "d67e8436-1e02-4ca3-a114-bfb2b17ff141",
-    "geohash": "w21ze32v3v"
-  },
   "2a5f80ba-606f-40f5-a333-b6f34a223dd7": {
     "address": "590 Stirling Road, Singapore 148952",
     "contact": "6473 7400",
@@ -2469,7 +2385,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:15.168Z",
     "uuid": "2a5f80ba-606f-40f5-a333-b6f34a223dd7",
-    "geohash": "w21z6h39cz"
+    "geohash": "w21z6h39cz",
+    "remarks": "This is the second satellite masjid built under the Mosque Building Fund. Completed in October 1977, it is conspicuous by its cream-coloured walls and circular glass-paneled prayer hall. Instead of a dome, it has a cuboid-shaped top with semi-oval openings on all four sides. The masjid in the Central part of the island which can fill up to 3,500 people offers madrasah and kindergarten classes as well as other religious classes on a regular basis.",
+    "mosqueType": "MBMF"
   },
   "759a6dff-291d-44df-82d4-bf6444475224": {
     "address": "5140 Ang Mo Kio Central Avenue 6, S(569844)",
@@ -2487,7 +2405,7 @@
   },
   "0ca2524b-9518-460d-8ad3-9224629d9087": {
     "address": "583 Geylang Road, Singapore 389522",
-    "contact": "6747 5607",
+    "contact": "67475607",
     "createdAt": "2014-12-23T06:50:22.391Z",
     "location": {
       "latitude": 1.314149,
@@ -2497,10 +2415,12 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:56.423Z",
     "uuid": "0ca2524b-9518-460d-8ad3-9224629d9087",
-    "geohash": "w21z7zpx3z"
+    "geohash": "w21z7zpx3z",
+    "remarks": "Built in 1920, the masjid is currently being restored to its original splendour. Named after the wealthy lady who donated $50000 in 1916 to build this masjid, restoration works was completed in 2001. The masjid located in the Central part of Singapore has a current capacity of 500 people. Its activities include computer classes, training and youth programmes as well as tuition.",
+    "mosqueType": "Wakaf"
   },
   "08a38300-4e71-4a65-9983-d15ab4d70321": {
-    "address": "492 Teban Gardens Road, Singapore 608878",
+    "address": "492 Teban Gardens, Singapore 608878",
     "contact": "6561 7990",
     "createdAt": "2014-12-23T06:50:22.536Z",
     "location": {
@@ -2511,7 +2431,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:14.214Z",
     "uuid": "08a38300-4e71-4a65-9983-d15ab4d70321",
-    "geohash": "w21z88eu48"
+    "geohash": "w21z88eu48",
+    "remarks": "First built in 1971, this masjid was redeveloped in 1993 into a four-storey building complete with elevator. Its two levels of prayer hall can accommodate up to 2500 worshippers. Located in the West, it has Internet Corner, which for a nominal annual subscription of $5, members can surf the net for $2 an hour. A newly set up Youth Wing organizes recreational activities such as camping and soccer games for the young. Muslims can benefit from its imam and muezzin courses organized on an ad-hoc basis.",
+    "mosqueType": "Leasehold"
   },
   "9539d224-5da1-4dcc-bfef-a36b1f69dd1a": {
     "address": "535 Clementi Road S(599489)",
@@ -2533,7 +2455,7 @@
   },
   "f10ff22f-6d02-44fb-b546-3664c3f770ea": {
     "address": "450 Changi Road, Singapore 419877",
-    "contact": "6440 4742",
+    "contact": "6440 9434",
     "createdAt": "2014-12-23T06:50:22.380Z",
     "location": {
       "latitude": 1.318692,
@@ -2543,7 +2465,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:54.205Z",
     "uuid": "f10ff22f-6d02-44fb-b546-3664c3f770ea",
-    "geohash": "w21zs849zw"
+    "geohash": "w21zs849zw",
+    "remarks": "Combining both modern and Islamic architecture, this spanking new masjid was rebuilt to replace an old one built way back in 1924. Completed in 1999, the four-storey masjid located in the East can accommodate up to 2000 people. It is linked to Wisma Indah, a wakaf complex which houses the masjid’s office, commercial offices. Besides organizing regular religious courses for adults, the masjid also provides Internet facilities for visitors.",
+    "mosqueType": "Wakaf"
   },
   "dba10912-3bc1-4e7c-83b8-c04ee14b5f03": {
     "address": "11 Jalan Ibadat, Singapore 698955",
@@ -2557,7 +2481,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:05.137Z",
     "uuid": "dba10912-3bc1-4e7c-83b8-c04ee14b5f03",
-    "geohash": "w21zb47cxq"
+    "geohash": "w21zb47cxq",
+    "remarks": "This old generation masjid located in the West, off Choa Chu Kang road, was built in 1962. In 1999, the masjid, which serves the needs of the nearby residents, was rebuilt. Today, it can accommodate up to 200 people.  There are religious classes for adults in the evening.",
+    "mosqueType": "TOL"
   },
   "d681a099-d828-4055-b579-4162966da0a6": {
     "address": "3 Muscat Street, Singapore 198833",
@@ -2579,7 +2505,9 @@
         "createdAt": "2015-05-26T11:17:31.266Z",
         "updatedAt": "2015-06-01T04:11:23.386Z"
       }
-    ]
+    ],
+    "remarks": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+    "mosqueType": "Wakaf"
   },
   "eeb543e3-691f-4191-a845-4ceee1ad460d": {
     "address": "500 Dover Road S(139651)",
@@ -2697,5 +2625,212 @@
     "submitterName": "Norhana H.",
     "createdAt": "2016-04-20T07:00:37.134Z",
     "updatedAt": "2016-04-20T07:00:37.134Z"
+  },
+  "cc3d8cc0-271d-4f7c-a468-80f93a7af8de": {
+    "address": "10 Gentle Road, Singapore 309194",
+    "contact": "6251 2729",
+    "createdAt": "2018-09-07T19:09:26+08:00",
+    "location": {
+      "latitude": 1.31991,
+      "longitude": 103.84087
+    },
+    "name": "Abdul Hamid Kampung Pasiran Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:26+08:00",
+    "uuid": "cc3d8cc0-271d-4f7c-a468-80f93a7af8de",
+    "geohash": "w21zdbq959",
+    "mosqueType": "Wakaf"
+  },
+  "f41a5a8e-19ea-424b-9829-9dd89cbb9624": {
+    "address": "192 Telok Ayer Street, Singapore 068635",
+    "contact": "6220 6306",
+    "createdAt": "2018-09-07T19:09:26+08:00",
+    "location": {
+      "latitude": 1.28008,
+      "longitude": 103.84732
+    },
+    "name": "Al-Abrar Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:26+08:00",
+    "uuid": "f41a5a8e-19ea-424b-9829-9dd89cbb9624",
+    "geohash": "w21z71531b",
+    "remarks": "The masjid, which bears the imprint of South Indian architecture in its narrow frontages, which are defined by two minaret-style towers, was founded in 1827. But it was only in 1855, that a formal building was set up. In 1974, the old generation masjid located in Central Singapore was gazetted as one of the national monuments. With a capacity of 500, it serves the needs of office workers in the Shenton Road area. Unlike neighbourhood masjids, which spring to life in the evening, this masjid is relatively quiet except for its occasional Tafsir Al-Quran (Al-Quran interpretation) courses.",
+    "mosqueType": "Wakaf"
+  },
+  "cb0c39a0-031d-4a5d-b942-5455616be7e1": {
+    "address": "30, Punggol Field, Singapore 828812",
+    "contact": "6312 5194",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.40158,
+      "longitude": 103.90166
+    },
+    "name": "Al-Islah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "cb0c39a0-031d-4a5d-b942-5455616be7e1",
+    "geohash": "w21zur4uu1",
+    "remarks": "Al-Islah Mosque is the second mosque built under Phase 4 of the Mosque Building Programme. With its capacity for 4,000 congregants, Al-Islah Mosque will be able to serve the growing Muslim community in Punggol and the surrounding neighbourhoods, as well as ease the prayer space crunch on Fridays and Eid for Muslims in the eastern part of Singapore.",
+    "mosqueType": "MBMF"
+  },
+  "e9498cf8-8f79-43b3-b72e-a53d36070da8": {
+    "address": "66 Pheng Geck Avenue, Singapore 348261",
+    "contact": "6280 0300",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.3329899,
+      "longitude": 103.87033
+    },
+    "name": "Alkaff Upper Serangoon Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "e9498cf8-8f79-43b3-b72e-a53d36070da8",
+    "geohash": "w21zedsj4p",
+    "remarks": "This old generation masjid sited next to Darul Libanat, a girls’ orphanage, was built in 1920. The masjid located in the Central part of the island has undergone several renovation, its most recent one in 1998, in which the prayer hall was extended to accommodate a larger congregation of 2,500 people. It serves the religious needs of the small Muslim residents in the area as well as office workers. Besides daily and Friday prayer, there are religious classes held at the masjid.",
+    "mosqueType": "Wakaf"
+  },
+  "c7c8e27a-324b-4a24-8431-b72cd5f31d27": {
+    "address": "265 Serangoon Road, Singapore 218099",
+    "contact": "6295 1478",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.31033,
+      "longitude": 103.85431
+    },
+    "name": "Angullia Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "c7c8e27a-324b-4a24-8431-b72cd5f31d27",
+    "geohash": "w21z7q83hz",
+    "remarks": "If there is one masjid, which attracts a wide range of nationalities, it must be the Masjid Angullia. Located along one of Singapore’s busiest main roads in the Central district, the mosque is a place for devotion of shoppers across the road at Serangoon Plaza as well as shopkeepers and office workers nearby. It can accommodate 400 Muslims any one time. Built with funds from a wealthy Angullia family in 1970, it has an Indian-like minaret. Today, it is famous as a center of tabligh (activities to promote Islam).",
+    "mosqueType": "Wakaf"
+  },
+  "4342d920-ae35-4fc4-a9ff-6a0f45086511": {
+    "address": "9A Bishan Street 14, Singapore 579786",
+    "contact": "6354 3138",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.35324,
+      "longitude": 103.85124
+    },
+    "name": "An-Nahdhah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4342d920-ae35-4fc4-a9ff-6a0f45086511",
+    "geohash": "w21zenq5jq",
+    "remarks": "This mosque is the sixth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community around the Bishan area. The mosque can accommodate about 4,000 people and was opened to the public on 6th January 2006. \n\nThe mosque complex also houses MUIS's Harmony Centre where visitors could learn of the Muslim Community and Islam as practiced in multi-cultural Singapore. Being the first of its kind in a Singapore mosque, the 2-storey Harmony Centre showcases exhibits, artifacts and information on Islamic civilisation and lifestyle. Contemporary issues in Islam and Inter-faith understanding will also be a feature at the Centre through talks and activities. The Centre is scheduled to be opened to all in October 2006.",
+    "mosqueType": "MBMF"
+  },
+  "ea621d8f-488a-4269-8760-53a88bcd5929": {
+    "address": "950 Yishun Avenue 2, Singapore 769099",
+    "contact": "6752 1402",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.4367,
+      "longitude": 103.83394
+    },
+    "name": "Darul Makmur Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "ea621d8f-488a-4269-8760-53a88bcd5929",
+    "geohash": "w23b4v996h",
+    "remarks": "Morning is a hectic period at the masjid when doting parents wave their pre-schoolers goodbye. Besides kindergarten classes for these pre-schoolers, the mosque is among the few, which offers a Tahfiz (Al-Quran memorization) course for children. Built in 1989, it serves Muslim families living in Yishun and the North part of the island. The masjid, which falls under Phase Two of the Mosque Building Fund, can accommodate about 3000 people.",
+    "mosqueType": "MBMF"
+  },
+  "4955bc68-3a7b-42b2-9b62-af657a94f521": {
+    "address": "245 Geylang Road, Singapore 389304",
+    "contact": "6846 0857",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.31219,
+      "longitude": 103.87692
+    },
+    "name": "Haji Mohd Salleh (G) Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4955bc68-3a7b-42b2-9b62-af657a94f521",
+    "geohash": "w21z7ybu59",
+    "remarks": "A historic milestone was achieved in November 1999 when its new four-storey building was officially opened after more than a year of extensive rebuilding. The original structure which dated back in 1896 was built on land donated by an individual. The masjid with its simple and modern architecture can accommodate up to 1,500 congregants.",
+    "mosqueType": "Wakaf"
+  },
+  "8aeeb089-46b3-4928-8801-16273f32ddaa": {
+    "address": "37 Palmer Road, Singapore 079424",
+    "contact": "62209257",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.27323,
+      "longitude": 103.84719
+    },
+    "name": "Haji Muhammad Salleh (P) Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "8aeeb089-46b3-4928-8801-16273f32ddaa",
+    "geohash": "w21z5pg1ng",
+    "remarks": "Sited at the far end of Shenton Road, the masjid in its tranquil serenity is a sharp contrast to the hustle and bustle of the busy Central Business District. With a total capacity of 500, this old generation masjid, which was built in 1903, underwent several renovation and repair works. Because it is located away from residential areas, activities are confined during office hours and constitute mainly the obligatory prayers.",
+    "mosqueType": "Wakaf"
+  },
+  "4a8392f9-0ab5-4942-a817-b431d50de769": {
+    "address": "76 Kim Keat Road, Singapore 328835",
+    "contact": "6255 8262",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.32634,
+      "longitude": 103.85465
+    },
+    "name": "Hajjah Rahimabi Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4a8392f9-0ab5-4942-a817-b431d50de769",
+    "geohash": "w21ze32wkx",
+    "remarks": "Built from donation by Hajjah Rahima Bee Ahmad Angullia, this masjid was redeveloped from an existing masjid, which had been around since 1960. the redeveloped masjid, which was completed in 1984, was renamed after the donor. Located in the Central part of the island, it is one of the several mosques which have pulpits decorated with woodcarvings. With a capacity of about 500 worshippers, it organizes Iqra’ and Mukaddam (Quran reading) courses.",
+    "mosqueType": "Leasehold"
+  },
+  "c376d55c-0b35-4668-9f8f-2b80e5dcf5aa": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": null,
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.29131,
+      "longitude": 103.77126
+    },
+    "name": "Hussein Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "c376d55c-0b35-4668-9f8f-2b80e5dcf5aa",
+    "geohash": "w21z375fmt",
+    "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
+    "mosqueType": "Leasehold"
+  },
+  "fc7a8932-4707-43fe-9a8e-6b0b59261e6a": {
+    "address": "20 Jurong West Street 26, Singapore 648125",
+    "contact": "6515 5033",
+    "createdAt": "2018-09-07T19:09:28+08:00",
+    "location": {
+      "latitude": 1.34859,
+      "longitude": 103.70526
+    },
+    "name": "Maarof Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:28+08:00",
+    "uuid": "fc7a8932-4707-43fe-9a8e-6b0b59261e6a",
+    "geohash": "w21xxveb5e",
+    "remarks": "Maarof Mosque is Singapore’s 25th satellite mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). At full capacity, Masjid Maarof can accommodate approximately 4,500 worshippers.",
+    "mosqueType": "MBMF"
+  },
+  "067ecc8d-d1ea-4018-9f23-0bb60d8dd3d1": {
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "contact": "6363 1383",
+    "createdAt": "2018-09-07T19:09:28+08:00",
+    "location": {
+      "latitude": 1.4260206,
+      "longitude": 103.7947605
+    },
+    "name": "Yusof Ishak Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:28+08:00",
+    "uuid": "067ecc8d-d1ea-4018-9f23-0bb60d8dd3d1",
+    "geohash": "w23b1gt51j",
+    "remarks": "Masjid Yusof Ishak is the 71st mosque in Singapore today, and the fourth mosque built under Phase 4 [1] of the Mosque Building Programme. It is Singapore’s 26th mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). Masjid Yusof Ishak is designed with a unique architecture blending traditional mosque characteristics with Nusantara heritage and elements, while also addressing functional requirements. Distinctive features of a tropical Nusantara house, such as eaves/overhangs, verandah, decorative fixed ventilation panels and beautifully crafted balustrades, are reinterpreted and expressed in a modern way befitting this new generation mosque.",
+    "mosqueType": "MBMF"
   }
 }
