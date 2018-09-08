@@ -2832,5 +2832,143 @@
     "geohash": "w23b1gt51j",
     "remarks": "Masjid Yusof Ishak is the 71st mosque in Singapore today, and the fourth mosque built under Phase 4 [1] of the Mosque Building Programme. It is Singapore’s 26th mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). Masjid Yusof Ishak is designed with a unique architecture blending traditional mosque characteristics with Nusantara heritage and elements, while also addressing functional requirements. Distinctive features of a tropical Nusantara house, such as eaves/overhangs, verandah, decorative fixed ventilation panels and beautifully crafted balustrades, are reinterpreted and expressed in a modern way befitting this new generation mosque.",
     "mosqueType": "MBMF"
+  },
+  "aa3aeda0-c23a-4594-9c05-9a163a32c47e": {
+    "address": "JALAN GERTAK MERAH 80100, Malaysia",
+    "contact": "072281273",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 1.45695,
+      "longitude": 103.75103
+    },
+    "name": "MASJID SULTAN ABU BAKAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "aa3aeda0-c23a-4594-9c05-9a163a32c47e",
+    "geohash": "w23b2cjpq5",
+    "remarks": "Masjid Sultan Abu Bakar tersergam di atas sebuah bukit berhampiran bandar Johor Bahru dan mempunyai pemandangan indah Selat Johor dan Singapura. Masjid ini merupakan salah sebuah masjid lama yang tercantik di Malaysia.\n\nMasjid Sultan Abu Bakar dibina pada 1 Muharam 1310 Hijri bersamaan 26 Julai 1892 Masihi, atas titah Sultan Abu Bakar. Ia terletak berhampiran pejabat Majlis Agama Islam dan Istana Besar Johor Bahru, iaitu di atas Bukit Kecil di Jalan Tun Dr. Ismail, mengadap Selat Tebrau, menjadikan ia antara bangunan yang mempunyai pemandangan yang indah di Johor Bahru.\n\nUpacara perasmian masjid ini telah disempurnakan oleh Sultan Ibrahim (1895-1959) pada 1 Syawal 1317 bersamaan 2 Februari 1900 Masihi. Nama masjid ini diambil sempena nama Sultan Abu Bakar sendiri atau dikenali sebagai Bapa Johor Moden. Masjid ini boleh memuatkan seramai 2,000 orang jemaah pada satu-satu masa.",
+    "source_musolla_id": "7474"
+  },
+  "3eb5278e-833a-4761-8ea7-f0153d08d54d": {
+    "address": "JALAN GERTAK MERAH 80100, Malaysia",
+    "contact": "072281273",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 1.45695,
+      "longitude": 103.75103
+    },
+    "name": "MASJID SULTAN ABU BAKAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "3eb5278e-833a-4761-8ea7-f0153d08d54d",
+    "geohash": "w23b2cjpq5",
+    "remarks": "Masjid Sultan Abu Bakar tersergam di atas sebuah bukit berhampiran bandar Johor Bahru dan mempunyai pemandangan indah Selat Johor dan Singapura. Masjid ini merupakan salah sebuah masjid lama yang tercantik di Malaysia.\n\nMasjid Sultan Abu Bakar dibina pada 1 Muharam 1310 Hijri bersamaan 26 Julai 1892 Masihi, atas titah Sultan Abu Bakar. Ia terletak berhampiran pejabat Majlis Agama Islam dan Istana Besar Johor Bahru, iaitu di atas Bukit Kecil di Jalan Tun Dr. Ismail, mengadap Selat Tebrau, menjadikan ia antara bangunan yang mempunyai pemandangan yang indah di Johor Bahru.\n\nUpacara perasmian masjid ini telah disempurnakan oleh Sultan Ibrahim (1895-1959) pada 1 Syawal 1317 bersamaan 2 Februari 1900 Masihi. Nama masjid ini diambil sempena nama Sultan Abu Bakar sendiri atau dikenali sebagai Bapa Johor Moden. Masjid ini boleh memuatkan seramai 2,000 orang jemaah pada satu-satu masa.",
+    "source_musolla_id": "7475"
+  },
+  "6c37de7b-bd58-44d9-8fb7-86191101c1d6": {
+    "address": "MASJID JAMEK SULTAN IBRAHIM, MUAR 84000, Malaysia",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 2.046523,
+      "longitude": 102.558272
+    },
+    "name": "MASJID SULTAN IBRAHIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "6c37de7b-bd58-44d9-8fb7-86191101c1d6",
+    "geohash": "w22gtu89ug",
+    "remarks": "Masjid Jamek Sultan Ibrahim ini siap didirikan sekitar tahun 1927 Masihi dan telah dirasmikan pada 28 Februari 1930 Masihi oleh Tengku Mahkota Ismail (Sultan Ismail) yang menjadi Pemangku Sultan Johor ketika itu. Ia didirikan bagi menggantikan bangunan kayu yang telah dibina pada tahun 1880-an.\r\nMasjid ini terletak di Jalan Petri, Tanjung Emas, Muar yang berlatar belakang Sungai Muar. Pada masa dahulu kebanyakan penempatan didirikan berhampiran dengan aliran air yang menjadi laluan utama sebelum pembinaan jalan darat. Oleh itu, pembinaan masjid berdekatan sungai adalah penting.",
+    "source_musolla_id": "7917"
+  },
+  "ff4ae882-bf80-4e70-b6c2-20202edebab4": {
+    "address": "JALAN BAKAU CONDONG83000 BATU PAHAT 83000, Malaysia",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 2.050886,
+      "longitude": 102.562028
+    },
+    "name": "MASJID SULTAN ISMAIL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "ff4ae882-bf80-4e70-b6c2-20202edebab4",
+    "geohash": "w22gtv77k2",
+    "source_musolla_id": "7918",
+    "provision": "Masjid Sultan Ismail dilengkapi peralatan canggih seperti sistem pendingin dan audio visual. Ini membantu menaik taraf masjid ini dan ia merupakan antara masjid yang aktif dengan pelbagai program yang dilaksanakan oleh penduduk daripada pelbagai lapisan dan peringkat umur."
+  },
+  "bb6b9d6d-fef2-4bb7-ac83-b07cea7cde85": {
+    "address": "JLN MASJID86800 MERSING 86800, Malaysia",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 2.42765,
+      "longitude": 103.841072
+    },
+    "name": "MASJID  BANDAR MERSING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "bb6b9d6d-fef2-4bb7-ac83-b07cea7cde85",
+    "geohash": "w23vfcyy06",
+    "remarks": "Masjid Jamek Mersing terletak di Bandar Mersing ini telah didirikan pada 7 Syawal 1375 Hijri bersamaan 18 Mei 1956 Masihi. Upacara peletakan batu asas masjid ini kemudiannya telah disempurnakan oleh Datoâ€™ Syed Alwi, iaitu Mufti Kerajaan Negeri Johor ketika itu pada 24 Zulhijjah 1375 Hijri bersamaan 2 Ogos 1956 Masihi.",
+    "source_musolla_id": "7919"
+  },
+  "d8ccb7a8-c23e-49fd-b5cc-6e6491ab24a0": {
+    "address": "JALAN AMPUAN83000 BATU PAHAT 83000, Malaysia",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 1.844726,
+      "longitude": 102.932254
+    },
+    "name": "MASJID DATO' BENTARA LUAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "d8ccb7a8-c23e-49fd-b5cc-6e6491ab24a0",
+    "geohash": "w234qrbfr3",
+    "remarks": "Masjid yang telah didirikan pada tahun 1930-an ini terletak di Jalan Masjid, Batu Pahat, iaitu berhadapan Stadium Batu Pahat. Masjid ini pernah dijadikan Masjid Daerah yang utama sebelum pembinaan masjid baru. Bangunan masjid ini masih kukuh dan digunakan sehingga kini.",
+    "source_musolla_id": "7920"
+  },
+  "3cd1d8f5-e0f4-4fd8-8ec1-d55ca1a8e549": {
+    "address": "UNIVERSITI TEKNOLOGI MALAYSIA, 81300 SKUDAI, JOHOR 81300, Malaysia",
+    "contact": "0137096339",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 1.559262,
+      "longitude": 103.637433
+    },
+    "name": "MASJID SULTAN ISMAIL UTM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "3cd1d8f5-e0f4-4fd8-8ec1-d55ca1a8e549",
+    "geohash": "w238y7f7r5",
+    "remarks": "Pembinaan Masjid Sultan Ismail bermula pada tahun 1986 dan telah siap pada tahun 1990 dengan belanja hampir RM 19 juta. Masjid ini telah dirasmikan oleh DYMM Sultan Iskandar Ibni Almarhum Sultan Ismail, Sultan Johor, pada 23 Ogos 1991.\n\nMasjid Sultan Ismail terletak di Dataran Tinggi di tengah-tengah kampus. Kedudukan ini juga selaras dengan konsep pembelajaran Islam yang menjadikan masjid sebagai sumber memperoleh dan menyebarkan ilmu.Masjid Sultan Ismail boleh menampung jemaah lebih daripada 10,000 orang dalam satu-satu masa, termasuk 800 jemaah wanita di dewan solat wanita aras 3. Keluasan lantai keseluruhan Masjid Sultan Ismail adalah lebih kurang 100,000 kaki persegi. Keluasan lantai dewan solat utama adalah lebih kurang 100,000 kaki persegi. Keluasan lantai dewan solat utama adalah 41,000 kaki persegi.",
+    "source_musolla_id": "7927"
+  },
+  "f5587cfa-d35c-4ee0-8654-b49aa92b538c": {
+    "address": "Kampung LEBAN CONDONG, 26810 ROMPIN. 26810, Malaysia",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 2.886446,
+      "longitude": 103.429101
+    },
+    "name": "MASJID AL- IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "f5587cfa-d35c-4ee0-8654-b49aa92b538c",
+    "geohash": "w2983t6yb8",
+    "remarks": "Selain nama Masjid Leban Chondong, ia turut dikenali dengan nama Masjid Al-Iman. Masjid ini terletak kira-kira 12 km dari Bandar Rompin. Masjid ini didirikan pada tahun 1984 Masihi dengan pembiayaannya ditanggung oleh Kerajaan Negeri Pahang di bawah program Amanah Saham Pahang Berhad (ASPA).\nMasjid ini telah dirasmikan oleh Tengku Mahkota Pahang. Masjid-masjid baru di Pahang yang terletak di bawah program ASPA dibina berkonsepkan tempatan, iaitu diperbuat daripada kayu dan bercirikan bumbung berbentuk piramid serta tiada pembaziran ruang atau hiasan berlebihan.",
+    "source_musolla_id": "8149"
+  },
+  "ab5e4d52-832e-40b4-a135-f64e6c3c2bfe": {
+    "address": "MASJID DAERAH JASIN, JALAN JASIN-MELAKA 76500, Malaysia",
+    "contact": "06-5296097",
+    "createdAt": "2018-09-08T10:57:25+08:00",
+    "location": {
+      "latitude": 2.312445,
+      "longitude": 102.431717
+    },
+    "name": "MASJID AL-GHAFFAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T10:57:25+08:00",
+    "uuid": "ab5e4d52-832e-40b4-a135-f64e6c3c2bfe",
+    "geohash": "w22v4uuwbn",
+    "source_musolla_id": "8549"
   }
 }
