@@ -3,6 +3,7 @@ const moment = require('moment');
 const request = require('request-promise-native');
 const uuid = require('uuid4');
 const ngeohash = require('ngeohash');
+const utils = require('./utils');
 
 const currentData = require('../data.json');
 const currentDataKeys = Object.keys(currentData);
@@ -13,61 +14,66 @@ main();
 async function main() {
     const mosques = await getMosquesFromJAKIM();
 
-    // const updatedMosques = [];
-    // const removedMosques = [];
-    // for (let id of currentDataKeys) {
-    //     const currentItem = currentData[id];
-    //     if (currentItem.type !== "Mosque" || currentItem.address.indexOf("Singapore ") === -1) {
-    //         continue;
-    //     }
+    const updatedMosques = [];
+    const removedMosques = [];
+    for (let id of currentDataKeys) {
+        const currentItem = currentData[id];
+        if (currentItem.type !== "Mosque" || currentItem.address.indexOf("Malaysia ") === -1) {
+            continue;
+        }
 
-    //     const matchedItem = mosques.filter((item) => {
-    //         return currentItem.name === item.name + " Mosque";
-    //     });
+        const matchedItem = mosques.filter((item) => {
+            return currentItem.source_musolla_id === item.id || currentItem.location === item.location;
+        });
 
-    //     if (matchedItem.length === 0) {
-    //         removedMosques.push(currentItem);
-    //         delete currentData[currentItem.uuid];
-    //     } else {
-    //         const item = matchedItem[0];
+        // if (matchedItem.length === 0) {
+        //     removedMosques.push(currentItem);
+        //     delete currentData[currentItem.uuid];
+        // } else {
+            const item = matchedItem[0];
 
-    //         currentData[id].name = item.name + " Mosque";
-    //         currentData[id].address = item.address;
-    //         if (item.phone) {
-    //             currentData[id].contact = item.phone;
-    //         } else {
-    //             delete currentData[id].contact;
-    //         }
-    //         if (item.desc) {
-    //             currentData[id].remarks = item.desc;
-    //         }
-    //         if (item.type) {
-    //             currentData[id].mosqueType = item.type;
-    //         }
-    //         item.updatedAt = moment().format();
+            currentData[id].name = item.name;
+            currentData[id].address = item.address;
+            if (item.phone) {
+                currentData[id].contact = item.phone;
+            } else {
+                delete currentData[id].contact;
+            }
+            if (item.desc) {
+                currentData[id].remarks = item.desc;
+            }
+            if (item.provision) {
+                currentData[id].provision = item.provision;
+            }
+            item.updatedAt = moment().format();
 
-    //         updatedMosques.push(currentData[id]);
-    //     }
-    // };
+            updatedMosques.push(currentData[id]);
+        // }
+    };
 
-    // if (updatedMosques.length !== 0) {
-    //     console.log("Updated Mosques (" + updatedMosques.length + "):");
-    //     console.log(updatedMosques);
-    // }
+    if (updatedMosques.length !== 0) {
+        console.log("Updated Mosques (" + updatedMosques.length + "):");
+        console.log(updatedMosques);
+    }
 
-    // console.log("");
+    console.log("");
 
-    // if (removedMosques.length !== 0) {
-    //     console.log("Removed Mosques (" + removedMosques.length + "):");
-    //     console.log(removedMosques);
-    // }
+    if (removedMosques.length !== 0) {
+        console.log("Removed Mosques (" + removedMosques.length + "):");
+        console.log(removedMosques);
+    }
 
     console.log("");
 
     const newMosques = [];
+    const newMosquesId = [];
     for (let item of mosques) {
+        if (newMosquesId.indexOf(item.id) > -1) {
+            continue;
+        }
+
         const matchedItem = currentMosques.filter((currentItem) => {
-            return currentItem.source_musolla_id === item.id;
+            return currentItem.source_musolla_id === item.id || currentItem.location === item.location;
         });
     
         if (matchedItem.length === 0) {
@@ -86,6 +92,7 @@ async function main() {
                 provision: item.provision,
             };
             newMosques.push(newItem);
+            newMosquesId.push(item.id);
 
             newItem.geohash = ngeohash.encode(newItem.location.latitude, newItem.location.longitude, 10);
 
@@ -118,7 +125,7 @@ async function getMosquesFromJAKIM() {
 
     for (let item of response.locationData) {
         items.push({
-            id: item.esolat_sismim_id,
+            id: item.no_daftar,
             name: item.nama_masjid.split(",")[0].trim(),
             address: item.alamat.replace(/\n/g, "").replace(/\r/g, "").replace("KG.", "Kampung") + " " + item.poskod + ", Malaysia",
             phone: item.tel.trim() || undefined,
@@ -130,6 +137,10 @@ async function getMosquesFromJAKIM() {
             provision: item.kemudahan.trim() || undefined,
             desc: item.sejarah.trim() || undefined,
         });
+    }
+
+    for (let item of items) {
+        item.address = await utils.getAddressFromLatLng(item.location.latitude, item.location.longitude);
     }
 
     return items;
