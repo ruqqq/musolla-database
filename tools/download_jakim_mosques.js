@@ -26,10 +26,10 @@ async function main() {
             return currentItem.source_musolla_id === item.id || currentItem.location === item.location;
         });
 
-        // if (matchedItem.length === 0) {
-        //     removedMosques.push(currentItem);
-        //     delete currentData[currentItem.uuid];
-        // } else {
+        if (matchedItem.length === 0) {
+            removedMosques.push(currentItem);
+            delete currentData[currentItem.uuid];
+        } else {
             const item = matchedItem[0];
 
             currentData[id].name = item.name;
@@ -48,19 +48,19 @@ async function main() {
             item.updatedAt = moment().format();
 
             updatedMosques.push(currentData[id]);
-        // }
+        }
     };
 
     if (updatedMosques.length !== 0) {
         console.log("Updated Mosques (" + updatedMosques.length + "):");
-        console.log(updatedMosques);
+        // console.log(updatedMosques);
     }
 
     console.log("");
 
     if (removedMosques.length !== 0) {
         console.log("Removed Mosques (" + removedMosques.length + "):");
-        console.log(removedMosques);
+        // console.log(removedMosques);
     }
 
     console.log("");
@@ -101,7 +101,7 @@ async function main() {
     };
     if (newMosques.length !== 0) {
         console.log("New Mosques (" + newMosques.length + "):");
-        console.log(newMosques);
+        // console.log(newMosques);
     }
 
     fs.writeFileSync('../data.json', JSON.stringify(currentData, null, 2));
@@ -112,14 +112,15 @@ async function getMosquesFromJAKIM() {
         uri: "https://www.e-solat.gov.my/index.php",
         qs: {
             r: 'esolatApi/nearestMosque',
-            // lat: 2.91667,
-            // long: 101.7,
-            lat: 1.498652,
-            long: 103.787032,
-            dist: 100,
+            lat: 2.91667,
+            long: 101.7,
+            // lat: 1.498652,
+            // long: 103.787032,
+            dist: 2500,
         },
         json: true,
     });
+    console.log("Download JAKIM data.");
 
     const items = [];
 
@@ -139,9 +140,25 @@ async function getMosquesFromJAKIM() {
         });
     }
 
-    for (let item of items) {
-        item.address = await utils.getAddressFromLatLng(item.location.latitude, item.location.longitude);
+    let addressCache = {};
+    const addressCacheFile = 'cache/reverseGeocodeCache.json';
+    if (fs.existsSync(addressCacheFile)) {
+        addressCache = require('./' + addressCacheFile);
     }
+
+    for (let item of items) {
+        if (!addressCache[item.location.latitude + ',' + item.location.longitude]) {
+            try {
+                item.address = await utils.getAddressFromLatLng(item.location.latitude, item.location.longitude);
+                addressCache[item.location.latitude + ',' + item.location.longitude] = item.address;
+            } catch (e) {
+                console.warn("Cannot reverse geocode: " + item.address + " (" + item.location.latitude + ", " + item.location.longitude + ")");
+            }
+        }
+        item.address = addressCache[item.location.latitude + ',' + item.location.longitude];
+    }
+
+    fs.writeFileSync(addressCacheFile, JSON.stringify(addressCache, null, 2));
 
     return items;
 }

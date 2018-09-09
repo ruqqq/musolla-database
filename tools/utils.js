@@ -56,7 +56,7 @@ async function getAddressFromLatLng(latitude, longitude) {
     });
 
     if (response.Response.View.length === 0) {
-        console.error("Cannot find address for " + latitude + "," + longitude);
+        throw "Cannot find address for " + latitude + "," + longitude;
     }
 
     return response.Response.View[0].Result[0].Location.Address.Label + " " + response.Response.View[0].Result[0].Location.Address.PostalCode;
