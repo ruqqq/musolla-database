@@ -18,7 +18,7 @@ async function main() {
     const removedMosques = [];
     for (let id of currentDataKeys) {
         const currentItem = currentData[id];
-        if (currentItem.type !== "Mosque" || currentItem.address.indexOf("Malaysia ") === -1) {
+        if (currentItem.type !== "Mosque" || (currentItem.address && currentItem.address.indexOf("Malaysia ") === -1)) {
             continue;
         }
 
@@ -120,7 +120,7 @@ async function getMosquesFromJAKIM() {
         },
         json: true,
     });
-    console.log("Download JAKIM data.");
+    console.log("Downloaded JAKIM data.");
 
     const items = [];
 
@@ -149,13 +149,15 @@ async function getMosquesFromJAKIM() {
     for (let item of items) {
         if (!addressCache[item.location.latitude + ',' + item.location.longitude]) {
             try {
-                item.address = await utils.getAddressFromLatLng(item.location.latitude, item.location.longitude);
-                addressCache[item.location.latitude + ',' + item.location.longitude] = item.address;
+                let address = await utils.getAddressFromLatLng(item.location.latitude, item.location.longitude);
+                addressCache[item.location.latitude + ',' + item.location.longitude] = address;
+                item.address = address;
             } catch (e) {
                 console.warn("Cannot reverse geocode: " + item.address + " (" + item.location.latitude + ", " + item.location.longitude + ")");
             }
+        } else {
+            item.address = addressCache[item.location.latitude + ',' + item.location.longitude];
         }
-        item.address = addressCache[item.location.latitude + ',' + item.location.longitude];
     }
 
     fs.writeFileSync(addressCacheFile, JSON.stringify(addressCache, null, 2));
