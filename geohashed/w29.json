@@ -1,0 +1,91 @@
+{
+  "w2983t6yb8": {
+    "address": "Endau, Pahang, Malaysia 26800",
+    "createdAt": "2018-09-08T11:17:38+08:00",
+    "location": {
+      "latitude": 2.886446,
+      "longitude": 103.429101
+    },
+    "name": "MASJID AL- IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T11:17:38+08:00",
+    "uuid": "3543c11e-170b-4b3c-8d8d-7637de547810",
+    "geohash": "w2983t6yb8",
+    "remarks": "Selain nama Masjid Leban Chondong, ia turut dikenali dengan nama Masjid Al-Iman. Masjid ini terletak kira-kira 12 km dari Bandar Rompin. Masjid ini didirikan pada tahun 1984 Masihi dengan pembiayaannya ditanggung oleh Kerajaan Negeri Pahang di bawah program Amanah Saham Pahang Berhad (ASPA).\nMasjid ini telah dirasmikan oleh Tengku Mahkota Pahang. Masjid-masjid baru di Pahang yang terletak di bawah program ASPA dibina berkonsepkan tempatan, iaitu diperbuat daripada kayu dan bercirikan bumbung berbentuk piramid serta tiada pembaziran ruang atau hiasan berlebihan.",
+    "source_musolla_id": "MY-06-RPN-00231"
+  },
+  "w29xctxcu3": {
+    "address": "Cukai, Terengganu, Malaysia 24000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.205326,
+      "longitude": 103.436128
+    },
+    "name": "MASJID GELIGA (KERAJAAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d0ecd7a2-d118-43c0-9c57-815791c2078c",
+    "geohash": "w29xctxcu3",
+    "source_musolla_id": "MY-11-KMN-00020"
+  },
+  "w29mxm0zqv": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "contact": "09-5165818",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.808038,
+      "longitude": 103.327736
+    },
+    "name": "MASJID NEGERI SULTAN AHMAD 1",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "581868ed-4b8b-42b3-85b2-f9eb1cc2c832",
+    "geohash": "w29mxm0zqv",
+    "remarks": "Masjid Negeri Sultan Ahmad I terletak di Bandar Kuantan. Masjid ini dirasmikan oleh Sultan Haji Ahmad Shah Al-Mustain Billah Ibni Almarhum Sultan Abu Bakar pada 21 Oktober 1994 Masihi.\n\nNama masjid ini diambil sempena nama pemerintah Pahang pertama, Sultan Ahmad Al-Mu'adzam Shah yang ditabal sebagai raja selepas mengalahkan Bendahara Wan Mutahir lewat 1890.\n\nMasjid Terbesar di Pahang\nMasjid Sultan Ahmad Shah I ini merupakan masjid yang terbesar di negeri Pahang dan menjadi kebanggaan kepada rakyat negeri. Menara masjidnya berukuran setinggi 180 kaki dan menjadikan ia antara masjid yang terkenal.Masjid ini  mampu memuatkan sekurang-kurangnya 8,000 orang.",
+    "source_musolla_id": "MY-06-KTN-00001"
+  },
+  "w29mxtj152": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.806939,
+      "longitude": 103.344419
+    },
+    "name": "MASJID TANJUNG API",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebef2cae-ec76-4048-bc1f-d3f0e4940d75",
+    "geohash": "w29mxtj152",
+    "remarks": "Masjid ini dibina berdasarkan seni bina masjid Melayu. Sebagaimana lazimnya masjid bercirikan tempatan seperti ini menitikberatkan keadaan iklim dan sosio budaya masyarakat Melayu setempat terutama di sekitar Pantai Timur. Konsep begini diterapkan juga pada sebahagian masjid di Pantai Barat Semenanjung.",
+    "source_musolla_id": "MY-06-KTN-00088"
+  },
+  "w2933u3fg4": {
+    "address": "Bebar, Pahang, Malaysia 26700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.056057,
+      "longitude": 103.087258
+    },
+    "name": "MASJID MUADZAM SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b0926f96-e251-45ec-85e2-8b296708a34f",
+    "geohash": "w2933u3fg4",
+    "remarks": "Masjid Muadzam Shah terletak di daerah Rompin. Masjid yang dibina pada 25 Rejab 1406 Hijri bersamaan 5 April 1986 Masihi ini mempunyai pengaruh reka bentuk seni bina tempatan.",
+    "source_musolla_id": "MY-06-MZS-00007"
+  },
+  "w29mxsd38d": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.804288,
+      "longitude": 103.340524
+    },
+    "name": "MASJID TANJUNG LUMPUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "13bcb7d0-7b82-4448-8688-24fee2815dd4",
+    "geohash": "w29mxsd38d",
+    "source_musolla_id": "MY-06-KTN-00083"
+  }
+}

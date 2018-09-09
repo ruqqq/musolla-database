@@ -1,0 +1,17 @@
+{
+  "w88ysdn22r": {
+    "address": "Sibuti, Sarawak, Malaysia 98150",
+    "contact": "019-8356836",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.966145,
+      "longitude": 113.76104
+    },
+    "name": "MASJID JIHADULLAH PEJUANG KELULIT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bba40750-530d-4f26-b52e-cc64c70992f8",
+    "geohash": "w88ysdn22r",
+    "source_musolla_id": "MY-13-MRI-00286"
+  }
+}

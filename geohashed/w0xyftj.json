@@ -1,0 +1,17 @@
+{
+  "w0xyftjzfy": {
+    "address": "Jalan Ah Cheong, Teluk Intan, 36000 Durian Sebatang, Perak, Malaysia 36000",
+    "contact": "019 5575117",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.027855,
+      "longitude": 101.016322
+    },
+    "name": "MASJID INDIA MUSLIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4de79cb6-a69b-431b-b43d-9d2aab450136",
+    "geohash": "w0xyftjzfy",
+    "source_musolla_id": "MY-08-HP-00233"
+  }
+}

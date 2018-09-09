@@ -1,16 +1,18 @@
 {
-  "w21z5peqdp": {
+  "w21z5pg1ng": {
     "address": "37 Palmer Road, Singapore 079424",
-    "contact": "6220 9257",
-    "createdAt": "2014-12-23T06:50:21.994Z",
+    "contact": "62209257",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.272822,
-      "longitude": 103.847333
+      "latitude": 1.27323,
+      "longitude": 103.84719
     },
-    "name": "Haji Muhammad Salleh Mosque",
+    "name": "Haji Muhammad Salleh (P) Mosque",
     "type": "Mosque",
-    "updatedAt": "2014-12-23T06:54:28.160Z",
-    "uuid": "e44260dc-aa7e-4390-910b-0d4958a1c7ce",
-    "geohash": "w21z5peqdp"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "8aeeb089-46b3-4928-8801-16273f32ddaa",
+    "geohash": "w21z5pg1ng",
+    "remarks": "Sited at the far end of Shenton Road, the masjid in its tranquil serenity is a sharp contrast to the hustle and bustle of the busy Central Business District. With a total capacity of 500, this old generation masjid, which was built in 1903, underwent several renovation and repair works. Because it is located away from residential areas, activities are confined during office hours and constitute mainly the obligatory prayers.",
+    "mosqueType": "Wakaf"
   }
 }

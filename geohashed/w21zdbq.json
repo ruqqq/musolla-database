@@ -1,16 +1,17 @@
 {
-  "w21zdbqfpz": {
+  "w21zdbq959": {
     "address": "10 Gentle Road, Singapore 309194",
     "contact": "6251 2729",
-    "createdAt": "2014-12-23T06:50:21.785Z",
+    "createdAt": "2018-09-07T19:09:26+08:00",
     "location": {
-      "latitude": 1.320116,
-      "longitude": 103.841397
+      "latitude": 1.31991,
+      "longitude": 103.84087
     },
-    "name": "Abdul Hamid Kg Pasiran Mosque",
+    "name": "Abdul Hamid Kampung Pasiran Mosque",
     "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:26.320Z",
-    "uuid": "efe89cdd-b444-4c21-bdbf-89e84f94a48a",
-    "geohash": "w21zdbqfpz"
+    "updatedAt": "2018-09-07T19:09:26+08:00",
+    "uuid": "cc3d8cc0-271d-4f7c-a468-80f93a7af8de",
+    "geohash": "w21zdbq959",
+    "mosqueType": "Wakaf"
   }
 }

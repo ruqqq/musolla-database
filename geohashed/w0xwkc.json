@@ -1,0 +1,19 @@
+{
+  "w0xwkc9fq9": {
+    "address": "Rungkup, Perak, Malaysia 36200",
+    "contact": "019 4057000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.919766,
+      "longitude": 100.758305
+    },
+    "name": "MASJID IDRIS SHAH 11",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "64bb8dbc-7cbd-47e0-bb32-1cf71b5b671b",
+    "geohash": "w0xwkc9fq9",
+    "remarks": "Diadakan satun perjumpaan antara penduduk kampung untuk membina sebuah masjid. \r\nPermohonan dibuat oleh wakil rakyat ketika itu iaitu Allahyarham Dato' Lope Hashim bin Ketong (ADUN Rungkup).\r\nTanah telah diwakafkan oleh Allahyarham Tuan Haji Wan Husain bin Wan Sulaiman seluas 1/2 ekar.\r\nNama masjid adalah berasal dari perasmian yang dibuat oleh Almarhum Duli Yang Maha Mulia Sultan Perak,Sultan Idris Shah II.",
+    "source_musolla_id": "MY-08-HP-00232",
+    "provision": "-tempat wudhu'\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-tandas awam\r\n-van jenazah"
+  }
+}

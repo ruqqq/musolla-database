@@ -1,0 +1,17 @@
+{
+  "w0xzpu32qy": {
+    "address": "Kampung Jeram Mengkuang, Bidor, Perak, Malaysia 35500",
+    "contact": "0195162467",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.06639,
+      "longitude": 101.241024
+    },
+    "name": "MASJID JAMEK AL MOIDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e12451a1-9fa4-461c-9fe4-0808bf267704",
+    "geohash": "w0xzpu32qy",
+    "source_musolla_id": "MY-08-TPH-00458"
+  }
+}

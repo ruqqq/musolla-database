@@ -1,0 +1,18 @@
+{
+  "w2866r1dpf": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "contact": "03-61855033",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.246818,
+      "longitude": 101.702834
+    },
+    "name": "MASJID AL -KHAIRIYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0756b790-a5af-40e5-a0f0-1cf10c0b68b9",
+    "geohash": "w2866r1dpf",
+    "source_musolla_id": "MY-10-GBK-00059",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir, pejabat, dewan dan  ruangan solat yang luas.,"
+  }
+}

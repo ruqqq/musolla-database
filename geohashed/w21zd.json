@@ -1,20 +1,6 @@
 {
-  "w21zdbqfpz": {
-    "address": "10 Gentle Road, Singapore 309194",
-    "contact": "6251 2729",
-    "createdAt": "2014-12-23T06:50:21.785Z",
-    "location": {
-      "latitude": 1.320116,
-      "longitude": 103.841397
-    },
-    "name": "Abdul Hamid Kg Pasiran Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:26.320Z",
-    "uuid": "efe89cdd-b444-4c21-bdbf-89e84f94a48a",
-    "geohash": "w21zdbqfpz"
-  },
   "w21zdg08ks": {
-    "address": "441B, Jalan Mashhor, Singapore 299173",
+    "address": "441-B Jalan Mashor, Singapore 299173",
     "contact": "6250 0120",
     "createdAt": "2014-12-23T06:50:21.937Z",
     "location": {
@@ -25,11 +11,13 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:04.037Z",
     "uuid": "25dc62cf-5b4a-4c64-8b3e-abd7263edfb1",
-    "geohash": "w21zdg08ks"
+    "geohash": "w21zdg08ks",
+    "remarks": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Television Corporation of Singapore staff nearby. Its activities include korban, Eid and Friday prayers.",
+    "mosqueType": "TOL"
   },
   "w21zd83mc9": {
     "address": "2 Lewis Road, Singapore 258590",
-    "contact": "6732 6170",
+    "contact": "6732 6795",
     "createdAt": "2014-12-23T06:50:21.852Z",
     "location": {
       "latitude": 1.320727,
@@ -39,6 +27,23 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:02.651Z",
     "uuid": "c0d55b2f-8d28-4b7b-8a9a-85584c20f730",
-    "geohash": "w21zd83mc9"
+    "geohash": "w21zd83mc9",
+    "remarks": "Built in 1952 by a prominent and well-respected imam from the Alatas family, this old generation masjid has served the needs of university undergraduates in Bukit Timah before the campus was relocated to Kent Ridge. Today, the one-storey masjid, which is located in the Central, can accommodate up to 400 worshippers for daily and Friday prayers. It is also crowded during Hari Raya prayers. On Thursday evenings, many Muslims gather for recitation of praises to Allah.",
+    "mosqueType": "Wakaf"
+  },
+  "w21zdbq959": {
+    "address": "10 Gentle Road, Singapore 309194",
+    "contact": "6251 2729",
+    "createdAt": "2018-09-07T19:09:26+08:00",
+    "location": {
+      "latitude": 1.31991,
+      "longitude": 103.84087
+    },
+    "name": "Abdul Hamid Kampung Pasiran Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:26+08:00",
+    "uuid": "cc3d8cc0-271d-4f7c-a468-80f93a7af8de",
+    "geohash": "w21zdbq959",
+    "mosqueType": "Wakaf"
   }
 }

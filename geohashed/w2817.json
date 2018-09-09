@@ -1,0 +1,51 @@
+{
+  "w2817cv4hj": {
+    "address": "Kawasan 7, Kampung Sungai Udang, Klang, Selangor, Malaysia 41250",
+    "contact": "019-2493560",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.042214,
+      "longitude": 101.421843
+    },
+    "name": "MASJID DARUL MUTTAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "dd7c687e-9e04-4be2-ae01-80df5aa60584",
+    "geohash": "w2817cv4hj",
+    "source_musolla_id": "MY-10-KLG-00216",
+    "provision": "Antara kemudahannya ialah ruang parkir, dewan, van jenazah dan urusan jenazah."
+  },
+  "w2817ypp83": {
+    "address": "Kampung Sungai Pinang, Kapar, Selangor, Malaysia 41400",
+    "contact": "019-2647631",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.066479,
+      "longitude": 101.424429
+    },
+    "name": "MASJID JAMIUL HASANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9ab070a1-d8c6-4925-9093-f7cdda37243d",
+    "geohash": "w2817ypp83",
+    "remarks": "Masjid ini pada asalnya dibina oleh Imam Tuan Hj. Dahalan dengan bangunannya diperbuat dari kayu pada tahun 1921. \r\n\r\nBagi menampung jemaah yang semakin ramai, maka masjid ini telah diubahsuai pada tahun 1979 dengan menggunakan konkrit simen. Masjid ini telah dirasmikan oleh DYMM Sultan Salehuddin Abd. Aziz Shah pada 27/11/1981.\r\n\r\nPada tahun 2010, masjid ini sekali lagi diubahsuai dengan tambahan ruang untuk jemaah. \r\n\r\n Pihak masjid sedang merancang untuk mengubahsuai lagi masjid ini kepada dua tingkat dalam masa terdekat untuk menampung jemaah yang semakin ramai mengunjungi masjid ini.\r\n\r\nMasjid ini telah dianugerahkan sebagai pemenang kedua terbaik Selurauh Klang bagi kategori 10 tahun keatas.",
+    "source_musolla_id": "MY-10-KLG-00193",
+    "provision": "Antara kemudahan yang terdapat ialah dewan masjid, van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian."
+  },
+  "w2817cv4ht": {
+    "address": "Kawasan 7, Kampung Sungai Udang, Klang, Selangor, Malaysia 41250",
+    "contact": "019-3799623",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.042212,
+      "longitude": 101.421859
+    },
+    "name": "MASJID AR-RAUDHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b604245e-f7f6-4c86-bef3-5a89be5dd650",
+    "geohash": "w2817cv4ht",
+    "source_musolla_id": "MY-10-KLG-00220",
+    "provision": "Antara kemudahan yang ada ialah ruang parkir yang luas, penghawa dingin dan tempat letak motosikal."
+  }
+}

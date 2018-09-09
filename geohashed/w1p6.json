@@ -1,0 +1,47 @@
+{
+  "w1p6gf5tcf": {
+    "address": "Alor Setar, Kedah, Malaysia 05460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.120383,
+      "longitude": 100.364998
+    },
+    "name": "MASJID ZAHIR (MASJID NEGERI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "95206ea1-49d1-460d-9075-62ae8f9c886f",
+    "geohash": "w1p6gf5tcf",
+    "remarks": "Masjid Zahir atau juga dikenali sebagai Masjid Zahrah merupakan Masjid Negeri Kedah yang terletak berhadapan dengan Balai Nobat dan Istana Pelamin di tengah-tengah bandar raya Alor Setar. Mula dibina pada 22 Rabiulawal 1330H (11 Mac 1912) atas usaha YTM Tunku Mahmud Ibni Almarhum Sultan Tajuddin Mukarram Shah, tapak masjid ini pada asalnya adalah tanah pusara wira-wira Kedah yang gugur semasa mempertahankan Kedah dari serangan Siam (1821).\n\nUpacara perasmiannya dilakukan pada hari Jumaat, 6 Zulhijjah 1333H (15 Oktober 1915) oleh DYMM Almarhum Sultan Abdul Hamid Halim Shah. Tunku Mahmud telah membaca khutbah Jumaat sementara baginda Sultan Abdul Hamid Shah mengimamkan solat Jumaat. Ia juga dikenali sebagai Masjid Raja kerana ia merupakan masjid Diraja dan terletak di perkarangan Istana Pelamin.",
+    "source_musolla_id": "MY-02-KS-00001"
+  },
+  "w1p6uk7g2c": {
+    "address": "Alor Setar, Kedah, Malaysia 05460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.132312,
+      "longitude": 100.387271
+    },
+    "name": "MASJID ALOR MALAI (AL-BUKHARY)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3a0ebc10-3baf-4088-a39d-9564b29e82ea",
+    "geohash": "w1p6uk7g2c",
+    "remarks": "Masjid Al-Bukhari terletak di Jalan Langgar, Mukim Alor Malai, Alor Setar. Pembinaan masjid ini dibiayai oleh jutawan terkenal, iaitu Tan Sri Syed Mokhtar Al-Bukhari. Masjid ini dibina berserta dengan sebuah kompleks yang dilengkapi dengan pelbagai kemudahan seperti hospital, tempat penginapan pelancong, ruang perniagaan dan lain-lain lagi. Di samping itu, di sini terdapat juga asrama anak yatim dan rumah warga tua. Sekolah yang berfungsi sebagai tempat pendidikan dan pembelajaran turut disediakan. Prasarana sebegini dianggap sebagai salah satu cara memakmur dan menggiatkan aktiviti masjid supaya tidak dipandang sepi.",
+    "source_musolla_id": "MY-02-KS-00009"
+  },
+  "w1p6ez97n7": {
+    "address": "Alor Setar, Kedah, Malaysia 05460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.106187,
+      "longitude": 100.3621
+    },
+    "name": "MASJID AKAR PELURU (AL-GHUFRAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "aa24afad-0a5a-4e90-b97f-38e9c6331c8b",
+    "geohash": "w1p6ez97n7",
+    "remarks": "Selain daripada Masjid Al-Bukhari di Jalan Langgar, terdapat sebuah lagi masjid indah terletak di Jalan Pegawai yang telah dipelopori oleh Tan Sri Syed Mokhtar. Masjid ini dibina mengikut konsep kebanyakan masjid di Afrika dan di Tanah Arab. Bentuk bumbung bersegi masjid ini dilengkapi dengan sebuah kubah utama di bahagian tengah dan didampingi oleh empat buah kubah kecil yang diletakkan di setiap empat penjuru bumbung.\n\nJika dibuat perbandingan, kedua-dua masjid ini mempunyai perbezaan dari segi reka bentuk. Masjid di Jalan Pegawai ini mempunyai hanya sebuah menara yang dibina secara terpisah dari bangunan masjid itu sendiri, sedangkan masjid di Jalan Langgar, menara-menaranya dibina bersekali dengan bangunan masjid. Meskipun ada perbezaan, kedua-dua masjid ini mempunyai keindahan dan keunikan yang tersendiri, namun fungsinya sebagai sebuah tempat ibadah yang sangat dimuliakan tetap sama dan penting dalam meningkatkan syiar Islam.",
+    "source_musolla_id": "MY-02-KS-00004"
+  }
+}

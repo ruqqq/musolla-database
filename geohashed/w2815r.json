@@ -1,0 +1,18 @@
+{
+  "w2815rx9st": {
+    "address": "Kawasan 7, Kampung Delek, 41250 Klang, Selangor, Malaysia 41250",
+    "contact": "03-33732652",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.029769,
+      "longitude": 101.40332
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0fc15795-6707-4f4f-9867-e438cdb222f4",
+    "geohash": "w2815rx9st",
+    "remarks": "PEMBINAAN MASJID BARU BAGI MENGGANTIKAN MASJID LAMA BAGI MENAMPUNG KEPERLUAN JEMAAH DAN TAMBAHAN PENDUDUK",
+    "source_musolla_id": "MY-10-KLG-00207"
+  }
+}

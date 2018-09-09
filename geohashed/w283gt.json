@@ -1,0 +1,19 @@
+{
+  "w283gtuk6j": {
+    "address": "Kampung Melayu Ampang, Ampang, Selangor, Malaysia 68000",
+    "contact": "017-2087755",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.152461,
+      "longitude": 101.761304
+    },
+    "name": "MASJID JAMI'IL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5272afd8-795e-49b7-9322-ffd6785354e9",
+    "geohash": "w283gtuk6j",
+    "remarks": "Masjid ini dirasmikan oleh DYMM Sultan Salahudin Abdul Aziz Shah Alhaj pada 13 Januari 1984.",
+    "source_musolla_id": "MY-10-HL-00008",
+    "provision": "Antara kemudahan masjid ini ialah dewan solat lelaki dan perempuan, bilik iman dan bilal, bilik mesyuarat dan pejabat, dewan makan dan dapur, tandas lelaki dan wanita, rumah iman, bilik pengurusan jenazah dan van jenazah serta lot kedai di kawasan masjid."
+  }
+}

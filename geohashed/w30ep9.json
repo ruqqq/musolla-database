@@ -1,0 +1,33 @@
+{
+  "w30ep9es7m": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.16134,
+      "longitude": 102.287666
+    },
+    "name": "MASJID AS-SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "70b88251-5d1c-44d0-a10c-1a801269965c",
+    "geohash": "w30ep9es7m",
+    "remarks": "Masjid ini dibina diatas hasil usaha Dato' Hj Hasyim. Ianya dibina di atas tanah seluas 3 ekar yang diwakafkan kepada Majlis Agama Islam Kelantan (MAIK). Masjid ini adalah salah satu dari masjid yang terawal dibina di Pengkalan Chepa. Pada tanggal 1 Januari 1970, masjid ini telah sempurna dirasmikan oleh YAB Dato Musa Hitam yang pada ketika itu adalah Timbalan Perdana Menteri Malaysia.",
+    "source_musolla_id": "MY-03-KB-00016",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.yang berada di luar masjid.Masjid ini juga mempunyai pejabat,bilik imam dan perpustakaan.Masjid ini mempunyai laluan yang berbumbung untuk ke tandas."
+  },
+  "w30ep97y9p": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.160364,
+      "longitude": 102.287918
+    },
+    "name": "MASJID MUKIM TEBING TINGGI TLK KITAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cd344be0-bcbf-4ec1-b1f3-be573f2ca478",
+    "geohash": "w30ep97y9p",
+    "source_musolla_id": "MY-03-KB-00271",
+    "provision": "Dilengkapi ruang solat dan tandas serta tempat mengambil wuduk untuk lelaki dan perempuan.Memiliki dewan serbaguna yang dapat dinikmati oleh semua penduduk dan mempunyai dapur serta tempat parker berbumbung bagi motosikal."
+  }
+}

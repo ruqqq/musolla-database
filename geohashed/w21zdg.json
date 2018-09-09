@@ -1,6 +1,6 @@
 {
   "w21zdg08ks": {
-    "address": "441B, Jalan Mashhor, Singapore 299173",
+    "address": "441-B Jalan Mashor, Singapore 299173",
     "contact": "6250 0120",
     "createdAt": "2014-12-23T06:50:21.937Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:04.037Z",
     "uuid": "25dc62cf-5b4a-4c64-8b3e-abd7263edfb1",
-    "geohash": "w21zdg08ks"
+    "geohash": "w21zdg08ks",
+    "remarks": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Television Corporation of Singapore staff nearby. Its activities include korban, Eid and Friday prayers.",
+    "mosqueType": "TOL"
   }
 }

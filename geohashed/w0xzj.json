@@ -1,0 +1,35 @@
+{
+  "w0xzjednv1": {
+    "address": "36700 Changkat Jong, Perak, Malaysia 36700",
+    "contact": "017-5636911",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.06336,
+      "longitude": 101.143108
+    },
+    "name": "MASJID JAMEK AL-MAKMUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "78adb036-524f-423c-b583-8d8c5d83c260",
+    "geohash": "w0xzjednv1",
+    "remarks": "Tapak tanah telah diwakafkan oleh keluarga Allahyarham Cikgu Zamri. \r\nKeluasan tapak adalah seluas  1/4 ekar, lot 3162 di Mukim Changkat Jong.masjid ini didirikan melalui wakaf dan sumbangan ahli kariah dan dibina secara gotong royong.\r\nPenambahan baru telah dibuat dengan anggaran sebanyak RM100,000.00 dari kerajaan negeri/kerajaan pusat//sumbangan orang ramai.",
+    "source_musolla_id": "MY-08-HP-00241",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-perpustakaan\r\n-ruang bilik kuliah\r\n-gazibo\r\n-kawasan riadah"
+  },
+  "w0xzjrvcwr": {
+    "address": "Changkat Jong, Perak, Malaysia 36700",
+    "contact": "019 4133085",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.085839,
+      "longitude": 101.137322
+    },
+    "name": "MASJID AL-HAKIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e1c30f5d-29c7-4e8e-b1b1-267f9b4d5b82",
+    "geohash": "w0xzjrvcwr",
+    "remarks": "Dibina kerana menggantikan surau lama yang telah uzur. \r\nMendapat peruntukan sebanyak RM370,000.00 daripada kerajaan negeri dan hasil daripada sumbangan orang ramai telah dapat dikumpulkan sebanyak RM40,000.00.\r\nMasjid ini telah didirikan di tanah yang telah digezetkan sebagai wakaf masjid.",
+    "source_musolla_id": "MY-08-HP-00248"
+  }
+}

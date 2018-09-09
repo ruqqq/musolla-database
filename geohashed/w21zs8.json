@@ -11,11 +11,13 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:59.093Z",
     "uuid": "ab18c5d8-7c0f-48b3-b315-5994c1fc05ed",
-    "geohash": "w21zs8ub2f"
+    "geohash": "w21zs8ub2f",
+    "remarks": "This masjid was originally completed in 1935.  Located in the Eastern part of the island, it has been rebuilt in 2001 which increased its capacity to 1,000 people.  Built to serve the needs of the neighbourhood along Changi Road, its activities are mainly religious lectures.",
+    "mosqueType": "Wakaf"
   },
   "w21zs849zw": {
     "address": "450 Changi Road, Singapore 419877",
-    "contact": "6440 4742",
+    "contact": "6440 9434",
     "createdAt": "2014-12-23T06:50:22.380Z",
     "location": {
       "latitude": 1.318692,
@@ -25,6 +27,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:54.205Z",
     "uuid": "f10ff22f-6d02-44fb-b546-3664c3f770ea",
-    "geohash": "w21zs849zw"
+    "geohash": "w21zs849zw",
+    "remarks": "Combining both modern and Islamic architecture, this spanking new masjid was rebuilt to replace an old one built way back in 1924. Completed in 1999, the four-storey masjid located in the East can accommodate up to 2000 people. It is linked to Wisma Indah, a wakaf complex which houses the masjid’s office, commercial offices. Besides organizing regular religious courses for adults, the masjid also provides Internet facilities for visitors.",
+    "mosqueType": "Wakaf"
   }
 }

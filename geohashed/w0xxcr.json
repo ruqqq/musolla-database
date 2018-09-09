@@ -1,0 +1,17 @@
+{
+  "w0xxcrygxn": {
+    "address": "Lumut, Perak, Malaysia 32200",
+    "contact": "0125065627",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.218011,
+      "longitude": 100.611385
+    },
+    "name": "MASJID AN NUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "68912228-3c31-42ca-b107-363c498bf605",
+    "geohash": "w0xxcrygxn",
+    "source_musolla_id": "MY-08-MJG-00029"
+  }
+}

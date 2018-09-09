@@ -1,0 +1,17 @@
+{
+  "w0z9w35b25": {
+    "address": "Kampung Pintu Gerbang, Beruas, Perak, Malaysia 32700",
+    "contact": "0135314453",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.487978,
+      "longitude": 100.826689
+    },
+    "name": "MASJID AT TAUFIQIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a531117c-292a-42f8-a2ed-5bc49b0922e8",
+    "geohash": "w0z9w35b25",
+    "source_musolla_id": "MY-08-MJG-00033"
+  }
+}

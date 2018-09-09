@@ -1,7 +1,7 @@
 {
   "w21zkx4byd": {
-    "address": "90 Lor K Telok Kurau, Singapore 425723",
-    "contact": "6345 6504",
+    "address": "90 Lorong K, Telok Kurau, Singapore 425723",
+    "contact": "6346 0153",
     "createdAt": "2014-12-23T06:50:22.302Z",
     "location": {
       "latitude": 1.313007,
@@ -11,7 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:22.506Z",
     "uuid": "8bde9cee-d9da-4f24-a02f-78b727345b4d",
-    "geohash": "w21zkx4byd"
+    "geohash": "w21zkx4byd",
+    "mosqueType": "Wakaf"
   },
   "w21zkprrf6": {
     "address": "32 Onan Road S(424484)",
@@ -44,7 +45,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:57.993Z",
     "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
-    "geohash": "w21zkr0upe"
+    "geohash": "w21zkr0upe",
+    "remarks": "First built in 1917, this old generation masjid underwent several restorations, the most recent one in 1998. Located in the Central part of the island, its newly-restored building which comes complete with a minaret at the front porch can fill up to 2500 people. Ramadan is a busy month for the mosque as an average of 800 Muslims break their fast at the mosque daily. There are regular religious classes for children and adults.",
+    "mosqueType": "Wakaf"
   },
   "w21zkpgf7s": {
     "address": "25 Paya Lebar Road, Singapore 409004",
@@ -58,7 +61,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:02.416Z",
     "uuid": "ac87d5ea-e43d-48eb-8181-00fb4248cd51",
-    "geohash": "w21zkpgf7s"
+    "geohash": "w21zkpgf7s",
+    "remarks": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
+    "mosqueType": "Wakaf"
   },
   "w21zkrvhfq": {
     "address": "1 Jalan Eunos, Singapore 419493",
@@ -72,7 +77,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:13.971Z",
     "uuid": "79b51ceb-884f-4ab7-b206-d8199163bfc3",
-    "geohash": "w21zkrvhfq"
+    "geohash": "w21zkrvhfq",
+    "remarks": "A squarish minaret in this Mosque Building Fund masjid combines Malay architecture and Islamic art. Nominated for the prestigious Aga Khan Award in 1989 as an excellent example of tropical architecture, the masjid features the early pitched-roof structure commonly found in the Malay archipelago. Built in 1986, the masjid located in the East can accommodate up to 3,500 people. Besides madrasah classes, it is also popular venue for haj courses organized by travel agents. The masjid has since undergone a major addition and alteration project which was completed in 2005.",
+    "mosqueType": "MBMF"
   },
   "w21zkymxpw": {
     "address": "451 Marine Parade Road, Singapore 449283",
@@ -86,7 +93,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:52.898Z",
     "uuid": "6f7ca455-c755-4218-b085-64afc10fe98d",
-    "geohash": "w21zkymxpw"
+    "geohash": "w21zkymxpw",
+    "remarks": "Architects responsible for the design of this masjid built under Phase Two of the Mosque Building Fund have succeeded in preserving the architecture and ambience of a kampung. Originally, a small 80-year-old masjid, the new masjid in the same site was completed in 1992. Located in the East, it has a capacity of 3000 people. Besides madrasah classes, there is a Tahfiz Al-Quran center. A Centre of Family Development provides guidance and courses to enhance family life.",
+    "mosqueType": "MBMF"
   },
   "w21zkqh73z": {
     "address": "381 Joo Chiat Road S(427621)",

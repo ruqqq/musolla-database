@@ -1,0 +1,16 @@
+{
+  "w0zrsp7bym": {
+    "address": "Penaga, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.577093,
+      "longitude": 100.376515
+    },
+    "name": "MASJID BAKAU TUA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e94e36ef-93b9-45db-9e7f-500237e52d96",
+    "geohash": "w0zrsp7bym",
+    "source_musolla_id": "MY-07-KB-00093"
+  }
+}

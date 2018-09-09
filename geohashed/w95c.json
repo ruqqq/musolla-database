@@ -1,0 +1,61 @@
+{
+  "w95crz0tzt": {
+    "contact": "089-224567",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.884194,
+      "longitude": 118.115029
+    },
+    "name": "MASJID BESAR SIM-SIM SANDAKAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3ad80d5d-d08d-4cf2-a904-99bb39054cbf",
+    "geohash": "w95crz0tzt",
+    "remarks": "JUMAAT 15 RABIULAKHIR 1401 H/ 20 FEB 1981 PERLETAKKAN BATU ASAS OLEH YB TAN SRI TG. RAZALI HAMZAH. MEN. KEWANGAN MALAYSIA. PENYESUAIAN TAPAK 11 OKT 1982. PEMBINAAN BANGUNAN 23 SEP 1985. SIAP DIS 1989. PERASMIAN HARI JUMAAT 5 MUHARRAM 1411H/27 JULAI 1990.",
+    "source_musolla_id": "MY-12-SAN-00007",
+    "address": "PETI SURAT 1576, JALAN BULI SIM-SIM, SANDAKAN 90717, Malaysia"
+  },
+  "w95cjzmmz4": {
+    "address": "Lorong Mawar 1B, Taman Mawar, 90000 Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.841605,
+      "longitude": 118.03364
+    },
+    "name": "MASJID NURURAHMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4ee36694-5924-4741-9518-08717ec27030",
+    "geohash": "w95cjzmmz4",
+    "remarks": "AJK PEMBINAAN MASJID DITUBUHKAN PADA 02/04/1998. KERJA PEMBINAAN DIMULAKAN PADA 18/08/1998",
+    "source_musolla_id": "MY-12-SAN-00131"
+  },
+  "w95cq1r9fm": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.851921,
+      "longitude": 118.047513
+    },
+    "name": "MASJID ASSYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c86ff237-9592-49b0-bd62-14d883439cd8",
+    "geohash": "w95cq1r9fm",
+    "source_musolla_id": "MY-12-SAN-00134"
+  },
+  "w95cqz0ucs": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.884016,
+      "longitude": 118.071172
+    },
+    "name": "MASJID ASSYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "26a6e2c4-6cf7-4c3a-b13d-bed1e8bed641",
+    "geohash": "w95cqz0ucs",
+    "source_musolla_id": "MY-12-SAN-00133"
+  }
+}

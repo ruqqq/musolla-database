@@ -1,0 +1,18 @@
+{
+  "w948pzsdrd": {
+    "address": "Tambunan, Sabah, Malaysia 89650",
+    "contact": "087-774654",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.666598,
+      "longitude": 116.362711
+    },
+    "name": "MASJID NURUL IMAN PEKAN TAMBUNAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d9d88ac0-b5f4-4a04-b9bc-f0a4dec7a6f2",
+    "geohash": "w948pzsdrd",
+    "source_musolla_id": "MY-12-TAM-00718",
+    "provision": "-Ruang Solat Lelaki dan Wanita\n                  -Ruang Wudhu lelaki dan wanita\n                  -Bilik gerakan Imam\n                  -Ruang tempat memandikan jenazah\n                  -Stor\n                  -Tandas lelaki dan wanita"
+  }
+}

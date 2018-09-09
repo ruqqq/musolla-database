@@ -1,0 +1,16 @@
+{
+  "w2ckwsbn04": {
+    "address": "Kampung Merchang, Mercang, Terengganu, Malaysia 21610",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.0369,
+      "longitude": 103.293466
+    },
+    "name": "MASJID MERCHANG (KERAJAAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "de3607a0-a30f-43d2-a4ae-bfb72847f577",
+    "geohash": "w2ckwsbn04",
+    "source_musolla_id": "MY-11-MRG-00015"
+  }
+}

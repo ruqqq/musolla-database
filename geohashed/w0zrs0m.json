@@ -1,0 +1,16 @@
+{
+  "w0zrs0mwjh": {
+    "address": "13100 Penaga, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.539539,
+      "longitude": 100.37887
+    },
+    "name": "MASJID BAKAR KAPOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d0f69bd9-cdd7-4cf7-baa9-c71f43b77808",
+    "geohash": "w0zrs0mwjh",
+    "source_musolla_id": "MY-07-KB-00092"
+  }
+}

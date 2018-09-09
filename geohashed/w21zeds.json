@@ -1,16 +1,18 @@
 {
-  "w21zedsm0u": {
+  "w21zedsj4p": {
     "address": "66 Pheng Geck Avenue, Singapore 348261",
     "contact": "6280 0300",
-    "createdAt": "2014-12-23T06:50:22.335Z",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.332976,
-      "longitude": 103.87062
+      "latitude": 1.3329899,
+      "longitude": 103.87033
     },
-    "name": "Alkaff Upp Serangoon Rd Mosque",
+    "name": "Alkaff Upper Serangoon Mosque",
     "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:16.944Z",
-    "uuid": "36c4c291-ed47-4b50-826a-4da5c498061e",
-    "geohash": "w21zedsm0u"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "e9498cf8-8f79-43b3-b72e-a53d36070da8",
+    "geohash": "w21zedsj4p",
+    "remarks": "This old generation masjid sited next to Darul Libanat, a girls’ orphanage, was built in 1920. The masjid located in the Central part of the island has undergone several renovation, its most recent one in 1998, in which the prayer hall was extended to accommodate a larger congregation of 2,500 people. It serves the religious needs of the small Muslim residents in the area as well as office workers. Besides daily and Friday prayer, there are religious classes held at the masjid.",
+    "mosqueType": "Wakaf"
   }
 }

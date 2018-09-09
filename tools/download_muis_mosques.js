@@ -111,7 +111,6 @@ async function setupBrowser() {
 }
 
 async function getMosquesFromMUIS(browser) {
-    const mosquesCache = "cache/mosques.html";
     const content = await downloadPageIfNotCached(browser, 'https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory');
     const $ = cheerio.load(content);
 

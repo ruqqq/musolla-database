@@ -1,0 +1,32 @@
+{
+  "w0zf7fuz83": {
+    "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
+    "contact": "019-5122015",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.630657,
+      "longitude": 101.069776
+    },
+    "name": "MASJID AS-SAADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ff845a06-7111-4a61-b020-419f62bd5b71",
+    "geohash": "w0zf7fuz83",
+    "source_musolla_id": "MY-08-IPH-00187"
+  },
+  "w0zf78hsm5": {
+    "address": "Taman Kledang Jaya, 30200 Ipoh, Perak, Malaysia 30200",
+    "contact": "012-5127056",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.615006,
+      "longitude": 101.05865
+    },
+    "name": "MASJID JAMEK TAMAN KELEDANG JAYA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "55f3973b-5d3b-425a-84e4-e878a953c777",
+    "geohash": "w0zf78hsm5",
+    "source_musolla_id": "MY-08-IPH-00191"
+  }
+}

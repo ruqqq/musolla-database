@@ -1,0 +1,31 @@
+{
+  "w2cq40z34v": {
+    "address": "Tok Jamal, Terengganu, Malaysia 20050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.27776,
+      "longitude": 103.105786
+    },
+    "name": "MASJID KAMPUNG PENGADANG BARU (KERAJAAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7d8c2305-59ca-4ac4-8c0b-afa991d5c94f",
+    "geohash": "w2cq40z34v",
+    "remarks": "MASJID INI DIBINA BARU BAGI MENGGANTIKAN MASJID LAMA YANG LEBIH 2/3 BAHAGIAN BANGUNANNYA TERPAKSA DIROBOHKAN BAGI MEMBERI LALUAN KEPADA PROJEK PEMBESARAN",
+    "source_musolla_id": "MY-11-KTR-00045"
+  },
+  "w2cq4cg3su": {
+    "address": "Bukit Besar, Terengganu, Malaysia 21100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.2833333,
+      "longitude": 103.1333333
+    },
+    "name": "MASJID BUKIT BAYAS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebbb4948-a84d-4af5-bc8f-fcc40a6c96dd",
+    "geohash": "w2cq4cg3su",
+    "source_musolla_id": "MY-11-KTR-00373"
+  }
+}

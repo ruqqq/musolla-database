@@ -1,0 +1,65 @@
+{
+  "w30c9bm0re": {
+    "address": "Jalan Kampung Jelor-Gunong, Kampung Jelor, 16800 Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.890109,
+      "longitude": 102.388783
+    },
+    "name": "MASJID MUKIM JELOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "259c4c1a-510a-4532-9525-84ed77410e42",
+    "geohash": "w30c9bm0re",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh seorang hamba Allah.Proses pembinaan masjid ini telah mendapat peruntukan sebanyak RM100,000 daripada kerajaan pusat sebagai permulaan pembinaan masjid ini.",
+    "source_musolla_id": "MY-03-PP-00457",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang."
+  },
+  "w30c9hq05y": {
+    "address": "Kampung Tasik Pauh, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.912051,
+      "longitude": 102.357039
+    },
+    "name": "MASJID MUKIM TUALANG RENDAH LAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f3c6af26-a3e6-46ae-9e64-cd1e6ab90e15",
+    "geohash": "w30c9hq05y",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau kayu yang telah diubahsuai menjadi sebuah masjid.",
+    "source_musolla_id": "MY-03-PP-00456",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa."
+  },
+  "w30c9601nh": {
+    "address": "Kampung Tasik Pauh, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.899853,
+      "longitude": 102.359877
+    },
+    "name": "MASJID MUKIM TASEK PAUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5cced46b-6f0a-49db-bf5e-8017cff7c3af",
+    "geohash": "w30c9601nh",
+    "source_musolla_id": "MY-03-PP-00406",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa."
+  },
+  "w30c962npc": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.902067,
+      "longitude": 102.359962
+    },
+    "name": "MASJID MUKIM TASEK TUALANG TINGGI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2fcfe290-61f8-4035-b6c6-f76ae9cf2bed",
+    "geohash": "w30c962npc",
+    "remarks": "Pada asalnya masjid ini ialah sebuah madrasah dan telah diubahsuai menjadi sebuah masjid.",
+    "source_musolla_id": "MY-03-PP-00458",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa."
+  }
+}

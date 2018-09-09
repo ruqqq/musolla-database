@@ -1,0 +1,36 @@
+{
+  "w22tfxgwt1": {
+    "address": "Titian Bintangor, Negeri Sembilan, Malaysia 71800",
+    "contact": "019-6315911",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.460688,
+      "longitude": 102.068014
+    },
+    "name": "MASJID KARIAH LUBUK CHINA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7ccec600-c77c-4c6d-9c8e-e29fa22faae6",
+    "geohash": "w22tfxgwt1",
+    "remarks": "Masjid Kariah Lubok China telah dibina pada tahun 1920M. Pengasasnya ialah penduduk setempat. Tapakmajid ini telah dowakafkan oleh penduduk setempat. Masjid yang pertama dibina dengan cara bergotong- royong secara beramai - ramai diatas tapak wakaf orang perseorangan.\n\nPada tahun 1968M pihak kerajaan telah bersetujumembina bangunan baru di atas tanah kurniaan Kerajaan Negeri. Masjid ini juga pernah dibaiki dan dinaik taraf pada tahun1968M, 1980M, 2006M dan 2008M. Ahli jemaah pada  awal pembinaan masjid itu ialah seramai 40 orang dan kini telah mencapai bilangan seramai 250 orang.",
+    "source_musolla_id": "MY-05-RB-00118",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik Stor\n5.\tRuang pengurusan jenazah \n6.\tRuang makan jemaah      \n7.\tParking kereta dan motosikal \n8.\tTempat istirehat"
+  },
+  "w22tfqdz0d": {
+    "address": "Titian Bintangor, Negeri Sembilan, Malaysia 71800",
+    "contact": "016-2358114",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.453911,
+      "longitude": 102.055808
+    },
+    "name": "MASJID KARIAH SUNGAI TIMUN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "88a6f9cc-4275-41e5-ae2b-db6c472cee85",
+    "geohash": "w22tfqdz0d",
+    "remarks": "Masjid Kariah Sungai Timun telah dibina pada tahun 1962M. Pengasasnya ialah penduduk setempat. Tapak masjid ini ialah kurniaan Kerajaan Negeri. Sebelum masjid ini didirikan ahli - ahli kariah menunaikan  solat jumaat di masjid Lubok China sehingga bangunan ini  siap sepenuhnya pada tahun 1962M.\n\nMasjid ini pernah dibaiki dan dinaiktaraf pada tahun 1992M dan 2007M. Semasa dibina ahli jemaah cuma seramai 40 orang sahaja dan kini jumlah tersebut menigkat sehingga 100 orang jemaah dalam satu - satu masa.",
+    "source_musolla_id": "MY-05-RB-00119",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik mesyuarat\n5.\tBilik Stor\n6      Ruang pengurusan jenazah \n7.\tRuang makan jemaah      \n8.\tDewan seminar\n9.\tParking kereta dan motosikal \n10.\tTempat istirehat"
+  }
+}

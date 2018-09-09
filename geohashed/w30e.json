@@ -1,0 +1,635 @@
+{
+  "w30e7mk76p": {
+    "address": "Pengkalan Kubor, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.225726,
+      "longitude": 102.101878
+    },
+    "name": "MASJID MUKIM KETIL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8d2d80c5-2e43-4b5e-a54d-a76aecfe3dfb",
+    "geohash": "w30e7mk76p",
+    "remarks": "Masjid ini telah dibina di bawah rancangan pembangunan nagara dan luar bandar.Pada masa yang sama,masjid ini juga telah dirasmikan dengan sahnya oleh Tun Abdul Razak bin Datuk Husin merangkap timbalan perdana menteri Malaysia pada masa itu pada 8.9.1968.",
+    "source_musolla_id": "MY-03-TPT-00211",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa. Selain itu,terdapat juga meja rehat yang digunakan sebagai tempat berehat.Pada masa yang sama,terdapat juga sudut taman sebagai kemudahan masjid ini."
+  },
+  "w30ejngk2y": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.190187,
+      "longitude": 102.177352
+    },
+    "name": "MASJID MUKIM BENDANG KERIAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4a6b3f30-0cbb-4b26-9e30-66cdf5b2b3be",
+    "geohash": "w30ejngk2y",
+    "remarks": "MERUPAKAN MASJID 2 TINGKAT. ANGGARAN KOS PEMBINAAN ADALAH RM600,000.00 DAN MASIH LAGI DALAM PEMBINAAN.",
+    "source_musolla_id": "MY-03-TPT-00234",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ej605qz": {
+    "address": "Bendang Kerian, Terbak, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.163929,
+      "longitude": 102.184136
+    },
+    "name": "MASJID MUKIM BERANGAN SELEHOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9ea0dc12-1b50-420f-b046-f949def6ee23",
+    "geohash": "w30ej605qz",
+    "source_musolla_id": "MY-03-TPT-00212",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Terdapat juga `bedukâ€™ di masjid ini yang digunakan tatkala kematian."
+  },
+  "w30ep9es7m": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.16134,
+      "longitude": 102.287666
+    },
+    "name": "MASJID AS-SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "70b88251-5d1c-44d0-a10c-1a801269965c",
+    "geohash": "w30ep9es7m",
+    "remarks": "Masjid ini dibina diatas hasil usaha Dato' Hj Hasyim. Ianya dibina di atas tanah seluas 3 ekar yang diwakafkan kepada Majlis Agama Islam Kelantan (MAIK). Masjid ini adalah salah satu dari masjid yang terawal dibina di Pengkalan Chepa. Pada tanggal 1 Januari 1970, masjid ini telah sempurna dirasmikan oleh YAB Dato Musa Hitam yang pada ketika itu adalah Timbalan Perdana Menteri Malaysia.",
+    "source_musolla_id": "MY-03-KB-00016",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.yang berada di luar masjid.Masjid ini juga mempunyai pejabat,bilik imam dan perpustakaan.Masjid ini mempunyai laluan yang berbumbung untuk ke tandas."
+  },
+  "w30eppxgcs": {
+    "address": "Kampung Kuala Semut Api, Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.194208,
+      "longitude": 102.27145
+    },
+    "name": "MASJID MUKIM BANGGOL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ee22e13a-8a5e-429e-874b-116b3dfdb7fb",
+    "geohash": "w30eppxgcs",
+    "remarks": "SALAH SEORANG MASYARAKAT KAMPUNG INI TELAH MENAWARKAN TANAHNYA UNTUK DIJADIKAN TAPAK UNTUK MEMBUAT MASJID. DENAGAN KESUNGGUHAN AJK, MAKA TERBINALAH SEBUAH MASJID.",
+    "source_musolla_id": "MY-03-KB-00249",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.yangb berada di luar masjid.Terdapat juga pejabat dan bilik mesyuarat masjid ini."
+  },
+  "w30epmc1ej": {
+    "address": "15350 Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.184214,
+      "longitude": 102.273241
+    },
+    "name": "MASJID MUKIM DAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e35602d2-9614-4650-9dcf-3c53d224a40d",
+    "geohash": "w30epmc1ej",
+    "remarks": "MASJID INI ASALNYA ADALAH BANGUNAN KAYU HASIL DARI DERMA ORANG RAMAI.HASIL PERUNTUKAN KERAJAAN NEGERI PADA MASA ITU TAHUN 1980.",
+    "source_musolla_id": "MY-03-KB-00250",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  },
+  "w30epts6js": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.182924,
+      "longitude": 102.288798
+    },
+    "name": "MASJID MUKIM JAMBU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1da1b6e1-5f56-4f1e-8e2d-469f704fb848",
+    "geohash": "w30epts6js",
+    "remarks": "TAPAK MASJID DAPAT DIBELI HASIL DARI KUTIPAN ORANG RAMAI.",
+    "source_musolla_id": "MY-03-KB-00266",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa."
+  },
+  "w30epc9yj7": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.161633,
+      "longitude": 102.29634
+    },
+    "name": "MASJID MUKIM KUALA PAK AMAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "34e67162-7a72-4dcb-9626-ec9ce62d3dae",
+    "geohash": "w30epc9yj7",
+    "source_musolla_id": "MY-03-KB-00253",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  },
+  "w30eqbzdu3": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.200891,
+      "longitude": 102.260243
+    },
+    "name": "MASJID MUKIM PULAU KUNDOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f01b9c4c-3395-4ac5-abb0-97be116d9448",
+    "geohash": "w30eqbzdu3",
+    "source_musolla_id": "MY-03-KB-00252",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa yang berada di luar masjid."
+  },
+  "w30er0c2n5": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.200427,
+      "longitude": 102.262727
+    },
+    "name": "MASJID MUKIM PULAU GAJAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "179e4c28-3034-4b5d-8d0f-ce92fefc2cdf",
+    "geohash": "w30er0c2n5",
+    "remarks": "TAPAK MASJID DI BAYAR DENGAN HARGA RM 1,000.00. WANG DI PUNGUT DARI DERMA ORANG RAMAI DAN MELALUI BANTUAN KERAJAAN NEGERI DAN PERSEKUTUAN.",
+    "source_musolla_id": "MY-03-KB-00559",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.yangb berada di luar masjid."
+  },
+  "w30epr27pe": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.192705,
+      "longitude": 102.272399
+    },
+    "name": "MASJID MUKIM SEMUT API",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "419fe18a-31dd-46c4-90aa-5e427d5776bc",
+    "geohash": "w30epr27pe",
+    "remarks": "SEORANG HAMBA ALLAH TELAH MEWAKAFKAN TANAHNYA SELUAS 1/4 EKAR. PERMOHONAN TELAH DIBUAT KEPADA KERAJAAN PUSAT. SETELAH MENDAPAT KELULUSAN, MAKA PDA TAHUN 1980 TERBINALAH MASJID SEMUT API.",
+    "source_musolla_id": "MY-03-KB-00255",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa."
+  },
+  "w30ep97y9p": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.160364,
+      "longitude": 102.287918
+    },
+    "name": "MASJID MUKIM TEBING TINGGI TLK KITAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cd344be0-bcbf-4ec1-b1f3-be573f2ca478",
+    "geohash": "w30ep97y9p",
+    "source_musolla_id": "MY-03-KB-00271",
+    "provision": "Dilengkapi ruang solat dan tandas serta tempat mengambil wuduk untuk lelaki dan perempuan.Memiliki dewan serbaguna yang dapat dinikmati oleh semua penduduk dan mempunyai dapur serta tempat parker berbumbung bagi motosikal."
+  },
+  "w30epn4jmb": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.186209,
+      "longitude": 102.263736
+    },
+    "name": "MASJID MUKIM TELAGA BATA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f33c309c-5f9b-4851-8f33-0f3c828c1532",
+    "geohash": "w30epn4jmb",
+    "source_musolla_id": "MY-03-KB-00398",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa."
+  },
+  "w30e5w709y": {
+    "address": "16210 Jal Besar, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.186798,
+      "longitude": 102.111137
+    },
+    "name": "MASJID MUKIM JUBAKAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e79697bc-1db3-482a-9ea0-19308005f8dd",
+    "geohash": "w30e5w709y",
+    "remarks": "ASAL SEBUAH SURAU YANG DIBINA OLEH PENDUDUK KAMPUNG. TAHUN 1980 BANGUNAN DI TAMBAH UNTUK DIJADIKAN MASJID.",
+    "source_musolla_id": "MY-03-TPT-00205",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30epqb5tt": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.190054,
+      "longitude": 102.271975
+    },
+    "name": "MASJID MUKIM BADANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8d908f15-680a-46d3-950b-299d729325ea",
+    "geohash": "w30epqb5tt",
+    "remarks": "MASJID MULA DIBINA PADA TAHUN 1964 DARI BANGUNAN KAYU.",
+    "source_musolla_id": "MY-03-KB-00247",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa."
+  },
+  "w30epm0wh2": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.180844,
+      "longitude": 102.272608
+    },
+    "name": "MASJID MUKIM PANTAI CHE LATIF",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "63a02ede-4920-4217-8b2d-90c6af3df3a4",
+    "geohash": "w30epm0wh2",
+    "source_musolla_id": "MY-03-KB-00258",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa."
+  },
+  "w30ekbjute": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.19708,
+      "longitude": 102.169998
+    },
+    "name": "MASJID MUKIM SELEHOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e84d8cb8-5e2a-4e86-bb50-c97538494da9",
+    "geohash": "w30ekbjute",
+    "remarks": "Masjid ini masih lagi dalam proses pengubahsuaian bagi ruang solat utama yang masih lagi berjalan.Dana bagi proses pengubahsuaian tersebut ialah hasil daripada sumbangan penduduk kampung dan sumbangan ikhlas orang ramai.",
+    "source_musolla_id": "MY-03-TPT-00497",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ej1y3f6": {
+    "address": "Bendang Kerian, Terbak, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.162268,
+      "longitude": 102.181537
+    },
+    "name": "MASJID MUKIM KG. PERIOK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6975931e-ebca-4b60-a324-52d04be06b7c",
+    "geohash": "w30ej1y3f6",
+    "source_musolla_id": "MY-03-TPT-00213",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga dewan makan dan bilik imam di masjid ini."
+  },
+  "w30eqc420h": {
+    "address": "15350 Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.201808,
+      "longitude": 102.252846
+    },
+    "name": "MASJID MUKIM PULAU PISANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "47ca5855-27cd-4977-97c1-b051eaafae92",
+    "geohash": "w30eqc420h",
+    "source_musolla_id": "MY-03-KB-00251",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.yangb berada di luar masjid."
+  },
+  "w30ehvy1cn": {
+    "address": "Terbak, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.184267,
+      "longitude": 102.170153
+    },
+    "name": "MASJID MUKIM PAK KERAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "83a07ec3-8a42-49bd-959a-9daf20de736f",
+    "geohash": "w30ehvy1cn",
+    "source_musolla_id": "MY-03-TPT-00231",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga pejabat dan bilik imam di masjid ini."
+  },
+  "w30ep0wbuv": {
+    "address": "Panji, Kelantan, Malaysia 15400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.155246,
+      "longitude": 102.270218
+    },
+    "name": "MASJID MUKIM BAUNG BESAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ed06001d-e5c8-4eb1-af0a-11f19a6877ca",
+    "geohash": "w30ep0wbuv",
+    "remarks": "Masjid ini masih lagi dalam proses pembaikan bagi ruang solat bertingkat.",
+    "source_musolla_id": "MY-03-KB-00261",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30epn75k7": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.187254,
+      "longitude": 102.265055
+    },
+    "name": "MASJID MUKIM KAMPUNG TENGKU MOHANI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3d84ecae-2899-4e7e-90ab-392ea273e5d9",
+    "geohash": "w30epn75k7",
+    "source_musolla_id": "MY-03-KB-00545",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  },
+  "w30e5ts1dk": {
+    "address": "Jal Besar, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.182838,
+      "longitude": 102.112528
+    },
+    "name": "MASJID MUKIM BUNUHAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "081f1a5a-a30b-4327-ae4f-8746f2a5337b",
+    "geohash": "w30e5ts1dk",
+    "source_musolla_id": "MY-03-TPT-00215",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.yangb berada di luar masjid."
+  },
+  "w30ekbpmwu": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.197256,
+      "longitude": 102.172114
+    },
+    "name": "MASJID MUKIM KAJANG SEBIDANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d596e31e-5273-4e46-a0c7-a028db72c0ff",
+    "geohash": "w30ekbpmwu",
+    "source_musolla_id": "MY-03-TPT-00230",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Terdapat juga pejabat dan bilik imam di masjid ini."
+  },
+  "w30e7se0dc": {
+    "address": "Pengkalan Kubor, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.2211,
+      "longitude": 102.11118
+    },
+    "name": "MASJID MUKIM GETING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f56a2ec9-836c-41e7-9252-194b23563a6c",
+    "geohash": "w30e7se0dc",
+    "source_musolla_id": "MY-03-TPT-00210",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga bilik imam di masjid ini sebagai kemudahan imam masjid ini.Pejabat juga di masjid ini yang digunakan untuk menguruskan urusan pentadbiran masjid.Masjid ini juga menyediakan bilik mesyuarat sebagai kemudahan masjid ini."
+  },
+  "w30ehvuej2": {
+    "address": "Terbak, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.184449,
+      "longitude": 102.168276
+    },
+    "name": "MASJID MUKIM SIMPANGAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4a093935-0bbf-4b03-87fe-2f1f6e870da4",
+    "geohash": "w30ehvuej2",
+    "source_musolla_id": "MY-03-TPT-00229",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga bilik imam di masjid ini yang menjadi kemudahan imam masjid ini."
+  },
+  "w30eh9jm19": {
+    "address": "Terbak, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.158705,
+      "longitude": 102.158158
+    },
+    "name": "MASJID MUKIM KOK KELI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "83d327b9-19d9-4aaa-89fc-6c927eadd7d5",
+    "geohash": "w30eh9jm19",
+    "source_musolla_id": "MY-03-TPT-00208",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ehzr2zu": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.192321,
+      "longitude": 102.17216
+    },
+    "name": "MASJID MUKIM PULAU GOREK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "200b551a-b430-4e40-b0b7-52dd538b596c",
+    "geohash": "w30ehzr2zu",
+    "source_musolla_id": "MY-03-TPT-00209",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ekb7041": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.19767,
+      "longitude": 102.166081
+    },
+    "name": "MASJID MUKIM SG. PINANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f332e723-020d-4173-970f-57a0f19c3389",
+    "geohash": "w30ekb7041",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah masjid yang berasaskan kayu.Tetapi pada tahun 1967 masjid ini telah diubahsuai dan pada yang sama telah dirasmikan oleh Tengku Razali Hamzah pada tahun yang sama.Tanah tapak masjid ini telah diwakafkan oleh penduduk kampung sungai pinang.Pengasas asal masjid ini ialah Tuan guru Haji Abdul Malik.Masjid ini juga mempunyai dua buah meriam yang menjadikan masjid ini merupakan masjid yang istimewa.Meriam tersebut telah dipindahkan ke masjid ini oleh Dato Wan Muhamad Jusoh. .",
+    "source_musolla_id": "MY-03-TPT-00206",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30eps1z3r": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.175601,
+      "longitude": 102.285177
+    },
+    "name": "MASJID MUKIM KAMPUNG TOK SADANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0ee748b5-b306-49d6-b193-0dc33b7e9446",
+    "geohash": "w30eps1z3r",
+    "source_musolla_id": "MY-03-KB-00316",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  },
+  "w30ehwsyb8": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.189211,
+      "longitude": 102.157434
+    },
+    "name": "MASJID MUKIM KELABURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c392ce9c-4fe2-42ad-9e28-9e6791300199",
+    "geohash": "w30ehwsyb8",
+    "source_musolla_id": "MY-03-TPT-00203",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ejf6mgk": {
+    "address": "Kok Pasir, Sungai Pinang, Kelantan, Malaysia 16040",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.165713,
+      "longitude": 102.20904
+    },
+    "name": "MASJID MUKIM CHENDERONG BATU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c0e90eb1-e0da-4338-9242-bb61905c1d81",
+    "geohash": "w30ejf6mgk",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah masjid yang diperbuat sepenuhnya daripada kayu.Tetapi masjid ini telah di tambahbaikkan bagi memperluaskan lagi kawasan masjid ini.Akan tetapi masjid ini masih mengekalkan lagi senibina kayu dan masih mengekalkan struktur asal masjid ini. Walaupun masjid ini menggunakan senibina lama tetapi masjid ini dapat lagi berdiri dengan teguh.",
+    "source_musolla_id": "MY-03-TPT-00223",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat disediakan di luar kawasan masjid."
+  },
+  "w30ep8jr7n": {
+    "address": "Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.153625,
+      "longitude": 102.290064
+    },
+    "name": "MASJID MUKIM DELIMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4609dea4-5062-4dca-a17a-4aaee331ff5a",
+    "geohash": "w30ep8jr7n",
+    "source_musolla_id": "MY-03-TPT-00224",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Masjid ini tedapat juga beduk yang digunakan memberitahu tentang sesuatu kematian."
+  },
+  "w30eh6fsj8": {
+    "address": "Terbak, Kelantan, Malaysia 16210",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.168137,
+      "longitude": 102.143565
+    },
+    "name": "MASJID MUKIM PASIR PEKAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "85b0922d-c2ac-4892-9492-2200674d8dec",
+    "geohash": "w30eh6fsj8",
+    "source_musolla_id": "MY-03-TPT-00228",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Terdapat juga pejabat yang digunakan sebagai tempat pengurusan masjid.Van jenazah juga disediakan di masjid ini yang merupakan salah satu kemudahan masjid ini."
+  },
+  "w30eq29kjd": {
+    "address": "Sungai Pinang, Kelantan, Malaysia 16040",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.199736,
+      "longitude": 102.229739
+    },
+    "name": "MASJID MUKIM TELUK RENJUNA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9f242289-9540-4203-9273-4a03e5a67917",
+    "geohash": "w30eq29kjd",
+    "source_musolla_id": "MY-03-TPT-00526",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini..Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal.Selain itu,terdapat juga tempat parking terbuka di masjid ini untuk kemudahan orang ramai."
+  },
+  "w30epchf9e": {
+    "address": "16100 Kemumin, Kelantan, Malaysia 16100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.158286,
+      "longitude": 102.300291
+    },
+    "name": "MASJID MUKIM SMS TG MUHD FARIS PETRA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a3426080-c821-41cd-9167-32403b184189",
+    "geohash": "w30epchf9e",
+    "source_musolla_id": "MY-03-KB-00558",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah terdapat meja rehat yang disediakan untuk para jemaah berehat khususnya pada waktu petang.Di samping itu, terdapat juga laluan berjalan kaki yang menuju ke tempat mengambil wuduk."
+  },
+  "w30e7gsc36": {
+    "address": "16200 Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.215743,
+      "longitude": 102.124501
+    },
+    "name": "MASJID MUKIM KG. TUJUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "38bb9bf5-67ca-429f-a1c2-1ac92cd82310",
+    "geohash": "w30e7gsc36",
+    "remarks": "Masjid ini telah mengalami proses pembaikpulih pada tahun 2009 bagi ruang soat utamanya yang akan dinaiktarafkan dengan serta merta.Dana bagi proses ini telah menelan belanja sebanyak 250000ribu ringgit.Dana tersebut ialah hasil daripada sumbanagan ikhlas orang ramai.Pada masa yang sama juga masjid ini menjadi tumpuan para pelajar daripada Maktab Rendah Sains Mara(MRSM) yang berdekatan terutamanya pada solat jumaat.",
+    "source_musolla_id": "MY-03-TPT-00204",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Terdapat juga van jenazah yang menjadi salah satu kemudahan masjid ini."
+  },
+  "w30ekbpmwv": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "contact": "097254317",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.197264,
+      "longitude": 102.172116
+    },
+    "name": "MASJID ISMAILI BANDAR TUMPAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6d3a4b91-b377-4986-9402-83e07f666c7e",
+    "geohash": "w30ekbpmwv",
+    "remarks": "Masjid yang dibina seawal tahun 1900 masehi masih megah berdiri setelah mengalami beberapa kali perubahan. Masjid yang dibina atas niat yang suci dan ikhlas oleh penduduk setempat tetap bersemarak walau pun lebih seabad usianya. Masjid yang dibina bagi memudahkan orang Islam menjalani segala aktiviti mereka, kerana sewaktu itu belum lagi wujud dewan orang ramai atau kemudahan-kemudahan lain. Pelbagai cerita tentang sejarah penubuhannya. Namun rata-rata tidak dapat memberi satu tarikh yang tepat bilakah masjid ini dibina. Walau bagaimana pun dari beberapa sumber yang boleh dipercayai keesahannya masjid ini dibina lebih awal dari Masjid Kampung Laut.Nama asal masjid ini ialah Masjid Tumpat. Setelah beberapa dekad pembinaannya ia mengalami beberapa perubahan. Perubahan-perubahan yang berlaku dengan mengambil kira struktur, pembesaran tapak, dan paling utama adalah untuk menampung populasi penduduk. Masjid ini dirasmikan oleh Kebawah Duli Yang Maha Mulia Al Sultan Kelantan dan diberi nama sempena nama baginda Sultan Ismail.Tapak asal yang berpaya dan mengalami pasang surut air laut mempengaruhi asas binaannya. Bentuk asal bertiang tinggi, mempunyai 5 anak tangga. Tangga asal di sebelah hulu dan hilir masjid selain di belakang. Bangunan masjid ini dapat memuatkan 100 orang jemaah. Peluasan tapak dan ruang ibadat telah melalui beberapa peringkat. Perubahan pertama pada tahun 1923, merangkumi merendahkan tiangnya dan bilang anak tangga daripada 5 kepada 3 bilah anak tangga. Kemajuan ini dibuat setelah tapaknya ditimbus dengan menggunakan sampah dan pasir bagi menutupi paya dan alur sungai yang merentangi dari Kampung Tanjung Che Mas ke Padang Keretapi Tumpat. Kesan peninggalan ini masih dapat dilihat berhampiran rumah tangki keretapi Tumpat. Kemudian dalam sekitar tahun 1968. Perubahan daripada kayu kepada bangunan batu. Bahan binaan asal (kayu)selain digunakan sebagai bahan sokong pembinaan, ia diguna juga bagi mendirikan sebuah sekolah PASTI dalam kawasan masjid. Seawal tahun 1970 masjid baru dapat diguna sepenuhnya.Perubahan terakhir masjid ini ialah dalam tahun 1980 an seolah-olah mencantumkan dua buah masjid seperti yang ada sekarang. Masjid Ismaili Bandar Tumpat setelah melalui beberapa renuvasi dapat menampung 1500 jemaah. Kampung-kampung yang berada di bawah Permukiman Masjid Ismaili adalah; Bandar Tumpat, Tanjung Kuala, Kampung Kelong, Kampung Besut, Kampung Pak Jah, Kampung Kepala Batas, dan Kampung Dalam Rhu. Tanah Perkuburan ialah Kubur Dato' Dalam Rhu",
+    "source_musolla_id": "MY-03-TPT-00005",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Masjid ini menyediakan pejabat bagi menguruskan urusan pentadbiran. Selain itu.terdapat bilik mensyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid. Bilik imam dan bilal turut disediakan untuk sebagai tempat penginapan imam dan bilal"
+  },
+  "w30e70hnvr": {
+    "address": "Pengkalan Kubor, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.197488,
+      "longitude": 102.090682
+    },
+    "name": "MASJID MUKIM KUBANG SAWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5e71fcbe-31ba-49c4-adc3-c61f9cca212b",
+    "geohash": "w30e70hnvr",
+    "source_musolla_id": "MY-03-TPT-00518",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga bilik imam di masjid ini yang menjadi kemudahan imam masjid ini."
+  },
+  "w30ekbjutk": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.197086,
+      "longitude": 102.169995
+    },
+    "name": "MASJID KARIAH MUKIM CABANG EMPAT TOK MEK NGAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "be3fe399-be4f-41d7-8fae-81fbcb09e3cc",
+    "geohash": "w30ekbjutk",
+    "source_musolla_id": "MY-03-TPT-00519",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa. \nMasjid ini juga menyediakan pejabat bagi menguruskan urusan pentadbiran. Selain itu.terdapat bilik mensyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid. Bilik imam dan bilal turut disediakan untuk sebagai tempat penginapan imam dan bilal.Terdapat juga tandas OKU dan dapur di masjid ini."
+  },
+  "w30epn50zr": {
+    "address": "Badang, Kelantan, Malaysia 15350",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.18547,
+      "longitude": 102.265181
+    },
+    "name": "MASJID MUKIM BINJAI BARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d9a6516c-e452-415f-a4b0-71ddf38ada71",
+    "geohash": "w30epn50zr",
+    "remarks": "Masjid ini diserah beri kepada pihak kerajaan.Masjid ini Mendapat dana persendirian iaitu mencecah sehingga 500 ribu ringgit.",
+    "source_musolla_id": "MY-03-KB-00759",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  }
+}

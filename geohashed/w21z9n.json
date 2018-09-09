@@ -1,6 +1,6 @@
 {
   "w21z9n0f49": {
-    "address": "30 Bukit Batok East Ave 2, Singapore 659919",
+    "address": "30 Bukit Batok East Avenue 2, Singapore 659919",
     "contact": "6899 5840",
     "createdAt": "2014-12-23T06:50:22.492Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:08.802Z",
     "uuid": "e4c890ba-4299-4671-87f4-ff26ef71321d",
-    "geohash": "w21z9n0f49"
+    "geohash": "w21z9n0f49",
+    "remarks": "The masjid prides itself for having an extensive library of Islamic literatures. Built in 1993, it is located in the West and is one of the pioneer masjids offering computer facilities to Muslims. It can accommodate up to 3,000 worshippers. The masjid built under the Mosque Building Fund also has complete jenazah (death ritual) services, which is rare among the other mosques. One of its strength is its family development unit, which offers assistance in cash and kind to needy families, single parents as well as kidney patients.",
+    "mosqueType": "MBMF"
   }
 }

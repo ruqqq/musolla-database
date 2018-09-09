@@ -1,0 +1,34 @@
+{
+  "w28mtudyv4": {
+    "address": "Gali, Pahang, Malaysia 27600",
+    "contact": "09-3551052",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.805187,
+      "longitude": 101.858249
+    },
+    "name": "MASJID SULTAN ABU BAKAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "70bb2661-b102-401e-ac7e-879d6122e1df",
+    "geohash": "w28mtudyv4",
+    "remarks": "Masjid yang terletak di daerah Raub ini adalah antara masjid yang menarik di negeri Pahang yang dibina pada zaman ini. Ia berkonsepkan reka bentuk Timur Tengah dan diterapkan seni bina tempatan. Masjid ini mempunyai anjung dan terdapat gerbang berulang di sekeliling masjid. Sekali imbas ia dilihat hampir menyerupai Masjid Yam Tuan Besar Negeri Sembilan.",
+    "source_musolla_id": "MY-06-RB-00020"
+  },
+  "w28my8qu5q": {
+    "address": "Kampung Pintu Padang, Gali, Pahang, Malaysia 27600",
+    "contact": "09-3689964",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.825339,
+      "longitude": 101.896623
+    },
+    "name": "MASJID AL-HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8cd36a84-6dbf-4a23-8c8f-0e47ad1cf61d",
+    "geohash": "w28my8qu5q",
+    "source_musolla_id": "MY-06-RB-00404",
+    "provision": "MASJID TERLETAK KIRA-KIRA 4 KM DARI BANDAR RAUB ."
+  }
+}

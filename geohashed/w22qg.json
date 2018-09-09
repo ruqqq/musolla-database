@@ -1,0 +1,18 @@
+{
+  "w22qgdpkdr": {
+    "address": "Jimah, Negeri Sembilan, Malaysia 71960",
+    "contact": "013-3204438",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.604572,
+      "longitude": 101.765432
+    },
+    "name": "MASJID KARIAH KAMPUNG CHUAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b4952958-0678-491a-a1c3-f7aea3416c50",
+    "geohash": "w22qgdpkdr",
+    "remarks": "Penubuhan Masjid ini adalah daripada inisiatif daripada ahli jawatankuasa masjid bersama ahli kariah Masjid. Pada masa pembinaan Masjid ini dapat menampung jemaah seramai 100 orang.",
+    "source_musolla_id": "MY-05-PD-00066"
+  }
+}

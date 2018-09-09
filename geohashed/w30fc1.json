@@ -1,0 +1,47 @@
+{
+  "w30fc1ke54": {
+    "address": "Jalan Penghulu Hj Mat Din, 16030 Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.115793,
+      "longitude": 102.354947
+    },
+    "name": "MASJID MUKIM TAKANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bac53bf8-8e97-46a4-858f-9c01b2ef8324",
+    "geohash": "w30fc1ke54",
+    "source_musolla_id": "MY-03-BCK-00472",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk berkolah lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid ini juga mempunyai tempat parking yang berbumbung untuk meletakkan kenderaan. Masjid mempunyai keselesaan yang tersendiri dengan dilengkapi ruang solat yang berair cond."
+  },
+  "w30fc1pq5y": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.114955,
+      "longitude": 102.358758
+    },
+    "name": "MASJID MUKIM BERIS PANCHOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e29ac2a0-094c-41fc-aeaa-a010e4c90402",
+    "geohash": "w30fc1pq5y",
+    "source_musolla_id": "MY-03-BCK-00502",
+    "provision": "Masjid inimenyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan."
+  },
+  "w30fc1pzkr": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.115179,
+      "longitude": 102.359461
+    },
+    "name": "MASJID MUKIM TERATAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f35392c3-f398-4eda-a1a3-4eab0753d4ac",
+    "geohash": "w30fc1pzkr",
+    "source_musolla_id": "MY-03-BCK-00505",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid juga mempunyai tempat parking yang berbumbung untuk meletakkan kenderaan. Masjid mempunyai beduk yang lama tetapi masih digunakan untuk menandakan tanda masuknya waktu solat."
+  }
+}

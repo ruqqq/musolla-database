@@ -1,0 +1,36 @@
+{
+  "w0xzmm82pw": {
+    "address": "Jalan Labu Kubong, Kampung Head Work, 36600 Labu Kubong, Perak, Malaysia 36600",
+    "contact": "05-6511178",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.11716,
+      "longitude": 101.129818
+    },
+    "name": "MASJID AL - A ALA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e700e98e-3cd9-4afe-8972-b4b0ab1b7111",
+    "geohash": "w0xzmm82pw",
+    "remarks": "Dibina dengan menggunakan masjid berusia 65 tahun yang sudah 3 kali dipindahkan semasa di Changkat Jong,kali ke-4 ke Kunci Air besar. \r\nTapak masjid adalah wakaf Allahyarham Tuan Hj.Basri  b. Kehong.",
+    "source_musolla_id": "MY-08-HP-00198",
+    "provision": "-tempat wudhu'\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan oku\r\n-tandas awam"
+  },
+  "w0xzm3mhe9": {
+    "address": "Kampung Degong, Changkat Jong, Perak, Malaysia 36700",
+    "contact": "012 5654114",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.094561,
+      "longitude": 101.136171
+    },
+    "name": "MASJID JAMEK KG. DEGONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b8c6f173-1787-4f16-a097-69318f870ad6",
+    "geohash": "w0xzm3mhe9",
+    "remarks": "Berpindah dari belakang kedai degong di atas tapak c.p 3457 kepada tapak baru paa tahun 1954 di atas tanah lot 2586 seluas satu rantai setengah yang diwakafkan oleh Mohd Atan Bin Mohd Yunus(bekas ketua kampung Degong).",
+    "source_musolla_id": "MY-08-HP-00238",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-pondok rehat"
+  }
+}

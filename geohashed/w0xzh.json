@@ -1,0 +1,50 @@
+{
+  "w0xzhmzbj1": {
+    "address": "Kampung Sungai Manik Kanan, Sungai Manik, Perak, Malaysia 36000",
+    "contact": "019 5630153",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.07456,
+      "longitude": 101.096066
+    },
+    "name": "MASJID AN - NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b841bf15-d2f5-48d3-85c5-2385597e6004",
+    "geohash": "w0xzhmzbj1",
+    "remarks": "Masjid asal hanya dibina dengan menggunakan papan dan kayu. \r\nHasil bantuan orang ramai dan rakyat temaptan, bantuan telah diperolehi dan digunakan untuk membina masjid yang baru yang lebih selesa.\r\npada tahun 1958 bangunan masjid yanga asal hanya di bina dengan dinding papan dan kayu.tahun 1957 melantik ahli-ahli jawatankuasa untuk berusaha mencari dana pembinaan bangunan yang baru.tahun 1976 kebenaran dipohon dari jabatan agama islam untuk mendapatkan sumbangan kewangan dari masjid dan surau di seluruh malaysia serta pihak jabatan / pertubuhan lain yang ingin menyumbang.kelulusan diperolehi pada tahun yang sama.tahun 1981 pula, wang terkumpul hampir rm 200,000. tahun 1983, bangunan masjid yang baru siap dibina.",
+    "source_musolla_id": "MY-08-HP-00218",
+    "provision": "sejak dari pembinaan masjid ini, berbagai tambahan kemudahan telah dibina. selain dari meluaskan ruang solat bagi menampung bilangan jemaah yang bertambah, kemudajan lain turut juga disdiakan bagi kemudahan jemaah dan pengurusan masjid.\r\n\r\n-ruang tambahan solat dibina di kedua-dua bahagian sisi masjid bagi menampung bilangan jemaah.\r\n-"
+  },
+  "w0xzhu02j9": {
+    "address": "Sungai Manik, Perak, Malaysia 36000",
+    "contact": "019 5757021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.064949,
+      "longitude": 101.107761
+    },
+    "name": "MASJID KG SG. TUKANG SIDIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fe0b0109-b0e0-4680-89c5-4f3881ddace9",
+    "geohash": "w0xzhu02j9",
+    "remarks": "Pembinaan adalah daripada kayu kayan yang diambil dari sebuah masjid yang dirobohkan di Kg. Gajah. \r\nTanah telah diwakafkan oleh Siak Nordin seluas suku ekar.\r\nKali pertama diubahsuai ata bantuan kerajaan dan sumbangan orang ramai. \r\nTerbaru, masjid ini telah mendapat peruntukan sebanyak RM60,000.00 dan RM40,000.00  untuk kerja-kerja mengecat,",
+    "source_musolla_id": "MY-08-HP-00261"
+  },
+  "w0xzhw83ss": {
+    "address": "Sungai Manik, Perak, Malaysia 36000",
+    "contact": "05 6223992",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.078958,
+      "longitude": 101.096732
+    },
+    "name": "MASJID PARIT 2B",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5e1dc5cf-88cf-4ee7-906c-b860c3bc6261",
+    "geohash": "w0xzhw83ss",
+    "source_musolla_id": "MY-08-HP-00257"
+  }
+}

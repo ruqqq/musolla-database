@@ -1,0 +1,16 @@
+{
+  "w30bvyujwb": {
+    "address": "Kampung Raja, Terengganu, Malaysia 22200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.79486,
+      "longitude": 102.56316
+    },
+    "name": "MASJID NASIRUDDIN SHAH (KERAJAAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "89ee2c61-e53e-4e9f-8812-e018225d25d1",
+    "geohash": "w30bvyujwb",
+    "source_musolla_id": "MY-11-BST-00007"
+  }
+}

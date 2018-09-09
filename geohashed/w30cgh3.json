@@ -1,0 +1,17 @@
+{
+  "w30cgh35wy": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.956598,
+      "longitude": 102.438197
+    },
+    "name": "MASJID MUKIM CHERANG HANGUS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b53f8dab-192b-4bf3-8ab7-05a45f323db8",
+    "geohash": "w30cgh35wy",
+    "source_musolla_id": "MY-03-BCK-00468",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan."
+  }
+}

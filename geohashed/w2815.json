@@ -1,0 +1,99 @@
+{
+  "w2815zyyxv": {
+    "address": "Kawasan 6, Taman Gembira, Klang, Selangor, Malaysia 41100",
+    "contact": "016-2382155",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.031996,
+      "longitude": 101.424405
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1c584098-62fc-4b34-a7b0-be94c1156a6d",
+    "geohash": "w2815zyyxv",
+    "remarks": "Masjid ini merupakan masjid ketiga yang dibina di kariah ini. Masjid pertama adalah merupakan sebuah surau. Masjid kedua telah dibina pada tahun 1958 dimana tapak amsjid ini telah dibeli oleh pihak masjid dan juga sumbangan dari kerajaan.",
+    "source_musolla_id": "MY-10-KLG-00208"
+  },
+  "w2815rx9st": {
+    "address": "Kawasan 7, Kampung Delek, 41250 Klang, Selangor, Malaysia 41250",
+    "contact": "03-33732652",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.029769,
+      "longitude": 101.40332
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0fc15795-6707-4f4f-9867-e438cdb222f4",
+    "geohash": "w2815rx9st",
+    "remarks": "PEMBINAAN MASJID BARU BAGI MENGGANTIKAN MASJID LAMA BAGI MENAMPUNG KEPERLUAN JEMAAH DAN TAMBAHAN PENDUDUK",
+    "source_musolla_id": "MY-10-KLG-00207"
+  },
+  "w2815bywq0": {
+    "address": "Kawasan 11, Kampung Idaman, Klang, Selangor, Malaysia 42000",
+    "contact": "013-3541471",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.993476,
+      "longitude": 101.423981
+    },
+    "name": "MASJID AL - FALAH KG. IDAMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fb03a2a3-aae8-429e-b0c8-0e9393ad0230",
+    "geohash": "w2815bywq0",
+    "source_musolla_id": "MY-10-KLG-00213",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah."
+  },
+  "w28156vv3k": {
+    "address": "Kawasan 13, Pelabuhan Klang, Klang, Selangor, Malaysia 42000",
+    "contact": "019-3162664",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.004314,
+      "longitude": 101.400775
+    },
+    "name": "MASJID JAMEK SAMADIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3a4da98c-c21a-434a-9186-8bb1c2b66679",
+    "geohash": "w28156vv3k",
+    "source_musolla_id": "MY-10-KLG-00210",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah"
+  },
+  "w2815sjedn": {
+    "address": "Kawasan 12, Kampung Baru Padamaran, Klang, Selangor, Malaysia 42000",
+    "contact": "019-2048678",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.01089,
+      "longitude": 101.411458
+    },
+    "name": "MASJID AL - MANSURIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "aa499315-aee1-4097-85c3-7df7a843e8af",
+    "geohash": "w2815sjedn",
+    "source_musolla_id": "MY-10-KLG-00211",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah."
+  },
+  "w2815sg5xj": {
+    "address": "Kampung Raja Uda, Klang, Selangor, Malaysia 42000",
+    "contact": "012-3133536",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.015004,
+      "longitude": 101.408239
+    },
+    "name": "MASJID KAMPUNG RAJA UDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c4ef4c44-d7fa-4e38-bb15-7899787bf837",
+    "geohash": "w2815sg5xj",
+    "remarks": "merupakan masjid baru yang dibina pada tahun 2013 dan dibina menggunakan peruntukan kerajaan negeri",
+    "source_musolla_id": "MY-10-KLG-00209",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah. selain itu, masjid juga mempunyai dewan yang besar untuk digunakan membuat aktiviti ataupun di sewa keapa ahli kariah"
+  }
+}

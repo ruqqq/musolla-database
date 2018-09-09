@@ -11,7 +11,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:57.993Z",
     "uuid": "fe6c8f28-90d8-4c02-931e-200af7141b5a",
-    "geohash": "w21zkr0upe"
+    "geohash": "w21zkr0upe",
+    "remarks": "First built in 1917, this old generation masjid underwent several restorations, the most recent one in 1998. Located in the Central part of the island, its newly-restored building which comes complete with a minaret at the front porch can fill up to 2500 people. Ramadan is a busy month for the mosque as an average of 800 Muslims break their fast at the mosque daily. There are regular religious classes for children and adults.",
+    "mosqueType": "Wakaf"
   },
   "w21zkrvhfq": {
     "address": "1 Jalan Eunos, Singapore 419493",
@@ -25,6 +27,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:13.971Z",
     "uuid": "79b51ceb-884f-4ab7-b206-d8199163bfc3",
-    "geohash": "w21zkrvhfq"
+    "geohash": "w21zkrvhfq",
+    "remarks": "A squarish minaret in this Mosque Building Fund masjid combines Malay architecture and Islamic art. Nominated for the prestigious Aga Khan Award in 1989 as an excellent example of tropical architecture, the masjid features the early pitched-roof structure commonly found in the Malay archipelago. Built in 1986, the masjid located in the East can accommodate up to 3,500 people. Besides madrasah classes, it is also popular venue for haj courses organized by travel agents. The masjid has since undergone a major addition and alteration project which was completed in 2005.",
+    "mosqueType": "MBMF"
   }
 }

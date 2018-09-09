@@ -1,0 +1,32 @@
+{
+  "w958b245kw": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.757427,
+      "longitude": 117.435804
+    },
+    "name": "MASJID JAMEK PEKAN BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "327b7cc0-b246-441f-bde8-b57e13247d5a",
+    "geohash": "w958b245kw",
+    "source_musolla_id": "MY-12-BLR-00033"
+  },
+  "w958b247kd": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.757406,
+      "longitude": 117.436147
+    },
+    "name": "MASJID JAMEK KENIOGAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7e06f77d-2a60-4610-be7a-de0739b2bbf9",
+    "geohash": "w958b247kd",
+    "source_musolla_id": "MY-12-BLR-00034"
+  }
+}

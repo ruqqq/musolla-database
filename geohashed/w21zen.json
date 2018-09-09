@@ -1,16 +1,18 @@
 {
-  "w21zenqj5c": {
+  "w21zenq5jq": {
     "address": "9A Bishan Street 14, Singapore 579786",
     "contact": "6354 3138",
-    "createdAt": "2014-12-23T06:50:21.830Z",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.353559,
-      "longitude": 103.851182
+      "latitude": 1.35324,
+      "longitude": 103.85124
     },
-    "name": "An Nahdhah Mosque",
+    "name": "An-Nahdhah Mosque",
     "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:45.910Z",
-    "uuid": "fa1d6bc2-21d1-4567-863c-9c22c542c7e7",
-    "geohash": "w21zenqj5c"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4342d920-ae35-4fc4-a9ff-6a0f45086511",
+    "geohash": "w21zenq5jq",
+    "remarks": "This mosque is the sixth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community around the Bishan area. The mosque can accommodate about 4,000 people and was opened to the public on 6th January 2006. \n\nThe mosque complex also houses MUIS's Harmony Centre where visitors could learn of the Muslim Community and Islam as practiced in multi-cultural Singapore. Being the first of its kind in a Singapore mosque, the 2-storey Harmony Centre showcases exhibits, artifacts and information on Islamic civilisation and lifestyle. Contemporary issues in Islam and Inter-faith understanding will also be a feature at the Centre through talks and activities. The Centre is scheduled to be opened to all in October 2006.",
+    "mosqueType": "MBMF"
   }
 }

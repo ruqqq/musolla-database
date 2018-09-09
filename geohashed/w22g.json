@@ -1,0 +1,32 @@
+{
+  "w22gtu89ug": {
+    "address": "Taman Sri Tanjung, Muar, Johor, Malaysia 84000",
+    "createdAt": "2018-09-08T11:17:38+08:00",
+    "location": {
+      "latitude": 2.046523,
+      "longitude": 102.558272
+    },
+    "name": "MASJID SULTAN IBRAHIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T11:17:38+08:00",
+    "uuid": "a8671d59-81ed-43c5-bcbc-6f22d25f8452",
+    "geohash": "w22gtu89ug",
+    "remarks": "Masjid Jamek Sultan Ibrahim ini siap didirikan sekitar tahun 1927 Masihi dan telah dirasmikan pada 28 Februari 1930 Masihi oleh Tengku Mahkota Ismail (Sultan Ismail) yang menjadi Pemangku Sultan Johor ketika itu. Ia didirikan bagi menggantikan bangunan kayu yang telah dibina pada tahun 1880-an.\r\nMasjid ini terletak di Jalan Petri, Tanjung Emas, Muar yang berlatar belakang Sungai Muar. Pada masa dahulu kebanyakan penempatan didirikan berhampiran dengan aliran air yang menjadi laluan utama sebelum pembinaan jalan darat. Oleh itu, pembinaan masjid berdekatan sungai adalah penting.",
+    "source_musolla_id": "MY-01-BP-00019"
+  },
+  "w22gtv77k2": {
+    "address": "Muar, Johor, Malaysia 84000",
+    "createdAt": "2018-09-08T11:17:38+08:00",
+    "location": {
+      "latitude": 2.050886,
+      "longitude": 102.562028
+    },
+    "name": "MASJID SULTAN ISMAIL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T11:17:38+08:00",
+    "uuid": "c2e5392b-71a3-441f-b687-99581d12bfd7",
+    "geohash": "w22gtv77k2",
+    "source_musolla_id": "MY-01-BP-00020",
+    "provision": "Masjid Sultan Ismail dilengkapi peralatan canggih seperti sistem pendingin dan audio visual. Ini membantu menaik taraf masjid ini dan ia merupakan antara masjid yang aktif dengan pelbagai program yang dilaksanakan oleh penduduk daripada pelbagai lapisan dan peringkat umur."
+  }
+}

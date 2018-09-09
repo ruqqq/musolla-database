@@ -1,0 +1,16 @@
+{
+  "w0zrt0h0g1": {
+    "address": "Mukim 5, Kepala Batas, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.537246,
+      "longitude": 100.420661
+    },
+    "name": "MASJID KAMPONG PADANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a11d0182-65fe-43f9-a3c0-754edcc7ce7a",
+    "geohash": "w0zrt0h0g1",
+    "source_musolla_id": "MY-07-KB-00097"
+  }
+}

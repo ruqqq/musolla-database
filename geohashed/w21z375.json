@@ -1,0 +1,18 @@
+{
+  "w21z375fmt": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": null,
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.29131,
+      "longitude": 103.77126
+    },
+    "name": "Hussein Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "c376d55c-0b35-4668-9f8f-2b80e5dcf5aa",
+    "geohash": "w21z375fmt",
+    "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
+    "mosqueType": "Leasehold"
+  }
+}

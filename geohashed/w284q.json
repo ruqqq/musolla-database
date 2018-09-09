@@ -1,0 +1,50 @@
+{
+  "w284q18ufp": {
+    "address": "Kampung Merbau Sempak, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0192808241",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.217101,
+      "longitude": 101.51479
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ae3893ff-58dc-453a-bbf9-e19aee463e39",
+    "geohash": "w284q18ufp",
+    "source_musolla_id": "MY-10-PTG-00288",
+    "provision": "Antara kemudahan yg terdapat ialah ruang solat,bilik bilal,ruang wuduk dan lain lain kemudahan asas untk sesebuah masjid."
+  },
+  "w284qrejpz": {
+    "address": "Rawang, Selangor, Malaysia 48000",
+    "contact": "0122135460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.250104,
+      "longitude": 101.529121
+    },
+    "name": "MASJID JAMEK AL - HIKMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7d34059f-323b-499b-9dd5-b19343ff40e4",
+    "geohash": "w284qrejpz",
+    "source_musolla_id": "MY-10-GBK-00049",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat."
+  },
+  "w284q3kz9s": {
+    "address": "Seksyen U20, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0133940263",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.216188,
+      "longitude": 101.531253
+    },
+    "name": "MASJID JAMEK KG. SG. PLONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9b9da281-586e-4085-850a-42ce2804f84f",
+    "geohash": "w284q3kz9s",
+    "source_musolla_id": "MY-10-PTG-00287",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya .\n\nSelain itu, terdapat juga bilik imam dan bilal , bilik stor , pejabat , bilik mesyuarat , dapur ,van jenazah, tempat mandi jenazah dan tempat wudhuk lelaki dan wanita .\n\nDi bahagian luar masjid terdapat beberapa ruang letak kereta khas pegawai masjid berbumbung serta garaj untuk motosikal dan basikal . Ruang letak kereta terbuka pula mampu meletakkan lebih 20 kereta dalam satu-satu masa dalam kawasan masjid sahaja."
+  }
+}

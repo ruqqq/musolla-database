@@ -1,0 +1,17 @@
+{
+  "w9588pzr82": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.756755,
+      "longitude": 117.431849
+    },
+    "name": "MASJID NURUL IMAN KG. TEMBIDONG-BIDONG BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "261a14ec-00e6-4f4b-af20-964d2bc489e0",
+    "geohash": "w9588pzr82",
+    "source_musolla_id": "MY-12-BLR-00027"
+  }
+}

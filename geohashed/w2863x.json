@@ -1,0 +1,33 @@
+{
+  "w2863x3xhs": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "contact": "03-61367012",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.249057,
+      "longitude": 101.669741
+    },
+    "name": "MASJID AT -TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c9636bfd-44f4-4221-b879-650d4b3d3fe9",
+    "geohash": "w2863x3xhs",
+    "source_musolla_id": "MY-10-GBK-00056",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, ruang jamuan, dewan kuliah serta seminar, van jenazah, tempat pengurusan jenazah, Sekolah Agama Rakyat Nurul Iman, tangga khas untuk orang kurang upaya dan bilik imam serta bilal."
+  },
+  "w2863xxm5g": {
+    "address": "Jalan Nakhoda Tengah, Kampung Nakhoda, 68100 Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.250083,
+      "longitude": 101.6776
+    },
+    "name": "MASJID JAMEK KG. NAKHODA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "77010300-1ea5-4433-bf7a-4bbd228dfab0",
+    "geohash": "w2863xxm5g",
+    "source_musolla_id": "MY-10-GBK-00047",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir, penghawa dingin, van jenazah dan urusan jenazah dan  ruangan solat yang luas.,"
+  }
+}

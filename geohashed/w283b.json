@@ -1,0 +1,84 @@
+{
+  "w283b9tvk2": {
+    "address": "Seksyen 17A, Petaling Jaya, Selangor, Malaysia 46400",
+    "contact": "0136794181",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.12926,
+      "longitude": 101.631616
+    },
+    "name": "MASJID AR - RAHMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "678a728d-71cd-4b63-a89c-5cb9362735cf",
+    "geohash": "w283b9tvk2",
+    "source_musolla_id": "MY-10-PTG-00271",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat,bilik bilal,dapur,stor,ruang wuduk dan lain-lain"
+  },
+  "w283bqge5g": {
+    "address": "Pinggir Taman Tun Dr. Ismail, Kuala Lumpur, Wilayah Persekutuan, Malaysia 60000",
+    "contact": "03-77282127",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.157731,
+      "longitude": 101.617525
+    },
+    "name": "MASJID AL-GHUFRAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3d588ddf-7b05-4b2f-a482-36131e722de4",
+    "geohash": "w283bqge5g",
+    "remarks": "Masjid Al-Ghufran telah didaftarkan dengan nama Surau Balai Islam di bawah pengawasan Jabatan Agama Islam Wilayah Persekutuan (JAWI) pada 6 April 1993. Hasil sumbangan orang ramai dan golongan korporat, bermula tahun 1998, surau Balai aIslam telah diubahsuai selaras dengan peningkatan peranannya. Ianya berfungsi bukan sahaja sebagai tempat solat malah lengkap dengan kemudahan seperti Sekolah Rendah Agama Balai Islam (SERAMBI), kamar musafir, dewan konferen, pejabat pentadbiran, bilik mesyuarat serta cafe. Pada 4 April 2000, Surau Balai Islam telah dinaik taraf menjadi masjid dan diberi nama Masjid Al-Ghufran. \"Al-Ghufran\" bermaksud \"KEAMPUNAN\" adalah nama yang diberikan oleh YBhg Datuk Mohd Hashim bin Yahaya, Mufti Wilayah Persekutuan ketika itu.",
+    "source_musolla_id": "MY-14-WKL-00036",
+    "provision": "Kemudaha yang terdapat dimasjid ini ialah kamar musafir (ala hotel), dewan solat, dewan jamuan, dewan cafe al-ghufran, bilik Balqis, dewan konferen dan bilik mesyuarat."
+  },
+  "w283bsu86n": {
+    "address": "Taman Tun Dr. Ismail, Kuala Lumpur, Wilayah Persekutuan, Malaysia 60000",
+    "contact": "03-77293710",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.14629,
+      "longitude": 101.62981
+    },
+    "name": "MASJID AT-TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "eab858e1-bcc8-4d0b-a1cf-eee3f5f2eea4",
+    "geohash": "w283bsu86n",
+    "remarks": "Pada asalnya tahun 80an, sebuah surau didirikan dikawasan perumahan Taman Tun Dr. Ismail untuk kegunaan penduduk mengerjakan ibadah dan sembahyang jumaat. Setelah Taman Tun mengalami perubahan yang hebat dimana banyak kawasan perumahan baru telah dibuka dan pejabat-pejabat telah diadakan disini, maka pihak pengurusan surau telah membina sebuah masjid yang letaknya 1000m daripada surau ini yang indah ini.",
+    "source_musolla_id": "MY-14-WKL-00007",
+    "provision": "Mempunyai bangunan khas sebagai pusat perniagaan dimana terdapat 2 tingkat bangunan yang dipenuhi dengan deretan kedai untuk umat islam berniaga. Di bangunan yang sama juga terdapat kafe tempat para jemaah untuk bersantai setelah beribadah. Masjid ini juga menyediakan tempat parkir yang luas."
+  },
+  "w283b68puz": {
+    "address": "Kampung Sungai Kayu Ara, Petaling Jaya, Selangor, Malaysia 47400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.135221,
+      "longitude": 101.612763
+    },
+    "name": "MASJID AL - MAKMURIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cbb3adad-c9ba-4296-a4ac-aad10fd0f4b9",
+    "geohash": "w283b68puz",
+    "source_musolla_id": "MY-10-PTG-00278",
+    "provision": "Antara kemudahan yang terdapat dimasjid ini ialah dewan, ruang parkir dan ruang solat yang selesa."
+  },
+  "w283b7mu8m": {
+    "address": "SS 21, Damansara Utama, Petaling Jaya, Selangor, Malaysia 47400",
+    "contact": "0377280120",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.13877,
+      "longitude": 101.620464
+    },
+    "name": "MASJID AL - MUJAHIDEEN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "aa69d0de-33af-4840-b3bb-3158a61a5f56",
+    "geohash": "w283b7mu8m",
+    "remarks": "Pada asalnya adalah dibina sebuah surau oleh penduduk tempatan. Kemudiannya surau itu telah diperbesarkan pembinaannya dan dijadikan masjid dengan menggunakan sumber dana yang dikumpulkan oleh penduduk setempat. Masjid ini telah diambilalih oleh kerajaan negeri Selangor selama 9 tahun dan dipulangkan semula kepada ahli qaryah.",
+    "source_musolla_id": "MY-10-PTG-00270",
+    "provision": "Antara kemudahan-kemudahan yang terdapat pada masjid ini adalah ruang solat yang berhawa dingin, kemudahan internet, bilik mandi jenazah,ruang solat,projector dan skrin serta pejabat dan bilik mesyuarat."
+  }
+}

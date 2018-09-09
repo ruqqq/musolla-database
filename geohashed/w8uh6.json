@@ -1,0 +1,16 @@
+{
+  "w8uh66jztz": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.978137,
+      "longitude": 118.232023
+    },
+    "name": "MASJID NUR HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0e155cbb-e126-451a-8131-8894506a1b09",
+    "geohash": "w8uh66jztz",
+    "source_musolla_id": "MY-12-LD-00567"
+  }
+}

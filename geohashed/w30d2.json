@@ -1,0 +1,47 @@
+{
+  "w30d2f9gw1": {
+    "address": "Kampung Lubok Gong, Gual Periok, Kelantan, Malaysia 17500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.03485,
+      "longitude": 101.988753
+    },
+    "name": "MASJID MUKIM LUBUK GONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b29186bb-a70c-444e-9131-cbf499e5ef38",
+    "geohash": "w30d2f9gw1",
+    "source_musolla_id": "MY-03-PM-00119",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Kemudahan lain yang terdapat di masjid ini ialah meja rehat dan wakaf yang digunakan sebagai tempat berehat untuk orang ramai."
+  },
+  "w30d2b7tuz": {
+    "address": "Rantau Panjang, Kelantan, Malaysia 17200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.022908,
+      "longitude": 101.991105
+    },
+    "name": "MASJID MUKIM PINTU CHERANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8fdbaa30-8fc4-4785-8709-83da2b191398",
+    "geohash": "w30d2b7tuz",
+    "source_musolla_id": "MY-03-PM-00121",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30d283p50": {
+    "address": "Rantau Panjang, Kelantan, Malaysia 17200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.023085,
+      "longitude": 101.976605
+    },
+    "name": "MASJID MUKIM KEDAI LAMA RANTAU PANJANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7fabad06-a4cd-42fb-bbec-3849d191826c",
+    "geohash": "w30d283p50",
+    "source_musolla_id": "MY-03-PM-00117",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor sebagai tempat menyimpan barang.Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid ini. parking terbuka juga turut disediakan di masjid ini yang mampu memuatkan lebih daripada 5 buah kenderaan pada satu masa yang sama. Tempat meletakkan kenderaan berbumbung turut disediakan di masjid ini."
+  }
+}

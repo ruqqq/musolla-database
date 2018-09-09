@@ -1,0 +1,33 @@
+{
+  "w2bqrbmszu": {
+    "address": "Dabong, Kelantan, Malaysia 18200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.319594,
+      "longitude": 101.950035
+    },
+    "name": "MASJID MUKIM SETONG A",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4872f709-8e3b-4951-a721-200bd47fa888",
+    "geohash": "w2bqrbmszu",
+    "source_musolla_id": "MY-03-KK-00092",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.Selain itu,terdapat juga meja rehat yang digunakan sebagai tempat berehat"
+  },
+  "w2bqznc2xy": {
+    "address": "Kuala Balah, Kelantan, Malaysia 17700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.442475,
+      "longitude": 101.911232
+    },
+    "name": "MASJID MUKIM GANIR @ BUKIT JERING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8d2f3a12-c6c7-4c42-8cea-71e7beab109d",
+    "geohash": "w2bqznc2xy",
+    "remarks": "Masjid ini telah dibina pada sekitar tahun 80an.Pada masa yang sama masjid ini telah dirasmikan oleh Tengku Razali bin Tengku Hamzah pada tarikh 10 muharram 1408 bersamaan pada 4.9.1987.",
+    "source_musolla_id": "MY-03-JL-00358",
+    "provision": "Masjid ini menyediakan pejabat bagi menguruskan urusan pentadbiran. Selain itu.terdapat bilik mensyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid.Masjid ini turut menyediakan tempat parking berbumbung hanya istimewa untuk AJK masjid sahaja. Di samping itu terdapat juga tempat parking terbuka yang dapat memuatkan 10 buah kenderaan pada satu masa.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakn di masjid ini."
+  }
+}

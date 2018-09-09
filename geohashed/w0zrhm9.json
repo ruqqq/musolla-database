@@ -1,0 +1,18 @@
+{
+  "w0zrhm9sbm": {
+    "address": "Mukim 7, Butterworth, Pulau Pinang, Malaysia 13050",
+    "contact": "04-3519621",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.480276,
+      "longitude": 100.384158
+    },
+    "name": "MASJID DAERAH SEBERANG PERAI UTARA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c2e1239d-c89d-42e5-a84f-0d54b7b48be6",
+    "geohash": "w0zrhm9sbm",
+    "source_musolla_id": "MY-07-BTW-00004",
+    "provision": "KEMUDAHAN WIFI\r\nRUANGAN PARKIR"
+  }
+}

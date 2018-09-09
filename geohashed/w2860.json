@@ -1,0 +1,52 @@
+{
+  "w28602pd5g": {
+    "address": "Kampung Sungai Penchala, Kuala Lumpur, Wilayah Persekutuan, Malaysia 60000",
+    "contact": "03-77337306",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.164427,
+      "longitude": 101.623013
+    },
+    "name": "MASJID AL-HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6d520ddb-9951-4662-9ca0-ae10a78f6ae4",
+    "geohash": "w28602pd5g",
+    "remarks": "Masjid ini dibina diaats tanah yang diwakafkan oleh Allahyarham Tuan Haji Sanusi. Ianya dibina bagi keperluan penduduk di Sungai penchala. Masjid ini telah dirasmikan oleh SPBYDPA Tuanku Mizan Zainal Abidin pada 10/12/2010.",
+    "source_musolla_id": "MY-14-WKL-00050",
+    "provision": "Antara kemudahannya ialah ruang parkir dan solat yang selesa."
+  },
+  "w2860w578f": {
+    "address": "Jalan Taman Bukit Maluri, Taman Bukit Maluri, 52100 Kuala Lumpur, Wilayah Persekutuan, Malaysia 52100",
+    "contact": "03-62773424",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.197635,
+      "longitude": 101.628035
+    },
+    "name": "MASJID AL-IMAM AL-GHAZALI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3749d91e-10b3-4578-9a50-07961598eb97",
+    "geohash": "w2860w578f",
+    "source_musolla_id": "MY-14-WKL-00046",
+    "provision": "Kemudahan-kemudahan yang terdapat di masjid ialah:-\n1. Van jenazah\n2. Dewan seminar\n3. Court Badminton\n4. Gelanggang Futsal."
+  },
+  "w2860kcnse": {
+    "address": "Bandar Sri Damansara, Petaling Jaya, Selangor, Malaysia 52200",
+    "contact": "0362723944",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.19129,
+      "longitude": 101.61412
+    },
+    "name": "MASJID AL - MUKARRAMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2b28a0ce-51e9-4648-9450-9c2627c1957f",
+    "geohash": "w2860kcnse",
+    "remarks": "Pembinaan masjid ini dibiayai sepenuhnya oleh Tan Sri Wan Azmi (pemaju Bandar Sri Damansara). Nama asal masjid ini adalah Al-Muhajirin dan kemudiannya telah ditukar nama pada tahun 2000 kepada MASJID AL - MUKARRAMAH. Pembinaan masjid ini adalah inspirasi daripada masjid Sultan Ahmet, Istanbul. Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 10/11/2000.",
+    "source_musolla_id": "MY-10-PTG-00277",
+    "provision": "Antara kemudahan ialah pusat sumber, pejabat, bilik mesyuarat, bilik imam dan bilal, bilik urus jenazah, kemudahan internet,computer dan skrin projector."
+  }
+}

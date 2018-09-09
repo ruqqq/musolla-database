@@ -1,0 +1,16 @@
+{
+  "w0zq1kntvd": {
+    "address": "Jalan Dato Ismail Hashim, Kampung Masjid, 11900 Bayan Lepas, Pulau Pinang, Malaysia 11900",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.29641,
+      "longitude": 100.259414
+    },
+    "name": "MASJIDAL HIDAYAH  BAYAN LEPAS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "56544d68-34f0-4b4a-9386-169b000635ef",
+    "geohash": "w0zq1kntvd",
+    "source_musolla_id": "MY-07-BD-00042"
+  }
+}

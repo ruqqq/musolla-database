@@ -1,0 +1,18 @@
+{
+  "w2860w578f": {
+    "address": "Jalan Taman Bukit Maluri, Taman Bukit Maluri, 52100 Kuala Lumpur, Wilayah Persekutuan, Malaysia 52100",
+    "contact": "03-62773424",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.197635,
+      "longitude": 101.628035
+    },
+    "name": "MASJID AL-IMAM AL-GHAZALI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3749d91e-10b3-4578-9a50-07961598eb97",
+    "geohash": "w2860w578f",
+    "source_musolla_id": "MY-14-WKL-00046",
+    "provision": "Kemudahan-kemudahan yang terdapat di masjid ialah:-\n1. Van jenazah\n2. Dewan seminar\n3. Court Badminton\n4. Gelanggang Futsal."
+  }
+}

@@ -11,7 +11,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:19.936Z",
     "uuid": "683f61a9-4dbe-4445-a3c2-1006da17c713",
-    "geohash": "w21zscsu68"
+    "geohash": "w21zscsu68",
+    "remarks": "Al-Ansar with its prominent tower minaret is among the first few masjids built under the Phase One of the Mosque Building Fund. Completed in 1981, the masjid located in the East can fill up to 3000 people at any one time. Located in the heart of the densely populated Bedok housing estate, the masjid offers madrasah classes. It is also one of the few masjids, which organizes religious classes in Tamil and one of the only two masjids with a full-time welfare officer.",
+    "mosqueType": "MBMF"
   },
   "w21zspu0ng": {
     "address": "120 Tampines Road, Singapore 535136",
@@ -25,7 +27,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:41.330Z",
     "uuid": "e1d61299-8b36-4697-96c2-887f8a602fae",
-    "geohash": "w21zspu0ng"
+    "geohash": "w21zspu0ng",
+    "remarks": "Built under Phase Two of the Mosque Building Fund, the masjid located at the junction of Tampines Road and Hougang Ave 3, with its box-like structure and tall minaret stands out prominently, next to high-rise residential flats. Built in 1983, it serves the religious needs of residents in surrounding Hougang areas.",
+    "mosqueType": "MBMF"
   },
   "w21zs2yvpj": {
     "address": "30 Jalan Ismail, Singapore 419285",
@@ -39,7 +43,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:20.909Z",
     "uuid": "232e59e9-8522-4c04-8617-4c611f5acbe7",
-    "geohash": "w21zs2yvpj"
+    "geohash": "w21zs2yvpj",
+    "remarks": "Nested amidst the private house of the well-to-do Malays in the East, this old generation masjid was built in 1965. The masjid with a capacity of 300, underwent minor renovations in 1997 to include additional facilities. It has a full-time imam (religious teacher) and noja (masjid helper). Religious classes are held on an ad-hoc basis. There are religious classes for the ladies every Thursday evening. Classes for the men are held every Friday evening.  Currently, major upgrading works are currently being done on the mosque.",
+    "mosqueType": "Wakaf"
   },
   "w21zs8ub2f": {
     "address": "67 Jalan Lapang, Singapore 419007",
@@ -53,7 +59,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:59.093Z",
     "uuid": "ab18c5d8-7c0f-48b3-b315-5994c1fc05ed",
-    "geohash": "w21zs8ub2f"
+    "geohash": "w21zs8ub2f",
+    "remarks": "This masjid was originally completed in 1935.  Located in the Eastern part of the island, it has been rebuilt in 2001 which increased its capacity to 1,000 people.  Built to serve the needs of the neighbourhood along Changi Road, its activities are mainly religious lectures.",
+    "mosqueType": "Wakaf"
   },
   "w21zse7f52": {
     "address": "200 Bedok Reservoir Road, Singapore 479221",
@@ -67,11 +75,13 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:45.802Z",
     "uuid": "388ecd6c-4b30-472e-be29-dfe01d64d72e",
-    "geohash": "w21zse7f52"
+    "geohash": "w21zse7f52",
+    "remarks": "It is one of the few masjids, which offer religious classes for the hearing-impaired and disabled. On Sunday mornings, hundreds of children dressed in their Muslim attire complete with headgear stroll into the mosque compounds to be part of the various religious classes. The masjid, which is located in the East, can fill up to 3,000 worshippers.  Built under the Mosque Building Fund in November 1994, it replaced the older generation mosque of the same name.",
+    "mosqueType": "MBMF"
   },
   "w21zs849zw": {
     "address": "450 Changi Road, Singapore 419877",
-    "contact": "6440 4742",
+    "contact": "6440 9434",
     "createdAt": "2014-12-23T06:50:22.380Z",
     "location": {
       "latitude": 1.318692,
@@ -81,6 +91,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:54.205Z",
     "uuid": "f10ff22f-6d02-44fb-b546-3664c3f770ea",
-    "geohash": "w21zs849zw"
+    "geohash": "w21zs849zw",
+    "remarks": "Combining both modern and Islamic architecture, this spanking new masjid was rebuilt to replace an old one built way back in 1924. Completed in 1999, the four-storey masjid located in the East can accommodate up to 2000 people. It is linked to Wisma Indah, a wakaf complex which houses the masjid’s office, commercial offices. Besides organizing regular religious courses for adults, the masjid also provides Internet facilities for visitors.",
+    "mosqueType": "Wakaf"
   }
 }

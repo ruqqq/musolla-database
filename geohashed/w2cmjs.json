@@ -1,0 +1,16 @@
+{
+  "w2cmjs8bgs": {
+    "address": "Kampung Pulau Kerengga, Pulau Kerengga, Terengganu, Malaysia 21600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.122527,
+      "longitude": 103.250702
+    },
+    "name": "MASJID NAHDATUL ISLAM PULAU KERENGGA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5c7f2823-ebbc-45d2-ba52-bae9386fb2fe",
+    "geohash": "w2cmjs8bgs",
+    "source_musolla_id": "MY-11-MRG-00220"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "w284zcgkbt": {
+    "address": "Kampung Melayu Batu 16, 48000 Rawang, Selangor, Malaysia 48000",
+    "contact": "03 - 60915619",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.306354,
+      "longitude": 101.595063
+    },
+    "name": "MASJID batu 16",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f1bbd1be-9139-445c-88c9-8be8d56f3e37",
+    "geohash": "w284zcgkbt",
+    "remarks": "Sejarah masjid ini bermula  sebelum pada tahun 2004 apabila ia mula-mula dibina dengan kayu dan dikenali dengan surau disebidang tanah yang telah diwakafkan.\r\n\r\nKemudian , ia diubahsuai dengan batu dan siap dibina pada tahun 2004 oleh kerajaan dan orang kampong bagi menggantikan binaan masjid yang dibina daripada kayu tersebut.",
+    "source_musolla_id": "MY-10-GBK-00062",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya . Dewan solat utama masjid dilengkapkan dengan penghawa dingin .\r\n\r\nSelain itu , terdapat juga bilik imam/bilal , bilik stor , pejabat , bilik mesyuarat , dapur , tempat wudhuk lelaki dan wanita ,bilik tetamu,bilik komputer, CCTV system penggera, van jenazah dan juga tempatt mandi jenazah.\r\n\r\nDi bahagian luar masjid terdapat beberapa ruang letak kereta khas untuk pegawai masjid yang berbumbung serta garaj untuk motosikal dan basikal . Ruang letak kereta terbuka pula mampu meletakkan lebih 20 kereta dalam satu-satu masa dalam kawasan masjid sahaja."
+  },
+  "w284z7x493": {
+    "address": "Kampung Kenanga, Rawang, Selangor, Malaysia 48000",
+    "contact": "03-60926062",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.315563,
+      "longitude": 101.578273
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e756a3c8-29af-416a-bf02-211b52c5857b",
+    "geohash": "w284z7x493",
+    "remarks": "Masjid ini telah dibina pada tahun 1969 , setelah 40 tahun,penduduk disini mengharapkan masjid baru. Kos pembinaan masjid ini menelan belanja RM 70juta.  Ianya telah dirasmikan pada 5 Mac 1971.",
+    "source_musolla_id": "MY-10-GBK-00057",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, tempat pengurusan jenazah,"
+  },
+  "w284z7wgt3": {
+    "address": "Kampung Kenanga, Rawang, Selangor, Malaysia 48000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.315734,
+      "longitude": 101.578103
+    },
+    "name": "MASJID KAMPUNG GOMBAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3455328f-6c4e-4cf3-a077-c014e059c0a3",
+    "geohash": "w284z7wgt3",
+    "remarks": "Pada asalnya, ia adalah sebuah surau dan diubahsuai menjadi masjid yang mana pembinaannya telah siap pada tahun 1952.",
+    "source_musolla_id": "MY-10-GBK-00068",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan pejabat"
+  }
+}

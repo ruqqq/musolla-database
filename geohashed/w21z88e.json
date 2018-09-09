@@ -1,6 +1,6 @@
 {
   "w21z88eu48": {
-    "address": "492 Teban Gardens Road, Singapore 608878",
+    "address": "492 Teban Gardens, Singapore 608878",
     "contact": "6561 7990",
     "createdAt": "2014-12-23T06:50:22.536Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:14.214Z",
     "uuid": "08a38300-4e71-4a65-9983-d15ab4d70321",
-    "geohash": "w21z88eu48"
+    "geohash": "w21z88eu48",
+    "remarks": "First built in 1971, this masjid was redeveloped in 1993 into a four-storey building complete with elevator. Its two levels of prayer hall can accommodate up to 2500 worshippers. Located in the West, it has Internet Corner, which for a nominal annual subscription of $5, members can surf the net for $2 an hour. A newly set up Youth Wing organizes recreational activities such as camping and soccer games for the young. Muslims can benefit from its imam and muezzin courses organized on an ad-hoc basis.",
+    "mosqueType": "Leasehold"
   }
 }

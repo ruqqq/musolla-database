@@ -1,0 +1,47 @@
+{
+  "w2bw98hc4q": {
+    "address": "Dabong, Kelantan, Malaysia 18200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.361533,
+      "longitude": 102.025663
+    },
+    "name": "MASJID MUKIM ULU TEMIANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ddb2ee24-197b-4ffb-b551-f9a0f4cd8c77",
+    "geohash": "w2bw98hc4q",
+    "source_musolla_id": "MY-03-KK-00081",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga `beduk`di masjid ini."
+  },
+  "w2bw99m5uu": {
+    "address": "Dabong, Kelantan, Malaysia 18200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.368861,
+      "longitude": 102.026124
+    },
+    "name": "MASJID MUKIM CHUCHUH PUTERI B",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "80f10ecd-b0c7-43ec-97a8-bd2868a5de5d",
+    "geohash": "w2bw99m5uu",
+    "source_musolla_id": "MY-03-KK-00090",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa."
+  },
+  "w2bw968skh": {
+    "address": "Pekan Dabong, Dabong, Kelantan, Malaysia 18200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.375814,
+      "longitude": 102.008915
+    },
+    "name": "MASJID MUKIM DABONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8671c72e-31dc-489c-9cb4-c4537d3e0b4e",
+    "geohash": "w2bw968skh",
+    "source_musolla_id": "MY-03-KK-00492",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa"
+  }
+}

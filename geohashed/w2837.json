@@ -1,0 +1,52 @@
+{
+  "w2837jwrkg": {
+    "address": "Taman Alam Damai, Cheras (Kuala Lumpur), Wilayah Persekutuan, Malaysia 56000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.063703,
+      "longitude": 101.742193
+    },
+    "name": "MASJID AL-MUKHLISIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3aa3ea7b-896a-4bad-9645-9abbaeadafc2",
+    "geohash": "w2837jwrkg",
+    "remarks": "Masjid Al-Mukhlisin telah dirasmikan pada 27 Ogos 2010 oleh Yang di-Pertuan Agong, Tuanku Sultan Mizan Zainal Abidin. Turut hadir ialah Menteri di Jabatan Perdana Menteri, Datuk Seri Jamil Khir Baharom.",
+    "source_musolla_id": "MY-14-WKL-00058",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah dan  ruangan solat yang luas, rumah pegawai dan pondok keselamatan."
+  },
+  "w2837y6m69": {
+    "address": "Cheras, Selangor, Malaysia 43200",
+    "contact": "019-2457296",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.067466,
+      "longitude": 101.769565
+    },
+    "name": "MASJID UBUDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1fb505fe-2da7-4dec-a521-60ce3e135ab4",
+    "geohash": "w2837y6m69",
+    "remarks": "Masjid ini dibina pada tahun 60an dan dirasmikan oleh DYTM Tengku Idris Shah, Pemangku Raja Selangor pada tanggal 27/12/1974.",
+    "source_musolla_id": "MY-10-HL-00018",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir, bilik perpustakaan dan dewan pelbagai guna."
+  },
+  "w28376c15u": {
+    "address": "Cheras, Selangor, Malaysia 43200",
+    "contact": "012-2917885",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.047526,
+      "longitude": 101.745924
+    },
+    "name": "MASJID AL - IKHWANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f9029d93-b428-4758-8eef-53e761810398",
+    "geohash": "w28376c15u",
+    "remarks": "Sejarah masjid ini ringkas sahaja kerana ia baru sahaja dibina atas keperluan setempat pada tahun 2004.",
+    "source_musolla_id": "MY-10-HL-00034",
+    "provision": "Antara kemudahan yang disediakan seperti tandas yang bersih,tempat mengambil wuduk serta bilik mandi yang luas.\n\nMasjid ini juga mempunyai sebuah van jenazah dan bilik pengurusan jenazah dan memiliki ruang solat yang selesa"
+  }
+}

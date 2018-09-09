@@ -1,0 +1,16 @@
+{
+  "w0zrm5zwz3": {
+    "address": "Mukim 6, Seberang Perai Utara, Pulau Pinang, Malaysia 13300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.514928,
+      "longitude": 100.42566
+    },
+    "name": "MASJID KEPALA BATAS ( JAMIUL-BADAWI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1cf67736-4593-4262-9cb8-f6e276faa5be",
+    "geohash": "w0zrm5zwz3",
+    "source_musolla_id": "MY-07-KB-00100"
+  }
+}

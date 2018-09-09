@@ -1,0 +1,32 @@
+{
+  "w308y962v7": {
+    "address": "Hulu Sat, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.763848,
+      "longitude": 102.242095
+    },
+    "name": "MASJID MUKIM BUKIT TIU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8330ff90-1053-49be-96e1-69fba470b9e1",
+    "geohash": "w308y962v7",
+    "source_musolla_id": "MY-03-MCG-00168",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Selain itu,terdapat juga meja rehat yang digunakan sebagai tempat berehat"
+  },
+  "w308y469ng": {
+    "address": "Hulu Sat, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.769388,
+      "longitude": 102.22052
+    },
+    "name": "MASJID MUKIM KAMPUNG KOLAM ABU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1311e7a5-323b-4d3b-8991-63359d843e41",
+    "geohash": "w308y469ng",
+    "source_musolla_id": "MY-03-MCG-00756",
+    "provision": "Tandas, tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka di bahagian luar masjid yang dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa."
+  }
+}

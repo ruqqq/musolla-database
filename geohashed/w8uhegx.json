@@ -1,0 +1,17 @@
+{
+  "w8uhegxcd1": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.029257,
+      "longitude": 118.300534
+    },
+    "name": "MASJID NURUL ITTIHAD",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "89e20146-8764-4f9d-a9f5-3d2318bcac35",
+    "geohash": "w8uhegxcd1",
+    "source_musolla_id": "MY-12-LD-00315",
+    "provision": "1. Terdapat kelas al-Quran dan Kuliah setiap Subuh, Manghrib."
+  }
+}

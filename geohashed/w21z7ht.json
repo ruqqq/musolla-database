@@ -1,6 +1,6 @@
 {
   "w21z7ht9vs": {
-    "address": "51 Bencoolen Street, #01-01, Singapore 189630",
+    "address": "59 Bencoolen Street, #01-01, Singapore 189633",
     "contact": "6333 3016",
     "createdAt": "2014-12-23T06:50:21.863Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:53:54.113Z",
     "uuid": "a7566046-15b1-4153-9507-0214264bd6a1",
-    "geohash": "w21z7ht9vs"
+    "geohash": "w21z7ht9vs",
+    "remarks": "This masjid was originally built in 1845. In 2001, the mosque's site was redeveloped as part of a mixed development comprising of a commercial block and a 12-storey residential complex. The redeveloped masjid, which is part of the complex, was opened to the public in May 2004. It can accommodate about 1,100 worshippers.",
+    "mosqueType": "Wakaf"
   }
 }

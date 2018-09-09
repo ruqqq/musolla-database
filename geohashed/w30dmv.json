@@ -1,0 +1,47 @@
+{
+  "w30dmvmmgq": {
+    "address": "Pendek, Kelantan, Malaysia 16010",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.050371,
+      "longitude": 102.21316
+    },
+    "name": "MASJID MUKIM PADANG TENGAH SALOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e3c33123-472f-4599-96e4-9763daf1ff4b",
+    "geohash": "w30dmvmmgq",
+    "source_musolla_id": "MY-03-KB-00359",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Masjid ini mempunyai bilik imam/bilal,pejabat,dewan dan juga van jenazah."
+  },
+  "w30dmvx14x": {
+    "address": "Pendek, Kelantan, Malaysia 16010",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.050931,
+      "longitude": 102.215531
+    },
+    "name": "MASJID MUKIM SALOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "84237785-ddf5-489b-a39e-0e27de68ec86",
+    "geohash": "w30dmvx14x",
+    "source_musolla_id": "MY-03-KB-00355",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Terdapat juga kemudahan bilik imam dan dapur di masjid ini."
+  },
+  "w30dmvrgs9": {
+    "address": "Pendek, Kelantan, Malaysia 16010",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.049955,
+      "longitude": 102.216655
+    },
+    "name": "MASJID MUKIM PENDEK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ecaa3294-23c8-4a46-bb48-f5ad81415cd7",
+    "geohash": "w30dmvrgs9",
+    "source_musolla_id": "MY-03-KB-00324",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10  buah kenderaan dalam satu masa.Terdapat juga kemudahan bilik imam dan memandikan jenazah di masjid ini."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w0zes62xhm": {
+    "address": "Taiping, Perak, Malaysia 34000",
+    "contact": "0194273596",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.847573,
+      "longitude": 100.734519
+    },
+    "name": "MASJID INDIA JALAN KOTA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5edba2e2-285a-42e0-8c90-fcbc9ee8f09d",
+    "geohash": "w0zes62xhm",
+    "source_musolla_id": "MY-08-TPG-00012"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "w28my8qu5q": {
+    "address": "Kampung Pintu Padang, Gali, Pahang, Malaysia 27600",
+    "contact": "09-3689964",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.825339,
+      "longitude": 101.896623
+    },
+    "name": "MASJID AL-HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8cd36a84-6dbf-4a23-8c8f-0e47ad1cf61d",
+    "geohash": "w28my8qu5q",
+    "source_musolla_id": "MY-06-RB-00404",
+    "provision": "MASJID TERLETAK KIRA-KIRA 4 KM DARI BANDAR RAUB ."
+  }
+}

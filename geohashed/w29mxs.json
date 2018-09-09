@@ -1,0 +1,16 @@
+{
+  "w29mxsd38d": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.804288,
+      "longitude": 103.340524
+    },
+    "name": "MASJID TANJUNG LUMPUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "13bcb7d0-7b82-4448-8688-24fee2815dd4",
+    "geohash": "w29mxsd38d",
+    "source_musolla_id": "MY-06-KTN-00083"
+  }
+}

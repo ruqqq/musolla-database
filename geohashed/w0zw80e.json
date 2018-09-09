@@ -1,0 +1,16 @@
+{
+  "w0zw80evxq": {
+    "address": "Kulim, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.365053,
+      "longitude": 100.552339
+    },
+    "name": "AL-JAMIUL MAKMUR pekan kulim",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "33986b23-8b81-4404-9bcb-77c2a4651f89",
+    "geohash": "w0zw80evxq",
+    "source_musolla_id": "MY-02-KLM-00351"
+  }
+}

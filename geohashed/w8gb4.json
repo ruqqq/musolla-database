@@ -1,0 +1,30 @@
+{
+  "w8gb4u80jq": {
+    "address": "Tawau, Sabah, Malaysia 91000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.243504,
+      "longitude": 117.894521
+    },
+    "name": "MASJID AL-KAUTHAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0fd6dfa9-cc6d-4383-a995-9d0b78b053ae",
+    "geohash": "w8gb4u80jq",
+    "source_musolla_id": "MY-12-TAW-00474"
+  },
+  "w8gb4ru6qw": {
+    "address": "Tawau, Sabah, Malaysia 91000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.261744,
+      "longitude": 117.87844
+    },
+    "name": "MASJID AL-AMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d2203740-ff2e-4f56-9376-affd8d445dda",
+    "geohash": "w8gb4ru6qw",
+    "source_musolla_id": "MY-12-TAW-00752"
+  }
+}

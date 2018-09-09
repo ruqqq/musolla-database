@@ -1,0 +1,16 @@
+{
+  "w2cmu46swq": {
+    "address": "Rusila, Terengganu, Malaysia 21600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.242659,
+      "longitude": 103.187301
+    },
+    "name": "MASJID KAMPUNG RUSILA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7627230f-1d2a-4810-8631-131d3af2880b",
+    "geohash": "w2cmu46swq",
+    "source_musolla_id": "MY-11-MRG-00225"
+  }
+}

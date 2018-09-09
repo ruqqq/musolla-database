@@ -1,0 +1,16 @@
+{
+  "w308mzg2bf": {
+    "address": "Batu 30, Panyit, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.711658,
+      "longitude": 102.210311
+    },
+    "name": "MASJID MUKIM BATU 30 PANYIT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "271c8075-238f-42e7-a062-2bfb7ca9b3d9",
+    "geohash": "w308mzg2bf",
+    "source_musolla_id": "MY-03-MCG-00182"
+  }
+}

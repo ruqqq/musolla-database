@@ -1,0 +1,16 @@
+{
+  "w0zrjy3zcj": {
+    "address": "Mukim 11, Seberang Perai Utara, Pulau Pinang, Malaysia 13800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.484912,
+      "longitude": 100.450454
+    },
+    "name": "MASJID KAMPONG BANGGOL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7fb3231d-0c44-463b-a63d-bb81419511e8",
+    "geohash": "w0zrjy3zcj",
+    "source_musolla_id": "MY-07-KB-00095"
+  }
+}

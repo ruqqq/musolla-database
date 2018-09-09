@@ -1,0 +1,18 @@
+{
+  "w0zbr8neyy": {
+    "address": "Chenderiang, Perak, Malaysia 35350",
+    "contact": "0195036338",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.263372,
+      "longitude": 101.237252
+    },
+    "name": "MASJID JAMEK AR RAHMANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2c3cd5eb-4a46-49da-855a-57965aecf58a",
+    "geohash": "w0zbr8neyy",
+    "source_musolla_id": "MY-08-TPH-00410",
+    "provision": "1. BALAI LINTANG\n2. TANDAS\n3. TEMPAT WUDUK\n4. STOR\n5. TEMPAT MASAK\n6. TEMPAT LETAK KENDERAAN"
+  }
+}

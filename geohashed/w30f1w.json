@@ -1,0 +1,32 @@
+{
+  "w30f1whhgv": {
+    "address": "Gunong, Kelantan, Malaysia 16390",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.010366,
+      "longitude": 102.37627
+    },
+    "name": "MASJID MUKIM JELAWAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "63159996-aadc-4735-98c8-5f990b10a5a1",
+    "geohash": "w30f1whhgv",
+    "source_musolla_id": "MY-03-BCK-00504",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan motor yang boleh memuatkan 8 buah kereta. Terdapat kolah di kawasan masjid untuk mengambil wuduk masjid mempunyai van jenazah untuk kemudahan menguruskan jenazah."
+  },
+  "w30f1w260k": {
+    "address": "Gunong, Kelantan, Malaysia 16390",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.011262,
+      "longitude": 102.37097
+    },
+    "name": "MASJID MUKIM TERATAK PULAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cd2ba9bc-7f3a-4cf6-a60b-9b29aef255a9",
+    "geohash": "w30f1w260k",
+    "source_musolla_id": "MY-03-BCK-00471",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat wuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parkir yang berbumbung untuk meletakkan motor yang. Terdapat kolah di kawasan masjid untuk mengambil wuduk masjid.Masjid juga memiliki tempat memandikan mayat dan mempunyai keranda. Masjid dilengkapi dengan penghawa dingin dalam ruang solat."
+  }
+}

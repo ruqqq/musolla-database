@@ -1,0 +1,19 @@
+{
+  "w22rcew92u": {
+    "address": "KLIA, Kuala Lumpur International Airport, Selangor, Malaysia 64000",
+    "contact": "03-87769160",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.788017,
+      "longitude": 101.676446
+    },
+    "name": "MASJID SULTAN ABDUL SAMAD KLIA (INSTITUSI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "476b6c5d-fb52-4ea8-b7c3-32c8d66c4ef8",
+    "geohash": "w22rcew92u",
+    "remarks": "Masjid Sultan Abdul Samad didirikan sempena pembinaan Lapangan Terbang Antarabangsa Kuala Lumpur. Ia menjadi salah satu mercu tanda negara ini dari pintu masuk laluan udara yang dapat dilihat oleh pelancong-pelancong yang masuk ke negara ini melalui Lapangan Terbang Antarabangsa Kuala Lumpur.",
+    "source_musolla_id": "MY-10-SPG-00135",
+    "provision": "Mempunyai pejabat, bilik mesyuarat, stor dan lain- lain."
+  }
+}

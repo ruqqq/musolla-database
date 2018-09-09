@@ -1,0 +1,17 @@
+{
+  "w234qrbfr3": {
+    "address": "Kampung Sateh, 83000 Batu Pahat, Johor, Malaysia 83000",
+    "createdAt": "2018-09-08T11:17:38+08:00",
+    "location": {
+      "latitude": 1.844726,
+      "longitude": 102.932254
+    },
+    "name": "MASJID DATO' BENTARA LUAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-08T11:17:38+08:00",
+    "uuid": "c08ac9ad-521c-4b85-b032-f2e95a4189b7",
+    "geohash": "w234qrbfr3",
+    "remarks": "Masjid yang telah didirikan pada tahun 1930-an ini terletak di Jalan Masjid, Batu Pahat, iaitu berhadapan Stadium Batu Pahat. Masjid ini pernah dijadikan Masjid Daerah yang utama sebelum pembinaan masjid baru. Bangunan masjid ini masih kukuh dan digunakan sehingga kini.",
+    "source_musolla_id": "MY-01-BP-00021"
+  }
+}

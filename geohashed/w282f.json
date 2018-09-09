@@ -1,0 +1,36 @@
+{
+  "w282fvp1y1": {
+    "address": "Universiti Tenaga Nasional (UNITEN), Dengkil, Selangor, Malaysia 43009",
+    "contact": "03-89212020",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.972109,
+      "longitude": 101.732283
+    },
+    "name": "MASJID UNITEN (MASJID INSTITUSI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d2453793-4e66-4c35-bd92-5e734a8997bd",
+    "geohash": "w282fvp1y1",
+    "remarks": "Sejajar dengan pembangunan infrastruktur IKATAN yang kemudian dinaik taraf kepada sebuah universiti dalam tahun 1997.Tenaga Nasional Berhad telah memasukkan pembinaan sebuah masjid bersam -sama dengan pembinaan bangunan-bangunan lain projek pembangunan infrastruktur fasa du Universiti Tenaga Nasional. Kos pembinaan sebanyak RM13.5 juta ringgit",
+    "source_musolla_id": "MY-10-SPG-00136",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas, alat penghawa dingin, kolam ikan dalam bangunan masjid, dewan besar yang boleh digunakan untuk majlis perkahwinan dan majlis-majlis lain dan  ruangan solat yang luas.,"
+  },
+  "w282ffjwc2": {
+    "address": "Dengkil, Selangor, Malaysia 43800",
+    "contact": "0193621355",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.956483,
+      "longitude": 101.730026
+    },
+    "name": "MASJID  AL - MUSTAQIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5cb14fe4-0e9b-4d0c-bb5f-3ccf268da891",
+    "geohash": "w282ffjwc2",
+    "remarks": "Berasal dari sebuah kampung teroka seawal tahun 1920 yang bernama Kampung Air Hitam dengan penduduk yaang tidak berapa ramai, penduduk menunaikan kewajipan solat di sebuah surau yang dibina di atas taanah persendirian di tengah - tengah kampung. Sehingga kini dalam menghadapi pertambahan penduduk, masjid telah diubahsuai dan dinaik taraf dan kini masjid tersebut dikenali sebagai Masjid Al-Mustaqim.",
+    "source_musolla_id": "MY-10-SPG-00131",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan bilik imam."
+  }
+}

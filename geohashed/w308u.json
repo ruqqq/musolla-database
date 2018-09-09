@@ -1,0 +1,77 @@
+{
+  "w308ugxqw2": {
+    "address": "D215, Kampung Wakaf Bata, 18500 Pangkal Meleret, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.777178,
+      "longitude": 102.172098
+    },
+    "name": "MASJID MUKIM KAABAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "63833a94-a0d6-462b-be14-a280a0b6a5ff",
+    "geohash": "w308ugxqw2",
+    "source_musolla_id": "MY-03-MCG-00187",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w308u87kg9": {
+    "address": "Pangkal Meleret, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.759034,
+      "longitude": 102.155498
+    },
+    "name": "MASJID MUKIM PALOH RAWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3244bbdf-3703-4fc1-aead-c65992d85a2e",
+    "geohash": "w308u87kg9",
+    "source_musolla_id": "MY-03-MCG-00196",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas, tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w308ugfnwb": {
+    "address": "Pangkal Meleret, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.778555,
+      "longitude": 102.16491
+    },
+    "name": "MASJID MUKIM WAKAF BATA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4bdbd793-65bf-4daa-83ff-e237634bd4b8",
+    "geohash": "w308ugfnwb",
+    "source_musolla_id": "MY-03-MCG-00186",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w308us5hq1": {
+    "address": "Pangkal Meleret, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.779545,
+      "longitude": 102.155262
+    },
+    "name": "MASJID MUKIM KELAWEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "60ed4ce3-c4f1-4efd-a7fb-c52a6790d9f3",
+    "geohash": "w308us5hq1",
+    "source_musolla_id": "MY-03-MCG-00191",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa."
+  },
+  "w308utb5dq": {
+    "address": "Kusial, Kelantan, Malaysia 17500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.789057,
+      "longitude": 102.150985
+    },
+    "name": "MASJID MUKIM TEPI SUNGAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a723518-eb8a-4fa5-8f05-725ee89c8d04",
+    "geohash": "w308utb5dq",
+    "source_musolla_id": "MY-03-TM-00296",
+    "provision": "Masjid ini menyediakan pejabat bagi memudahkan urusan pengurusan masjid.Di samping itu,terdapat juga stor untuk minyimpan barang.Terdapat juga ruang solat tambahan untuk menampung kapasiti para jemaah yang ramai pada suatu masa.Selain itu,terdapat tandas,wakaf,tempat wuduk lelaki dan perempuan bagi kemudahan para jemaah. Terdapat juga tempat parking berbumbung untuk kelesaan para jemaah tatkala waktu hujan."
+  }
+}

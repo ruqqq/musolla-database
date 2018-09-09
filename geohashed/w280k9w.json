@@ -1,0 +1,17 @@
+{
+  "w280k9wguj": {
+    "address": "42700 Bandar, Selangor, Malaysia 42700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.865359,
+      "longitude": 101.457198
+    },
+    "name": "MASJID AL ISLAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5fa51c4b-5433-46e4-af91-77b4534b4b49",
+    "geohash": "w280k9wguj",
+    "source_musolla_id": "MY-10-KL-00112",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  landskap dan  ruangan solat yang luas.,"
+  }
+}

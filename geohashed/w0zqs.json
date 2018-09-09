@@ -1,0 +1,30 @@
+{
+  "w0zqsu8h4e": {
+    "address": "Taman Tenggiri, Seberang Jaya, Pulau Pinang, Malaysia 13700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.386752,
+      "longitude": 100.404164
+    },
+    "name": "MASJID SEBERANG JAYA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3ca0a9d6-6527-4b9e-af18-8e0fb8ad49cd",
+    "geohash": "w0zqsu8h4e",
+    "source_musolla_id": "MY-07-SPT-00191"
+  },
+  "w0zqsxkh1e": {
+    "address": "Taman Tenggiri, 13700 Seberang Jaya, Pulau Pinang, Malaysia 13700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.40186,
+      "longitude": 100.398631
+    },
+    "name": "MASJID KAWASAN SEMBILANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7b9e1b6f-ce5b-4acf-8971-42b78b47cb6e",
+    "geohash": "w0zqsxkh1e",
+    "source_musolla_id": "MY-07-SPT-00200"
+  }
+}

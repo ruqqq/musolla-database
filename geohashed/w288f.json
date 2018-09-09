@@ -1,0 +1,36 @@
+{
+  "w288f0778v": {
+    "address": "N132, 71600 Ulu Triang, Negeri Sembilan, Malaysia 71600",
+    "contact": "017-7181160",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.946341,
+      "longitude": 102.045515
+    },
+    "name": "MASJID KARIAH KAMPUNG TERIANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "03760690-66fc-4217-b79a-6150b2f0dde1",
+    "geohash": "w288f0778v",
+    "remarks": "dibina oleh beberapa orang kampung secara bergotong-royong. Merupakan bangunan kayu 6 batang tiang, berdinding papan dan beratap rumbia.",
+    "source_musolla_id": "MY-05-JLB-00193",
+    "provision": "bilik air,ruang solat,tempat wuduk,bilik mesyuarat,perpustakaan,"
+  },
+  "w288fprbes": {
+    "address": "Titi, Negeri Sembilan, Malaysia 71650",
+    "contact": "012-6894259",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.98427,
+      "longitude": 102.051816
+    },
+    "name": "MASJID KARIAH KAMPUNG SEPERI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "315cb7cb-d356-43f3-8f76-cdaee1bb04f8",
+    "geohash": "w288fprbes",
+    "remarks": "Telah dibina pada tahun1980.Pengasasnya adalah Allahyarham encik Mohd Sharif bin pandak serta ahli kariah.bangunan Masjid sedia ada sekarang dibina pada tahun 1986 dan telah dibaiki serta dinaiktaraf pada tahun 2008 ,2009.",
+    "source_musolla_id": "MY-05-JLB-00196",
+    "provision": "ruang solat,bilik air,bilik imam,stor,"
+  }
+}

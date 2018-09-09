@@ -1,0 +1,19 @@
+{
+  "w281q0g34n": {
+    "address": "Seksyen 24, Shah Alam, Selangor, Malaysia 40300",
+    "contact": "0129135438",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.036552,
+      "longitude": 101.518231
+    },
+    "name": "MASJID AL - EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "25b8a206-8875-4ae1-8885-27acdfff68b6",
+    "geohash": "w281q0g34n",
+    "remarks": "Pagar masjid ini dilakukan secara gotong-royong oleh penduduk setempat dari sumbangan wang dari orang ramai. Pembinaan masjid ini mengambil masa hampir 3 tahun untuk siap sepenuhnya.",
+    "source_musolla_id": "MY-10-PTG-00247",
+    "provision": "Masjid ini berhawa dingin dan ruang serambi yang juga dijadikan tempat mengaji Al-Quran setiap hujung minggu."
+  }
+}

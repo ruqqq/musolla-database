@@ -1,0 +1,18 @@
+{
+  "w0xwv369je": {
+    "address": "Lekir, Perak, Malaysia 32020",
+    "contact": "05 6480540",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.006083,
+      "longitude": 100.781266
+    },
+    "name": "MASJID AL - AZIZIAH BATU 20",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7cca7d82-33a0-40fe-bbde-bc632cd0514c",
+    "geohash": "w0xwv369je",
+    "source_musolla_id": "MY-08-HP-00201",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-rumah musafir\r\n-pondok rehat"
+  }
+}

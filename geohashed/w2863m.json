@@ -1,0 +1,17 @@
+{
+  "w2863mejb6": {
+    "address": "Taman Wilayah Selayang, 68100 Kuala Lumpur, Wilayah Persekutuan, Malaysia 68100",
+    "contact": "03-61370018",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.239218,
+      "longitude": 101.660632
+    },
+    "name": "MASJID AL-ZAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6840200f-1884-4429-aa11-8d2e5703815e",
+    "geohash": "w2863mejb6",
+    "source_musolla_id": "MY-14-WKL-00045"
+  }
+}

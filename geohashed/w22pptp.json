@@ -1,0 +1,16 @@
+{
+  "w22pptpm7k": {
+    "address": "Tanjong Sepat, Selangor, Malaysia 42800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.665111,
+      "longitude": 101.589689
+    },
+    "name": "MASJID AL-EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "093a7095-8c41-481c-bf08-96e8b428aa59",
+    "geohash": "w22pptpm7k",
+    "source_musolla_id": "MY-10-KL-00356"
+  }
+}

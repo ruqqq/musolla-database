@@ -18,5 +18,21 @@
     "uuid": "654fdd90-ee59-484d-b251-1d4258af7012",
     "type": "Musolla",
     "geohash": "w21xxvgn0n"
+  },
+  "w21xxveb5e": {
+    "address": "20 Jurong West Street 26, Singapore 648125",
+    "contact": "6515 5033",
+    "createdAt": "2018-09-07T19:09:28+08:00",
+    "location": {
+      "latitude": 1.34859,
+      "longitude": 103.70526
+    },
+    "name": "Maarof Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:28+08:00",
+    "uuid": "fc7a8932-4707-43fe-9a8e-6b0b59261e6a",
+    "geohash": "w21xxveb5e",
+    "remarks": "Maarof Mosque is Singapore’s 25th satellite mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). At full capacity, Masjid Maarof can accommodate approximately 4,500 worshippers.",
+    "mosqueType": "MBMF"
   }
 }

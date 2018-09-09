@@ -1,0 +1,66 @@
+{
+  "w22qm0ws50": {
+    "address": "Si Rusa, Negeri Sembilan, Malaysia 71050",
+    "contact": "014-2355054",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.508321,
+      "longitude": 101.830349
+    },
+    "name": "MASJID KARIAH BAGAN PINANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6f3ce4ce-829d-41ce-aac6-9873333c5a19",
+    "geohash": "w22qm0ws50",
+    "remarks": "Telah diasaskan oleh Ahli Jawatankuasa Masjid tersebut pada tahun 1986M. Pada masa pembinaan Masjid tersebut ahli jemaah pada masa itu seramai 200 orang sahaja. Masjid ini telah dibaiki dan dibesarkan pada tahun 1993 dan 1995M dan 2008M. Tapak Masjid ini telah diwakafkan oleh kerajaan. Sebelum ini, ahli kariah tersebut bersembahyang di tapak Masjid lama yang diwakafkan oleh Al-Marhum Dato' Penghulu Mohd Ali. Sekarang masjid ini boleh menampung seramai 2000 orang. Masjid ini pernah menjadi johan dalam Anugerah Masjid Contoh Peringkat daerah  dan Negeri bagi tahun 2007M.",
+    "source_musolla_id": "MY-05-PD-00068"
+  },
+  "w22qjb1c47": {
+    "address": "Si Rusa, Negeri Sembilan, Malaysia 71050",
+    "contact": "012-3975367",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.461126,
+      "longitude": 101.856758
+    },
+    "name": "MASJID KARIAH TELOK KEMANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0e03f68e-5861-430a-9c70-685dba539287",
+    "geohash": "w22qjb1c47",
+    "remarks": "Masjid Qaryah Telok Kemang telah dibina pada tahun 1994M dan diasaskan oleh Allahyarham YB Encik Mustafa bin Manaf. Tapak masjid ini telah dikurniakan oleh kerajaan negeri.\n\nMasjid ini boleh menampung ahli jemaah seramai 1000 orang pada masa kini.\n\nMasjid ini pernah dibaiki dan dinaiktaraf pada tahun 2004m dan 2009M.\n\nMasjid ini menguruskan dan mengawal selia sebuah kawasan tanah perkuburan dan enam buah surau.\n\nMasjid ini juga pernah memenangi tempat ketiga Anugerah Masjid Contoh Peringkat Daerah\n\nPengasas penubuhan Masjid kariah ini adalah En. Mustafa b. Manaf. Tapak masjid ini telah diwakafkan oleh kerajaan. Sebelum ini, ahli kariah bersembahyang di Masjid Lama Telok Kemang yang dibina pada tahun 1948.",
+    "source_musolla_id": "MY-05-PD-00071"
+  },
+  "w22qkeuu0g": {
+    "address": "Port Dickson, Negeri Sembilan, Malaysia 71000",
+    "contact": "066470341",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.52619,
+      "longitude": 101.805881
+    },
+    "name": "MASJID JAMEK DATO' HAJI ABDULLAH SIJANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "90c5332b-42f4-4dd6-9f7a-9a0364b8663b",
+    "geohash": "w22qkeuu0g",
+    "remarks": "Masjid ini telah dibina pada tahun 1973M setelah mendapat pandangan daripada Khadi Daerah Port Dickson , Allahyarham Tuan Haji Abdullah Bin Sijang    sebagai pengasasnya dan disokong oleh Pegawai Daerah Port Dickson. Tapak Masjid telah dikurniakan oleh Kerajaan Negeri dengan keluasan lebih kurang 3.5 ekar. Masjid   ini pernah dibaiki dan dinaik taraf pada tahun 1994M dan 2008M.\n\n         Pada awal pembinaan masjid ini, ahli jemaah adalah seramai 500 orang dan kini telahmencapai jumlah 1800 orang. Masjid ini mengurus dan mengawal selia 2 buah kawasan tanah perkuburan dan 7 buah surau. Satu daripada tanah perkuburan tersebut diurus tadbir bersama Masjid Kariah Kg Paya.",
+    "source_musolla_id": "MY-05-PD-00005"
+  },
+  "w22qgdpkdr": {
+    "address": "Jimah, Negeri Sembilan, Malaysia 71960",
+    "contact": "013-3204438",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.604572,
+      "longitude": 101.765432
+    },
+    "name": "MASJID KARIAH KAMPUNG CHUAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b4952958-0678-491a-a1c3-f7aea3416c50",
+    "geohash": "w22qgdpkdr",
+    "remarks": "Penubuhan Masjid ini adalah daripada inisiatif daripada ahli jawatankuasa masjid bersama ahli kariah Masjid. Pada masa pembinaan Masjid ini dapat menampung jemaah seramai 100 orang.",
+    "source_musolla_id": "MY-05-PD-00066"
+  }
+}

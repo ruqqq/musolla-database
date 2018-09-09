@@ -1,0 +1,18 @@
+{
+  "w281psy9xt": {
+    "address": "Kampung Tengah, Subang Jaya, Selangor, Malaysia 47100",
+    "contact": "0163860323",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.014663,
+      "longitude": 101.588848
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c321946d-28f5-416f-94f8-fa0387b81c8e",
+    "geohash": "w281psy9xt",
+    "source_musolla_id": "MY-10-PTG-00298",
+    "provision": "Antara kemudahan yang terdapat disini ialah ruang parkir dan ruang solat yang selesa."
+  }
+}

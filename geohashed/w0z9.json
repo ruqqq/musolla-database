@@ -1,0 +1,130 @@
+{
+  "w0z96p9u4v": {
+    "address": "Pengkalan Baharu, Perak, Malaysia 34900",
+    "contact": "012-4846659",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.480393,
+      "longitude": 100.637288
+    },
+    "name": "MASJID AN-NAWAWI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "175056d8-01cd-4cbe-a741-2829fcd931f7",
+    "geohash": "w0z96p9u4v",
+    "remarks": "masjid an nawawi terletak di kg pengkalan baru pantai remis. masjid ini mula dibina pada sekitar awal 1920 an.maklumat asas tidak diperlohi hanya melalui sumber yang boleh dipercayai.tapak asal masjid ini adalah bersebelahan tanah perkuburan islam kg pengkalan baru. masjid in dibina secara gotong royong oleh penduduk kampung.\r\n\r\npada tahun 1939 masjid an nawawi telah berpindah ke kawasan sekarang, pembinaan dibuat secara berperingkatt oleh penduduk kampung menggunakan binaan kayu yang diambil dikawasan sekitar. balai lintang dan ruang masak juga dibuat seiring dengan pembinaan masjid.\r\n\r\ncetusan untuk membina masjid baru bermula sejak tahun 1985, atas sebab pertambahan penduduk ruang solat tidak mencukupi untuk menampung jemaah semasa solat jumaat dan solat sunat hari raya.mulai tahun 1990 atas inisiatif adun pengkalan baru telah melantik ajk bagi pembinaan masjid baru.\r\n\r\nmasjid baru mula dibina pada tahun 1999 dengan dibiayai oleh kerajaan dan derma dari orang ramai. masjid siap dan digunakan pada 1 nov 2002. nama masjid an nawawi ini diambil sempena nama hj nawawi b hj tahir tokoh ulama terkenal di negeri perak.\r\n\r\nmasjid an-nawawi dirasmikan oleh dytm raja muda perak darul ridzuan raja nazrin shah ibni sultan azlan shah muhibbudin shah pada 18 sept 2008.",
+    "source_musolla_id": "MY-08-MJG-00045",
+    "provision": "-tempat wudhuk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-tandas awam\r\n-ruang bilik kuliah\r\n-gazibo ( pondok rehat )\r\n-kawasan riadah"
+  },
+  "w0z9eq8pbx": {
+    "address": "Jalan Damar Laut-Changkat Jering, Kampung Padang Serai, 32700 Pengkalan Baharu, Perak, Malaysia 32700",
+    "contact": "0195704568",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.519498,
+      "longitude": 100.689725
+    },
+    "name": "MASJID EHSANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1e1ee170-57d8-441c-a631-6412a4454219",
+    "geohash": "w0z9eq8pbx",
+    "remarks": "pada tahun 1950an penduduk kampung padang serai. matang aceh dan batu hampar bergotong rotong mencari kayu dihutan untuk membuat masjid pertengahan tahun 70an dengan ihsan penduduk qariah masjid pantai remis bersetuju memberi masjid lama kepada kampung padang serai untuk menggantikan masjid yang sangat daif, dari masa itulah masjid kg padang serai dinamakan masjid ehsaniah.pada tahun 1998 masjid baru telah didirikan dengan peruntukan kerajaan persekutuan sebanyak rm600,000",
+    "source_musolla_id": "MY-08-MJG-00036",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam"
+  },
+  "w0z91z1mex": {
+    "address": "Pengkalan Baharu, Perak, Malaysia 34900",
+    "contact": "0142551050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.43397,
+      "longitude": 100.625649
+    },
+    "name": "MASJID AL KHAIRIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a96e656b-fe0c-4503-b0b6-5627e4223cce",
+    "geohash": "w0z91z1mex",
+    "source_musolla_id": "MY-08-MJG-00023"
+  },
+  "w0z9mrq41k": {
+    "address": "Beruas, Perak, Malaysia 32700",
+    "contact": "0174989517",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.478667,
+      "longitude": 100.785885
+    },
+    "name": "MASJID AS SAADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "549593a1-9bf8-4cdd-a61f-a41414e6abe7",
+    "geohash": "w0z9mrq41k",
+    "source_musolla_id": "MY-08-MJG-00032"
+  },
+  "w0z9j2md7k": {
+    "address": "Beruas, Perak, Malaysia 32700",
+    "contact": "0125629154",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.396316,
+      "longitude": 100.785287
+    },
+    "name": "MASJID DARUL NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "74aab5af-1fcf-4b64-bbe7-350d81ddca69",
+    "geohash": "w0z9j2md7k",
+    "source_musolla_id": "MY-08-MJG-00035"
+  },
+  "w0z9drtwpv": {
+    "address": "Jalan Pantai Remis-Taiping, 34900 Pengkalan Baharu, Perak, Malaysia 34900",
+    "contact": "0175092273",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.524682,
+      "longitude": 100.653645
+    },
+    "name": "MASJID HASSANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bae58ba3-f10a-4469-bca5-7415500a37a5",
+    "geohash": "w0z9drtwpv",
+    "remarks": "pembinaan awal semua usaha secara gotong royong serta bantuan dari kapung yang berhampiran. dan semasa ubahsuai bangunan juga 1961 juga secara bergotong royong penambakan tapak masjid dengan tanah berpasir menggunakan angkut dengan oleh orang kmpung. ketika itu jalan raya panchor masih jalan 12 kaki jalan batu belum diletak tar.",
+    "source_musolla_id": "MY-08-MJG-00037",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-pondok rehat"
+  },
+  "w0z9w42edz": {
+    "address": "Beruas, Perak, Malaysia 32700",
+    "contact": "0135282789",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.49542,
+      "longitude": 100.811355
+    },
+    "name": "MASJID KHAIRUL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4bda432d-9a66-43ce-b292-cc2ccc273bd3",
+    "geohash": "w0z9w42edz",
+    "remarks": "1. Masjid Kg. Dendang di bina kali pertama diatas tapak yang ada sekarang ini pada tahun 1950.\r\n  2. Tapak ini telah diwakafkan oleh pemilik tanah yang bernama Ngah Ahmad, Lot no. 2320 seluas 0.2625 ekar.\r\n  3. Sebelum dijadikan tapak masjid, tapak ini merupakan tapak surau pertama di Kampung Dendang yang kemudian diwakafkan sebagai \r\n      tapak masjid ini dipernamakan atas nama 3 orang iaitu:\r\n     a. En. Ahmad bin Mat Yasin(Kadhi Lumut)\r\n     b. En. Ali Am bin Darban(Penghulu Mukim Beruas)\r\n     c. En. Mohd. Salleh bin Abd. Manaf(Ketua Kampung Dendang",
+    "source_musolla_id": "MY-08-MJG-00041",
+    "provision": "1. Bilik Mesyuarat\r\n        2. Penghawa Dingin\r\n        3. Ruang Solat Muslimah\r\n        4. Balai Lintang untuk jamuan makan\r\n        5. Kolah untuk mengambil wudhuk \r\n        6. Bilik Kuliah Muslimah\r\n        7. Ruang untuk laungan azan \r\n        8. Bilik khas Imam\r\n        9. Kedai gunting rambut\r\n       10.Tandas berasingan unrtuk lelaki dan perempuan"
+  },
+  "w0z9w35b25": {
+    "address": "Kampung Pintu Gerbang, Beruas, Perak, Malaysia 32700",
+    "contact": "0135314453",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.487978,
+      "longitude": 100.826689
+    },
+    "name": "MASJID AT TAUFIQIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a531117c-292a-42f8-a2ed-5bc49b0922e8",
+    "geohash": "w0z9w35b25",
+    "source_musolla_id": "MY-08-MJG-00033"
+  }
+}

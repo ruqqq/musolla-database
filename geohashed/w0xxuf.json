@@ -1,0 +1,17 @@
+{
+  "w0xxufc93w": {
+    "address": "FELCRA Lekir, Sitiawan, Perak, Malaysia 32000",
+    "contact": "0195042400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.190163,
+      "longitude": 100.757746
+    },
+    "name": "MASJID AL- MUTTAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "835a56a3-c4f4-4a4f-81ff-326a5b5612b5",
+    "geohash": "w0xxufc93w",
+    "source_musolla_id": "MY-08-MJG-00586"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "w0xgpzzvr3": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "012-9140988",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.383326,
+      "longitude": 101.24997
+    },
+    "name": "MASJID AHMADIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "523626d0-fefa-451a-b926-bc0df54f294e",
+    "geohash": "w0xgpzzvr3",
+    "source_musolla_id": "MY-10-KSR-00329",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat, bilik mesyuarat dan van jenazah"
+  },
+  "w0xgpbr0ke": {
+    "address": "Kampung Tanjung Keramat, Kuala Selangor, Selangor, Malaysia 45000",
+    "contact": "012-3081543",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.341277,
+      "longitude": 101.248825
+    },
+    "name": "MASJID PEKAN KUALA SELANGOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "dba823ea-8554-46bd-8a75-6e973882fe84",
+    "geohash": "w0xgpbr0ke",
+    "source_musolla_id": "MY-10-KSR-00331",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, bilik mesyuarat dan bilik bacaan."
+  }
+}

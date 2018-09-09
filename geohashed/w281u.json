@@ -1,0 +1,36 @@
+{
+  "w281u3e6cr": {
+    "address": "Kapar, Selangor, Malaysia 42200",
+    "contact": "03-41421653",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.12887,
+      "longitude": 101.441289
+    },
+    "name": "MASJID USAMAH BIN ZAID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "60bb2cdc-24d1-4aa4-89ef-7168f1d44034",
+    "geohash": "w281u3e6cr",
+    "remarks": "Nama masjid ini diambil bersempena nama seorang sahabat\r\nRasulullah SAW iaitu Usamah Bin Zaid yang merupakan anak\r\nkepada Zaid bin Harithah. Beliau juga merupakan panglima perang\r\nIslam yang termuda dilantik ke jawatan tersebut oleh Rasulullah SAW\r\niaitu pada usia 18 tahun. Walaupun di usia yang masih muda, beliau\r\ndan tentera Islam di bawah kepimpinannya telah berjaya menewaskan\r\ntentera Rom dalam pertempuran yang berlaku di Syam.",
+    "source_musolla_id": "MY-14-WKL-00054",
+    "provision": "Masjid ini dilengkapi dengan kemudahan seperti pejabat pusat\r\npentadbiran Zon 4 Jawi, dewan solat yang dilengkapi dengan 4\r\nProjektor LCD dan papan layar, dewan serbaguna, bangunan sekolah\r\nrendah agama, kuarters kakitangan masjid, rumah musafir, pondok\r\nwaqaf, tempat penyembelihan, bilik kuliah, bilik mesyuarat, bilik\r\ntetamu kenamaan (VIP), bilik pengurusan jenazah, kawasan meletak\r\nkenderaan, tandas dan kerusi OKU serta padang futsal. Jarak masjid\r\nini dengan masjid atau surau berdekatan adalah sejauh 500 meter."
+  },
+  "w281u0jmwv": {
+    "address": "Jalan Jabar, Taman Meru Aman, 41050 Kapar, Selangor, Malaysia 41050",
+    "contact": "016-2718636",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.121091,
+      "longitude": 101.433288
+    },
+    "name": "MASJID AS - SYARIF",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bc9c6f49-d57a-4a3f-9256-dd72ebfd44d7",
+    "geohash": "w281u0jmwv",
+    "remarks": "Masjid asal adalah di Pekan Meru dan sudah tidak digunakan lagi buat masa ini.\r\n\r\nKini sebuah masjid baru telah dibina dan tersergam indah ini siap dibina pada tahun 90an atas keperluan penduduk tempatan yang ramai bagi mengerjakan solat jumaat dan ibadah .Ianya dibina pada tahun 90an bagi menggantikan masjid lama. Masjid ini telah dirasmikan oleh DYMM Sultan Sharifuddin Idris Shah Ibni  Almarhum Sultan Sallehuddin Abdul Aziz Shah  pada 14/5/2003.\r\n\r\nIanya telah memenangi anugerah bagi kategori masjid terindah di Selangor pada tahun 2005.",
+    "source_musolla_id": "MY-10-KLG-00206",
+    "provision": "Antara kemudahan yang terdapat ialah  pejabat, ruang parking,  van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian."
+  }
+}

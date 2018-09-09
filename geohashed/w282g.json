@@ -1,0 +1,36 @@
+{
+  "w282gxq6nu": {
+    "address": "Kajang, Selangor, Malaysia 43000",
+    "contact": "012-9336220",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.984531,
+      "longitude": 101.764253
+    },
+    "name": "MASJID HJ. MAT SAMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "eeed1f35-3ede-4130-b67d-785fcc4272d9",
+    "geohash": "w282gxq6nu",
+    "remarks": "Bangunan Masjid Jamek Berkembar Haji Mat Saman ini memang bersejarah kerana tua dan klasiknya. Masjid ini telah dibina sejak 1929 sesuai dengan lokasinya yang berada di pinggir Sungai Ramal, iaitu pengkalan tempat persinggahan melalui jalan sungai. Sebagai tempat pertemuan perjalanan dan perniagaan, maka inisiatif diambil tokoh pemimpin semasa itu, iaitu Haji Mat Saman mendirikan masjid di tapak yang ada sekarang untuk kegunaan berjamaah dan berjumaat penduduk Sungai Ramal Luar, iaitu sebelum jalan secara sempurna dari Kajang ke Serdang dibina. Dikatakan juga masjid ini dibina di tepi sungai Ramal bagi memudahkan ahli jamaah mengambil wuduk dari Sungai Ramal tersebut. Sudah tentulah dalam usia lebih 80 tahun masjid ini telah mengalami perubahan dan penambahan sehingga kepada bentuk sebagaimana kini",
+    "source_musolla_id": "MY-10-HL-00027",
+    "provision": "Pelbagai kemudahan yang disediakan di masjid ini seperti van jenazah,bilik pengurusan jenazah serta koleksi kitab dan bahan bacaan. Masjid ini mempunyai talian internet untuk kegunaan stafnya dan juga mempunyai bilik mesyuarat dan tempat jamuan."
+  },
+  "w282g6wj21": {
+    "address": "Bandar Baru Bangi, Selangor, Malaysia 43650",
+    "contact": "019-8811257",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.958977,
+      "longitude": 101.752633
+    },
+    "name": "MASJID AL - HASANAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "543f8ab5-657c-475e-812b-b6bc99a96054",
+    "geohash": "w282g6wj21",
+    "remarks": "Masjid ini adalah dibina pada tahun 90an apabila ujudnya bandar baru Bangi bagi kegunaan penduduk disekitarnya. Ianya telah dirasmikan oleh  DYMM Tengku Idris Shah Ibni Almarhum Sultan Sallehuddin Abd Aziz Shah Alhaj pada tanggal 10 Mac 2000.",
+    "source_musolla_id": "MY-10-HL-00032",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parking yang luas,  van jenazah,  ruangan solat yang selesa untuk sembahyang, rumah pegawai , deretan kedai pakaian dan khidmat insuran."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "w2cmsbkkbq": {
+    "address": "Kampung Rhu Muda, Pulau Kerengga, Terengganu, Malaysia 21600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.187773,
+      "longitude": 103.222404
+    },
+    "name": "MASJID KAMPUNG RHU MUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2dbc88e0-056b-447e-8fd2-6ac6def7f2b8",
+    "geohash": "w2cmsbkkbq",
+    "source_musolla_id": "MY-11-MRG-00224"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "w28gspqnmg": {
+    "address": "Bangau, Pahang, Malaysia 28000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.468654,
+      "longitude": 102.48896
+    },
+    "name": "MASJID KAMPUNG GAU BARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3952f112-7dfa-45c2-9855-b45ac6073fdc",
+    "geohash": "w28gspqnmg",
+    "source_musolla_id": "MY-06-TLH-00457"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w2863zw8zm": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.249365,
+      "longitude": 101.687709
+    },
+    "name": "MASJID ANNUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1e38580c-cb4a-477c-86f7-05266be2bcb7",
+    "geohash": "w2863zw8zm",
+    "source_musolla_id": "MY-10-GBK-00379",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir dan  ruangan solat yang selesa."
+  }
+}

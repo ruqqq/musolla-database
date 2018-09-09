@@ -1,0 +1,19 @@
+{
+  "w28602pd5g": {
+    "address": "Kampung Sungai Penchala, Kuala Lumpur, Wilayah Persekutuan, Malaysia 60000",
+    "contact": "03-77337306",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.164427,
+      "longitude": 101.623013
+    },
+    "name": "MASJID AL-HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6d520ddb-9951-4662-9ca0-ae10a78f6ae4",
+    "geohash": "w28602pd5g",
+    "remarks": "Masjid ini dibina diaats tanah yang diwakafkan oleh Allahyarham Tuan Haji Sanusi. Ianya dibina bagi keperluan penduduk di Sungai penchala. Masjid ini telah dirasmikan oleh SPBYDPA Tuanku Mizan Zainal Abidin pada 10/12/2010.",
+    "source_musolla_id": "MY-14-WKL-00050",
+    "provision": "Antara kemudahannya ialah ruang parkir dan solat yang selesa."
+  }
+}

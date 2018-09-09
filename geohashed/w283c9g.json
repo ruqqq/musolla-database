@@ -1,0 +1,19 @@
+{
+  "w283c9g06m": {
+    "address": "Bangsar Baru, 59100 Kuala Lumpur, Wilayah Persekutuan, Malaysia 59100",
+    "contact": "03-22833707",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.129803,
+      "longitude": 101.671704
+    },
+    "name": "MASJID SAIDINA ABU BAKAR AS-SIDDIQ",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e8b2ab69-a8ee-470e-ba81-3b93fbd6282f",
+    "geohash": "w283c9g06m",
+    "remarks": "Projek pembinaan masjid yang terletak di Bangsar ini telah dimulakan pada 18 Julai 1980. Majlis penentuan arah kiblatnya pula telah dilaksanakan pada 24 Ogos 1980 oleh Tan Sri Sheikh Abdul Mohsein bin Haji Salleh, Mufti Wilayah Persekutuan. Peletakan batu asas masjid disempurnakan oleh Datuk Amar Haji Abdul Taib bin Mahmud, Menteri Wilayah Persekutuan pada 23 November 1980. Bangunan masjid ini siap sepenuhnya pada bulan Mac 1982.",
+    "source_musolla_id": "MY-14-WKL-00006",
+    "provision": "Masjid ini mempunyai dewan solat yang selesa, sekolah agama dan parkir."
+  }
+}

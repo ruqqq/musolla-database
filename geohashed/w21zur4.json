@@ -1,0 +1,18 @@
+{
+  "w21zur4uu1": {
+    "address": "30, Punggol Field, Singapore 828812",
+    "contact": "6312 5194",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.40158,
+      "longitude": 103.90166
+    },
+    "name": "Al-Islah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "cb0c39a0-031d-4a5d-b942-5455616be7e1",
+    "geohash": "w21zur4uu1",
+    "remarks": "Al-Islah Mosque is the second mosque built under Phase 4 of the Mosque Building Programme. With its capacity for 4,000 congregants, Al-Islah Mosque will be able to serve the growing Muslim community in Punggol and the surrounding neighbourhoods, as well as ease the prayer space crunch on Fridays and Eid for Muslims in the eastern part of Singapore.",
+    "mosqueType": "MBMF"
+  }
+}

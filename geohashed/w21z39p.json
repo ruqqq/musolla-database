@@ -1,7 +1,7 @@
 {
   "w21z39pt8t": {
     "address": "2 Lorong Sarhad, Singapore 119173",
-    "contact": "6479 6442",
+    "contact": "4479 6442",
     "createdAt": "2014-12-23T06:50:22.447Z",
     "location": {
       "latitude": 1.280882,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:03.616Z",
     "uuid": "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d",
-    "geohash": "w21z39pt8t"
+    "geohash": "w21z39pt8t",
+    "remarks": "Originally a typical kampung mosque built in 1934 on a piece of land given by a Mr Ahmat Yahya, the mosque has been redeveloped with better facilities.   Located in the Central part of the island, the masjid serves the residents and workers around the area",
+    "mosqueType": "Wakaf"
   }
 }

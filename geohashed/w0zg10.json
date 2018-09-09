@@ -1,0 +1,17 @@
+{
+  "w0zg10gpd2": {
+    "address": "Sayong, Perak, Malaysia 33000",
+    "contact": "0132560921",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.751502,
+      "longitude": 100.946606
+    },
+    "name": "MASJID KOLEJ UNIVERSITI ISLAM SULTAN AZLAN SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "48ece5b5-9a87-4ba3-a81b-4f7810d043e8",
+    "geohash": "w0zg10gpd2",
+    "source_musolla_id": "MY-08-KK-00591"
+  }
+}

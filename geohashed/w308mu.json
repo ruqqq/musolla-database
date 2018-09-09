@@ -1,0 +1,34 @@
+{
+  "w308muhvgh": {
+    "address": "Panyit, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.691929,
+      "longitude": 102.212468
+    },
+    "name": "MASJID MUKIM PEK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "356e123c-80d1-43c1-a098-f414bde13b45",
+    "geohash": "w308muhvgh",
+    "remarks": "Masjid ini telah dirasmikan oleh tuan guru Datuk Nik Abdul Aziz Nik Mat iaitu menteri besar Kelantan pada tarikh 14 jun 2002.",
+    "source_musolla_id": "MY-03-MCG-00190",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini..Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w308mugsct": {
+    "address": "Setor Lima, Panyit, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.695884,
+      "longitude": 102.210687
+    },
+    "name": "MASJID MUKIM RAJA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "80704c91-1307-46af-89e3-90131ae892de",
+    "geohash": "w308mugsct",
+    "remarks": "Sejarah masjid ini bermula apabila Ku Daud bin Ku Labu telah mewakafkan tanah seluas 0.5ekar untuk didirikan sebuah masjid.Sekitar tahun 80an masjid ini telah dibina.Pada asalnya lokasi masjid ini berada di tempat lain dan telah dipindahkan di kampung ini pada tahun 80an.",
+    "source_musolla_id": "MY-03-MCG-00184",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  }
+}

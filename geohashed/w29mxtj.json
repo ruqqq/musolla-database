@@ -1,0 +1,17 @@
+{
+  "w29mxtj152": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.806939,
+      "longitude": 103.344419
+    },
+    "name": "MASJID TANJUNG API",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebef2cae-ec76-4048-bc1f-d3f0e4940d75",
+    "geohash": "w29mxtj152",
+    "remarks": "Masjid ini dibina berdasarkan seni bina masjid Melayu. Sebagaimana lazimnya masjid bercirikan tempatan seperti ini menitikberatkan keadaan iklim dan sosio budaya masyarakat Melayu setempat terutama di sekitar Pantai Timur. Konsep begini diterapkan juga pada sebahagian masjid di Pantai Barat Semenanjung.",
+    "source_musolla_id": "MY-06-KTN-00088"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "w2855rnx6k": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-3542916",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.379567,
+      "longitude": 101.401853
+    },
+    "name": "MASJID INDIA- muslim bestari jaya",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "340b22e9-0eee-4622-8a04-4554da13e092",
+    "geohash": "w2855rnx6k",
+    "remarks": "Masjid ini adalah masjid lama dan sudah menjangkau umur lebih dari 70 tahun.",
+    "source_musolla_id": "MY-10-KSR-00371",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,dapur, pejabat,dewan mesyuarat, bilik imam,."
+  },
+  "w2855sn5dh": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "0172843589",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.362444,
+      "longitude": 101.412139
+    },
+    "name": "MASJID JAMI'UL HASANAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "45adf975-62f6-41a6-9e70-e113cadf0a20",
+    "geohash": "w2855sn5dh",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 22 April 1977",
+    "source_musolla_id": "MY-10-KSR-00321",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mandi jenazah,bilik mesyuarat,pejabat dan beduk."
+  },
+  "w2855z7qf4": {
+    "address": "Taman Muhibah, Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-2864754",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.380841,
+      "longitude": 101.419346
+    },
+    "name": "MASJID RANTAU PANJANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "86ddd4a3-8502-47cf-9169-963b7e7fbc14",
+    "geohash": "w2855z7qf4",
+    "remarks": "Masjid ini telah siap dibina pada tahun 2011 bagi menggantikan masjid Jamiul Ubudiyah yang lama yang terletak  lebih kurang 100 meter dari masjid ini.",
+    "source_musolla_id": "MY-10-KSR-00323",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, bilik kuliah, bilik mandi jenazah, pejabat,.bilik mesyuarat,,perpustakaan dan van jenazah."
+  },
+  "w2855rnx49": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-3085214",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.379508,
+      "longitude": 101.401861
+    },
+    "name": "NIGEL GARDNER",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2450e2da-d5e5-4765-b950-cc807d95a6b8",
+    "geohash": "w2855rnx49",
+    "source_musolla_id": "MY-10-HSR-00096",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya ,bilik stor dan tempat wudhuk lelaki dan wanita ."
+  }
+}

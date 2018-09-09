@@ -1,0 +1,48 @@
+{
+  "w22pnp27rd": {
+    "address": "Tanjong Sepat, Selangor, Malaysia 42800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.677115,
+      "longitude": 101.514344
+    },
+    "name": "MASJID INAYYATUR RAHMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ec1fffb1-58fd-41f1-aeba-d18cf354b995",
+    "geohash": "w22pnp27rd",
+    "remarks": "MASJID INI DIBINA BAGI MENGGANTI MASJID LAMA YANG DIBINA PADA TAHUN 1917 DENGAN CARA GOTONG ROYONG. PADA TAHUN 1996, HAJI AHMAD BIN NAYAN (ALLAHYARHAM) TELAH MEWAKAFKAN TANAHNYA SELUAS 1 EKAR (LOT 1367, 1366, 1365) BAGI KEGUNAAN TAPAK MASJID INI.",
+    "source_musolla_id": "MY-10-KL-00229",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang s ederhana luas,  van jenazah dan urusan jenazah,  ruangan solat yang selesa untuk sembahyang"
+  },
+  "w22pnv3zvu": {
+    "address": "Tanjong Sepat, Selangor, Malaysia 42800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.666912,
+      "longitude": 101.549284
+    },
+    "name": "MASJID JAMIUL MUHSININ",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0d38700c-641e-4070-975d-e6d48ac8802f",
+    "geohash": "w22pnv3zvu",
+    "source_musolla_id": "MY-10-KL-00230",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang s ederhana luas,  van jenazah dan urusan jenazah,  ruangan solat yang selesa untuk sembahyang dan alat penghawa dingin."
+  },
+  "w22pnqffgf": {
+    "address": "Tanjong Sepat, Selangor, Malaysia 42800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.674285,
+      "longitude": 101.528599
+    },
+    "name": "MASJID AL MAKMUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cba9dba3-39ef-41a5-903f-3e2d85eb87f7",
+    "geohash": "w22pnqffgf",
+    "source_musolla_id": "MY-10-KL-00231",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang s ederhana luas,  van jenazah dan urusan jenazah dan  ruangan solat yang selesa untuk sembahyang."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w22xrzwnpb": {
+    "address": "Juasseh, Negeri Sembilan, Malaysia 72500",
+    "contact": "06-4818381",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.722897,
+      "longitude": 102.302284
+    },
+    "name": "MASJID KARIAH PASIR AMBOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "40f82b0b-6102-4c95-a479-949c7b34a744",
+    "geohash": "w22xrzwnpb",
+    "source_musolla_id": "MY-05-KP-00268"
+  }
+}

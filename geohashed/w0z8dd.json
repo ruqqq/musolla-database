@@ -1,0 +1,17 @@
+{
+  "w0z8ddy7gg": {
+    "address": "Kampung Telaga Nenas, Lumut, Perak, Malaysia 32400",
+    "contact": "0129037891",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.322411,
+      "longitude": 100.665491
+    },
+    "name": "MASJID POROYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9d6a0ac7-acad-4b72-900e-9bbcef5f75e1",
+    "geohash": "w0z8ddy7gg",
+    "source_musolla_id": "MY-08-MJG-00047"
+  }
+}

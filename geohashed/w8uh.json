@@ -1,0 +1,129 @@
+{
+  "w8uhsfb88f": {
+    "address": "Bandar Lahad Datu, Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.024969,
+      "longitude": 118.334466
+    },
+    "name": "MASJID AR-RAUDHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9221f52e-36f3-45d3-8226-5c42eecb2e97",
+    "geohash": "w8uhsfb88f",
+    "source_musolla_id": "MY-12-LD-00542"
+  },
+  "w8uhs4cx2h": {
+    "address": "91100 Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.026141,
+      "longitude": 118.30285
+    },
+    "name": "MASJID JAMEK DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b3c48fc7-8798-4cf2-a186-d3259afdc0fd",
+    "geohash": "w8uhs4cx2h",
+    "source_musolla_id": "MY-12-LD-00018"
+  },
+  "w8uh17xhxc": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.941882,
+      "longitude": 118.189887
+    },
+    "name": "MASJID AINUL YAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c27d8f86-6b9a-43ae-b04d-cadc40846cf3",
+    "geohash": "w8uh17xhxc",
+    "source_musolla_id": "MY-12-LD-00570"
+  },
+  "w8uh1xxvr2": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.963979,
+      "longitude": 118.201882
+    },
+    "name": "MASJID NUR SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "97144d10-1990-4c95-b997-28774ebc1a34",
+    "geohash": "w8uh1xxvr2",
+    "source_musolla_id": "MY-12-LD-00017"
+  },
+  "w8uhegxcd1": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.029257,
+      "longitude": 118.300534
+    },
+    "name": "MASJID NURUL ITTIHAD",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "89e20146-8764-4f9d-a9f5-3d2318bcac35",
+    "geohash": "w8uhegxcd1",
+    "source_musolla_id": "MY-12-LD-00315",
+    "provision": "1. Terdapat kelas al-Quran dan Kuliah setiap Subuh, Manghrib."
+  },
+  "w8uhkutrrm": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.991814,
+      "longitude": 118.341263
+    },
+    "name": "MASJID JAMEK AL-HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "415f6a39-47f3-4963-8478-a0d0a3126e59",
+    "geohash": "w8uhkutrrm",
+    "source_musolla_id": "MY-12-LD-00544"
+  },
+  "w8uh66jztz": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.978137,
+      "longitude": 118.232023
+    },
+    "name": "MASJID NUR HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0e155cbb-e126-451a-8131-8894506a1b09",
+    "geohash": "w8uh66jztz",
+    "source_musolla_id": "MY-12-LD-00567"
+  },
+  "w8uh1t2u7x": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.951482,
+      "longitude": 118.192104
+    },
+    "name": "MASJID NURUL NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b603f641-e200-4137-88be-3b91f7c4199c",
+    "geohash": "w8uh1t2u7x",
+    "source_musolla_id": "MY-12-LD-00568"
+  },
+  "w8uh15qr4g": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.94095,
+      "longitude": 118.177654
+    },
+    "name": "MASJID NURUL HIKMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7cda396b-5fcc-440a-8e8b-5f8e9274b166",
+    "geohash": "w8uh15qr4g",
+    "source_musolla_id": "MY-12-LD-00573"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "w21zd83mc9": {
     "address": "2 Lewis Road, Singapore 258590",
-    "contact": "6732 6170",
+    "contact": "6732 6795",
     "createdAt": "2014-12-23T06:50:21.852Z",
     "location": {
       "latitude": 1.320727,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:02.651Z",
     "uuid": "c0d55b2f-8d28-4b7b-8a9a-85584c20f730",
-    "geohash": "w21zd83mc9"
+    "geohash": "w21zd83mc9",
+    "remarks": "Built in 1952 by a prominent and well-respected imam from the Alatas family, this old generation masjid has served the needs of university undergraduates in Bukit Timah before the campus was relocated to Kent Ridge. Today, the one-storey masjid, which is located in the Central, can accommodate up to 400 worshippers for daily and Friday prayers. It is also crowded during Hari Raya prayers. On Thursday evenings, many Muslims gather for recitation of praises to Allah.",
+    "mosqueType": "Wakaf"
   }
 }

@@ -1,0 +1,68 @@
+{
+  "w281rdmgbv": {
+    "address": "USJ 9, Subang Jaya, Selangor, Malaysia 47610",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.04526,
+      "longitude": 101.587526
+    },
+    "name": "MASJID AL -FALAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "56253553-3985-421d-8200-df07d488ce69",
+    "geohash": "w281rdmgbv",
+    "remarks": "Masjid ini dibina pada tahun 2000 selepas taman disekitarnya siap sepenuhnya. Kebanyakan ukiran disumbang oleh penduduk setempat dan setiap ukuran di dinding diukir khas menggunakan tangan.",
+    "source_musolla_id": "MY-10-PTG-00237",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah ruang menunggu di serambi, taman hijau, tempat letak kereta yang boleh memuatkan sehingga 300 biji kereta."
+  },
+  "w281rktbrs": {
+    "address": "Jalan USJ 4/1M, USJ 4, 47600 Subang Jaya, Selangor, Malaysia 47600",
+    "contact": "0194544006",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.057012,
+      "longitude": 101.576827
+    },
+    "name": "MASJID AN NUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "769d5144-9b0f-412c-bd64-ca2f52dbab0e",
+    "geohash": "w281rktbrs",
+    "source_musolla_id": "MY-10-PTG-00258",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir, tempat wuduk dan ruang solat yang selesa."
+  },
+  "w281rth2bk": {
+    "address": "USJ 2, Subang Jaya, Selangor, Malaysia 47600",
+    "contact": "0193596191",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.059846,
+      "longitude": 101.585445
+    },
+    "name": "MASJID AL - MUKMINUN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2c1dc895-4b59-4ba1-ae11-05bfe74a34e6",
+    "geohash": "w281rth2bk",
+    "remarks": "Terdapat bangunan pejabat di sebelah masjid yang dibina terlebih dahulu sebelum masjid.",
+    "source_musolla_id": "MY-10-PTG-00257",
+    "provision": "Di antara kemudahan masjid ini terdapat ruang letak kasut yang banyak, tempat menguruskan jenazah dan van jenazah persendirian milik masjid."
+  },
+  "w281rqnkwk": {
+    "address": "SS 19, Subang Jaya, Subang Jaya, Selangor, Malaysia 47500",
+    "contact": "0192166822",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.06598,
+      "longitude": 101.577457
+    },
+    "name": "MASJID ABU BAKAR AS - SIDDIQ",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2455c8ca-de4d-408f-b37d-1727fec7ea3a",
+    "geohash": "w281rqnkwk",
+    "remarks": "Dibina menggantikan surau lama di kawasan itu dan berkonsepkan melayu mosen dari pereka hiasan dalaman tempatan yang direka khas.",
+    "source_musolla_id": "MY-10-PTG-00256",
+    "provision": "Antara kemudahan yang terdapat dalam masjid ini ialah tempat menguruskan jenazah, serambi yang lapang dan ruang parkir yang selesa."
+  }
+}

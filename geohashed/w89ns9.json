@@ -1,0 +1,17 @@
+{
+  "w89ns9fps6": {
+    "address": "Beluru, Sarawak, Malaysia 98000",
+    "contact": "014-6861023",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.965992,
+      "longitude": 114.106935
+    },
+    "name": "MASJID AL-MUNIR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c854d7b0-22f5-45d5-9422-a99c570d249a",
+    "geohash": "w89ns9fps6",
+    "source_musolla_id": "MY-13-MRI-00283"
+  }
+}

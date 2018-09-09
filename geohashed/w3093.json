@@ -1,0 +1,33 @@
+{
+  "w309326fu5": {
+    "address": "FELDA Kemahang 1, Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.846591,
+      "longitude": 102.012013
+    },
+    "name": "MASJID MUKIM KEMAHANG 1",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "792b59a9-46e4-4b75-8c3b-9694f47ad60f",
+    "geohash": "w309326fu5",
+    "remarks": "Masjid mukim kemahang 1 sekarang ini dalam proses pembinaan di bahagian ruang solat utama secara menyeluruh dan proses pembinaan ini dijangka siap pada pertengahan tahun 2012.",
+    "source_musolla_id": "MY-03-TM-00336",
+    "provision": "Diantara kemudahan-kemudahan yang terdapat di masjid ini adalah stor,pejabat,bilik imam,tandas,tempat wuduk bagi lelaki dan perempuan.\nParking terbuka yang mana boleh menempatkan lebih 20 buah kenderaan dalam satu masa."
+  },
+  "w30933863w": {
+    "address": "FELDA Kemahang 2, Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.853385,
+      "longitude": 102.008472
+    },
+    "name": "MASJID MUKIM KEMAHANG 2",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "df84d128-b469-4e79-ac53-762570eafa13",
+    "geohash": "w30933863w",
+    "source_musolla_id": "MY-03-TM-00338",
+    "provision": "Masjid mempunyai pelbagai kemudahan seperti dewan mesyuarat dan pejabat yang sebagai tempat pengurusan masjid.Tempat laluan berjalan kaki berbumbung menuju ke tandas juga turut disediakan sebagai salah satu kemudahan orang ramai.Bilik rehat,masak dan imam juga disediakan untuk memudahkan lagi urusan masjid.Stor sebagai tempat menyimpan barang juga merupakan salah satu daripada kemudahan masjid ini.Bagi kemudahan para jemaah,masjid ini menyediakan tempat parking berbumbung dan terbuka bagi memudahkan para jemaah meletakkan kenderaan mereka. Tempat parking terbuka tersebut boleh menempatkan lebih daripada 20 kenderaan dalam satu masa."
+  }
+}

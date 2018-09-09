@@ -1,0 +1,34 @@
+{
+  "w284np0uvq": {
+    "address": "Kampung Kubu Gajah Dalam, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0196932448",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.203366,
+      "longitude": 101.514929
+    },
+    "name": "MASJID JAMEK JAMIUL EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "11266f69-01c4-4a26-9515-20a2a871175d",
+    "geohash": "w284np0uvq",
+    "source_musolla_id": "MY-10-PTG-00289",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat lelaki dan perempuan, bilik bilal, ruang wuduk,tandas dan lain lain"
+  },
+  "w284nwwzyg": {
+    "address": "Taman Sri Buloh, Sungai Buloh, Selangor, Malaysia 40160",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.201116,
+      "longitude": 101.545214
+    },
+    "name": "MASJID AL - HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e1085cd8-638f-4481-93ce-90d4015aa1d2",
+    "geohash": "w284nwwzyg",
+    "remarks": "Masjid ini dibina oelh masyarakat kampong Paya Jaras dan telah dirasmikan oleh YB Dato' Haji Saidin bin Tambi pada 30/11/1997",
+    "source_musolla_id": "MY-10-PTG-00286",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat untuk lelaki dan perempuan,bilik bilal,stor, ruang wuduk dan sebagainya."
+  }
+}

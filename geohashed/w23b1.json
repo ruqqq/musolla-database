@@ -63,7 +63,9 @@
         "createdAt": "2015-05-29T05:58:38.520Z",
         "updatedAt": "2015-05-29T05:58:38.520Z"
       }
-    ]
+    ],
+    "remarks": "Located in the North part of the island, An-Nur is more than just a landmark in Woodlands. The masjid has created a name for its outreach programme and grassroots activities through its Qaryah (outreach) initiatives. It is also one of the masjids, which provide strong support for the kidney donation campaign. Built in 1980 under the Mosque Building fund, An-Nur can accommodate up to 2800 worshippers. There are madrasah and kindergarten classes offered at the masjid to children of the neighbouring estate",
+    "mosqueType": "MBMF"
   },
   "w23b1tqdgw": {
     "address": "1 Woodlands Square, Causeway Point, Singapore 738099",
@@ -84,5 +86,21 @@
     "uuid": "e76be0fa-4356-4d0f-a72f-b29d1a79b19c",
     "geohash": "w23b1tqdgw",
     "submitterName": "Tengku Hafidz"
+  },
+  "w23b1gt51j": {
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "contact": "6363 1383",
+    "createdAt": "2018-09-07T19:09:28+08:00",
+    "location": {
+      "latitude": 1.4260206,
+      "longitude": 103.7947605
+    },
+    "name": "Yusof Ishak Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:28+08:00",
+    "uuid": "067ecc8d-d1ea-4018-9f23-0bb60d8dd3d1",
+    "geohash": "w23b1gt51j",
+    "remarks": "Masjid Yusof Ishak is the 71st mosque in Singapore today, and the fourth mosque built under Phase 4 [1] of the Mosque Building Programme. It is Singapore’s 26th mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). Masjid Yusof Ishak is designed with a unique architecture blending traditional mosque characteristics with Nusantara heritage and elements, while also addressing functional requirements. Distinctive features of a tropical Nusantara house, such as eaves/overhangs, verandah, decorative fixed ventilation panels and beautifully crafted balustrades, are reinterpreted and expressed in a modern way befitting this new generation mosque.",
+    "mosqueType": "MBMF"
   }
 }

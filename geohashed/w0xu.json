@@ -1,0 +1,53 @@
+{
+  "w0xufn456t": {
+    "address": "Panchang Bendena, Sungai Besar, Selangor, Malaysia 45300",
+    "contact": "013-2789078",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.681009,
+      "longitude": 100.989192
+    },
+    "name": "MASJID  MAKMURIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "325f1d61-2120-4cab-8116-c15a47d12769",
+    "geohash": "w0xufn456t",
+    "remarks": "1. Masjid mula dibina oleh penduduk setempat dengan menggunakan kayu Nibong kira-kira pada tahun 1941\r\n2. Kemudian pada tahun 1948 ditambahbaik binaannya dengan menggunakan papan dan kayu\r\n3. Pada tahun 1966 ditukar binaanya dengan menggunakan batu-bata emapt segi\r\n4. Pada tahun 1985 sehingga sekarang telah dibuat beberapa pengubahsuaian serta pembesaran",
+    "source_musolla_id": "MY-10-SB-00003",
+    "provision": "1. Ruang solat lelaki dan wanita\r\n2. Pejabat\r\n3. Sebuah Bilik Kuliah\r\n4. Lima buah tandas lelaki dan dua buah bilik mandi lelaki\r\n5. Lima buah tandas wanita dan dua buah bilik mandi wanita\r\n6. Van jenazah\r\n7. Tempat letak kereta\r\n8. Laluan OKU\r\n9. Tanah wakaf"
+  },
+  "w0xuh2nvrw": {
+    "address": "Jalan Tengah Parit 7, 45400 Sekinchan, Selangor, Malaysia 45400",
+    "contact": "019-6456911",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.516561,
+      "longitude": 101.094804
+    },
+    "name": "MASJID PARIT 9 BAN 2",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "47c1e20f-a57a-4a9a-8fde-f5c150b57881",
+    "geohash": "w0xuh2nvrw",
+    "remarks": "Masjid ini telah dibina pada tahun 60an dan dirasmikan oleh DYMM Sultan Selangor pada tanggal       01/01/1970.",
+    "source_musolla_id": "MY-10-SB-00183",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf, van jenazah dan bilik mesyuarat."
+  },
+  "w0xuedu15b": {
+    "address": "Panchang Bendena, 45300 Sungai Besar, Selangor, Malaysia 45300",
+    "contact": "012-2108064",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.618796,
+      "longitude": 101.057905
+    },
+    "name": "MASJID MA'MUNIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "37018d9e-7cab-4e9f-ad21-1f06acf5dc47",
+    "geohash": "w0xuedu15b",
+    "remarks": "Masjid Al-Maâ€™muniah ialah masjid yang terbesar di daerah Sabak Bernam, Selangor. Masjid ini siap dibina pada tahun 2006 Masihi dan mampu memuatkan seramai 1,500 jemaah dalam satu-satu masa. Masjid ini telah dirasmikan oleh Sultan Sharafuddin Idris Shah.",
+    "source_musolla_id": "MY-10-SB-00169",
+    "provision": "Ia dilengkapi dengan pelbagai kemudahan untuk keselesaan para jemaah, seperti dewan solat dua tingkat yang berasingan bagi keperluan jemaah lelaki dan wanita, dewan serba guna, perpustakaan dan ruang pejabat."
+  }
+}

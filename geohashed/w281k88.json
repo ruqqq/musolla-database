@@ -1,0 +1,19 @@
+{
+  "w281k88rcj": {
+    "address": "Kawasan 1, 41000 Klang, Selangor, Malaysia 41000",
+    "contact": "019-2515566",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.036332,
+      "longitude": 101.448142
+    },
+    "name": "MASJID teluk menegun",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fd0f25f9-f8e2-4786-8031-5309d1b8b627",
+    "geohash": "w281k88rcj",
+    "remarks": "Maasjid ini telah dirasmikan oleh YAB Dato' Abu Sujak Hj. Mahmud pada 05/10/1991.",
+    "source_musolla_id": "MY-10-KLG-00200",
+    "provision": "Antara kemudahan yang tyerdapat dimasjid ini ialah van jenazah, dewan kuliah, alat penghawa dingin  dan ruang solat yang selesa."
+  }
+}

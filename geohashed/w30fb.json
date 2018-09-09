@@ -1,0 +1,49 @@
+{
+  "w30fb0crsb": {
+    "address": "Sering, Kelantan, Malaysia 16150",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.113806,
+      "longitude": 102.306608
+    },
+    "name": "MASJID MUKIM JEMBAL TO'KU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "81cbe380-807f-4244-a03a-8ab17886fd35",
+    "geohash": "w30fb0crsb",
+    "source_musolla_id": "MY-03-KB-00394",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.Di samping itu,terdapat pejabat dan bilik imam."
+  },
+  "w30fbcnet0": {
+    "address": "Kampung Wakaf Zin, Tawang, Kelantan, Malaysia 16320",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.114494,
+      "longitude": 102.346798
+    },
+    "name": "MASJID MUKIM SESENAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c3c66aa7-07a8-48b4-847e-38bddbbc5c56",
+    "geohash": "w30fbcnet0",
+    "remarks": "Masjid dibina pada tahun 1960 dan pernah dirasmikan oleh Tengku Tan Sri Ghazali Hamzah yang pada ketika itu beliau adalah Menteri Kewangan Mlalaysia. Masjid ini dibina diatas tanah orang yang diwakafkan untuk membina masjid. Pada asalnya masjid ialah sebuah surau dan telah dinaiktaraf menjadi sebuah masjid. Pengasas masjid ini adalah Tengku Razaleigh",
+    "source_musolla_id": "MY-03-BCK-00478",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan."
+  },
+  "w30fb0y4ve": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.113011,
+      "longitude": 102.313169
+    },
+    "name": "MASJID MUKIM BUDI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "67b928d4-511c-41b9-a5e5-693edd067f9d",
+    "geohash": "w30fb0y4ve",
+    "remarks": "Masjid dibina pada tahun 2002 dan siap pada 2004. Masjid  pernah dirasmikan oleh Tuan Guru Nik Abdul Aziz bin Nik Mat pada tahun 2009. Masjid dibina diatas tanah orang yang diwakafkan untuk membina masjid dan dikhaskan untuk membina masjid dan Pasti.. Pengasas masjid ini ialah Tuan Haji Raja Sulaiman dan Raja Saadon",
+    "source_musolla_id": "MY-03-BCK-00758",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai bilik iama dan bilal untuk kemudahan anggota  AJK masjid. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan."
+  }
+}

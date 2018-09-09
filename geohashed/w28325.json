@@ -1,0 +1,19 @@
+{
+  "w28325745r": {
+    "address": "Jalan Industri USJ 1/10, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia 47600",
+    "contact": "0122407550",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.050464,
+      "longitude": 101.605827
+    },
+    "name": "MASJID AL-IRSYAD",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6c1cb981-f751-44c4-968d-c297e84e9c5b",
+    "geohash": "w28325745r",
+    "remarks": "Masjid ini merupakan masjid pertama di USJ 1. Ia dibina untuk menampung jemaah yang pesat bertambah berikutan dari surau yang sedia ada tidak dapat menampung kapasiti penduduk.",
+    "source_musolla_id": "MY-10-PTG-00383",
+    "provision": "Masjid ini mempunyai ruang yang luas, bilik mandi, bilik tetamu dan juga ruang pejabat."
+  }
+}

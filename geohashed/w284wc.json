@@ -1,0 +1,18 @@
+{
+  "w284wczytj": {
+    "address": "Kampung Bunga Raya, 48000 Rawang, Selangor, Malaysia 48000",
+    "contact": "03-60383246",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.262709,
+      "longitude": 101.557493
+    },
+    "name": "MASJID AL -ISLAHIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "582f0cec-4f7a-4d81-9b6d-49a6e1d60e8c",
+    "geohash": "w284wczytj",
+    "source_musolla_id": "MY-10-GBK-00073",
+    "provision": "Antara kemudahan yang terdapat di masjid tempat letak kereta, ruang solat untuk lelaki dan perempuan, rumah imam, tempat pengurusan jenazah,bilik stor dan pejabat."
+  }
+}

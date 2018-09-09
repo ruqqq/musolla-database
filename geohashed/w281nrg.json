@@ -1,0 +1,19 @@
+{
+  "w281nrg2d9": {
+    "address": "Seksyen 25, Taman Sri Muda, Shah Alam, Selangor, Malaysia 40400",
+    "contact": "014-6283266",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.030949,
+      "longitude": 101.529231
+    },
+    "name": "MASJID TAMAN SERI MUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "03169909-588f-4c5f-8009-f72421af971c",
+    "geohash": "w281nrg2d9",
+    "remarks": "Masjid ini dibina hasil daripada permintaan penduduk kerana hanya terdapat 2 surau di kawasan tersebut.",
+    "source_musolla_id": "MY-10-KLG-00196",
+    "provision": "Kemudahan yang terdapat pada masjid ini ialah bilik mesyuaray, kelas Fardhu 'ain dan ruang rumput untuk aktiviti luar."
+  }
+}

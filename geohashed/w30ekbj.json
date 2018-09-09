@@ -1,0 +1,33 @@
+{
+  "w30ekbjute": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.19708,
+      "longitude": 102.169998
+    },
+    "name": "MASJID MUKIM SELEHOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e84d8cb8-5e2a-4e86-bb50-c97538494da9",
+    "geohash": "w30ekbjute",
+    "remarks": "Masjid ini masih lagi dalam proses pengubahsuaian bagi ruang solat utama yang masih lagi berjalan.Dana bagi proses pengubahsuaian tersebut ialah hasil daripada sumbangan penduduk kampung dan sumbangan ikhlas orang ramai.",
+    "source_musolla_id": "MY-03-TPT-00497",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa."
+  },
+  "w30ekbjutk": {
+    "address": "Tumpat, Kelantan, Malaysia 16200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.197086,
+      "longitude": 102.169995
+    },
+    "name": "MASJID KARIAH MUKIM CABANG EMPAT TOK MEK NGAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "be3fe399-be4f-41d7-8fae-81fbcb09e3cc",
+    "geohash": "w30ekbjutk",
+    "source_musolla_id": "MY-03-TPT-00519",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa. \nMasjid ini juga menyediakan pejabat bagi menguruskan urusan pentadbiran. Selain itu.terdapat bilik mensyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid. Bilik imam dan bilal turut disediakan untuk sebagai tempat penginapan imam dan bilal.Terdapat juga tandas OKU dan dapur di masjid ini."
+  }
+}

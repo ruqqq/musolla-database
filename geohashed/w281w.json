@@ -1,0 +1,35 @@
+{
+  "w281w0mnfj": {
+    "address": "Seksyen 10 Taman Seni Islam, Shah Alam, Selangor, Malaysia 40100",
+    "contact": "03 55199988",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.078734,
+      "longitude": 101.52063
+    },
+    "name": "MASJID SULTAN SALAHUDIN ABDUL AZIZ SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ceb90224-eb69-4e37-8c1c-837fc8a22d16",
+    "geohash": "w281w0mnfj",
+    "remarks": "Masjid Negeri Selangor yang dikenali sebagai Masjid Sultan Salahuddin Abdul Aziz Shah, merupakan salah satu lambang yang menyemarakkan keagungan agama Islam dan kedaulatan penganut Islam di Malaysia. Acara perasmiannya pada 11 Mac 1988, bersamaan dengan 23 Rejab 1408 Hijrah yang telah disempurnakan oleh Duli Yang Maha Mulia, Sultan Selangor Darul Ehsan telah menempa sejarah bukan sahaja kepada DYMM Sultan, tetapi juga kepada rakyat Selangor seluruhnya. Sebagai Ketua Agama, DYMM Sultan telah mengikut sunnah Nabi Muhammad s.a.w dengan mengilhamkan pembinaan masjid ini. Masjid Negeri Selangor, pada masa kini merupakan masjid yang terbesar di Asia Tenggara.\r\n\r\nMasjid ini terletak di bahagian utara tebing Tasik Shah Alam, di kawasan yang lebih tinggi dan sesuai dengan pembinaan masjid yang dianggap penting ini. Ia menjadi satu keperluan kepada penduduk Shah Alam yang sentiasa bertambah dari semasa ke semasa. Dianggarkan masjid ini dapat memuatkan kira-kira 24,000 jemaah dalam satu masa.",
+    "source_musolla_id": "MY-10-PTG-00001",
+    "provision": "Masjid ini juga mempunyai beberapa perkhidmatan lain seperti Kaunter Pungutan Zakat, Kemudahan Kelas Pengajian Umum, Kemudahan Perpustakaan, Kemudahan Khidmat Pengurusan Jenazah, Kemudahan Khidmat Nasihat serta Masalah Agama, kemudahan Bilik Seminar, Kedai Serta Gerai Makanan, cenderahati dan lain-lain. Kemudahan WIFI juga disediakan kepada pengunjung."
+  },
+  "w281wuuczw": {
+    "address": "Jalan Sastera U2/1, Taman Tun Dr Ismail Jaya, 40150 Shah Alam, Selangor, Malaysia 40150",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.102598,
+      "longitude": 101.553486
+    },
+    "name": "MASJID AL - I'TISAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2d9869d6-a71d-44c0-a3bb-279a880a850d",
+    "geohash": "w281wuuczw",
+    "remarks": "Di bantu penduduk setempat melakukan pembinaan pagar masjid setelah masjid siap. Masjid ini merupakan masjid utama di kawasan TTDI Jaya Shah Alam sebelum pembinaan beberapa surau dikawasan itu.",
+    "source_musolla_id": "MY-10-PTG-00243",
+    "provision": "Masjid ini menyediakan kelas Fardu Ain pada musim cuti sekolah. Terdapat bumbung berteduh sepenuhnya di seluruh dalam masjid dan bilik pengajian yang sempurna."
+  }
+}

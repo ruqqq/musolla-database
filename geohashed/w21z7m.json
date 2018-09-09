@@ -11,7 +11,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:26.699Z",
     "uuid": "4db6cbe7-273a-4d8f-b9fd-16b1555ef49a",
-    "geohash": "w21z7mntqm"
+    "geohash": "w21z7mntqm",
+    "remarks": "This is another old generation masjid built from donation from a wealthy lady named Fatimah. Located in the Central district, it was completed in 1846. the masjid bears the imprint of colonial architect J T Thomson, is a charming blend of local and European architecture. It is today one of Singapore’s national monuments. Extensive renovation work was carried out several years ago in which its leaning minaret was righted. The masjid, which can accommodate up to 600 people offers religious lectures on an ad-hoc basis. It is particularly popular among office workers in Jalan Sultan area",
+    "mosqueType": "Wakaf"
   },
   "w21z7ms6tv": {
     "address": "471 Victoria Street, Singapore 198370",
@@ -25,7 +27,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:18.682Z",
     "uuid": "d263595e-163b-4ea5-8847-22bfce7f1492",
-    "geohash": "w21z7ms6tv"
+    "geohash": "w21z7ms6tv",
+    "remarks": "One can hardly miss this blue-tiled building adorned with gold-coloured domes located at the junction of Victoria Street and Jalan Sultan. This redeveloped masjid was first built in 1918. in 1962, it underwent major rebuilding into what it is today. Located in the Central part of the island, it serves the needs of office workers around the area and has a capacity of 1000 people. Besides religious classes, it organizes zikir sessions.",
+    "mosqueType": "Leasehold"
   },
   "w21z7m5crz": {
     "address": "3 Muscat Street, Singapore 198833",
@@ -47,6 +51,8 @@
         "createdAt": "2015-05-26T11:17:31.266Z",
         "updatedAt": "2015-06-01T04:11:23.386Z"
       }
-    ]
+    ],
+    "remarks": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+    "mosqueType": "Wakaf"
   }
 }

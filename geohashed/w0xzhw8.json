@@ -1,0 +1,17 @@
+{
+  "w0xzhw83ss": {
+    "address": "Sungai Manik, Perak, Malaysia 36000",
+    "contact": "05 6223992",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.078958,
+      "longitude": 101.096732
+    },
+    "name": "MASJID PARIT 2B",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5e1dc5cf-88cf-4ee7-906c-b860c3bc6261",
+    "geohash": "w0xzhw83ss",
+    "source_musolla_id": "MY-08-HP-00257"
+  }
+}

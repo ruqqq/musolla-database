@@ -1,0 +1,34 @@
+{
+  "w22pvrt80s": {
+    "address": "23 Jalan Semilang 2, Taman Seri Putra, 42700 Banting, Selangor, Malaysia 42700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.809775,
+      "longitude": 101.488292
+    },
+    "name": "MASJID JAMEK AS SOLIHIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f5a78e0c-948f-4be0-a0a2-1a262c47918f",
+    "geohash": "w22pvrt80s",
+    "remarks": "Didirikan di atas tanah kerajaan dan dibina secara gotong royong yang diketuai oleh En.Rihan. Pada 1935 dipindahkan ke tapak baru (sekarang). Pada 1960, masjid baru telah didirikan menggunakan peruntukan kerajaan dan sumbangan orang ramai dengan kos RM 104 ribu. Diisytihar sebagai Masjid Daerah dan terdapat 18 buah surau di bawah pentadbiran masjid ini.",
+    "source_musolla_id": "MY-10-KL-00004",
+    "provision": "Masjid ini mempunyai ruang parkir yang luas dan boleh menampung lebih kurang 50 biji kenderaan pada satu masa. Ianya juga dilengkapi dengan ruang solat yang besar dan tempat wudhuk yang selesa."
+  },
+  "w22pvx8jzq": {
+    "address": "Jalan Merpati 3, Taman Setia Jaya, 42700 Banting, Selangor, Malaysia 42700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.810778,
+      "longitude": 101.492018
+    },
+    "name": "MASJID AT-TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e247997a-c5b3-4567-9df1-7ad93a54feca",
+    "geohash": "w22pvx8jzq",
+    "remarks": "Masjid ini dibina pada tahun 1970an bagi memenuhi keperluan penduduk Pekan Banting mengerjakan ibadah solat jumaat dan solat berjemaah. Ianya telah dirasmikan oleh DYMM Sultan Sallehuddin Abd Aziz Shah pada tanggal 10/2/1984.",
+    "source_musolla_id": "MY-10-KL-00110",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah,  ruangan solat yang selesa untuk sembahyang,  tempat  wuduk dan pondok  tempat berehat"
+  }
+}

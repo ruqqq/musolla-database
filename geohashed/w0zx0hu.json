@@ -1,0 +1,16 @@
+{
+  "w0zx0huktq": {
+    "address": "Kampung Naga Lilit, Naga Lilit, Kedah, Malaysia 09400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.476121,
+      "longitude": 100.552945
+    },
+    "name": "JANNATUL MA'WA nagalilit",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "508a74a6-9339-46a3-bf15-1c542e8306e7",
+    "geohash": "w0zx0huktq",
+    "source_musolla_id": "MY-02-KLM-00357"
+  }
+}

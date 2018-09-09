@@ -1,0 +1,32 @@
+{
+  "w0zrhm9sbm": {
+    "address": "Mukim 7, Butterworth, Pulau Pinang, Malaysia 13050",
+    "contact": "04-3519621",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.480276,
+      "longitude": 100.384158
+    },
+    "name": "MASJID DAERAH SEBERANG PERAI UTARA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c2e1239d-c89d-42e5-a84f-0d54b7b48be6",
+    "geohash": "w0zrhm9sbm",
+    "source_musolla_id": "MY-07-BTW-00004",
+    "provision": "KEMUDAHAN WIFI\r\nRUANGAN PARKIR"
+  },
+  "w0zrhr1pw9": {
+    "address": "Mukim 7, Butterworth, Pulau Pinang, Malaysia 13050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.488965,
+      "longitude": 100.383733
+    },
+    "name": "MASJID TELOK AIR TAWAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0956a9d4-d83c-4992-85b2-d0451755f857",
+    "geohash": "w0zrhr1pw9",
+    "source_musolla_id": "MY-07-BTW-00090"
+  }
+}

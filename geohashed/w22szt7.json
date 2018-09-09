@@ -1,0 +1,18 @@
+{
+  "w22szt7bje": {
+    "address": "Bukit Baru, Ayer Keroh, Melaka, Malaysia 75450",
+    "contact": "06-2312581",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.270071,
+      "longitude": 102.28811
+    },
+    "name": "MASJID AL-ALAMI (MITC)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a401a9fc-ab90-45af-a880-a89872095c62",
+    "geohash": "w22szt7bje",
+    "remarks": "Masjid Al-Alami, MITC, Melaka mula dibina pada 17 September 2001\ndi atas kawasan seluas 22 ekar. Masjid disiapkan pada 30 Julai 2003\ndengan kos pembinaan sebanyak RM7.5 juta. Masjid yang boleh\nmemuatkan seramai 2,500 orang jemaah ini telah disempurnakan\nperasmiannya oleh Y.A.B. Datuk Seri Haji Abdullah bin Ahmad\nBadawi, Perdana Menteri Malaysia pada 19 Oktober 2004\nbersamaan 5 Ramadhan 1425H.",
+    "source_musolla_id": "MY-04-MT-00003"
+  }
+}

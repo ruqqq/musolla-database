@@ -1,7 +1,7 @@
 {
   "w21z39pt8t": {
     "address": "2 Lorong Sarhad, Singapore 119173",
-    "contact": "6479 6442",
+    "contact": "4479 6442",
     "createdAt": "2014-12-23T06:50:22.447Z",
     "location": {
       "latitude": 1.280882,
@@ -11,7 +11,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:03.616Z",
     "uuid": "30ff9dbc-82d9-4c35-ace9-4fbc48ec529d",
-    "geohash": "w21z39pt8t"
+    "geohash": "w21z39pt8t",
+    "remarks": "Originally a typical kampung mosque built in 1934 on a piece of land given by a Mr Ahmat Yahya, the mosque has been redeveloped with better facilities.   Located in the Central part of the island, the masjid serves the residents and workers around the area",
+    "mosqueType": "Wakaf"
   },
   "w21z3w65bk": {
     "address": "500 Dover Road S(139651)",
@@ -50,20 +52,6 @@
     "uuid": "af4660c2-804c-41ef-80ac-4683a2219d4c",
     "type": "Musolla",
     "geohash": "w21z3ket7p"
-  },
-  "w21z37h711": {
-    "address": "394 Pasir Panjang Road, Singapore 118730",
-    "contact": "",
-    "createdAt": "2014-12-23T06:50:22.547Z",
-    "location": {
-      "latitude": 1.291418,
-      "longitude": 103.771756
-    },
-    "name": "Hussain Sulaiman Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:56:15.786Z",
-    "uuid": "499c79f1-2ecb-4099-81df-193d7f86b75e",
-    "geohash": "w21z37h711"
   },
   "w21z37sjrv": {
     "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
@@ -198,20 +186,6 @@
     "type": "Musolla",
     "geohash": "w21z3eg0gc"
   },
-  "w21z3ysgrh": {
-    "address": "39 Lorong Liput, Singapore 277746",
-    "contact": "6462 0112",
-    "createdAt": "2014-12-23T06:50:22.280Z",
-    "location": {
-      "latitude": 1.310703,
-      "longitude": 103.79467
-    },
-    "name": "Kampong-Holland  Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:25.679Z",
-    "uuid": "8901cc32-c475-4b9a-94e7-b9fa22426c58",
-    "geohash": "w21z3ysgrh"
-  },
   "w21z3k6mfj": {
     "address": "81 Clementi Road, Singapore 129797",
     "contact": "6776 5612",
@@ -224,7 +198,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:20.773Z",
     "uuid": "5a59c0ad-4475-41a1-ba70-2fb035f25a9b",
-    "geohash": "w21z3k6mfj"
+    "geohash": "w21z3k6mfj",
+    "remarks": "Built in 1961 by Muslim members of the British army, this old generation masjid was renamed Tentera Di Raja in recognition of their contributions. Located in the West and close to the National University of Singapore, it is distinguished by its minaret topped by a gold-painted dome. With a capacity of 1000 people, its newly-set up Youth Wing whose members are mostly undergraduates has recently embarked on a tuition scheme called EMAS (English, Maths and Science) for primary six children.",
+    "mosqueType": "TOL"
   },
   "w21z3fz13s": {
     "address": "100 Jalan Hang Jebat, Singapore 139533",
@@ -238,7 +214,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:12.825Z",
     "uuid": "453eb561-e362-4d0e-9a25-c89f20b4a21e",
-    "geohash": "w21z3fz13s"
+    "geohash": "w21z3fz13s",
+    "remarks": "From a small surau, this old generation masjid has grown into what it is today. Built in 1952, this zinc-roofed masjid underwent major renovations in 1996 to expand on its prayer hall. Today it can accommodate 600 worshippers. Located in the Central part of the island, the masjid offers weekend madrasah classes to students living around Queenstown area. It also organizes zikir sessions where praises to Allah are recited.",
+    "mosqueType": "TOL"
   },
   "w21z3s4xe1": {
     "address": "S16 Science Drive 2, Faculty of Science 6 (S), 117546",
@@ -334,5 +312,21 @@
         "updatedAt": "2015-08-27T09:12:56.322Z"
       }
     ]
+  },
+  "w21z375fmt": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": null,
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.29131,
+      "longitude": 103.77126
+    },
+    "name": "Hussein Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "c376d55c-0b35-4668-9f8f-2b80e5dcf5aa",
+    "geohash": "w21z375fmt",
+    "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
+    "mosqueType": "Leasehold"
   }
 }

@@ -1,0 +1,32 @@
+{
+  "w280svkxmc": {
+    "address": "Kampung Sijangkang, Telok Panglima Garang, Selangor, Malaysia 42500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.930483,
+      "longitude": 101.465174
+    },
+    "name": "MASJID JAMIATUL  ISLAMIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "85fd5f74-9648-4656-8390-cb5e2a77f19f",
+    "geohash": "w280svkxmc",
+    "source_musolla_id": "MY-10-KL-00354",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah dan  ruangan solat yang luas, kantin dan pondok rehat."
+  },
+  "w280sfr0yv": {
+    "address": "42500 Telok Panglima Garang, Selangor, Malaysia 42500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.912911,
+      "longitude": 101.468647
+    },
+    "name": "MASJID AL HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "88362ffb-5c40-46fc-b147-b2767aba61fd",
+    "geohash": "w280sfr0yv",
+    "source_musolla_id": "MY-10-KL-00103",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  dua van jenazah dan urusan jenazah dan  ruangan solat yang luas."
+  }
+}

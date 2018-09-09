@@ -1,0 +1,50 @@
+{
+  "w0xz76krwk": {
+    "address": "Labu Kubong, Perak, Malaysia 36600",
+    "contact": "013 3639117",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.100586,
+      "longitude": 101.047371
+    },
+    "name": "MASJID AL - ANSAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d608d874-21d5-4851-96e4-ca132e4ba307",
+    "geohash": "w0xz76krwk",
+    "remarks": "Sebelum tahun 1968, telah ada bangunan lama yang didirikan secara bergotong royong oleh penduduk kariah yang melibatkan 3 orang ketua kampung (Parit 4/7 RL, Parit 5/7 RL dan Parit 1,2,3/7R). \r\nBangunan tersebut hanya diperbuat daripada kayu, papan dan zink. \r\nPembinaan masjid tersebut mendapat sokongan daripada wakil rakyat YB Dato' Yahya Subban (Ahli DUN Sg. Manik/Labu Kubong.\r\nPeruntukan telah diperolehi pada bulan Januari 1968 dengan keluasan 40x60 kaki persegi.\r\nKini, masjid telah diperbesar untuk menampung bilangan jemaah yang semakin ebrtambah dari masa ke semasa.",
+    "source_musolla_id": "MY-08-HP-00200",
+    "provision": "-TEMPAT WUDHU\r\n-TELEKUNG\r\n-SEJADAH\r\n-BILIK MESYUARAT\r\n-BILIK PEGAWAI MASJID\r\n-PEJABAT MASJID\r\n-RUANG MAKAN\r\n-RUANG MEMASAK\r\n-PARKIR\r\n-TANDAS AWAM\r\n-KERUSI ORANG KURANG UPAYA"
+  },
+  "w0xz7hd3wm": {
+    "address": "Labu Kubong, Perak, Malaysia 36600",
+    "contact": "012 2948431",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.111919,
+      "longitude": 101.033638
+    },
+    "name": "MASJID JAMEK SIMPANG 4 ( BALAI POLIS)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e2c6b2b3-97b1-4607-ac44-19b7fd0da298",
+    "geohash": "w0xz7hd3wm",
+    "remarks": "tahun 1948-masjid terawal dibina di atas sebidang tanah yang telah dianugerahkan oleh kerajaan pada masa itu.binaan hanyalah dari bahan yang dikumpulkan oleh penduduk disekitarnya, ianya bertiangkan kayu hutan,berdindingkan pelepaj bertam dan berbumbungkan zink. maklumat ini didapati daripada temubual dengan warga tua yang ada pada waktu itu.\r\n\r\ntahun 1960an- sebuah masjid dibina semula di atas tapak yang sama. binaan masjid ini telah dibina dengan berdindingkan sebahagian kayu dan batu bata, lantai dinaikkan kurang lebih satu meter dan berbumbungkan esbestos. masjid ini telah digunakan sehingga bulan julai 2012 sehingga mendapat kebenaran bagi laluan membina masjid baru ditapak itu juga.\r\n\r\npada bulan julai 2012-masjid lama mula dirobohkan dan bermulalah kerja-kerja pembinaan masjid yang baru dengan kerja menaikkan tapak dan seterusnya pembinaan masjid yang baru. kerajan persekutuan bersetuju memberi peruntukan sebanyak rm3,000,000 bagi pembinaan masjid baru dan mulai 27 ramadhan 1435 hijrah ianya mula digunakan dengan menunaikan solat waktu dan solat terawih.",
+    "source_musolla_id": "MY-08-HP-00244"
+  },
+  "w0xz7h3zt1": {
+    "address": "Labu Kubong, Perak, Malaysia 36600",
+    "contact": "0175676560",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.111554,
+      "longitude": 101.032895
+    },
+    "name": "MASJID AL - HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a8fa74dd-bcbb-4cbd-be74-dc80f857d4f8",
+    "geohash": "w0xz7h3zt1",
+    "source_musolla_id": "MY-08-HP-00208"
+  }
+}

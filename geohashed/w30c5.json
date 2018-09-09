@@ -1,0 +1,34 @@
+{
+  "w30c5j12np": {
+    "address": "Bukit Awang, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.828287,
+      "longitude": 102.438508
+    },
+    "name": "MASJID MUKIM GONG CHENGAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0959f342-1130-430d-8aec-c6f0db65efc3",
+    "geohash": "w30c5j12np",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Daud b. Salleh.Dana ialah sumbangan daripada kerajaan pusat.Masjid ini diasaskan oleh Awang b. Hamzah.",
+    "source_musolla_id": "MY-03-PP-00421",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa."
+  },
+  "w30c570ptc": {
+    "address": "Kampung Sungai Petai, Bukit Awang, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.818558,
+      "longitude": 102.447757
+    },
+    "name": "MASJID MUKIM PULAU LIMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5e088610-f62e-46db-ad44-d177abb7d016",
+    "geohash": "w30c570ptc",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Mat Min b. Jusoh.Dana masjid ini telah disumbangkan Perdana Menteri pada masa itu sebanyak RM500,000.Masjid ini telah diasaskan oleh Haji Awang b. Salleh.",
+    "source_musolla_id": "MY-03-PP-00530",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa."
+  }
+}

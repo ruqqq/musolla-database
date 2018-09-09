@@ -1,0 +1,18 @@
+{
+  "w28386eexd": {
+    "address": "SS 9A, Petaling Jaya, Selangor, Malaysia 47300",
+    "contact": "0192336296",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.090519,
+      "longitude": 101.617687
+    },
+    "name": "MASJID AL-RIDHWANI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "15e2bb6a-4926-4494-8b8d-96bd2a6158c5",
+    "geohash": "w28386eexd",
+    "source_musolla_id": "MY-10-PTG-00272",
+    "provision": "Antara kemudahan yang terdapat ialah ruang dsolat berhawa dingin, ruang wuduk,van jenazah,bilik iman dan bilal dan sebagainya."
+  }
+}

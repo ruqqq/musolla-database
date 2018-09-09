@@ -1,0 +1,19 @@
+{
+  "w284vh0fjg": {
+    "address": "48100 Batu Arang, Selangor, Malaysia 48100",
+    "contact": "0193245366",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.318231,
+      "longitude": 101.47101
+    },
+    "name": "MASJID JAMEK BATU ARANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "95b42cb8-176f-4624-a711-96e0879500dd",
+    "geohash": "w284vh0fjg",
+    "remarks": "Masjid ini dibina pada tahun 70an dan berkonsepkan melayu tradisional.",
+    "source_musolla_id": "MY-10-GBK-00046",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah di dalam kawasan Sekolah Agama Batu Arang, kuarters imam, bilik mesyuarat, ruang solat, stor, dan tempat parking motor berbumbung."
+  }
+}

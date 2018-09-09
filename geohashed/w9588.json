@@ -1,0 +1,78 @@
+{
+  "w9588jkx6v": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.428177
+    },
+    "name": "MASJID BABUS SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebc8a446-0d08-4ee1-ba59-a2bb2b48f624",
+    "geohash": "w9588jkx6v",
+    "remarks": "Kos pembinaan rm27,000 sahaja  separuh konkrit ,papan.",
+    "source_musolla_id": "MY-12-BLR-00031"
+  },
+  "w9588pzr82": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.756755,
+      "longitude": 117.431849
+    },
+    "name": "MASJID NURUL IMAN KG. TEMBIDONG-BIDONG BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "261a14ec-00e6-4f4b-af20-964d2bc489e0",
+    "geohash": "w9588pzr82",
+    "source_musolla_id": "MY-12-BLR-00027"
+  },
+  "w9588h1xvf": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.736206,
+      "longitude": 117.424185
+    },
+    "name": "MASJID AL-AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4e0a1565-f230-4696-8f37-014d66d6cc51",
+    "geohash": "w9588h1xvf",
+    "source_musolla_id": "MY-12-BLR-00028"
+  },
+  "w9588jkrkm": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.427898
+    },
+    "name": "MASJID MUNAWWARATUL IKHWAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b9c7e8bb-1ba7-400e-9696-01e590c3dfd5",
+    "geohash": "w9588jkrkm",
+    "source_musolla_id": "MY-12-BLR-00030"
+  },
+  "w9588jkr6j": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.427801
+    },
+    "name": "MASJID DARUS SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "15d969fa-de1f-4d9b-821c-3703e0701fc8",
+    "geohash": "w9588jkr6j",
+    "source_musolla_id": "MY-12-BLR-00032"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "w281p53vet": {
+    "address": "Seksyen 28, Taman Alam Megah, Shah Alam, Selangor, Malaysia 40400",
+    "contact": "0163151927",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.007108,
+      "longitude": 101.560181
+    },
+    "name": "MASJID AL - FAIZIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9bc52955-40cf-44a0-993c-a06b5e810c9a",
+    "geohash": "w281p53vet",
+    "remarks": "Masjid ini dibina bukan sekadar tempat beribadah tetapi juga untuk penduduk setempat melakukan aktiviti yang sihat.",
+    "source_musolla_id": "MY-10-PTG-00251",
+    "provision": "Kemudahan yang terdapat pada masjid ini ialah ruang parkir motorsikal yang panjang serta tempat memgambil wuduk yang banyak."
+  }
+}

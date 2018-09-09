@@ -1,0 +1,18 @@
+{
+  "w283d3rhdf": {
+    "address": "Desa Petaling, Kuala Lumpur, Wilayah Persekutuan, Malaysia 57100",
+    "contact": "03-90563851",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.083823,
+      "longitude": 101.710178
+    },
+    "name": "MASJID AL-KHASYI'IN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c8c5a3bb-dc86-4f7e-bdc7-077d9690c869",
+    "geohash": "w283d3rhdf",
+    "source_musolla_id": "MY-14-WKL-00040",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mandi jenazah,dewan,pejabat,bilik mesyuarat,pondok pengawal di pintu masuk masjid dan masjid ini juga di lengkapi dengan kamera litar tertutup (CCTV )."
+  }
+}

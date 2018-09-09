@@ -1,16 +1,18 @@
 {
-  "w21ze32v3v": {
+  "w21ze32wkx": {
     "address": "76 Kim Keat Road, Singapore 328835",
     "contact": "6255 8262",
-    "createdAt": "2014-12-23T06:50:21.885Z",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.326157,
-      "longitude": 103.85487
+      "latitude": 1.32634,
+      "longitude": 103.85465
     },
-    "name": "Hajjah Rahimabi Kebun Limau Mosque",
+    "name": "Hajjah Rahimabi Mosque",
     "type": "Mosque",
-    "updatedAt": "2015-06-17T15:57:05.478Z",
-    "uuid": "d67e8436-1e02-4ca3-a114-bfb2b17ff141",
-    "geohash": "w21ze32v3v"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4a8392f9-0ab5-4942-a817-b431d50de769",
+    "geohash": "w21ze32wkx",
+    "remarks": "Built from donation by Hajjah Rahima Bee Ahmad Angullia, this masjid was redeveloped from an existing masjid, which had been around since 1960. the redeveloped masjid, which was completed in 1984, was renamed after the donor. Located in the Central part of the island, it is one of the several mosques which have pulpits decorated with woodcarvings. With a capacity of about 500 worshippers, it organizes Iqra’ and Mukaddam (Quran reading) courses.",
+    "mosqueType": "Leasehold"
   }
 }

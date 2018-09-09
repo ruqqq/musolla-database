@@ -1,0 +1,18 @@
+{
+  "w28640xvgq": {
+    "address": "42 Jalan Raja Muda Abdul Aziz, Chow Kit, 50300 Kuala Lumpur, Wilayah Persekutuan, Malaysia 50300",
+    "contact": "03-42705240",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.167833,
+      "longitude": 101.700243
+    },
+    "name": "MASJID JAMEK PAKISTAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6720d062-1d88-4175-a993-d19175d7af06",
+    "geohash": "w28640xvgq",
+    "source_musolla_id": "MY-14-WKL-00034",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir,  ruangan solat yang luas, kantin pakistan dan rumah pegawai masjid."
+  }
+}

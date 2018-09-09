@@ -1,0 +1,16 @@
+{
+  "w0zq23kt3q": {
+    "address": "Mukim J Dataran Genting, Balik Pulau, Pulau Pinang, Malaysia 11000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.325187,
+      "longitude": 100.212533
+    },
+    "name": "MASJID KAMPONG TERANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "815db6a4-883c-4884-9c9b-ad4066211123",
+    "geohash": "w0zq23kt3q",
+    "source_musolla_id": "MY-07-BD-00047"
+  }
+}

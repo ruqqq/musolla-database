@@ -1,0 +1,33 @@
+{
+  "w30d0w0tm2": {
+    "address": "Rantau Panjang, Kelantan, Malaysia 17200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.010425,
+      "longitude": 101.97602
+    },
+    "name": "MASJID MUKIM LUBUK SETOL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bbf55a48-842c-42e6-a448-6f1719912f4c",
+    "geohash": "w30d0w0tm2",
+    "source_musolla_id": "MY-03-PM-00155",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.dan berada di luar kawasan masjid."
+  },
+  "w30d0wkb3m": {
+    "address": "Kampung Banggol Kulim, Rantau Panjang, Kelantan, Malaysia 17200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.010966,
+      "longitude": 101.98168
+    },
+    "name": "MASJID MUKIM BANGGOL KULIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "77b6d3a7-31b7-436e-874f-0e5e7589ae6a",
+    "geohash": "w30d0wkb3m",
+    "remarks": "Masjid ini telah dibina sekitar tahun 2000 dan pada masa yang sama terdapat juga pusat tahfiz al-quran dan pengajian agama islam yang mempunyai seramai 100 pelajar yang berada berhampiran dengan masjid ini.Pada masa yang sama masjid ini sentiasa didatangi oleh pelajar pusat kebajikan tersebut.",
+    "source_musolla_id": "MY-03-PM-00536",
+    "provision": "Kemudahan yang istimewa yang berada di masjid ini ialah tandas VVIP yang dibina hanya untuk kegunaan orang kenamaan.Kemudahan lain yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka yang dapat memuatkan 10 buah kenderaan dalam satu masa."
+  }
+}

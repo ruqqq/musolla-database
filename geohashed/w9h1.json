@@ -1,0 +1,16 @@
+{
+  "w9h12kyu5b": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.871511,
+      "longitude": 118.145427
+    },
+    "name": "MASJID NUR ISLAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4c10aeba-7f8e-4ac7-aa92-245d2200d083",
+    "geohash": "w9h12kyu5b",
+    "source_musolla_id": "MY-12-SAN-00137"
+  }
+}

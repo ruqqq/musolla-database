@@ -1,0 +1,17 @@
+{
+  "w0z8gjukpu": {
+    "address": "Pengkalan Baharu, Perak, Malaysia 34900",
+    "contact": "0177455425",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.38288,
+      "longitude": 100.684887
+    },
+    "name": "MASJID SULTAN IDRIS SHAH 1",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ff941615-192a-4205-ba34-ee2453a852f9",
+    "geohash": "w0z8gjukpu",
+    "source_musolla_id": "MY-08-MJG-00050"
+  }
+}

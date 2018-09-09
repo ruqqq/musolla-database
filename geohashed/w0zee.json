@@ -1,0 +1,34 @@
+{
+  "w0zeevj439": {
+    "address": "Taman Saujana Jaya, Asam Kumbang, Perak, Malaysia 34000",
+    "contact": "012-5550973",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.861842,
+      "longitude": 100.71861
+    },
+    "name": "MASJID AL HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c853a4bc-fbd5-40c5-a328-1e3ec8cf74bd",
+    "geohash": "w0zeevj439",
+    "source_musolla_id": "MY-08-TPG-00481"
+  },
+  "w0zeefxfbk": {
+    "address": "Asam Kumbang, Perak, Malaysia 34000",
+    "contact": "012-5151569",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.848215,
+      "longitude": 100.722331
+    },
+    "name": "MASJID JAMEK KPG. BOYAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "77638a81-5fb0-4fe1-9bcf-df80d4db77dd",
+    "geohash": "w0zeefxfbk",
+    "remarks": "surau diri jumaat telah dimulakan pada tahun 1985 dibangunkan madrasah al-taufiqiah jalan raja sulung kampung boyan. cetusan membangunkan masjid di kg boyan adalah disebabkan beberapa peristiwa ahli kariah yang pergi menunaikan solat jumaat di masjid daerah taiping kerap kali ditimpa kemalangan jalan raya. antara lain seorang ahli kariah meninggal akibat kemalangan jalan raya semasa dalam perjalanan ke masjid daerah taiping.pembangunan pesat di kampung boyan menjadikan pertambahan penduduk lebih pantas.taman long jaafar membina lebih dari 300 rumah sekitar tahun 80an. satu kawasan diperuntukkan tapak masjid kg boyan ditengah-tengah taman long jaafar.\r\n\r\njawatankuasa pembinaan masjid telah ditubuhkan untuk memungut derma. setelah beberapa tahun di jalankan kutipan derma dari ahli kariah dan orang ramai telah berjaya mengumpulkan wang berjumlah rm250,000. bermula dari situ ajk telah merayu sumbangan dari kerajaan negeri dan pusat akhirnya berjaya mendapat sumbangan kerajaan pusat berjumlah rm1,000,000. bermula dari tarikh tersebut pembinaan dimulakan. pembinaan masjid jamek kg boyan dilaksanakan oleh pejabat daerah larut matang dan selama bersama-sama ahli jawatankuasa pembinaan masjid jamek kg boyan. pembinaan berjalan lancar hingga siap dibina.",
+    "source_musolla_id": "MY-08-TPG-00486",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-ruang it\r\n-kawasan riadah"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "w281qkmr1g": {
+    "address": "Seksyen 19, Shah Alam, Selangor, Malaysia 40300",
+    "contact": "0123031439",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.056793,
+      "longitude": 101.531953
+    },
+    "name": "MASJID AL - UBUDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "59383060-2a59-426f-a057-a186c4fec37b",
+    "geohash": "w281qkmr1g",
+    "remarks": "Masjid ini dibina selepas beberapa tahun tahun tempat itu siap. Penduduk setempat turut sama menyiapkan kemudahan sampingan masjid secara bergotong-royong dan pembersihan masjid diadakan setiap bulan sejak ia siap.",
+    "source_musolla_id": "MY-10-PTG-00246",
+    "provision": "Kemudahan masjid ini ialah tempat letak kereta, tempat menunggu yang santai di laman masjid."
+  }
+}

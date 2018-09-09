@@ -1,0 +1,17 @@
+{
+  "w957n1pdv0": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.15831,
+      "longitude": 117.344506
+    },
+    "name": "MASJID MUHIBBAH KG. BAKONG-BAKONG BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9e331746-ca66-4bae-aaba-031e1b51c7a0",
+    "geohash": "w957n1pdv0",
+    "source_musolla_id": "MY-12-BLR-00021"
+  }
+}

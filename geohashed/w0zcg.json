@@ -1,0 +1,62 @@
+{
+  "w0zcgrm7xe": {
+    "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
+    "contact": "019-5454492",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.566814,
+      "longitude": 101.0488
+    },
+    "name": "MASJID MENGLEMBU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "49f29bd6-17a7-450d-9778-09e9e693a7fb",
+    "geohash": "w0zcgrm7xe",
+    "source_musolla_id": "MY-08-IPH-00184"
+  },
+  "w0zcgzw5pd": {
+    "address": "Ipoh, Perak, Malaysia 31400",
+    "contact": "012-4576183",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.568095,
+      "longitude": 101.071799
+    },
+    "name": "MASJID AL ABIDIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b8290ccf-c0b3-41fe-a538-fb2fc9980c30",
+    "geohash": "w0zcgzw5pd",
+    "source_musolla_id": "MY-08-IPH-00556"
+  },
+  "w0zcgywjsn": {
+    "address": "Ipoh, Perak, Malaysia 31400",
+    "contact": "017-5994692",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.563053,
+      "longitude": 101.071648
+    },
+    "name": "MASJID KG. PASIR PUTEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "97fa5a69-fba6-4b82-a668-cbbbf47b81be",
+    "geohash": "w0zcgywjsn",
+    "source_musolla_id": "MY-08-IPH-00181"
+  },
+  "w0zcgy922u": {
+    "address": "Ipoh, Perak, Malaysia 31400",
+    "contact": "019-5428386",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.562138,
+      "longitude": 101.064991
+    },
+    "name": "MASJID JAMEK AD-DINIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "441277fc-2fc0-44af-9ba3-53538dbea8bf",
+    "geohash": "w0zcgy922u",
+    "source_musolla_id": "MY-08-IPH-00175"
+  }
+}
