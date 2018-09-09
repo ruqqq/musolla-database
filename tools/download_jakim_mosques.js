@@ -42,6 +42,9 @@ async function main() {
             if (item.desc) {
                 currentData[id].remarks = item.desc;
             }
+            if (item.directions) {
+                currentData[id].directions = item.directions;
+            }
             if (item.provision) {
                 currentData[id].provision = item.provision;
             }
@@ -90,6 +93,7 @@ async function main() {
                 remarks: item.desc,
                 source_musolla_id: item.id,
                 provision: item.provision,
+                directions: item.directions,
             };
             newMosques.push(newItem);
             newMosquesId.push(item.id);

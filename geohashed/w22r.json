@@ -14,7 +14,8 @@
     "geohash": "w22rrz8ec8",
     "remarks": "Telah dibina pada tahun 1966M dan diasaskan oleh Kerajaan Negeri Sembilan di atas tapak yang telah dikurniakan oleh Kerajaan Negeri. Memandangkan bahawa Negeri sembilan pada masa itu belum mempunyai masjid negeri, maka Kerajaan Negeri sembilan di bawah pempinan YAB Tan Sri Dr. Mohd Said bin Muhammad Menteri Besar Negeri Sembilan ketika itu telah bersetuju supaya masjid Negeri dibina dikawasan seluas lebih kurang 2 hektar yang ada sekarang bagi menggantikan Masjid Jamek Bandar Seremban yang tidak dapat menampung para jemaah yang semakin bertambah.    \n\nIa telah dirasmikan oleh Paduka Seri Tuanku yang DiPertuan Besar Negeri Sembilan pada hari jumaat, 24 November 1967.",
     "source_musolla_id": "MY-05-SBN-00001",
-    "provision": "Masjid ini dilengkapi dengan perpustakaan awam  bilik kuliah dan bilik ICT"
+    "provision": "Masjid ini dilengkapi dengan perpustakaan awam  bilik kuliah dan bilik ICT",
+    "directions": "Terletak di tengah-tengah pusat bandar Seremban yang berdekatan dengan Lake Garden serta pejabat kerajaan yang lain."
   },
   "w22rx9j44x": {
     "address": "Seremban, Negeri Sembilan, Malaysia 70200",
@@ -61,7 +62,8 @@
     "uuid": "5a6891d4-77ae-42e3-b134-5846bfc60ed7",
     "geohash": "w22rbrxkrm",
     "source_musolla_id": "MY-10-KL-00234",
-    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  bilik kuliah, alat penghawa dingin, tempat parkir berbumbung dan  ruangan solat yang luas.,"
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  bilik kuliah, alat penghawa dingin, tempat parkir berbumbung dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Labohan Dagang, ditepi jalan utama. ."
   },
   "w22rcnwfmy": {
     "address": "Kampung Rancangan Tanah Belia, Banting, Selangor, Malaysia 42700",
@@ -77,7 +79,8 @@
     "geohash": "w22rcnwfmy",
     "remarks": "Masjid ini telah dibina pada tahun 90an bersesuaian dengan keperluan penduduk penempatan baru Rancangan Tanah Belia. Masjid ini telah dirasmikan oleh DYMM Sultan selangor pada 08/10/1999.",
     "source_musolla_id": "MY-10-KL-00236",
-    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas, dewan, parkir berbumbung, van jenazah dan ruangan solat yang luas.,"
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas, dewan, parkir berbumbung, van jenazah dan ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Rancangan Tanah Belia Bukit Changgang, Banting, berhampiran dengan sekolah Agama."
   },
   "w22ruj4zv0": {
     "address": "Kampung Bukit Kadir, Nilai, Negeri Sembilan, Malaysia 71800",
@@ -126,7 +129,8 @@
     "geohash": "w22rcew92u",
     "remarks": "Masjid Sultan Abdul Samad didirikan sempena pembinaan Lapangan Terbang Antarabangsa Kuala Lumpur. Ia menjadi salah satu mercu tanda negara ini dari pintu masuk laluan udara yang dapat dilihat oleh pelancong-pelancong yang masuk ke negara ini melalui Lapangan Terbang Antarabangsa Kuala Lumpur.",
     "source_musolla_id": "MY-10-SPG-00135",
-    "provision": "Mempunyai pejabat, bilik mesyuarat, stor dan lain- lain."
+    "provision": "Mempunyai pejabat, bilik mesyuarat, stor dan lain- lain.",
+    "directions": "Berdekatan dengan jalan utama"
   },
   "w22ruqjgfd": {
     "address": "Nilai, Negeri Sembilan, Malaysia 71800",
@@ -158,7 +162,8 @@
     "uuid": "375bae53-cca9-4153-81b1-4417d87a8d60",
     "geohash": "w22r48fcrq",
     "source_musolla_id": "MY-10-SPG-00116",
-    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah dan  ruangan solat yang dilengkapi alat penghawa dingin untuk keselesaan mengerjakan ibadah."
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah dan  ruangan solat yang dilengkapi alat penghawa dingin untuk keselesaan mengerjakan ibadah.",
+    "directions": "Masjid ini terletak didalam Pekan Sungai Pelek bersebelahan dengan Public Bank."
   },
   "w22rgkep8x": {
     "address": "Kampung Salak Tinggi, Labu, Selangor, Malaysia 43900",
@@ -174,6 +179,7 @@
     "uuid": "39718af9-b153-48c7-8b04-43bec7579740",
     "geohash": "w22rgkep8x",
     "source_musolla_id": "MY-10-SPG-00120",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah dan bilik mesyuarat."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah dan bilik mesyuarat.",
+    "directions": "Masjid ini terletak di tepi jalan utama ke Sepang dan bersebelahan Sekolah Rendah Agama."
   }
 }

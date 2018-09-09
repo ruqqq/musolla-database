@@ -14,7 +14,8 @@
     "geohash": "w284d5e9c5",
     "remarks": "Masjid ini telah dirasmikan pada 2 Jun 1972.",
     "source_musolla_id": "MY-10-KSR-00342",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik jenazah, bilik mesyuarat,dan dapur."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik jenazah, bilik mesyuarat,dan dapur.",
+    "directions": "Lokasi masjid ini bersebelahan dengan Sekolah Agama Kampung Kuching dan 1 km dari pekan Sungai Buloh."
   },
   "w284d5e9bf": {
     "address": "Jalan Cempaka, 45800 Jeram, Selangor, Malaysia 45800",
@@ -30,7 +31,8 @@
     "uuid": "8f5d339e-0742-4c60-93e1-6f97f13add4d",
     "geohash": "w284d5e9bf",
     "source_musolla_id": "MY-10-KSR-00346",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan van jenazah."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan van jenazah.",
+    "directions": "Lokasi masjid ini berada di dalam kawasan kampung dan berdekatan dengan Sekolah Menengah Maharajalela,"
   },
   "w284dygprf": {
     "address": "Ijok, Selangor, Malaysia 45600",
@@ -47,7 +49,8 @@
     "geohash": "w284dygprf",
     "remarks": "Masjid ini baru saja dibina dan siap pada tahun 2008.",
     "source_musolla_id": "MY-10-KSR-00388",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, pejabat,bilik mesyuarat dan tandas VIP."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, pejabat,bilik mesyuarat dan tandas VIP.",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan."
   },
   "w284d7wmf4": {
     "address": "Jeram, Selangor, Malaysia 45800",
@@ -63,6 +66,7 @@
     "uuid": "02e0abbc-b1db-4f4f-ab32-ea02afffdd12",
     "geohash": "w284d7wmf4",
     "source_musolla_id": "MY-10-KSR-00347",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, Sekolah Agama Rakyat Al hidayah dan wakaf untuk berehat."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, Sekolah Agama Rakyat Al hidayah dan wakaf untuk berehat.",
+    "directions": "Masjid ini terletak bersebelahan dengan Balai Polis Bukit Kuching dan berada di dalam kawasan perkampungan melayu."
   }
 }

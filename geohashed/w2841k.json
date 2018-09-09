@@ -13,7 +13,8 @@
     "uuid": "a51ee34b-a1ad-4dcb-9a17-a9def1845202",
     "geohash": "w2841kzh3h",
     "source_musolla_id": "MY-10-KSR-00343",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat,dapur, van jenazah,bilik jenazah,bilik jenazah,kolam ikan dan taman permainan."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat,dapur, van jenazah,bilik jenazah,bilik jenazah,kolam ikan dan taman permainan.",
+    "directions": "Lokasi masjid ini terletak di tepi jalan utama."
   },
   "w2841kzh11": {
     "address": "Jeram, Selangor, Malaysia 45800",
@@ -29,6 +30,7 @@
     "uuid": "2f47e527-367b-40b1-9dff-0dec89bb80be",
     "geohash": "w2841kzh11",
     "source_musolla_id": "MY-10-KLG-00195",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak di kawasan kampung"
   }
 }

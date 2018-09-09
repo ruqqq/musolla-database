@@ -13,7 +13,8 @@
     "uuid": "523626d0-fefa-451a-b926-bc0df54f294e",
     "geohash": "w0xgpzzvr3",
     "source_musolla_id": "MY-10-KSR-00329",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat, bilik mesyuarat dan van jenazah"
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat, bilik mesyuarat dan van jenazah",
+    "directions": "Lokasi masjid terletak di kawasan kampung dan bersebelahan dengan Sekolah Rendah Agama Ujang Permatang."
   },
   "w0xgpbr0ke": {
     "address": "Kampung Tanjung Keramat, Kuala Selangor, Selangor, Malaysia 45000",
@@ -29,6 +30,7 @@
     "uuid": "dba823ea-8554-46bd-8a75-6e973882fe84",
     "geohash": "w0xgpbr0ke",
     "source_musolla_id": "MY-10-KSR-00331",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, bilik mesyuarat dan bilik bacaan."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, bilik mesyuarat dan bilik bacaan.",
+    "directions": "Masjid ini terletak di dalam pekan Kuala Selangor dan berdekatan mahkamah syariah Kuala Selangor."
   }
 }

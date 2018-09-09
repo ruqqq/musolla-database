@@ -127,7 +127,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "d0f69bd9-cdd7-4cf7-baa9-c71f43b77808",
     "geohash": "w0zrs0mwjh",
-    "source_musolla_id": "MY-07-KB-00092"
+    "source_musolla_id": "MY-07-KB-00092",
+    "directions": "5.539539, 100.378870"
   },
   "w0zrsp7bym": {
     "address": "Penaga, Pulau Pinang, Malaysia 13100",
@@ -141,7 +142,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "e94e36ef-93b9-45db-9e7f-500237e52d96",
     "geohash": "w0zrsp7bym",
-    "source_musolla_id": "MY-07-KB-00093"
+    "source_musolla_id": "MY-07-KB-00093",
+    "directions": "5.577093, 100.376515"
   },
   "w0zrt7x4rt": {
     "address": "Kampung Bumbung Lima, 13200 Kepala Batas, Pulau Pinang, Malaysia 13200",
@@ -155,7 +157,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "918e096b-6809-458b-9650-2291669b4406",
     "geohash": "w0zrt7x4rt",
-    "source_musolla_id": "MY-07-KB-00094"
+    "source_musolla_id": "MY-07-KB-00094",
+    "directions": "5.556753, 100.435965"
   },
   "w0zrjy3zcj": {
     "address": "Mukim 11, Seberang Perai Utara, Pulau Pinang, Malaysia 13800",
@@ -169,7 +172,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "7fb3231d-0c44-463b-a63d-bb81419511e8",
     "geohash": "w0zrjy3zcj",
-    "source_musolla_id": "MY-07-KB-00095"
+    "source_musolla_id": "MY-07-KB-00095",
+    "directions": "5.484912, 100.450454"
   },
   "w0zrsd9bdm": {
     "address": "Kampung Tok Otek, Penaga, Pulau Pinang, Malaysia 13110",
@@ -183,7 +187,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "4398678c-bfe9-4e17-b8b9-280d259141d0",
     "geohash": "w0zrsd9bdm",
-    "source_musolla_id": "MY-07-KB-00096"
+    "source_musolla_id": "MY-07-KB-00096",
+    "directions": "5.550960, 100.395572"
   },
   "w0zrt0h0g1": {
     "address": "Mukim 5, Kepala Batas, Pulau Pinang, Malaysia 13100",
@@ -197,6 +202,7 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "a11d0182-65fe-43f9-a3c0-754edcc7ce7a",
     "geohash": "w0zrt0h0g1",
-    "source_musolla_id": "MY-07-KB-00097"
+    "source_musolla_id": "MY-07-KB-00097",
+    "directions": "5.537246, 100.420661"
   }
 }

@@ -14,7 +14,8 @@
     "geohash": "w28p2u5bs6",
     "remarks": "MULA DIBINA KIRA-KIRA TAHUN 1930. NAMA ASALNYA IALAH MASJID BIDOR. DIBINA DI ATAS TAPAK DI SEBELAH KIRI DI TEPI SUNGAI BERHAMPIRAN DENGAN JAMBATAN MENGHALA ARAH KE SUNGKAI. PEMBINAAN SECARA GOTONG-ROYONG. PADA TAHUN 1988 TAPAK MASJID TELAH DIWARTAKAN OLEH KERAJAAN NEGERI PERAK. WARTA NO 105 PADA 11/1/1988. PADA TAHUN 2008 TELAH DIMAJUKAN PERMOHONAN BAGI BAIK PULIH MASJID. KERJA-KERJA BAIK PULIH MASJID DIMULAKAN DALAM TAHUN 2009 DAN SIAP PADA APRIL 2010.",
     "source_musolla_id": "MY-08-TPH-00470",
-    "provision": "1. TEMPAT REHAT MUSAFIR\r\n2. KEDAI MAKAN\r\n3. DEWAN KULIAH\r\n4. TANDAS LELAKI DAN WANITA\r\n5. TEMPAT LETAK KERETA"
+    "provision": "1. TEMPAT REHAT MUSAFIR\r\n2. KEDAI MAKAN\r\n3. DEWAN KULIAH\r\n4. TANDAS LELAKI DAN WANITA\r\n5. TEMPAT LETAK KERETA",
+    "directions": "1. DALAM PEKAN BIDOR\r\n2. BERHAMPIRAN JAMBATAN JALAN RAYA PERSEKUTUAN MENGHALA KE SUNGKAI\r\n3. 500M DARI TOL LEBUH RAYA"
   },
   "w28pbk2d7r": {
     "address": "Tapah, Batang Padang, Perak, Malaysia 35000",
@@ -30,6 +31,7 @@
     "uuid": "20c06d6d-78f4-47a2-b770-f5ad268eb7d5",
     "geohash": "w28pbk2d7r",
     "remarks": "masjid asal telah dibina pada tahun 1906. masjid ini dibina dengan menggunakan papan.masjid asalnya hanya cukup dirikan jumaat 40 ke 50 jemaah. masa berlalu, masjid telah divesarkan kehadapan, kebelakang dan ke kiri dan ke kanan sehingga muatan mencapai 700 jemaah.  \r\n\r\njika dilihat dari jauh, masjid ini tidak menampakkan sebuah masjid kerana tidak ada ciri sebuah masjid, tidak ada kubah, kemudian didirikan sebuah menara untuk menampakkan struktur masjid. masjid lama diruntuhkan selepasa 106 tahun untuk memberi laluan kepada binaan masjid baru.",
-    "source_musolla_id": "MY-08-TPH-00007"
+    "source_musolla_id": "MY-08-TPH-00007",
+    "directions": "berada di tengah bandar tapah. berada di tebing sungai batang padang dan dihadapan masjid sungai sengkuang."
   }
 }

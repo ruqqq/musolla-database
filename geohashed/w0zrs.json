@@ -11,7 +11,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "d0f69bd9-cdd7-4cf7-baa9-c71f43b77808",
     "geohash": "w0zrs0mwjh",
-    "source_musolla_id": "MY-07-KB-00092"
+    "source_musolla_id": "MY-07-KB-00092",
+    "directions": "5.539539, 100.378870"
   },
   "w0zrsp7bym": {
     "address": "Penaga, Pulau Pinang, Malaysia 13100",
@@ -25,7 +26,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "e94e36ef-93b9-45db-9e7f-500237e52d96",
     "geohash": "w0zrsp7bym",
-    "source_musolla_id": "MY-07-KB-00093"
+    "source_musolla_id": "MY-07-KB-00093",
+    "directions": "5.577093, 100.376515"
   },
   "w0zrsd9bdm": {
     "address": "Kampung Tok Otek, Penaga, Pulau Pinang, Malaysia 13110",
@@ -39,6 +41,7 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "4398678c-bfe9-4e17-b8b9-280d259141d0",
     "geohash": "w0zrsd9bdm",
-    "source_musolla_id": "MY-07-KB-00096"
+    "source_musolla_id": "MY-07-KB-00096",
+    "directions": "5.550960, 100.395572"
   }
 }

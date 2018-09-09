@@ -12,7 +12,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "19a0347c-b450-4d55-9c39-da8f43339c03",
     "geohash": "w28662ez1y",
-    "source_musolla_id": "MY-14-WKL-00052"
+    "source_musolla_id": "MY-14-WKL-00052",
+    "directions": "Masjid ini berada di Jalan Utama Jalan Gombak."
   },
   "w28662efc3": {
     "address": "Kampung Sungai Mulia, Setapak, Wilayah Persekutuan, Malaysia 53000",
@@ -29,6 +30,7 @@
     "geohash": "w28662efc3",
     "remarks": "Masjid ini didirikan di atas tanah wakaf pada Julai 1931 dan ianya merupakan masjid tertua di Selangor.\r\nIanya dirasmikan oleh DYMM Sultan Selangor pada tahun 1990.",
     "source_musolla_id": "MY-10-GBK-00366",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan pejabat."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan pejabat.",
+    "directions": "Masjid ini terletak di tepi jalan utama dan berada di pekan batu 6."
   }
 }

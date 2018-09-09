@@ -12,7 +12,8 @@
     "uuid": "ae06f506-e995-4d8c-a46f-9f0be1a3efaa",
     "geohash": "w2bsm9ec0p",
     "source_musolla_id": "MY-03-GM-00030",
-    "provision": "Masjid ini mempunyai laluan pejalan kaki berbumbung ke ruang solat dari tandas dan tempat wuduk. Mempunyai tempat parking berbumbung di kiri pintu menara masjid. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking yang boleh memuatkan lebih 20 buah kenderaan. Masjid juga mempunyai bilik bacaan di belakang bangunan masjid."
+    "provision": "Masjid ini mempunyai laluan pejalan kaki berbumbung ke ruang solat dari tandas dan tempat wuduk. Mempunyai tempat parking berbumbung di kiri pintu menara masjid. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking yang boleh memuatkan lebih 20 buah kenderaan. Masjid juga mempunyai bilik bacaan di belakang bangunan masjid.",
+    "directions": "Masjid terletak di sebuah kampung dan kawasan felda. Masjid juga terletak 200 meter ke jalan utama Gua Musang yang menuju ke Kuala Krai."
   },
   "w2bsm9yxgz": {
     "address": "Chiku, Kelantan, Malaysia 18300",
@@ -27,7 +28,8 @@
     "uuid": "7a181a9b-9235-4e7d-bcb8-766d22db61a3",
     "geohash": "w2bsm9yxgz",
     "source_musolla_id": "MY-03-GM-00031",
-    "provision": "Masjid ini mempunyai sudut taman dan parking berbumbung di kiri masjid. Mempunyai bilik imam dan bilal serta pejabat untuk kemudahan ahli masjid.Mempunyai parking terbuka yang boleh memuatkan 30 buah kenderaan dan mempunyai van jenazah. Masjid ini mempunyai wakaf dan laluan pejalan kaki berbumbung ke tandas dan dilengkapi dengan kemudahan tandas"
+    "provision": "Masjid ini mempunyai sudut taman dan parking berbumbung di kiri masjid. Mempunyai bilik imam dan bilal serta pejabat untuk kemudahan ahli masjid.Mempunyai parking terbuka yang boleh memuatkan 30 buah kenderaan dan mempunyai van jenazah. Masjid ini mempunyai wakaf dan laluan pejalan kaki berbumbung ke tandas dan dilengkapi dengan kemudahan tandas",
+    "directions": "Masjid ini terletak di sebuah kampong dan 500 meter ke jalan utama Gua Musang yang menuju ke Kuala Krai."
   },
   "w2bsm9y4qd": {
     "address": "Chiku, Kelantan, Malaysia 18300",
@@ -42,6 +44,7 @@
     "uuid": "6ba5dfd6-71ba-429b-b814-713d96d9d365",
     "geohash": "w2bsm9y4qd",
     "source_musolla_id": "MY-03-GM-00566",
-    "provision": "Masjid mempunyai laluan pejalan kaki berbumbung yang menuju ke ruang solat dari tandas dan tempat wuduk. Masjid ini juga mempunyai tempat parking berbumbung di kiri pintu menara masjid dan dilengkapi wakaf sebagai tempat istirehat. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking terbuka yang boleh memuatkan lebih 20 buah kenderaan."
+    "provision": "Masjid mempunyai laluan pejalan kaki berbumbung yang menuju ke ruang solat dari tandas dan tempat wuduk. Masjid ini juga mempunyai tempat parking berbumbung di kiri pintu menara masjid dan dilengkapi wakaf sebagai tempat istirehat. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking terbuka yang boleh memuatkan lebih 20 buah kenderaan.",
+    "directions": "Masjid terletak di sebuah kampung dan kawasan felda dan merupakan 2km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
   }
 }

@@ -14,7 +14,8 @@
     "geohash": "w281q47uyn",
     "remarks": "Dikenali sebagai Masjid Unta kerana masjid ini pernah membuat Qurban unta dalam jumlah yang banyak.",
     "source_musolla_id": "MY-10-PTG-00241",
-    "provision": "Kemudahan yang terdapat pada masjid ini ialah Sekolah Agama yang terdapat di dalam kawasan masjid, perpustakaan dan tempat mengambil wuduk yang banyak."
+    "provision": "Kemudahan yang terdapat pada masjid ini ialah Sekolah Agama yang terdapat di dalam kawasan masjid, perpustakaan dan tempat mengambil wuduk yang banyak.",
+    "directions": "Lokasi masjid ini berada berdekatan dengan Sekolah Kebangsaan dan Lebuhraya LKSA."
   },
   "w281q51wqw": {
     "address": "Seksyen 18, Shah Alam, Selangor, Malaysia 40300",
@@ -31,7 +32,8 @@
     "geohash": "w281q51wqw",
     "remarks": "Dibina hasil perancangan bersama kerajaan Negeri Selangor dan rakyat setempat, jemaah seksyen 18 barat Shah Alam melalui Jabatan Agama Islam Selangor dan Jabatan Kerja Raya. Pembiaan seawal tahun 2000 menggantukan surau kayu yang dibina secara gotong-royong oleh penduduk setempat mulai 1986 seaktu kawasan ini mula berkembang pesat. Masjid ini siap sepenuhnya pada April 2001 dan digunakan dengan kebenaran solat Jumaat pada 18Mei 2001. Peruntukan kerajaan negeri sebanyak RM3.9 juta ini dilengkapi dengan 6 bilik darjah, sekolah tadika Islam di sebelahnya. Bangunan berciri sejarah melayu. Bilik pejabat , dewan kuliah, dewan makan dan bilik jenazah juga dilengkapi.",
     "source_musolla_id": "MY-10-PTG-00240",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah kelas mengaji Al-Quran untuk kanak-kanak dan dewasa, dilengkapi bilik mesyuarat dan pejabat, bilik pengurusan jenazah dan kawasan parkir kereta didepan masjid."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah kelas mengaji Al-Quran untuk kanak-kanak dan dewasa, dilengkapi bilik mesyuarat dan pejabat, bilik pengurusan jenazah dan kawasan parkir kereta didepan masjid.",
+    "directions": "Lokasi masjid ini sesuai untuk oenduduk seksyen 18 Barat Shah Alam dan berada di tepi Jalan Besar."
   },
   "w281qyje4p": {
     "address": "Seksyen 21, Kg Melayu Kebun Bunga, Shah Alam, Selangor, Malaysia 40400",
@@ -48,7 +50,8 @@
     "geohash": "w281qyje4p",
     "remarks": "Masjid ini dibina secara berperingkat yang asalnya adalah bersaiz kecil mengikut bilangan penduduk yang tidak ramai. Peringkat kedua, masjid ini ditambah kapasitinya mengikut bilangan penduduk yang semakin ramai.",
     "source_musolla_id": "MY-10-PTG-00248",
-    "provision": "Ruang Serambi yang boleh dijadikan tempat solat untuk solat jumaat dan ceramah percuma seminggu sekali diadakan sehingga jam 11 malam."
+    "provision": "Ruang Serambi yang boleh dijadikan tempat solat untuk solat jumaat dan ceramah percuma seminggu sekali diadakan sehingga jam 11 malam.",
+    "directions": "Masjid ini berada di sempadan batu 3 lama dan seksyen 26."
   },
   "w281q0g34n": {
     "address": "Seksyen 24, Shah Alam, Selangor, Malaysia 40300",
@@ -65,7 +68,8 @@
     "geohash": "w281q0g34n",
     "remarks": "Pagar masjid ini dilakukan secara gotong-royong oleh penduduk setempat dari sumbangan wang dari orang ramai. Pembinaan masjid ini mengambil masa hampir 3 tahun untuk siap sepenuhnya.",
     "source_musolla_id": "MY-10-PTG-00247",
-    "provision": "Masjid ini berhawa dingin dan ruang serambi yang juga dijadikan tempat mengaji Al-Quran setiap hujung minggu."
+    "provision": "Masjid ini berhawa dingin dan ruang serambi yang juga dijadikan tempat mengaji Al-Quran setiap hujung minggu.",
+    "directions": "Masjid ini berada dalam kawasan perumahan."
   },
   "w281q5wr6d": {
     "address": "Seksyen 18, Shah Alam, Selangor, Malaysia 40300",
@@ -81,7 +85,8 @@
     "uuid": "846042fb-8694-4d5b-b293-cfda54b1ed55",
     "geohash": "w281q5wr6d",
     "source_musolla_id": "MY-10-PTG-00239",
-    "provision": "Kemudahan yang terdapat ialah Pusat Pengajian Fardu Ain dan ruang solat yang selesa dan moden."
+    "provision": "Kemudahan yang terdapat ialah Pusat Pengajian Fardu Ain dan ruang solat yang selesa dan moden.",
+    "directions": "Berada bersebelahan LKSA dan hanya 10 minit sahaja ke Pusat Bandar Shah Alam."
   },
   "w281qkmr1g": {
     "address": "Seksyen 19, Shah Alam, Selangor, Malaysia 40300",
@@ -98,6 +103,7 @@
     "geohash": "w281qkmr1g",
     "remarks": "Masjid ini dibina selepas beberapa tahun tahun tempat itu siap. Penduduk setempat turut sama menyiapkan kemudahan sampingan masjid secara bergotong-royong dan pembersihan masjid diadakan setiap bulan sejak ia siap.",
     "source_musolla_id": "MY-10-PTG-00246",
-    "provision": "Kemudahan masjid ini ialah tempat letak kereta, tempat menunggu yang santai di laman masjid."
+    "provision": "Kemudahan masjid ini ialah tempat letak kereta, tempat menunggu yang santai di laman masjid.",
+    "directions": "Masjid ini berada di tengah-tengah kawasan perumahan seksyen 19."
   }
 }

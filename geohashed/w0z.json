@@ -14,7 +14,8 @@
     "geohash": "w0zg15mc5d",
     "remarks": "Masjid Diraja Ubudiah terletak di sebelah kawasan Makam Diraja Bukit Chandan, Kuala Kangsar. Masjid ini dibina atas titah Sultan Idris Murshidul Azam Shah, Sultan Perak ke -28 (1887-1816) kerana menunaikan nazar ketika baginda gering.\r\n\r\nKerajaan Negeri Perak kemudiannya telah mengarahkan Coloney Huxley dari Pejabat Kerja Raya di Kuala Lumpur sepaya merangka sebuah pelan masjid yang hendak didirikan itu. Tugas membuat pelan reka bentuknya telah diserahkan kepada Hubbeck, seorang arkitek kerajaan dan tugas melaksanakan pembinaan bangunan itu pula diserahkan kepada Caufield, iaitu ketua jurutera di Negeri Perak ketika itu.\r\n\r\nPada hari Jumaat, 25 Syawal 1331 Hijri bersamaan 26 September 1913 Masihi, Sultan Idris telah meletakkan batu asas masjid tersebut. Pembinaan masjid tergendala beberapa tahun kerana kerosakan ketul-ketul marmar di tempat simpanannya yang telah dipijak oleh dua ekor gajah kepunyaan Sultan Idris dan Raja Chulan.\r\n\r\nPenghantaran batu marmar yang dipesan dari Itali pula tergendala akibat meletusnya Perang Dunia Pertama. Setelah beberapa halangan berlaku, pada tahun 1917 Masihi barulah masjid yang terindah di Negeri Perak ini dengan rasminya dibuka oleh Sultan Abdul Jalil Nasaruddin Shah, iaitu pengganti Sultan Idris yang mangkat pada tahun 1916 Masihi.",
     "source_musolla_id": "MY-08-KK-00006",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-rumah musafir\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-rumah musafir\r\n-kawasan riadah",
+    "directions": "terletak diatas bukit chandan berhampiran istana iskandariah."
   },
   "w0zujnuu69": {
     "address": "Jalan Bagan Serai, Kampung Baru Lasah, 31100 Pulau Kamiri, Perak, Malaysia 31100",
@@ -30,7 +31,8 @@
     "uuid": "a0a9d247-f304-461b-9f1a-fd16a6066e5b",
     "geohash": "w0zujnuu69",
     "source_musolla_id": "MY-08-KK-00417",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parking\r\n-tandas awam\r\n-bazigo"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parking\r\n-tandas awam\r\n-bazigo",
+    "directions": "-lokasi masjid kira-kira 26km dari sungai siput (u). 1km dari jalan utama lintang-lasah, sungai siput (u)"
   },
   "w0zq2s5ewe": {
     "address": "Balik Pulau, Pulau Pinang, Malaysia 11000",
@@ -125,7 +127,8 @@
     "geohash": "w0zfhh9n3s",
     "remarks": "Masjid Sultan Idris Shah II telah dirasmikan pada 15 September 1978 oleh Sultan Idris Iskandar Shah II (1963-1984), Sultan yang ke-33, sempena dengan perayaan ulangtahun hari keputeraan baginda yang ke-33. Ianya terletak di atas sebidang tanah seluas kira-kira 2.6 hektar di tengah- tengah bandaraya Ipoh. Kerja-kerja pembinaan masjid tersebut telah dimulakan pada 16 Mei 1966, dan batu asas telah diletakkan pada 27 Oktober 1967 oleh (Allahyarham) Tun Haji Abdul Razak, pada ketika itu menjadi Timbalan Perdana Menteri. Masjid ini telah siap dibina pada 26 Ogos 1968.\r\n\r\nPada mulanya, masjid ini dinamakan sebagai 'Masjid Negeri (Perak)' dan telah digelarkan 'Masjid Sultan Idris Shah II' sempena nama Sultan Idris Iskandar Shah II yang telah kembali ke Rahmatullah pada tahun 1984.\r\n\r\nIdea pembinaan masjid ini berasal daripada (Allahyarham) Orang Kaya-Kaya Panglima Bukit Gantang Seri Amar Diraja Abdul Wahab pada tahun 1951. Beliau yang pada ketika itu adalah Menteri Besar telah sedar bahawa masjid-masjid yang sedia ada di lpoh tidak mencukupi untuk memuatkan semua jemaah yang menunaikan ibadah pada satu-satu masa seperti hari kebesaran Islam dan ibadah sembahyang Jumaat. Jumlah kos perbelanjaan pembinaannya ialah RM1,840,000.00",
     "source_musolla_id": "MY-08-IPH-00001",
-    "provision": "Di tingkat bawah mengandungi kemudahan-kemudahan seperti ruang berwudhuk, bilik persidangan dan kutub khanah, bilik pejabat dan bilik setor. Terdapat pula sebuah dewan jemaah yang sebesar dengan dewan jemaah besaf di tingkat atas. Dewan jemaah bawah juga boleh memuatkan 1,500 orang. Di depan bangunan masjid terletaknya tempat letak kenderaan, manakala di belakang terletaknya kuarters untuk imam, bilal dan lain-lain pegawai masjid. Sehingga hari ini, masjid ini masih dirujuk orang ramai sebagai 'Masjid Negeri Perak'."
+    "provision": "Di tingkat bawah mengandungi kemudahan-kemudahan seperti ruang berwudhuk, bilik persidangan dan kutub khanah, bilik pejabat dan bilik setor. Terdapat pula sebuah dewan jemaah yang sebesar dengan dewan jemaah besaf di tingkat atas. Dewan jemaah bawah juga boleh memuatkan 1,500 orang. Di depan bangunan masjid terletaknya tempat letak kenderaan, manakala di belakang terletaknya kuarters untuk imam, bilal dan lain-lain pegawai masjid. Sehingga hari ini, masjid ini masih dirujuk orang ramai sebagai 'Masjid Negeri Perak'.",
+    "directions": "Masjid ini terletak di atas sebidang tanah seluas 2.6 hektar. Kerja-kerja pembinaannya telah dimulakan pada 16 Mei 1966 Masihi dan peletakan batu asas dilakukan pada 27 Oktober 1967 Masihi oleh Allahyarham Tun Haji Abdul Razak yang ketika itu menjadi Timbalan Perdana Menteri Malaysia. Masjid ini disiapkan pada 26 Ogos 1968 Masihi dan dirasmikan oleh Almarhum Sultan Iskandar Shah II (1963-1984), Sultan Perak ke-33 sempena ulang tahun keputeraan baginda."
   },
   "w0zg0vq29p": {
     "address": "Kota Lama Kiri, Perak, Malaysia 33000",
@@ -142,7 +145,8 @@
     "geohash": "w0zg0vq29p",
     "remarks": "cadangan mendirikan masjid ini adalah di atas daya usaha al-marhum paduka seri sultan idris murshidul azam shah ibni al-marhum raja bendahara alang iskandar, sultan perak yang ke 28. baginda telah mewakafkan masjid tersebut kepada penduduk di daerah ini. masjid ini mula didirikan pada tahun 1915. pembinaan masjid ini memakan masa selama 2 tahun. putera baginda, sultan perak yang ke 29 telah merasmikan pembukaan masjid ini pada 24 januari 1916. pada 17 januari 1982 bangunan masjid yang lama telah mula dirobohkan .masjid baru siap dibina pada bulan ogos 1984.dirasmikan pada 19 april 1985 oleh almarhum sultan azlan muhibbudin shah ibni al marhum sultan yussuf izzudin ghafarullahu-lahu shah.",
     "source_musolla_id": "MY-08-KK-00005",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang musafir"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang musafir",
+    "directions": "terletak ditangah-gtengah pekan kuala kangsar, bersebelahan koleJ melayu kuala kangsar."
   },
   "w0zuhdux7j": {
     "address": "Kampung Lintang, Pulau Kamiri, Perak, Malaysia 31100",
@@ -159,7 +163,8 @@
     "geohash": "w0zuhdux7j",
     "remarks": "telah dibina pada sekitar tahun 1926. pada peringkat awalnya masjid ini bersebelahan dengan sekolah rendah agama rakyat nurul huda. sekitar tahun 1998 masjid ini terpaksa dirobohkan dan dibina semula kerana banyak daripada struktur binaannya telah rozak teruk akibat dimakan usia.\r\n\r\nselain daripada itu, alasan lain ianya dirobohkan aialah kerana arah kiblatnya yang tidak bertepatan dengan arah yang sebenar.pada sekitar tahun 1998 atas usaha seorang ahli dewan undangan negeri perak kawasan lintang yang juga anak jati dari kariah ini iaitu allahyarham dato' haji mohd padil b hj haji harun telah berusaha mendapatkan sumbanganuntuk membina sebuah masjid yang baru sehingga kini dan didaftarkan dengan nama masjid nurul iman.",
     "source_musolla_id": "MY-08-KK-00392",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kelainan upaya\r\n-ruang bilik kuliah"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kelainan upaya\r\n-ruang bilik kuliah",
+    "directions": "-17km dari bandar sungai siput melalui jalan utama iaitu jalan lintang\r\n-34km dari kuala kangsar bandar diraja"
   },
   "w0zg7vge3d": {
     "address": "Sungai Siput, Perak, Malaysia 31100",
@@ -176,7 +181,8 @@
     "geohash": "w0zg7vge3d",
     "remarks": "- pada awal tahun 1920-an pihak british telah membawa masuk ramai buruh kasar dari tamil nadu,india untuk bekerja di ladang-ladang getah di tanah melayu. ladang kamuning yang dahulu dikenali sebagai 'estet nombor 8' adalah antara estet yang ramai masyarakat india muslim bekerja ketika itu.\r\n\r\n- ramai juga pendakwah islam yang turut berhijrah ke tanah melayu dengan membawa masuk ilmu kalam allah s.w.t. colongan inilah yang telah mendorong masyarakat setempat mendirikan surau-surau dan pondok-pondok kecil sebagai tempat untuk mendirikan solat jemaah dan menjalankan dakwah di sungai siput. golongan dakwah inilah juga juga telah mendorong pekerja-pekerja india muslim di\"ladang nombor 8\" yang kini dikenali sebagai ladang sime darby ini mendirikan sebuah surau pada tahun 1923 di tepi jalan besar, sungai siput yang ketika itu merupakan sebuah kawasan paya yang bersebelahan dengan sebuah sungai. sungai itulah dikenali sebagai sungai siput.memandangkan ketiadaan sebuah masjid untuk masyarakat islam di sungai siput ketika itu, maka pihak british telah menderma tapak masjid ini.\r\n\r\n-dengan sumbangan daripada peniaga-peniaga india muslim di kawasan sekitar sungai siput dan juga dengan sumbangan masyarakat setempat, maka pada tahun 1929 telah lahir sebuah masjid yang dikenali dengan nama masjid india muslim sungai siput. masjid inilah masjid pertama yang telah dibina di daerah sungai siput.\r\n\r\n-pada penghujung tahun 70-an, kemajuan masjid india muslim sungai siput terus berkembang dan dengan usaha gigih para pegawai masjid ini ketika itu, bilangan umat muslim yang bersolat di masjid ini semakin meningkat. pertambahan penduduk india muslim dikawasan ini telah menyebabkan masjid ini bertambah sesak terutamanya ketika solat jumaat dan solat hari raya. justeru itu, pada pertengahan tahun 80-an, mula dibentuk ahli jawatankuasa pembinaan masjid baharu untuk menggantikan masjid tersebut yang semakin usang.\r\n\r\ndengan usaha gigih jawatankuasa masjid yang ditubuhkan yang penuh dedikasi dan komited pada masa itu, maka pada tahun 1991, terbunalah masjid yang ada sekarang.",
     "source_musolla_id": "MY-08-KK-00363",
-    "provision": "- tempat wuduk\r\n- telekung\r\n- sejadah\r\n- bilik mesyuarat\r\n- pejabat masjid\r\n- ruang makan\r\n- ruang memasak\r\n- parking\r\n- laluan orang kurang upaya\r\n- tandas awam\r\n- tandas orang kurang upaya\r\n- ruang bilik kuliah"
+    "provision": "- tempat wuduk\r\n- telekung\r\n- sejadah\r\n- bilik mesyuarat\r\n- pejabat masjid\r\n- ruang makan\r\n- ruang memasak\r\n- parking\r\n- laluan orang kurang upaya\r\n- tandas awam\r\n- tandas orang kurang upaya\r\n- ruang bilik kuliah",
+    "directions": "masjid inilah masjid pertama yang telah dibina di daerah sungai siput. masjid ini terletak bersebelahan dengan jalan utama laluan ke utara dan ke kuala lumpur. kedudukan di pintu masuk bandar sungai siput turut menjadikan masjid ini tempat persinggahan musafir-musafir yang berlalu di kawasan ini."
   },
   "w0zgkhkdt7": {
     "address": "Sungai Siput, Perak, Malaysia 31100",
@@ -193,7 +199,8 @@
     "geohash": "w0zgkhkdt7",
     "remarks": "- MASJID LAMA (BANGUNAN ASAL) TELAH DIBINA PADA TAHUN 1968. MASJID INI TELAH DIRASMIKAN OLEH DYMM SULTAN IDRIS AL-MUTAWAKKIL SHAH IBNI AL MARHUM SULTAN ISKANDAR SHAH SULTAN PERAK DARUL RIDZUAN PADA 11 SEPTEMBER 1970 BERSAMAAN 10 REJAB 1390H.\r\n\r\n- PADA TAHUN 2007, SEMASA LAWATAN YB PERDANA MENTERI TUAN ABDULLAH AHMAD BADAWI KE SUNGAI SIPIUT, BELIAU TELAH MELAWAT MASJID INI DAN TELAH MELULUSKAN PERUNTUKAN UNTUK MEMBINA SEMUA MASJID AL GHUFRANIAH.\r\n\r\n- MASJID BARU INI TELAH DIBINA PADA TAHUN 2011 DAN TELAH SIAP PEMBINAAN PADA BULAN JANUARI 2013. PADA 24 FEBRUARI 2013, MASJID BARU INI TELAH MULA DIGUNAKAN.\r\n\r\n-PADA JULAI 2014 BERSAMAAN 17 RAMADHAN 1435H, DYMM SULTAN NAZRIN MUIZZUDDIN SHAH IBNI ALMARHUM SULTAN AZLAN SHAH AL MAGHFURLAH TELAH BERKENAN MERASMIKAN MASJID BARU INI.",
     "source_musolla_id": "MY-08-KK-00357",
-    "provision": "-TEMPAT WUDHU'\r\n-TELEKUNG\r\n-SEJADAH\r\n-BILIK MESYUARAT\r\n-BILIK PEGAWAI MASJID\r\n-RUANG MAKAN\r\n-RUANG MEMASAK\r\n-PARKIR\r\n-LALUAN ORANG KURANG UPAYA\r\n-TANDAS ORANG KURANG UPAYA\r\n-RUANG BILIK KULIAH\r\n-KAWASAN RIADAH"
+    "provision": "-TEMPAT WUDHU'\r\n-TELEKUNG\r\n-SEJADAH\r\n-BILIK MESYUARAT\r\n-BILIK PEGAWAI MASJID\r\n-RUANG MAKAN\r\n-RUANG MEMASAK\r\n-PARKIR\r\n-LALUAN ORANG KURANG UPAYA\r\n-TANDAS ORANG KURANG UPAYA\r\n-RUANG BILIK KULIAH\r\n-KAWASAN RIADAH",
+    "directions": "-250M DARI SEKOLAH KEBANGSAAN SUNGAI SIPUT UTARA\r\n-800M DARI PEJ DAERAH DAN TANAH DAERAH SUNGAI SIPUT (U)\r\n-1KM DARI IBU PEJABAT POLIS DAERAH SG SIPUT   \r\n-1.5KM DARI STESEN KERETAPI TANAH MELAYU (KTM) SG SIPUT (U)\r\n-1.5KM DARI PEJABAT POS SUNGAI SIPUT (U)\r\n-2KM DARI PASARAYA TF VALUE MART\r\n-3.5KM DARI HOSPITAL SUNGAI SIPUT (U)"
   },
   "w0zggzcumn": {
     "address": "Pulau Kamiri, Perak, Malaysia 31120",
@@ -210,7 +217,8 @@
     "geohash": "w0zggzcumn",
     "remarks": "-masjid ar-rahmaniah felda lasah telah mula dibina semenjak tahun 1967 bersebelahan dengan pejabat pengurusan felda. setelah hampir 34 tahun beroperasi, pihak ahli jawatnkuasa mendapati ianya perlu dibina sebuah masjid baru bagi menampung keperluan jemaah yang semakin meningkat.\r\n\r\n-pada 23 november 2001 sebuah masjid baru telah dibina bagi menggantikan masjid lama yang tidak dapat menampung keperluan jemaah yang semakin meningkat. masjid ini dibina di atas sebidang tanah yang dahulunya adalah padang bola.",
     "source_musolla_id": "MY-08-KK-00351",
-    "provision": "-tempat wudhu'\r\n-telekung\r\n-sejaah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo (pondok rehat)\r\n-kawasan riadah"
+    "provision": "-tempat wudhu'\r\n-telekung\r\n-sejaah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo (pondok rehat)\r\n-kawasan riadah",
+    "directions": "-lokasi masjid ini yang  berada di tengah-tengah penempatan menjadikan ianya mudah dilihat. terletak di sebelah jalan raya utama dan berhampiran dengan sekolah menengah kebangsaan rlkt lasah, sekolah agama rakyat at tawuniah, sekolah menengah tahfiz daerah kuala kangsar dan sekolah tahfiz al fuqaha"
   },
   "w0zujmwr88": {
     "address": "Jalan Bahagia, Kampung Perlop 2, 31100 Sungai Siput, Perak, Malaysia 31100",
@@ -227,7 +235,8 @@
     "geohash": "w0zujmwr88",
     "remarks": "kampung perlop 2/3 asalnya sebuah rancangan tanah belia khas perlop yang telah diwujudkan oleh kerajaan negeri perak pada tahun 1970an. skim ini telah ditawarkan kepada belia-belia yang menganggur diseluruh negeri perak pada ketika itu.selepas lima tahun, pihak kerjaan negeri telah menganugerahkan kepada peserta-peserta perlop dengan sebidang tanah yang berkeluasan 10 ekar bagi setiap peserta beserta sebuah rumah dengan nilainya sebanyak rm30,000.00. bermula dari situ maka pelbagai pembangunan telah disediakan oleh pihak kerajaan negeri antaranya jalan tar, bekalanelektrik dan air bersih, surau, padang bola, gelanggang takraw dan dewan orang ramai.\r\n\r\ndalam tempoh beberapa tahun kemudian para peserta rancangan tanah belia perlop telah bersepakat untuk membina sebuah rumah ibadat. oleh yang demikian, satu jawatankuasa penyelarasan telah dibentuk bagi merialisasikan pembangunan sebuah masjid untuk penduduk kampung perlop 2 dan perlop 3 demi menjalankan aktiviti-aktivit agama seperti solat waktu dan yang lebih penting untuk menampung kepadatan jemaah bagi solat jumaat.\r\n\r\npihak jawatankuasa penyelaras telah membuat permohonan melalui wakil rakyat kawasan kepada timbalan perdana menteri malaysia pada ketika itu dan mendapat kelulusan peruntukan sebanyak rm400,000.00 danbermula dari situ proses pembangunan dijalankan pada tahun 1990 dan dinamakan bangunan tersebut sebagai masjid al-falahiyah kampung perlop 2.",
     "source_musolla_id": "MY-08-KK-00342",
-    "provision": "-tempat wuduk\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam"
+    "provision": "-tempat wuduk\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam",
+    "directions": "masjid ini terletak di tepi jalan utama kampung perlop 2, dan berhadapan dengan sungai pelus. anggaran perjalanan darat sejauh 20 km dari bandar sungai siput melalui jalan re/ jalan lintang dan jalan felda sebelum ke kampung bawong, hendaklah membelok ke kanan sejauh 2 kilometer arah kampung perlop 2 dan akan bertemu dengan rumah petugas-petugas ccrc perlop dan kem ccrc perlop dan terus ke kampung perlop 2."
   },
   "w0zf89pngj": {
     "address": "Kampung Senggang, Senggang, Perak, Malaysia 33000",
@@ -261,7 +270,8 @@
     "geohash": "w0zg30txjb",
     "remarks": "masjid kota lama kanan dibina pada zaman almarhum rahmatullah sultan mansur shah, sultan perak yang ke ii dengan perbelanjaan pada masa itu rm3800. sumbangan-sumbangan adalah dari tengku permaisuri cik uteh mariah rm1000 kerajaan rm1800 dan lain-lain penderma sebanyak rm1000. masjid ini dimulai sembahyang pada 15 zulhijjah 1332 bersamaan 13 oktober 1916m. perubahan masa dan zaman telah menukar bentuk rupa bangunan masjid ini dari lama kepada yang sedia ada sekarang. ini disebabkan dengan penambahan penduduk dan keselesaan para jemaah kian bertambah. sehingga kini masjid ini belum pernah dirasmikan oleh sesiapa.",
     "source_musolla_id": "MY-08-KK-00387",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo (pondok rehat)\r\n-kawasan riadah\r\n-"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo (pondok rehat)\r\n-kawasan riadah\r\n-",
+    "directions": "LOKASI MASJID INI TERLETAK DI TEPI SUNGAI PERAK, DI KAMPUNG KOTA LAMA KANAN. JARAKNYA DARI BANDAR DIRAJA KUALA KANGSAR HANYA 3.5KM SAHAJA UNTUK SAMPAI KE MASJID INI.JALAN UNTUK SAMPAI KE MASJID MESTILAH MELALUI JAMBATAN SULTAN ABDUL JALIL. SEPANJANG JALAN KE MASJID INI, KITA AKAN TERNAMPAK SEKOLAH RENDAH KEBANGSAAN KOTA LAMA KANAN, BENGKEL-BENGKEL KRAFTANGAN. TIADA BANGUNAN BERSEJARAH ATAU TERKENAL DISEBABKAN MASJID INI TERLETAK DILUAR BANDAR."
   },
   "w0zg1kw388": {
     "address": "Sayong, Perak, Malaysia 33000",
@@ -293,7 +303,8 @@
     "geohash": "w0zg96cbrx",
     "remarks": "pada tarikh 15.12.1985 seuah masjid dibina di kg loh karai. masjid ini diberi nama masjid jamek kg loh karai mengambil sempena nama kg loh karai. tanah tapak masjid ini diwakafkan oleh tn hj pandak hamzah. sebelum didirikan masjid pihak pejabat agama membenarkan kariah masjid ini bersolat jumaat di surau kg kuala karai bermula 11.9.1987. kariah masjid ini datang dari kg loh, kg ulu karai, kg uala karai dan kg suak rambai. masjid telah dikunjungi sultan perak ke 34 dan ke 35 iaitu almarhum sultan azlan muhibbuddin shah ( masjlis berbuka puasa ) dan dymm sultan nazrin muizuddin shah ( solat jumaat ) pada 24.04.2015.",
     "source_musolla_id": "MY-08-KK-00366",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid ( dalam ubahsuai)\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang it ( dalam ubahsuai )"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid ( dalam ubahsuai)\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang it ( dalam ubahsuai )",
+    "directions": "-lokasi 3km dari pekan karai dan 15km dari bandar kuala kangsar\r\n-berhampiran jambatan victoria\r\n-laluan mudah ke masjid jika dari jalan utama kuala kangsar ke ipoh"
   },
   "w0zfh5d442": {
     "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
@@ -310,7 +321,8 @@
     "geohash": "w0zfh5d442",
     "remarks": "Menurut sejarah, masjid ini merupakan masjid batu yang tertua di negeri Perak yang telah dirancang pembinaannya sewaktu pemerintahan Sultan Idris Murshidul Azam Shah dan siap dibina pada 1912 Masihi. Pembinaan masjid ini adalah atas daya usaha Orang Kaya-Kaya Seri Adika Raja Syahbandar Muda Datuk Wan Muhammad Salleh dan juga daripada derma hartawan bernama Mahmud bin Mohd Taib dan Tuan Haji Mohd Kasim bin Ngah Banjar Jagra.",
     "source_musolla_id": "MY-08-IPH-00185",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-ruang bilik kuliah\r\n-pondok rehat"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-ruang bilik kuliah\r\n-pondok rehat",
+    "directions": "MASJID INI TERLETAK DI JALAN DATUK, IAITU TIDAK JAUH DARI TEBING KIRI SUNGAI KINTA DAN DI SEBERANG PASAR MINGGU BANDAR IPOH."
   },
   "w0zeevj439": {
     "address": "Taman Saujana Jaya, Asam Kumbang, Perak, Malaysia 34000",
@@ -342,7 +354,8 @@
     "geohash": "w0zc6jk9q8",
     "remarks": "1. TANAH ASAL WAKAF INDIVIDU, BANGUNAN ASAL ADALAH KAYU\r\n2. DAPAT PERUNTUKAN PERSEKUTUAN rm 400.000.00",
     "source_musolla_id": "MY-08-SI-00147",
-    "provision": "1. KEMUDAHAN PENGHAWA DINGIN\r\n2. KERETA JENAZAH"
+    "provision": "1. KEMUDAHAN PENGHAWA DINGIN\r\n2. KERETA JENAZAH",
+    "directions": "1. JALAN UTAMA JALAN TG BELANJA - BOTA KIRI\r\n2. BERHAMPIRAN DENGAN MARDI\r\n3. BERHAMPIRAN TEPIAN SUNGAI PERAK"
   },
   "w0z96p9u4v": {
     "address": "Pengkalan Baharu, Perak, Malaysia 34900",
@@ -359,7 +372,8 @@
     "geohash": "w0z96p9u4v",
     "remarks": "masjid an nawawi terletak di kg pengkalan baru pantai remis. masjid ini mula dibina pada sekitar awal 1920 an.maklumat asas tidak diperlohi hanya melalui sumber yang boleh dipercayai.tapak asal masjid ini adalah bersebelahan tanah perkuburan islam kg pengkalan baru. masjid in dibina secara gotong royong oleh penduduk kampung.\r\n\r\npada tahun 1939 masjid an nawawi telah berpindah ke kawasan sekarang, pembinaan dibuat secara berperingkatt oleh penduduk kampung menggunakan binaan kayu yang diambil dikawasan sekitar. balai lintang dan ruang masak juga dibuat seiring dengan pembinaan masjid.\r\n\r\ncetusan untuk membina masjid baru bermula sejak tahun 1985, atas sebab pertambahan penduduk ruang solat tidak mencukupi untuk menampung jemaah semasa solat jumaat dan solat sunat hari raya.mulai tahun 1990 atas inisiatif adun pengkalan baru telah melantik ajk bagi pembinaan masjid baru.\r\n\r\nmasjid baru mula dibina pada tahun 1999 dengan dibiayai oleh kerajaan dan derma dari orang ramai. masjid siap dan digunakan pada 1 nov 2002. nama masjid an nawawi ini diambil sempena nama hj nawawi b hj tahir tokoh ulama terkenal di negeri perak.\r\n\r\nmasjid an-nawawi dirasmikan oleh dytm raja muda perak darul ridzuan raja nazrin shah ibni sultan azlan shah muhibbudin shah pada 18 sept 2008.",
     "source_musolla_id": "MY-08-MJG-00045",
-    "provision": "-tempat wudhuk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-tandas awam\r\n-ruang bilik kuliah\r\n-gazibo ( pondok rehat )\r\n-kawasan riadah"
+    "provision": "-tempat wudhuk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-tandas awam\r\n-ruang bilik kuliah\r\n-gazibo ( pondok rehat )\r\n-kawasan riadah",
+    "directions": "lokasi masjid ini terletak diantara pertengahan bandar taiping dan juga manjung. pekan terdekat adalah pantai remis 2 km dari masjid ini."
   },
   "w0z8vegm0f": {
     "address": "Sitiawan, Perak, Malaysia 32000",
@@ -375,7 +389,8 @@
     "uuid": "59bac2fe-66f0-440e-b259-dd5f53f9d0ae",
     "geohash": "w0z8vegm0f",
     "source_musolla_id": "MY-08-MJG-00025",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya",
+    "directions": "jalan utama - 7 km ke bandar ayer tawar, 16km ke pekan beruas"
   },
   "w0z8sfmnn4": {
     "address": "Sitiawan, Perak, Malaysia 32000",
@@ -392,7 +407,8 @@
     "geohash": "w0z8sfmnn4",
     "remarks": "pada awalnya masjid dibina di ayer tawar estate sebelum ia dipindahkan ke kg sungai ramai iaitu ke tapak sekarang pada tahun 1957 atas sebab estate tersebut telah dijual.\r\n\r\nproses pemindahan adalah melalui gotong royong dimana semua penduduk kampung beramai-ramai dan bertungkus lumus memindahkan dan membina semula masjid di tapak sekarang.\r\n\r\npada masa itu, bekalan air dan elektrik masih tidak dapat diperoleh dan air perigi digunakan sebagai alternatif",
     "source_musolla_id": "MY-08-MJG-00030",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-pondok telefon\r\n-tandas awam"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-pondok telefon\r\n-tandas awam",
+    "directions": "masjid al-aqsa terletak kira-kira 4km dari pekan ayer tawar"
   },
   "w0zergt3uv": {
     "address": "Kampung Lubuk Merbau, Lubok Merbau, Perak, Malaysia 33010",
@@ -409,7 +425,8 @@
     "geohash": "w0zergt3uv",
     "remarks": "berdasarkan pertambahan penduduk di kariah masjid jamek al-marbawi, lubuk merbau yang kian meningkat sekarang, maka sebuah masjid yang lebih besar adalah perlu dibina bagi mengimbangi keperluan penuduk yang kian ramai itu.\r\n\r\nkeadaan begini telah mula dirasakan sejak beberapa tahun yang akhir-akhir ini, khususnya pada waktu-waktu bersolat pada hari jumaat dan hari raya. di dua waktu ini, baik pada hari jumaat ataupon pada hari raya aidilfitri atau aidiladha, keadaan bersesak sewaktu bersolat amat dirasakan.ini adalah disebabkan masjid yang sedia ada hanya mampu mengisi keperluan berjemaah untuk seramai 320 orang sahaja, sedangkan penduduk di sekitar kariah masjid ini sudah meningkat ke angka 1200 orang.   \r\n\r\nmasjid yang sedia ada ini atau pon dalam konteks kedudukannya pada hari ini secara lebih mudah disebut sebagai masjid lama, telah dibina pada tahun 1960. usaha-usaha ke arah pembinaannya bolehlah digariskan sebagai sebuah usaha yang dibuat secara tergesa-gesa disebabkan masjid yang terdahulu berada dalam keadaan yang amat uzur sekali.jawatankuasa masjid pada waktu itu berpendapat sebuah masjid baru yang lebih sempurna wajar dibina bagi kemudahan dan keselesaan berjemaah.\r\n\r\ndengan tiada mempunyai walau sesen pon wang tabungan bagi digunakan sebagai perbelanjaan membina sebuah masjid yang sempurna, penduduk mukim lubok merbau telah digerakkan untuk bersama menghulurkan sumbangan bagi tujuan yang suci lagi mulia ini. atas inisiatif serta kerja keras penghulu mukim waktu itu, en khairi b hj mat yatim beserta ketua-ketua kampung dan juga jawatankuasa masjid, sejumlah rm6500 telah dapat dikumpulkan.\r\n\r\nmelalui wang sebanyak itulah beserta tambahan peruntukan dari kerajaan negeri perak  sebanyak rm5500 lagi menjadikan jumlah kesemuanya rm12,000 telah dibelanjakan pada peringkat awal bagi membina sebuah masjid yang baru.jurubina bagi kerja-kerja pembinaan masjid ini ialah cheng fah constructionc company.\r\n\r\ndengan siap terbinanya masjid ini maka masalah ketidakselesaan berjemaah di masjid yang berkeadaan uzur, tidak timbul lagi.masjid jamek al- marbawi ini kemudiannya pada hari ahad 12 februari 1961, telah dirasmikan oleh ke bawah dymm paduka seri sultan perak waktu itu, almarhum sultan yussuf izzuddin ghafarallahu-lahu shah.\r\n\r\nsesudah lebih dari dua dasawarsa masjid lama ini tegak berdiri sebagai tempat beribadat bagi penduduk sekitar kariahnya yang meliputi kg pulai, kg jenalik, kg gemuruh, kg paya, bt 36,kg hujung tanjung, kg kubang panjang, kg guntung, pekan lubuk merbau, kg rambung,dan kg jelapang. masa akhir ini khusunya sejak tujuh lapan tahun yang lalu, kepadatan jemaah yang bersolat disini kian dirasakan.penduduk setempat kian meningkat, sementara masjid yang ada hanya boleh mngekalkan keperluan berjemaah bagi 12 saf yang setiap sesaf sesuai untuk 27 orang sahaja.\r\n\r\nsatu ikhtiar dan usaha baru perlu dijalankan.masjid yang sedia ada mesti diperbesarkan atau jika boleh sebuah masjid baharu yang lebih besar wajar dibina lagi,. untuk membina sebuah masjid/baru masalah tapak tanah terpaksa didepani. namun begitu masalah ini akhirnya dapat diatasi bila puan hajjah khadijah bt kulop wahab dan keluarga, telah bermurah hati menyumbangkan atau mewakagkan sekeping tanahnya yang terletak di kawasan bahagian belakang masjid lama, sebagai tapak untuk didirikan masjid yang baharu. pihak jawatankuasa masjid amatlah terhutang budi serta berterima kasih atas sumbangan yang amat bermakna ini.\r\n\r\nproses biasa untuk membangunkan sebuah masjid dimulakan. mesyuarat demi mesyuarat jawatankuasa kerja pembinaan masjid baru telah dijalankan. berdasarkan keputusan-keputusan dari mesyuarat ini , kutipan derma dari seluruh masyarakat islam setempat dan juga seluruh negeri telah dilancakan serta mendapat sambutan yang menggalakkan . sejumlah rm26,970 telah dapat dikumpulkan pada peringkat awal pelancaran derma ini.\r\n\r\npihak ahli jawatankuasa juga mengucapkan terima kasih kepada yang berhormat tuan haji mior aris mior abu bakar, ahli dewan undangan negeri kawasan lubok merbau kerana dengan daya usahanya telah berjaya mendapatkan peruntukan khas sebanyak rm150,000 daripada yab dati seri dr mahathir mohamed , perdan menteri malaysia dan sebnayak rm76,000 daripada kerajaan negeri perak untuk menjayakan pembinaan masjid ini.\r\n\r\npada 11 julai 1984, kerja-kerja awal meratakan tanah tapak pembinaan masjid baru telah dimulakan. kerja-kerja pembinaan seterusnya telah juga dijalankan dengan lancar, dimana kerja-kerja pembinaan ini telah dilakukan oleh syarikat pembinaan sri akal sdn bhd. pembinaan masjid baru yang dianggarkan menelan belanja sebnayak rm250,000 ini telah sempurna disiapkan pada april 1985. masjid baru ini adalah bersaiz lebih besar dari ruang masjid yang lama, iaitu mempunyai sebanyak 13 saf setiap satu sesuai untuk seramai 36 orang bersolat. ini bermakna masjid baru ini boleh memuatkan seramai sekitar 470 orang untuk berjemaah sekaligus.\r\n\r\nwalaupun masjid baru telah diperolehi, ini tidak bererti masjid lama yang kecil itu dibiarkan begitu sahaja. jawatankuas amasjid berpendpat masjid lama ini hendaklah terusa digunkan, dan dengan pengekalan penggunaan masjid lama begini , keseluruhan komples masjid jamek al-merbawi lubuk merbau mampu menaggung kegunaan berjemaah bagi serami 790 orang sekaligus. untuk itu kerja-kerja membaik pulih dan mgubahsuai beberapa struktur bangunan masjid lama ini, termasuk membekalkan beberapa peralatan baru telah dijalankan. sebanyak rm40,000 telah dibelanjakan bagu tujuan ini.\r\n\r\nsejak dari tahun 1961 hinggalah ke hari ini, seramai sembilan orang imam telah berkhidmat. mereka ialah allahyarham mohd daie b hj abdul karim, hj mohd kamil b hj osman, allahyarham hj mohd yunus b hj mahmuddin, hj abas b abdulraof, mohamed b baharum, allahyarham hj jamil b shariff, hj abdul manaf b ngah mat basir, hj ayob b hj mohamad & mohd radzi b kulob meon\r\n\r\nhari ini jumaat 12 jamadil akhir 1406 bersamaan 21 februari 1986, masjid jamek al-marbawi lubuk merbau sekali lagi mencatatkan sejarahnya. jika suku abad yang lalu paduka seri sultan perak ke-32 mencemar duli berangkat merasmikan masjid yang lama, hari ini paduka seri sultan perak ke-34 pula perkenan mencemar duli berangkat merasmikan bangunan masjid yang baru pula. sesungguhnya di sinilah terletaknya keistimewaan masjid jamek al-merbawi lubuk merbau, kerana kedua-dua kompleks bangunannya telah dirasmikan oleh dua sultan yang mempuyai pertalian yang khusus-ayahnda dan anakanda.",
     "source_musolla_id": "MY-08-KK-00368",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-ruang it\r\n-bazigo\r\n-kawasan riadah"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-ruang it\r\n-bazigo\r\n-kawasan riadah",
+    "directions": "berhampiran dengan pekan lubuk merbau dan terletak di tengah-tengah kg dan taman perumahan:\r\n\r\ndi sebelah utara masjid : kg jelapang dan kg lubuk merbau tua\r\ndi sebelah selatan : perumahan awam meor aris, taman impiana, taman exora, kg pulai, kg jenalik, kg gemuruh\r\nsebelah barat : kg rambong, kg tersusun\r\ntimur : kg paya, kg ujung tanjung, kg kubang panjang\r\nperumahan dalam kawasan pekan lubuk merbau\r\nberhampiran dengan lebuh raya timur barat ( pantai timur )"
   },
   "w0zkxb01dw": {
     "address": "Taman Keramat Indah, Bagan Serai, Perak, Malaysia 34300",
@@ -443,7 +460,8 @@
     "geohash": "w0zeefxfbk",
     "remarks": "surau diri jumaat telah dimulakan pada tahun 1985 dibangunkan madrasah al-taufiqiah jalan raja sulung kampung boyan. cetusan membangunkan masjid di kg boyan adalah disebabkan beberapa peristiwa ahli kariah yang pergi menunaikan solat jumaat di masjid daerah taiping kerap kali ditimpa kemalangan jalan raya. antara lain seorang ahli kariah meninggal akibat kemalangan jalan raya semasa dalam perjalanan ke masjid daerah taiping.pembangunan pesat di kampung boyan menjadikan pertambahan penduduk lebih pantas.taman long jaafar membina lebih dari 300 rumah sekitar tahun 80an. satu kawasan diperuntukkan tapak masjid kg boyan ditengah-tengah taman long jaafar.\r\n\r\njawatankuasa pembinaan masjid telah ditubuhkan untuk memungut derma. setelah beberapa tahun di jalankan kutipan derma dari ahli kariah dan orang ramai telah berjaya mengumpulkan wang berjumlah rm250,000. bermula dari situ ajk telah merayu sumbangan dari kerajaan negeri dan pusat akhirnya berjaya mendapat sumbangan kerajaan pusat berjumlah rm1,000,000. bermula dari tarikh tersebut pembinaan dimulakan. pembinaan masjid jamek kg boyan dilaksanakan oleh pejabat daerah larut matang dan selama bersama-sama ahli jawatankuasa pembinaan masjid jamek kg boyan. pembinaan berjalan lancar hingga siap dibina.",
     "source_musolla_id": "MY-08-TPG-00486",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-ruang it\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-ruang it\r\n-kawasan riadah",
+    "directions": "disertakan pelan lokasi yang lengkap."
   },
   "w0zegcxh1q": {
     "address": "Kampung Jana Baru, Asam Kumbang, Perak, Malaysia 34600",
@@ -475,7 +493,8 @@
     "geohash": "w0zeu4r691",
     "remarks": "masjid jamek kamunting didirikan sekitar tahun 40an di kawasan bekas lombong bijih timah. berkat usaha pemimpin-pemimpin tempatan dan disokong oleh pihak british, yang menganugerahkan sebidang tanah, maka terdirilah sebuah masjid yang berdindingkan papan dengan kos pembinaannya pada masa itu sekitar rm35,000 sahaja. tahun berganti tahun maka banyak perubahan telah berlaku terutamanya struktur bangunannya daripada bangunan kayu berandur-ansur menjadi bangunan batu sepenuhnya. sehingga hari ini sudah empat kali bangunan ini berubah sehingga menjadi bangunan yang sedia ada sekarang.sekarang antara pengerusi-pengerusi yang dikhabarkan kepada penulis adalah seperti berikut :\r\n\r\n1-tn haji jaafar b uduh\r\n2-tn haji mohammad b nor\r\n3-tn haji hasan b basri\r\n4-tn haji shamsuddin b hj salleh\r\n5-tn haji hassan b ali",
     "source_musolla_id": "MY-08-TPG-00515",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parking\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo\r\n-kawasan riadah"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parking\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-ruang bilik kuliah\r\n-bazigo\r\n-kawasan riadah",
+    "directions": "-masjid jamek kamunting terletak dipersimpangan utama dari bandar taiping ke pekan batu kurau, selama dan bagan serai. selain itu, kedudukan masjid ini yang berada dilaluan utama bandar taiping dari lebuh raya utara selatan yang memalui tol kamunting utara, menjadikan masjid ini sebagai tempat persingghana utama pengguna yang beragama islam"
   },
   "w0zestyt2z": {
     "address": "Kamunting, Perak, Malaysia 34600",
@@ -490,7 +509,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "bf155474-3a9c-4488-9301-2ca6a575b018",
     "geohash": "w0zestyt2z",
-    "source_musolla_id": "MY-08-TPG-00524"
+    "source_musolla_id": "MY-08-TPG-00524",
+    "directions": "-1km dari pusat peranginan bukit larut ( bukit maxwell )\r\n-0.5 km dari maktab rendah sains mara taiping\r\n-1.5 km dari penjara taiping\r\n-5 km dari pusat bandar taiping\r\n-2 km dari zoo taiping"
   },
   "w0zbr8neyy": {
     "address": "Chenderiang, Perak, Malaysia 35350",
@@ -568,7 +588,8 @@
     "geohash": "w0zfhcksxp",
     "remarks": "kampung sungai rokam pada asalnya merupakan sebuah kawasan tanah perlombongan yang diusahakan oleh syarikat inggeris dengan kerjasama kerajaan negeri perak.pada tahun 1959 kawasan perlombongan ini telah ditutup secara berperingkat. setelah tamat kerja-kerja perlombongan oleh syarikat tersebut, kawasan ini telah teringgir dari arus pembangunan untuk sekian lamanya.kesempatan ini telah diambil oleh pihak parti komunis malaya (pkm) untuk cuba menyusup masuk di kawasan-kawasan lombong terbiar ini bagi mendapatkan bantuan dari penduduk yang masih tinggal, terutamanya dari kaum cina.\r\n\r\ndengan keadaan tanah yang terbiar, terdapat sekumpulan kaum cina telah menjalankan penerokaan secara haram bagi mengusahakan tanaman sayur secara berperingkat. lama kelamaan, kawasan ini telah banyak diterokai oleh kaum tersebut. sehubungan dengan itu, yab dato seri panglima bukit gantang wahab, menteri besar perak yang pertama, dengan kerjasama pembesar-pembesar negeri dan pihak keselamatan, telah bersetuju mengambil alih tanah ini untuk menempatkan orang-orang melayu dan dijadikan kampung orang-orang melayu sahaja.\r\n\r\nsemasa negeri perak di bawah pentadbiran yab dato' seri ahmad b said, perkampungan ini telah dibuka dengan nama kampung sungai rokam, bersempena dengan terdapatnya beberapa batang pokok rokam terbiar yang ditanam oleh pekebun sayur sebelumnya.\r\n\r\nsetelah wujudnya sebuah perkampungan yang didiami oleh keseluruhannya orang melayu, maka cadangan pembinaan sebuah masjid mula dirancangkan oleh penduduk-penduduk bersama pihak majlis agama islam dan juga pegawai kerajaan negeri untuk dikemukakan ke yab menteri besar perak. permohonan tersebut telah diluluskan dan proses pembinaannya mula dilaksanakan pada 9 februari 1963,dengan kos pembangunan keseluruhannya pada masa tersebut dianggarkan sebanyak rm45,000 di atas sebidang tanah berkeluasan hampir 1 ekar. pembinaannya berjalan dengan lancar, dan pada penghujung tahun 1964, pembinaan bangunan tersebut siap dengan jayanya. bangunan masjid ini secara rasminya diberi nama masjid sultan iskandar shah 1, kg sungai rokam, bersempena dengan kewujudannya semasa di bawah pemerintahan tuanku sultan. baginda juga telah banyak menyumbang dan memainkan peranan penting di dalam merealisasikan pembangunan masjid ini. pada 11 disember 1964, masjid ini telah dirasmikan oleh yab dato seri ahmad b said, menteri besar perak di masa itu.\r\n\r\ndari tempoh permulaan pembinaannya, masjid ini telah genap mencapai 50 tahun pada 9 feb 2013 yang lalu. seiring dengan peredaran masa,keperluan untuk membangunkan semula masjid ini telah dikaji, agar ianya dapat membantu mengeratkan lagi perpaduan dan ukhwah disamping memberi keselesaan untuk beribadah kepada para jemaah bagi tahun-tahun berikutnya.",
     "source_musolla_id": "MY-08-IPH-00189",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang bilik kuliah\r\n-rumah musafir"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang bilik kuliah\r\n-rumah musafir",
+    "directions": "lokasi masjid ini terletak di dalam kawasan kampung sungai rokam, kampung melayu tersusun dengan jarak lebih kurang 6km daripada pusat bandaraya ipoh. kampung ini dikelilingi dengan tempat tumpuan ramai iaitu politeknik ungku omar di sebelah utara dan medan gopeng disebelah barat serta dikelilingi oleh taman perumahan yang berkepadatan agak tinggi. berikut adalah plan lokasi masjid jamek idris iskandar shah 1, sungai rokam, ipoh, perak"
   },
   "w0zcuj5prd": {
     "address": "Ipoh, Perak, Malaysia 31400",
@@ -585,7 +606,8 @@
     "geohash": "w0zcuj5prd",
     "remarks": "tapak masjid ini adalah tapak masjid asal yang dirobohkan dan diganti dengan masjid baru.semasa pembinaan sedang berjalan,jemaah disediakan tempat khas sementara dibahagian tepi belakang masjid ini untuk menunaikan solat. kini kawasan tersebut digunakan sebagai dewan makan sementara. dalam perancangan tapak dewan makan ini didirikan bangunan tiga tingkat dengan kemudahan perpustakaan, dewan di bahagian bawah dan lain-lain kegunaan.",
     "source_musolla_id": "MY-08-IPH-00162",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-perpustakaan\r\n-ruang it\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-perpustakaan\r\n-ruang it\r\n-kawasan riadah",
+    "directions": "jalan pasir putih merupakan jalan utama bagii kawasan masjid al-furqan. berhampiran dengan station 18, mempunyai pusat membeli belah jusco dan tesco. terdapat jalan pintas ke medan gopeng melalui jalan lapangan terbang sultan azlan shah."
   },
   "w0z8t4sjkn": {
     "address": "Sitiawan, Perak, Malaysia 32000",
@@ -616,7 +638,8 @@
     "uuid": "17a04754-73d7-490c-9501-ef3962eeba53",
     "geohash": "w0zg9h50v8",
     "remarks": "-masjid asy-syakirin terletak di kg temong hilir. masjid ini telah dibina pada tahun 1993 bagi menggantikan masjid lama yang telah uzur. masjid asy syakirin dibina di atas tanah wakaf yang terletak di atas bukit.masjid ini menggabungkan beberapa ahli kariah dari beberapa buah kampung iaitu kg temong hilir, kg lubuk chapin dan sebahagian dari kg temong hulu.",
-    "source_musolla_id": "MY-08-KK-00385"
+    "source_musolla_id": "MY-08-KK-00385",
+    "directions": "-lokasi masjid asy syakirin kg temong hilir terletak di atas sebidang tanah wakaf.di seberang masjid pula terletak tanah perkuburan kg temong hilir juga merupakan sebahagian daripada tanah wakaf kepunyaan masjid. lokasi masjid ini juga terletak di laluan jalan utama menuju ke pekan kati. selain itu juga masjid asy syakirin juga terletak tidak jauh daripada makam orang-orang besar perak iaitu makam tok temong. makam ini sering dikunjungi oleh orang luar yang datang menziarahi dan secara tidak langsung akan singgah di masjid asy asyakirin untuk memunaikan solat."
   },
   "w0zg9byxfy": {
     "address": "Kota Lama Kanan, Perak, Malaysia 31050",
@@ -633,7 +656,8 @@
     "geohash": "w0zg9byxfy",
     "remarks": "dalam tahun 1983 jawatankuasa kemajuan keselamatan kampung (jkkk) kampung perik yang dpengerusika oleh tuan hj osman b medon, telah mengambil keputusan untuk memohon daripada jabatan agama islam negeri perak bagi membenarkan penduduk kariah salak utara mendirikan solat jumaat di surau kg perik. hal demikian disebabkan penduduk kariah salak utara terpaksa ke masjid kg enggor yang jauhnya antara enam hingga lapan kilometer, untuk mendirikan solat jumaat.\r\n\r\nsetelah mendapat kelulusan jabatan agama islam perak, maka pada 03 ogos 1983, solat jumaat pertama di kg perik dapat didirikan di surau kampung perik. pada hari yang sama juga pengerusi jkkk kg perik ( ketua kg perik) telah meninggal dunia dan diganti oleh en norbi b deroh.\r\n\r\npada tahun 1988, satu peruntukan telah diluluskan untuk membina sebuah masjid di kg perik. sehubungan itu, pada bulan september 1988 sebuah masjid telah siap dibina di kg perik ini dan penyerahan kunci telah dilaksanakan pada 09 september 1988. ahli kariah masjid ini meliputi penduduk kampung setia, kg perik, kg nasib, taman sekitar salak utara dan kg salak stesen.",
     "source_musolla_id": "MY-08-KK-00412",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-parkir\r\n-tandas awam"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-parkir\r\n-tandas awam",
+    "directions": "MASJID INI TERLETAK DALAM KAWASAN TANAH SELUAS KIRA-KIRA 0.5 EKAR, DI TEPI JALAN RAYA PERSEKUTUAN (KM37 (BATU 25) JALAN IPOH-KUALA KANGSAR. KEDUDUKANNYA BERSEBELAHAN KILANG KICAP TAMIN ANGGOR DAN SEBERANG JALAN BERHADAPAN PUSAT KRAFTANGAN CAWANGAN PERAK DI ENGGOR. JARAKNYA DARI KUALA KANGSAR ADALAH KURANG LEBIH 8 KILOMETER DAN DARI SUNGAI SIPUT (U) KIRA-KIRA 10 KILOMETER."
   },
   "w0zenv2r10": {
     "address": "Kampung Buaya, Perak, Malaysia 33700",
@@ -681,7 +705,8 @@
     "geohash": "w0zfhqjhfz",
     "remarks": "masjid muhibbuddin shah bermula sebagai sebuah surau, sebidang tanah seluas 1.5 ekar, pembinaan bermula 25 april 1996 majlis pecah tanah sebagai permulaan pembinaan, dan tanggal jumaat 12 mei 2006 masjid muhinbbuddin shah telah dirasmikan oleh dymm paduka seri sultan perak sultan azlan muhibbuddin shah.",
     "source_musolla_id": "MY-08-IPH-00416",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-pondok telefon\r\n-mesin atm\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-ruang bilik kuliah\r\n-rumah mesaffir\r\n-pondok rehat\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-pondok telefon\r\n-mesin atm\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-ruang bilik kuliah\r\n-rumah mesaffir\r\n-pondok rehat\r\n-kawasan riadah",
+    "directions": "-bandaraya ipoh\r\n-banguna kerajaan\r\n-pusat beli belah\r\n-hospital\r\n-sekolah\r\n-univesiti"
   },
   "w0zfj0jn1b": {
     "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
@@ -698,7 +723,8 @@
     "geohash": "w0zfj0jn1b",
     "remarks": "pembukaan penempatan rapat setia, gunung rapat, ipoh ADALAH MEMPUNYAI HUBUNGKAIT YANG BEGITU RAPAT DENGAN PENUBUHAN SYARIKAT KERJASAMA ORANG-ORANG MELAYU, IPOH DALAM TAHUN 1953.PEMBINAAN FASA PERTAMA RUMAH KEDIAMAAN DI RAPAT SETIA INI TELAH DILAKSANAKAN DALAM TAHUN 1959. SEJAK DARI ITU PEMBINAAN PERUMAHAN BERJALAN LANCAR DAN PENDUDUK YANG MENDIAMI KAWASAN RAPAT SETIA INI SEMAKIN BERTAMBAH RAMAI. untuk memenuhi keperluan penduduk disini, dalam fasa ketiga pembinaan perumahan, sebuah surau/madrasah telah dibina di atas tapak berkeluasan 17,690 kaki persegi (lot 46483)di jalan pasar ( jalan raja musa mahadi), rapat setia, gunung rapat,31350 ipoh ia telah dirasmikan oleh dymm paduka seri sultan idris shah dalam tahaun 1963.\r\n\r\ntanah tapak surau berkenaan telah dihadiahkan oleh syarikat kerjasama perumahan orang-orang melayu perak berhad (kini koperasi perumahan orang melayu kinta berhad). pengasas pembinaan surau ini adalah juga pengasas syarikat kerjasama perumahan orang-orang melayu perak berhad.",
     "source_musolla_id": "MY-08-IPH-00190",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-perpustakaan \r\n-ruang bilik kuliah\r\n-homestay\r\n-kawasan riadah dan tempat rehat\r\n-kolam air terjun binaan & ikan hiasan\r\n-kereta jenazah\r\n-rezah tanah perkuburan\r\n-sekolah rendah agama rakyat\r\n-sekolah tahfiz kerjasam sekolah swasta"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-parkir\r\n-kedai perniagaan\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-perpustakaan \r\n-ruang bilik kuliah\r\n-homestay\r\n-kawasan riadah dan tempat rehat\r\n-kolam air terjun binaan & ikan hiasan\r\n-kereta jenazah\r\n-rezah tanah perkuburan\r\n-sekolah rendah agama rakyat\r\n-sekolah tahfiz kerjasam sekolah swasta",
+    "directions": "-masjid sultan yussuf rapat setia terletak dalam kawasan taman perumahan koperasi dan taman swasta. kedudukannya di jalan raja musa mahadi, yang sejajar dengan politeknik ungku omar dan rtm ipoh perak. masjid ini terletak lebih kurang 5km ke selatan bandaraya ipoh. dari pintu tol keluar (exit) simpang pulai, lebuhraya utara selatan plus, menuju ke bandaraya ipoh lebih kurang 8km."
   },
   "w0zqf2jprb": {
     "address": "Georgetown, Pulau Pinang, Malaysia 10050",
@@ -731,7 +757,8 @@
     "geohash": "w0zcusbjff",
     "remarks": "Masjid ini berkonsepkan seni bina Afrika Selatan dan Timur Tengah. Namun begitu ia dibina lebih ringkas dengan hanya sebuah kubah sahaja di bahagian bumbungnya yang berbentuk rata dan tanpa dilengkapi dengan menara sebagaimana kebiasaan. Bangunan masjid ini dibina dua tingkat dengan menampakkan perbezaan ukuran kelebaran saiz antara tingkat atas dan bawah. Masjid ini dibina pada 17 Rabiulawal 1419 Hijri bersamaan 12 Jun 1998 Masihi. Perasmian masjid ini telah disempurnakan oleh Duli Yang Teramat Mulia Raja Muda Perak, Raja Dr. Nazrin Shah Ibni Sultan Azlan Muhibuddin Shah.",
     "source_musolla_id": "MY-08-IPH-00003",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-kawasan riadah",
+    "directions": "-lokasi masjid terletak lebih kurang 3 km dari pekan gunung rapat\r\n-lokasi masjid terletak lebih kurang 8 km dari bandaraya ipoh\r\n-lokasi masjid juga terletak lebih  kurang 3 kilometer dari pengkaan tudm\r\n-jarak jalan besar gunung rapat dengan lokasi masjid adalah 4 km sahaja"
   },
   "w0zqg4p7bm": {
     "address": "Georgetown, Pulau Pinang, Malaysia 10050",
@@ -778,7 +805,8 @@
     "geohash": "w0zepuybsd",
     "remarks": "-sejarah pembinaan masjid ini bermula, bila masjid yang lama, masjid alang iskandar sudah tidak dapat menampung bilangan jemaah yang mendirikan jumaat semakin bertambah. secara kebetulan apabila pemegang tanah wakaf masjid dato' setia diraja meninggal dunia, tanah wakaf ini masih belum dipindah milik kepada jabatan hal ehwal agama islam negeri perak, maka waris-waris beliau telah menuntut tanah wakaf masjid ini sebagai tanah pusaka.\r\n\r\n- oleh sebab itu, kedudukan msjid lama mula tergugat, maka pihak ajk masjid telah memutuskan untuk mencari tapak masjid baru, dan al-marhum tuan hj abd wahid yang merupakan ketua kg dan imam masjid pada masa itu telah bermurah hati mewakafkan tanah beliau lot 2993 bersebelahan masjid lama untuk didirkan masjid baru.\r\n\r\n-pelbagai ikhtiar telah dilakukan untuk mencari peruntukan bagi membolehkan masjid baru dibina,permohonan telah dimajukan kepada yb hj mohd shaffie mat saman yang merupakan adun kawasan pada masa itu. peruntukan telah diperolehi sebanyak rm25000 daripada peruntukan kerajaan negeri perak. maka pembinaan mula berlaku di awal tahun 1975\r\n\r\nperistiwa penting juga berlaku di mana peruntukan diluluskan sebanyak rm50,000 pada awalnya, tetapi terpaksa dibahagi 2 kerana masjid kg lempor memerlukan keadaan yang sama.",
     "source_musolla_id": "MY-08-KK-00349",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang it\r\n-ruang bilik kuliah\r\n-rumah musafir\r\n-bazigo (pondok rehat)\r\n-kawasan riadah"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-ruang it\r\n-ruang bilik kuliah\r\n-rumah musafir\r\n-bazigo (pondok rehat)\r\n-kawasan riadah",
+    "directions": "masjid ini terletak di tepi jalan antara bandar kuala kangsar dan padang rengas. disamping berhampiran jalan sisi melalui lebuh raya ke pantai timur. jarak antara bandar kuala kangsar dan padang rengas hanya 6 kilometer. dalam kawasan yang sama juga terletak masjid alng iskandar ( masjid bersejarah) yang menjadi tumpuan pelancong dan murid-murid sekolah."
   },
   "w0zes67dq3": {
     "address": "Kawasan Perusahaan Ringan Tupai, Tupai, Perak, Malaysia 34000",
@@ -795,7 +823,8 @@
     "geohash": "w0zes67dq3",
     "remarks": "masjid ini dibina pada tahun 1968 sebagai masjid melayu baru bandar taiping bagi menggantikan masjid melayu lama yang telah bertambah. ia terletak di atas sebidang tanah lot 2362 bandar taiping dengan keluasan tanah 4,0201 ekar. ianya dibina dengan kos rm500,000 daripada sumbangan kerajaan persekutuan, kerajaan negeri dan orang ramai.\r\n\r\nmasjid ini dirasmikan oleh dymm sultan perak sultan idris pada tahun 1972. pada tahun 1987 apabila kerajaan negeri hendak mewujudkan sebuah masjid daerah.masjid ini telah dipilih kerana ianya merupakan masjid yang tersebsar dan tercantik pada masa itu  dan nama masjid daerah kekal hingga sekarang. masjid ini telah digunakan untuk menunaikan solat jumaat dan solat hari raya oleh penduduk bandar taiping dan kawasan sekitarnya.",
     "source_musolla_id": "MY-08-TPG-00010",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-ruang bilik kuliah\r\n-pondok rehat\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-ruang bilik kuliah\r\n-pondok rehat\r\n-kawasan riadah",
+    "directions": "masjid ini terletak di jalan kampung jambu berhadapan stesyen bas taiping berhampiran hotel legend inn dan bank cimb cawangan taiping dan tidak juah dari hotel taiping perdana."
   },
   "w0zqt3e9cv": {
     "address": "Bandar Baru Perda, Bukit Mertajam, Pulau Pinang, Malaysia 14000",
@@ -913,7 +942,8 @@
     "geohash": "w0zbb0we9m",
     "remarks": "1. masjid asal di bota kanan ialah dimasjid lama diatas tapak wakaf bersendirian kira  1 km dari masjid baru\r\n2. masjid jamek juga atas waqaf bersendirian hj harun dan diwaqaf kepada maipk seluar 1 ekar",
     "source_musolla_id": "MY-08-SI-00139",
-    "provision": "1. dilengkapkan dengan penghawa dingin sepenuhnya\r\n2. memiliki sebuah van jenazah"
+    "provision": "1. dilengkapkan dengan penghawa dingin sepenuhnya\r\n2. memiliki sebuah van jenazah",
+    "directions": "1. lokasi di batu 10 jalan utama parit ke kg.gajah\r\n2.  terletak dipinggir pekan bota kanan"
   },
   "w0zrn2p9ut": {
     "address": "Mukim 13, Tasek Gelugor, Pulau Pinang, Malaysia 13310",
@@ -958,7 +988,8 @@
     "uuid": "299b94fe-44e6-4fff-92b6-0f65c477c8d2",
     "geohash": "w0zg0xu6cz",
     "remarks": "masjid taman kuala kangsar terletak lebih kurang 4 kilometer dari bandar kuala kangsar. lokasinya berhampiran dengan stesen keretapi dan hospital kuala kangsar, taman anggerik dan taman sheikh tahir\r\n\r\npada tahun 1998, ahli jawatnkuasa taman kuala kangsar telah berjaya menyiapkan sebuah surau bagi kegunaan penduduk islam taman kuala kangsar pada masa itu dengan anggaran kos pembinaan sebanyak rm27,000. soalt berjemaah 5 waktu telah didirikan di samping pelbagai lagi aktivit keagamaan yang melibatkan semua ahli kariah surau\r\n\r\npada 1hb januari 1990, jabatan agama islam negeri perak telah meluluskan surau taman kuala kangsar bagi mendirikan solat jumaat disebabkan halangan yang dihadapi oleh penduduk taman kuala kangsar terutamanya ketika melintasi laluan keretapi untuk pergi menunaikan solat jumaat di masjid ridzuaniah kuala kangsar. kelulusan ini telah memberi banyak kemudahan dan keselesaan  kepada penduduk taman kuala kangsar dan taman-taman sekitarnya.\r\n\r\npenambahan bilangan penduduk islam di taman kuala kangsar, taman anggerik dan taman sheikh tahir serta ditambah dengan pekerja-pekerja kilang berhampiran yang datang menunaikan solat jumaat menimbulkan situasi yang kurang selesa. justeru pihak ajk surau taman kuala kangsar telah menubuhkan satu jawatankuasa pembinaan masjid taman kuala kangsar yang diketuai oleh tuan hj mohd isa b jaafar, khusus untuk merangka dan bergerak ke arah membina sebuah masjid yang lebih besar dan sempurna bagi menampung keperluan penduduk taman kuala kangsar, taman anggerik dan taman sheikh tahir.\r\n\r\nhasil usaha jk pembinaan dan doa semua penduduk islam, kelulusan pembinaan sebuah masjid di tapak berkeluasan 0.821 hektar di lot 10308 telah diperolehi dengan peruntukan dari jabatan perdana menteri, putrajaya sebanyak rm900,000 disamping hasil derma dan sumbangan AJK dan orang ramai sebanyak rm86,000. pada tahun 2004, kerja-kerja pembinaan telah dilakukan dengan pemantauan pihak jabatan kerja raya.\r\n\r\ndengan jumlah rm968,000 tersebut, masjid taman kuala kangsar telah dapat disiapkan dan upacara penyerahannya telah dilakukan oleh jabatan kerja raya kepada pejabat agama daerah kuala kangsar pada 29 ogos 2005. sehubungan dengan itu, masjid taman kuala kangsar telah digunakan dengan rasminya pada 30 ogos 2005 dengan solat maghrib berjemaah dan diadakan majlis bacaan yassin dan tahlil sempena menaymbut hari kemerdekaan.\r\n\r\npada 16 september 2005, majlis pengisytiharan mendirikan solat jumaat di masjid taman kuala kangsar telah disempurnakan oleh us zamri b hashim dari jabatan mufti negeri perak. bermula daripada tarikh inilah masjid telah digunakan secara optimum oleh seluruh anak kariah. beberapa penambahbaikan telah dilakukan untuk meningkatkan kemudahan dan keselesaan para jemaah yang sentiasa bertambah dari masa ke semasa",
-    "source_musolla_id": "MY-08-KK-00534"
+    "source_musolla_id": "MY-08-KK-00534",
+    "directions": "lebih kurang 4 kilometer dari bandar kuala kangsar.berhampiran stesen keretapi dan hospital kuala kangsar."
   },
   "w0zg2vqz2n": {
     "address": "Kampung Beluru, Kota Lama Kiri, Perak, Malaysia 33010",
@@ -992,7 +1023,8 @@
     "geohash": "w0zu2v1z85",
     "remarks": "sebelum masjid ini dibina ahli kariah berjamaah waktu jumaat di surau kampung lata papan kuak. sekitar tahun 1950 ahli kariah merancang untuk membina masjid dan menubuhkan ajk pembinaan masjid.tindakan awal ialah membuat kutipan sumbangan dari ahli kariah dan mendapatkan tapak yang sesuai yang telah diwakafkan oleh ahli kariah dan telah digazetkan. mula dibina pada tahun 1954 dengan mendirikan tiang secara bergotong royong. kerja-kerja lain dilakukan oleh kontrak",
     "source_musolla_id": "MY-08-LG-00114",
-    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kawasan riadah"
+    "provision": "-tempat wudhu\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kawasan riadah",
+    "directions": "15km dari pekan lenggong dan berdekatan dengan jalan utama (jalan lama) lenggong ke kuala kangsar."
   },
   "w0zgfgmybh": {
     "address": "Pulau Kamiri, Perak, Malaysia 31120",
@@ -1054,7 +1086,8 @@
     "geohash": "w0zfj2fs53",
     "remarks": "masjis solatiah bermula sebagai surau solatiah yang bertempat di sebuah rumah sewa diperisaran wira jaya barat 66, taman rapat setia baru ipoh pada tahun 1986\r\n\r\nkemudian sebuah bangunan surau yang tetap telah didirikan di persimpangan wira jaya barat 66 dengan persiran wira jaya barat 31, tamanrapat setia baru, ipoh.\r\n\r\nhasil dari kepesatan pertambahan penduduk, surau solatiah telah dinaiktaraf kepada surau diri jumaat dan solat jumaat pertamanya didirikan pada 27 november 1988.\r\n\r\nsurau diri jumaat ini kemudiannya dinaiktaraf lagi menjadi masjid solatiah oleh mesyuarat jawatankuasa syariah negeri perak kali ke 150 yangbersidang pada 6 november 2000. pengisytiharan solat jumaat pertamanya telah disempurnakan oleh ss dato' seri mufti negeri perak pada 23 februari 2001\r\n\r\nkepadatan penduduk terus meningkat dan menyebabkan sebuah bangunan naru masjid solatiah telah dibina di tapak yang sama dan bangunan baru ini telah siap dibina dan diserahkan kepada jawatankuasa kariah masjid pada 23 mei 2016. solat jumaat pertama di bangunan baru ini pada 10 jun 2016\r\n\r\nwalaupun bangunan baru masjid solatiah telah mula digunakan untuk solat jumaat namun bangunan lama masjid terus juga digunakan bersama untuk mendirikan solat jumaat kerana bilangan jemaah yang besar yang tidak dapat ditampung sepenuhnya oleh bangunan baru.",
     "source_musolla_id": "MY-08-IPH-00192",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-bilik pengurusan jenazah\r\n-kereta mpv\r\n-stor\r\n-dataran sembelihan ibadah qurban"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-kerusi orang kurang upaya\r\n-perpustakaan\r\n-bilik pengurusan jenazah\r\n-kereta mpv\r\n-stor\r\n-dataran sembelihan ibadah qurban",
+    "directions": "masjid ini berada lebih kurang  :\r\n10 km dari pusat bandaraya ipoh\r\n4 km dari kampus politeknik ungku omar\r\n3 km dari plaza tol ipoh selatan"
   },
   "w0zcgrm7xe": {
     "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
@@ -1189,7 +1222,8 @@
     "uuid": "f4a30d7e-c161-4f2a-a3c3-81b2d2a887d7",
     "geohash": "w0zuc7wfgn",
     "source_musolla_id": "MY-08-LG-00122",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kELAS PENGAJIAN AL-QURAN"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kELAS PENGAJIAN AL-QURAN",
+    "directions": "kedudukan masjid berhampiran jalan utama dan berhampiran dengan muzium arkeologi kota tampan dan 5km daripada pekan lenggong"
   },
   "w0zg1hexn9": {
     "address": "33000 Sayong, Perak, Malaysia 33000",
@@ -1384,7 +1418,8 @@
     "uuid": "13b2d324-f380-4d54-9e47-cc9fe224d18f",
     "geohash": "w0zg30d29b",
     "source_musolla_id": "MY-08-KK-00388",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-parkir\r\n-tandas awam\r\n-kawasan riadah"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-parkir\r\n-tandas awam\r\n-kawasan riadah",
+    "directions": "-masjid hidayatul ummah hanya lebih kurang 5-6 kilometer dari bandar diraja kuala kangsar, perak.ianya juga terletak dalam kawasan tempat bersejrah di kuala kangsar seperti kubur tok temong, masjid kota lama kanan, uktoria bridge dan lain-lain"
   },
   "w0z81fxyqg": {
     "address": "Lumut, Perak, Malaysia 32200",
@@ -1430,7 +1465,8 @@
     "geohash": "w0zbb0nk9e",
     "remarks": "1. DIDIRIKAN SEMULA DITAPAK ASAL YANG DIWAQAF OLEH INDIVIDU. BERUPA BANGUNAN SEKERAT BATU DAN PAPAN\r\n2. BANGUNAN BARU MASJID BARU ATAS SUMABANGAN KELUARGA CIKGU SHAHARUDDIN DIREKA BENTUK OLEH KELUARGA TERSEBUT",
     "source_musolla_id": "MY-08-SI-00149",
-    "provision": "1. DIBEKALKAN PENGHAWA DINGIN\r\n2. SEKOLAH AGAMA RAKYAT"
+    "provision": "1. DIBEKALKAN PENGHAWA DINGIN\r\n2. SEKOLAH AGAMA RAKYAT",
+    "directions": "1. TEPI JALAN KM 15 JALAN UTAMA PARIT - BOTA"
   },
   "w0z9eq8pbx": {
     "address": "Jalan Damar Laut-Changkat Jering, Kampung Padang Serai, 32700 Pengkalan Baharu, Perak, Malaysia 32700",
@@ -1447,7 +1483,8 @@
     "geohash": "w0z9eq8pbx",
     "remarks": "pada tahun 1950an penduduk kampung padang serai. matang aceh dan batu hampar bergotong rotong mencari kayu dihutan untuk membuat masjid pertengahan tahun 70an dengan ihsan penduduk qariah masjid pantai remis bersetuju memberi masjid lama kepada kampung padang serai untuk menggantikan masjid yang sangat daif, dari masa itulah masjid kg padang serai dinamakan masjid ehsaniah.pada tahun 1998 masjid baru telah didirikan dengan peruntukan kerajaan persekutuan sebanyak rm600,000",
     "source_musolla_id": "MY-08-MJG-00036",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang masak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam",
+    "directions": "dari beruas 15km\r\ndari pantai remis 12km"
   },
   "w0zmurjgeg": {
     "address": "Mukim 16, Pulau Pinang, Malaysia 14100",
@@ -1693,7 +1730,8 @@
     "geohash": "w0z9drtwpv",
     "remarks": "pembinaan awal semua usaha secara gotong royong serta bantuan dari kapung yang berhampiran. dan semasa ubahsuai bangunan juga 1961 juga secara bergotong royong penambakan tapak masjid dengan tanah berpasir menggunakan angkut dengan oleh orang kmpung. ketika itu jalan raya panchor masih jalan 12 kaki jalan batu belum diletak tar.",
     "source_musolla_id": "MY-08-MJG-00037",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-pondok rehat"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya\r\n-pondok rehat",
+    "directions": "Lokasi bangunan masjid ada lah ditepi jalan raya yang menghubungkan Pantai Remis dan Bandar Taiping"
   },
   "w0z853t8xc": {
     "address": "Jalan Utama Kampung Serdang, Kampung Serdang, 32000 Sitiawan, Perak, Malaysia 32000",
@@ -1710,7 +1748,8 @@
     "geohash": "w0z853t8xc",
     "remarks": "masjid ini bermula daripada sebuah surau yang didirkan pada tahun 1997 menggantikan surau lama yang diperbuat daripada kayu yang berusia kira-kira 3o tahun. dirasmikan pada 17 ogos 1997 oleh yb dato muhamad wajdi b datohaji ishak adun pangkor sebagai sebuah surau yang baru.dinaiktaraf sebagai masjid pada 18 april 2008.",
     "source_musolla_id": "MY-08-MJG-00585",
-    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya"
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-kerusi orang kurang upaya",
+    "directions": "-terletak di jalan utama kampung serdang\r\n-jarak dari bandar berhampiran ialah 2km"
   },
   "w0z9w42edz": {
     "address": "Beruas, Perak, Malaysia 32700",
@@ -1727,7 +1766,8 @@
     "geohash": "w0z9w42edz",
     "remarks": "1. Masjid Kg. Dendang di bina kali pertama diatas tapak yang ada sekarang ini pada tahun 1950.\r\n  2. Tapak ini telah diwakafkan oleh pemilik tanah yang bernama Ngah Ahmad, Lot no. 2320 seluas 0.2625 ekar.\r\n  3. Sebelum dijadikan tapak masjid, tapak ini merupakan tapak surau pertama di Kampung Dendang yang kemudian diwakafkan sebagai \r\n      tapak masjid ini dipernamakan atas nama 3 orang iaitu:\r\n     a. En. Ahmad bin Mat Yasin(Kadhi Lumut)\r\n     b. En. Ali Am bin Darban(Penghulu Mukim Beruas)\r\n     c. En. Mohd. Salleh bin Abd. Manaf(Ketua Kampung Dendang",
     "source_musolla_id": "MY-08-MJG-00041",
-    "provision": "1. Bilik Mesyuarat\r\n        2. Penghawa Dingin\r\n        3. Ruang Solat Muslimah\r\n        4. Balai Lintang untuk jamuan makan\r\n        5. Kolah untuk mengambil wudhuk \r\n        6. Bilik Kuliah Muslimah\r\n        7. Ruang untuk laungan azan \r\n        8. Bilik khas Imam\r\n        9. Kedai gunting rambut\r\n       10.Tandas berasingan unrtuk lelaki dan perempuan"
+    "provision": "1. Bilik Mesyuarat\r\n        2. Penghawa Dingin\r\n        3. Ruang Solat Muslimah\r\n        4. Balai Lintang untuk jamuan makan\r\n        5. Kolah untuk mengambil wudhuk \r\n        6. Bilik Kuliah Muslimah\r\n        7. Ruang untuk laungan azan \r\n        8. Bilik khas Imam\r\n        9. Kedai gunting rambut\r\n       10.Tandas berasingan unrtuk lelaki dan perempuan",
+    "directions": "1. Kedudukan dilaluan utama Beruas-Kuala Kangsar-Ipoh"
   },
   "w0z8gjukpu": {
     "address": "Pengkalan Baharu, Perak, Malaysia 34900",
@@ -1786,7 +1826,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "a075937e-ad64-46ee-a4ee-240eb2ec1cf3",
     "geohash": "w0zqq3xbem",
-    "source_musolla_id": "MY-07-SPT-00202"
+    "source_musolla_id": "MY-07-SPT-00202",
+    "directions": "5.327574, 100.480757"
   },
   "w0zqsxkh1e": {
     "address": "Taman Tenggiri, 13700 Seberang Jaya, Pulau Pinang, Malaysia 13700",
@@ -1814,7 +1855,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "d0f69bd9-cdd7-4cf7-baa9-c71f43b77808",
     "geohash": "w0zrs0mwjh",
-    "source_musolla_id": "MY-07-KB-00092"
+    "source_musolla_id": "MY-07-KB-00092",
+    "directions": "5.539539, 100.378870"
   },
   "w0zrsp7bym": {
     "address": "Penaga, Pulau Pinang, Malaysia 13100",
@@ -1828,7 +1870,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "e94e36ef-93b9-45db-9e7f-500237e52d96",
     "geohash": "w0zrsp7bym",
-    "source_musolla_id": "MY-07-KB-00093"
+    "source_musolla_id": "MY-07-KB-00093",
+    "directions": "5.577093, 100.376515"
   },
   "w0zrt7x4rt": {
     "address": "Kampung Bumbung Lima, 13200 Kepala Batas, Pulau Pinang, Malaysia 13200",
@@ -1842,7 +1885,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "918e096b-6809-458b-9650-2291669b4406",
     "geohash": "w0zrt7x4rt",
-    "source_musolla_id": "MY-07-KB-00094"
+    "source_musolla_id": "MY-07-KB-00094",
+    "directions": "5.556753, 100.435965"
   },
   "w0zrjy3zcj": {
     "address": "Mukim 11, Seberang Perai Utara, Pulau Pinang, Malaysia 13800",
@@ -1856,7 +1900,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "7fb3231d-0c44-463b-a63d-bb81419511e8",
     "geohash": "w0zrjy3zcj",
-    "source_musolla_id": "MY-07-KB-00095"
+    "source_musolla_id": "MY-07-KB-00095",
+    "directions": "5.484912, 100.450454"
   },
   "w0zrsd9bdm": {
     "address": "Kampung Tok Otek, Penaga, Pulau Pinang, Malaysia 13110",
@@ -1870,7 +1915,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "4398678c-bfe9-4e17-b8b9-280d259141d0",
     "geohash": "w0zrsd9bdm",
-    "source_musolla_id": "MY-07-KB-00096"
+    "source_musolla_id": "MY-07-KB-00096",
+    "directions": "5.550960, 100.395572"
   },
   "w0zrt0h0g1": {
     "address": "Mukim 5, Kepala Batas, Pulau Pinang, Malaysia 13100",
@@ -1884,6 +1930,7 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "a11d0182-65fe-43f9-a3c0-754edcc7ce7a",
     "geohash": "w0zrt0h0g1",
-    "source_musolla_id": "MY-07-KB-00097"
+    "source_musolla_id": "MY-07-KB-00097",
+    "directions": "5.537246, 100.420661"
   }
 }

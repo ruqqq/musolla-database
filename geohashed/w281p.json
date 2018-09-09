@@ -14,7 +14,8 @@
     "geohash": "w281pj7h02",
     "remarks": "Masjid ini dibina selepas Sekolah Agama yang bersebelahan dengan masjid dibuka. Masjid ini siap dibina tidak sampai satu tahun hasil dari gotong-royong penduduk setempat.",
     "source_musolla_id": "MY-10-PTG-00250",
-    "provision": "Kemudahan yang terdapat pada masjid ialah ruang solat untuk kanak-kanak serta tempat letak kasut yang bertingkat."
+    "provision": "Kemudahan yang terdapat pada masjid ialah ruang solat untuk kanak-kanak serta tempat letak kasut yang bertingkat.",
+    "directions": "Masjid ini berada bersebelahan Jalan Utama Seksyen 27 menghala Seksyen 28."
   },
   "w281phwt86": {
     "address": "Seksyen 27, 40400 Shah Alam, Selangor, Malaysia 40400",
@@ -31,7 +32,8 @@
     "geohash": "w281phwt86",
     "remarks": "Masjid ini merupakan masjid pertama di kawasan seksyen 27 Shah Alam. Masjid ini dapat menampung jemaah-jemaah surau kecil di sekitarnya. Masjid ini mengambil masa 2 tahun untuk disiapkan.",
     "source_musolla_id": "MY-10-PTG-00249",
-    "provision": "Kemudahan-kemudahan yang terdapat di masjid ini ialah ruang parkir yang boleh menampung sebanyak 300 biji kereta dan ruang rumput untuk aktiviti kenduri."
+    "provision": "Kemudahan-kemudahan yang terdapat di masjid ini ialah ruang parkir yang boleh menampung sebanyak 300 biji kereta dan ruang rumput untuk aktiviti kenduri.",
+    "directions": "Masjid ini berada berdekatan dengan Sekolah Tamil Seksyen 27 dan HICOM."
   },
   "w281py17pe": {
     "address": "Kampung Kenangan, Subang Jaya, Selangor, Malaysia 47100",
@@ -46,7 +48,8 @@
     "updatedAt": "2018-09-09T15:44:09+08:00",
     "uuid": "9a957f58-17dd-47c5-8e9c-6d377e09f63f",
     "geohash": "w281py17pe",
-    "source_musolla_id": "MY-10-PTG-00299"
+    "source_musolla_id": "MY-10-PTG-00299",
+    "directions": "Lokasi masjid ini terletak dikawasan perumahan Kampong Kenangan, Jalan Klang, Puchong."
   },
   "w281psy9xt": {
     "address": "Kampung Tengah, Subang Jaya, Selangor, Malaysia 47100",
@@ -78,7 +81,8 @@
     "uuid": "bd3ca5fd-ffa3-4ded-9a09-82e9c0c15e20",
     "geohash": "w281pggf21",
     "source_musolla_id": "MY-10-PTG-00295",
-    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah ,mandi jenazah,dapur dan masjid ini berhawa dingin."
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah ,mandi jenazah,dapur dan masjid ini berhawa dingin.",
+    "directions": "Masjid ini berada di kawasan kampung. Lebih kurang 2 kilometer untuk ke Lebuhraya Damansara Puchong (LDP)."
   },
   "w281p53vet": {
     "address": "Seksyen 28, Taman Alam Megah, Shah Alam, Selangor, Malaysia 40400",
@@ -95,6 +99,7 @@
     "geohash": "w281p53vet",
     "remarks": "Masjid ini dibina bukan sekadar tempat beribadah tetapi juga untuk penduduk setempat melakukan aktiviti yang sihat.",
     "source_musolla_id": "MY-10-PTG-00251",
-    "provision": "Kemudahan yang terdapat pada masjid ini ialah ruang parkir motorsikal yang panjang serta tempat memgambil wuduk yang banyak."
+    "provision": "Kemudahan yang terdapat pada masjid ini ialah ruang parkir motorsikal yang panjang serta tempat memgambil wuduk yang banyak.",
+    "directions": "Masjid ini berada bersebelahan Jalan Utama dan berdekatan Sekolah Agama."
   }
 }
