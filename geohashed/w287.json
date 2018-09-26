@@ -1,0 +1,36 @@
+{
+  "w287bvbkt9": {
+    "address": "Kampung Masjid, Rasa, Selangor, Malaysia 44200",
+    "contact": "012-9364416",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.504046,
+      "longitude": 101.635111
+    },
+    "name": "AL - KHOLIDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "44a36f85-cf89-4e9e-a813-d7a967bd798b",
+    "geohash": "w287bvbkt9",
+    "source_musolla_id": "MY-10-HSR-00086",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir  ,  tempat wuduk diluar bangunan, van jenazah, parkir berbumbung alat penghawa dingin dan  ruangan solat yang selesa..",
+    "directions": "Masjid ini terletak dikawasan perkampongan ditepi jalan besar pekan  Rasa, Hulu Selangor ."
+  },
+  "w2870h3x62": {
+    "address": "Serendah, Selangor, Malaysia 48200",
+    "contact": "013-6297869",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.364438,
+      "longitude": 101.603724
+    },
+    "name": "NURUL IMAN SERENDAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2bdaa0d0-7d9d-4d75-bb4e-99232a4714b0",
+    "geohash": "w2870h3x62",
+    "source_musolla_id": "MY-10-HSR-00078",
+    "provision": "Ruang parkir masjid amat luas bagi memudahkan jemaah untuk meletakkan kereta. Pihak masjid akan mengadakan kuliah agama pada hari-hari yang tertentu.",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan."
+  }
+}

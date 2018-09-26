@@ -1,0 +1,19 @@
+{
+  "w0zg30d29b": {
+    "address": "Kota Lama Kiri, Perak, Malaysia 33000",
+    "contact": "0194455455",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.792872,
+      "longitude": 100.945557
+    },
+    "name": "MASJID HIDAYATUL UMMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "13b2d324-f380-4d54-9e47-cc9fe224d18f",
+    "geohash": "w0zg30d29b",
+    "source_musolla_id": "MY-08-KK-00388",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik pegawai masjid\r\n-ruang makan\r\n-parkir\r\n-tandas awam\r\n-kawasan riadah",
+    "directions": "-masjid hidayatul ummah hanya lebih kurang 5-6 kilometer dari bandar diraja kuala kangsar, perak.ianya juga terletak dalam kawasan tempat bersejrah di kuala kangsar seperti kubur tok temong, masjid kota lama kanan, uktoria bridge dan lain-lain"
+  }
+}

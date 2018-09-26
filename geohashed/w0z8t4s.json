@@ -1,0 +1,17 @@
+{
+  "w0z8t4sjkn": {
+    "address": "Sitiawan, Perak, Malaysia 32000",
+    "contact": "0165341136",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.321311,
+      "longitude": 100.772272
+    },
+    "name": "MASJID AL FALAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2fd518e9-96fd-40b0-805b-4390d431a4f9",
+    "geohash": "w0z8t4sjkn",
+    "source_musolla_id": "MY-08-MJG-00018"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w9588h1xvf": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.736206,
+      "longitude": 117.424185
+    },
+    "name": "MASJID AL-AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4e0a1565-f230-4696-8f37-014d66d6cc51",
+    "geohash": "w9588h1xvf",
+    "source_musolla_id": "MY-12-BLR-00028"
+  }
+}

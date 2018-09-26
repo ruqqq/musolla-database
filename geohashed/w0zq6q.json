@@ -1,0 +1,16 @@
+{
+  "w0zq6qts6w": {
+    "address": "Universiti Sains Malaysia, Gelugor, Pulau Pinang, Malaysia 11800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.353854,
+      "longitude": 100.301854
+    },
+    "name": "MASJID AL MALIK KHALID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3c704b29-257d-495a-830d-8187861361ac",
+    "geohash": "w0zq6qts6w",
+    "source_musolla_id": "MY-07-TL-00007"
+  }
+}

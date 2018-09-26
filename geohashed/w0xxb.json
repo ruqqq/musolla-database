@@ -1,0 +1,34 @@
+{
+  "w0xxbws19x": {
+    "address": "Pekan Pulau Pangkor, Lumut, Perak, Malaysia 32300",
+    "contact": "012-5702457",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.210808,
+      "longitude": 100.574409
+    },
+    "name": "MASJID TELOK RAJA BAYANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "38b2d788-0efa-4a35-9888-8fa1bf5e33f1",
+    "geohash": "w0xxbws19x",
+    "remarks": "masjid dibina bagi menggantikan masjid yang lama",
+    "source_musolla_id": "MY-08-MJG-00052",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-tandas awam\r\n-ruang it\r\n-ruang bilik kuliah",
+    "directions": "dari jeti pangkor 300 m"
+  },
+  "w0xxbezg02": {
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.195921,
+      "longitude": 100.579507
+    },
+    "name": "MASJID AL-BADR SERIBU SELAWAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c4ade9b0-b85c-4579-a7c6-b05fa1e7d698",
+    "geohash": "w0xxbezg02",
+    "source_musolla_id": "MY-08-MJG-00733",
+    "address": "KAMPUNG TELUK BHARUTELUK GEDUNGPULAU PANGKORPERAK DARUL RIDZUAN 34900, Malaysia"
+  }
+}

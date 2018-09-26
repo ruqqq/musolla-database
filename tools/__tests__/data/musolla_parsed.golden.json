@@ -1,0 +1,124 @@
+[
+    {
+        "uuid": "cac0ff47-c34d-4140-b101-bfdb608eee83",
+        "name": "Tampines mall musollah @level 3",
+        "address": "90 Bras Basah Rd, Singapore 189562\n1.29310, 103.85580",
+        "location": {
+            "latitude": 1.2931,
+            "longitude": 103.8558
+        },
+        "type": "Musolla",
+        "geohash": "w21z773kze",
+        "mrt": "Tampines",
+        "directions": "Locate level 3 washroom. It will be located on the right of the walkway",
+        "level": "3",
+        "toiletLevel": "3",
+        "maleCapacity": 6,
+        "femaleCapacity": 6,
+        "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran",
+        "remarks": null,
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    },
+    {
+        "uuid": "b8d209d9-052b-4cb5-a415-ac46e9a03f1e",
+        "name": "Basement 2 Carpark @ Jurong Point 1",
+        "address": "1 Jurong West Central 2, #03-07, Singapore 648886\n1.33961, 103.70649",
+        "location": {
+            "latitude": 1.33961,
+            "longitude": 103.70649
+        },
+        "type": "Musolla",
+        "geohash": "w21xxgugb3",
+        "mrt": "Boon Lay",
+        "directions": "Take escalator to B2 carpark near Popular bookstore. Walk past trolley bay.  Musollah is about 10m ahead",
+        "level": "B2",
+        "toiletLevel": "B1",
+        "unisexCapacity": 5,
+        "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Aircon",
+        "remarks": null,
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    },
+    {
+        "uuid": "574e3668-0e67-463d-94c2-98df2444bc36",
+        "name": "Tampines mall",
+        "address": "90 Bras Basah Rd, Singapore 189562\n1.29310, 103.85580",
+        "location": {
+            "latitude": 1.2931,
+            "longitude": 103.8558
+        },
+        "type": "Musolla",
+        "geohash": "w21z773kze",
+        "mrt": "Tampines",
+        "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
+        "level": "2/3",
+        "toiletLevel": "null",
+        "maleCapacity": 2,
+        "femaleCapacity": 3,
+        "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+        "remarks": null,
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    },
+    {
+        "uuid": "c0fdaafe-c644-48cc-8414-e4c78ad13403",
+        "name": "B2 @ SIT Dover",
+        "address": "10 Dover Dr, Singapore 138683\n1.30086, 103.77920",
+        "location": {
+            "latitude": 1.30086,
+            "longitude": 103.7792
+        },
+        "type": "Musolla",
+        "geohash": "w21z3scdn9",
+        "mrt": "one-north",
+        "directions": "From The Canopy (main food court), turn right at the toilet and walk along the corridor to the next toilet. The musolla is under the staircase, beside the male toilet.",
+        "level": "B1",
+        "toiletLevel": "B1",
+        "unisexCapacity": 8,
+        "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Fans",
+        "remarks": "If the musolla is fully occupied, you can pray at the turfed open area on mezzanine level, a few steps up outside the musolla.",
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    },
+    {
+        "uuid": "cbdc2d4d-603d-4cc3-a76c-cbffb57e3258",
+        "name": "Admin Building Locker",
+        "address": "Ang Mo Kio South Flyover, Singapore\n1.35296, 103.85578",
+        "location": {
+            "latitude": 1.35296,
+            "longitude": 103.85578
+        },
+        "type": "Musolla",
+        "geohash": "w21zeq33x4",
+        "mrt": "Bishan",
+        "directions": "Find Men's Locker/Bathroom near the Row of Motorcycle Lots near the canteen. Inside the locker room, walk all the way to the end.",
+        "level": "1",
+        "toiletLevel": "1",
+        "maleCapacity": 5,
+        "provision": "Slippers, Praying Mats, Wudu' Area, Fans",
+        "remarks": "This is a restricted area. You will need an escort if you are coming into this depot.",
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    },
+    {
+        "uuid": "87d12310-a7be-4aa8-a248-963130366ea1",
+        "name": "Woodlands Regional Library @ Woodlands Civics Centre",
+        "address": "S730900, 900 South Woodlands Drive, Singapore 730900\n1.43458, 103.78658",
+        "location": {
+            "latitude": 1.43458,
+            "longitude": 103.78658
+        },
+        "type": "Musolla",
+        "geohash": "w23b1tpj49",
+        "mrt": "Woodlands",
+        "directions": "Staircase door right outside Library entrance.\n\n2nd staircase landing included.",
+        "level": "1-2",
+        "toiletLevel": "1",
+        "unisexCapacity": 8,
+        "provision": "Praying Mats, Qiblat Indicator",
+        "remarks": null,
+        "createdAt": "2018-09-26T23:24:24.124Z",
+        "updatedAt": "2018-09-26T23:24:24.124Z"
+    }
+]

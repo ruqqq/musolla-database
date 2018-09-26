@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:15.168Z",
     "uuid": "2a5f80ba-606f-40f5-a333-b6f34a223dd7",
-    "geohash": "w21z6h39cz"
+    "geohash": "w21z6h39cz",
+    "remarks": "This is the second satellite masjid built under the Mosque Building Fund. Completed in October 1977, it is conspicuous by its cream-coloured walls and circular glass-paneled prayer hall. Instead of a dome, it has a cuboid-shaped top with semi-oval openings on all four sides. The masjid in the Central part of the island which can fill up to 3,500 people offers madrasah and kindergarten classes as well as other religious classes on a regular basis.",
+    "mosqueType": "MBMF"
   }
 }

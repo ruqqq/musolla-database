@@ -1,0 +1,46 @@
+{
+  "w0zw80evxq": {
+    "address": "Kulim, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.365053,
+      "longitude": 100.552339
+    },
+    "name": "AL-JAMIUL MAKMUR pekan kulim",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "33986b23-8b81-4404-9bcb-77c2a4651f89",
+    "geohash": "w0zw80evxq",
+    "source_musolla_id": "MY-02-KLM-00351"
+  },
+  "w0zw8m7mrb": {
+    "address": "Lunas, Kedah, Malaysia 09600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.391073,
+      "longitude": 100.5626632
+    },
+    "name": "AL HUDA KELANG LAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "811ef5af-4cfa-432d-9344-ebacf095c07f",
+    "geohash": "w0zw8m7mrb",
+    "remarks": "Mengikut sejarah, masjid pertama dibina sekitar tahun 1940 an di atas tanah wakaf keluarga Tuan Haji Said Bin Saras. Masjid dibina dari bahan kayu dengan kolah (tempat wuduk) dibuat diatas tanah merupakan telaga yang digali diatas tanah (perkuburan) disebelah tepi jalan raya utama Lunas (air mata air masih wujud sehingga sekarang dan perlu dialirkan keluar untuk dijadikan tanah perkuburan yang selesa). \n\nSekitar tahun 1970 an, masjid ini dibina semula. Perletakan batu asas telah dibuat oleh Mantan MB iaitu Dato Seri Syed Ahmad Shahabudin pada 26 oktober 1971.\n\nSetelah siap masjid dirasmikan oleh Mantan Y.A.B Perdana Menteri Kedua iaitu Tun Haji Abd Razak Bin Hussin pada 10 November 1973 (ketika itu DYMM Sultan Kedah adalah Yang Dipertuan Agung). \n\nSekitar tahun 1990 (23 Julai 1990 bersamaan 1 Muharram 1424) Masjid ini telah dianugerahkan masjid terbaik Kategori A Negeri Kedah semasa Tuan Haji Ismail menjawat  jawatan imam. Pihak masjid juga menggunakan sumbangan dana anak kariah untuk membeli sebuah rumah kedai dua tingkat dan disewakan kepada pihak Darus Syifa Kulim.\n\nSekitar Jun 2003 masjid ini sekali lagi dianugerahkan masjid terbaik Kategori bandar peringkat negeri Kedah sempena tahun hijrah 1424 H/2003 oleh Kebawah Duli Yang Maha Mulia Tuanku Sultan Kedah.Tuan imam pada masa itu adalah Tuan Haji Ibrahim Bin Teh.Untuk keselesaan masjid ini telah membeli sebuah rumah(kepunyaan seorang bukan islam) berhampiran masjid beserta tanah pada tahun 1993.Rumah ini dijadikan rumah pegawai (sekarang didiami oleh Siak masjid).\n\nPada tahun 2010 pihak Kementerian Pendidikan Malaysia telah menyalurkan peruntukan kewangan sebanyak RM 180 000 untuk membina bangunan kafa. Melalui tender terbuka sebuah bangunan 4 bilik darjah telah dibina dan mula digunakan untuk kelas kafa pada tahun 2011. \n \nPihak masjid juga dalam proses menyelesaikan pembayaran tanah wakaf untuk dijadikan tanah perkuburan dan lain-lain.\n\nPada 3 Ogos 2014, pihak masjid telah berjaya menubuhkan Koperasi Kariah Masjid Al Huda untuk memudahkan anak kariah berurusan dalam muamalat/barangan kegunaan harian.",
+    "source_musolla_id": "MY-02-KLM-00354",
+    "provision": "1. Telefon Masjid\n2. Telefon Awam\n3. Taman Rekreasi\n4. Air Pancutan\n5. Rumah Siak\n6. Pintu Gerbang\n7. Lampu Antik"
+  },
+  "w0zw8f99nq": {
+    "address": "Sungai Ular, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.375267,
+      "longitude": 100.582164
+    },
+    "name": "AL-FURQAN sungai ular",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4e831211-8f79-4653-9161-798284057722",
+    "geohash": "w0zw8f99nq",
+    "source_musolla_id": "MY-02-KLM-00371"
+  }
+}

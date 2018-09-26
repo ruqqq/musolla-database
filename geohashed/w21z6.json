@@ -31,7 +31,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:32.046Z",
     "uuid": "311fcabc-5709-44b9-a044-4b03d03e33c0",
-    "geohash": "w21z62nug3"
+    "geohash": "w21z62nug3",
+    "remarks": "Inspired by Sumatran Minang architecture, this masjid with its brown structure stands out from the high-rise housing estate in Telok Blangah. Located at the Central District, it was built in 1991 with resources from the Mosque Building Fund. With a capacity of 3000, the masjid offers weekend madrasah and weekday classes to a total of 600 children. Islamic knowledge classes are also held during the evening.",
+    "mosqueType": "MBMF"
   },
   "w21z6vbfyu": {
     "address": "10 Scotts Road S(228221)",
@@ -120,7 +122,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:20.064Z",
     "uuid": "adbce676-a31e-48e5-a231-03df20bc6430",
-    "geohash": "w21z6ejs3z"
+    "geohash": "w21z6ejs3z",
+    "remarks": "Tucked away among Housing Board skyscraper flats, this redeveloped masjid was built on the old site of surau Delta which was first built in 1960. The new two-storey building was completed in 1995 increasing its capacity to 500 people. Its main activities are confined to daily and Friday prayers as well as celebrations of Maulid and other religious occasions.",
+    "mosqueType": "TOL"
   },
   "w21z647mu7": {
     "address": "1 Queensway S(149053)",
@@ -215,7 +219,7 @@
   },
   "w21z67kh5x": {
     "address": "946 Margaret Drive, Singapore 149309",
-    "contact": "6472 7298",
+    "contact": "6928 0442",
     "createdAt": "2014-12-23T06:50:22.028Z",
     "location": {
       "latitude": 1.292992,
@@ -225,7 +229,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:23.421Z",
     "uuid": "7836b47e-f8b8-4e88-b92d-76e04b72c2ae",
-    "geohash": "w21z67kh5x"
+    "geohash": "w21z67kh5x",
+    "remarks": "Much of what was built in 1965 is retained today in this 35-year-old masjid. Located in the Central part of the island, this old generation masjid built in 1965 serves office workers around the area and has a capacity of 400 worshippers. Activities are confined to weekend madrasah classes as well as religious lectures on Thursday, Friday and Saturday.",
+    "mosqueType": "Leasehold"
   },
   "w21z6wj9s6": {
     "address": "442 Orchard Rd S(238879)",
@@ -280,7 +286,9 @@
     "type": "Mosque",
     "updatedAt": "2016-03-25T04:55:55.773Z",
     "uuid": "7a8fde24-443c-4a2e-a90d-8129d722db13",
-    "geohash": "w21z66x91k"
+    "geohash": "w21z66x91k",
+    "remarks": "Redeveloped in 1985 on the same site as the old masjid, this three-storey cream structure can accommodate up to 2000 people. The first masjid was built in 1960. Today, the masjid in Central part of the island serves the needs of residents in Redhill, Tiong Bahru and Alexandra areas, besides the office workers at the nearby industrial estates. Besides madrasah and kindergarten classes, it organizes regular religious classes for the adults.",
+    "mosqueType": "Leasehold"
   },
   "w21z6tt9c1": {
     "address": "190 Orchard Boulevard S(248646)",
@@ -315,7 +323,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:15.168Z",
     "uuid": "2a5f80ba-606f-40f5-a333-b6f34a223dd7",
-    "geohash": "w21z6h39cz"
+    "geohash": "w21z6h39cz",
+    "remarks": "This is the second satellite masjid built under the Mosque Building Fund. Completed in October 1977, it is conspicuous by its cream-coloured walls and circular glass-paneled prayer hall. Instead of a dome, it has a cuboid-shaped top with semi-oval openings on all four sides. The masjid in the Central part of the island which can fill up to 3,500 people offers madrasah and kindergarten classes as well as other religious classes on a regular basis.",
+    "mosqueType": "MBMF"
   },
   "w21z6yg6tv": {
     "uuid": "f5454fb2-ae3c-4ed0-8f72-16764ca98c19",

@@ -1,0 +1,53 @@
+{
+  "w286jf0svt": {
+    "address": "Kampung Kuala Perdik, Hulu Langat, Selangor, Malaysia 43100",
+    "contact": "019-3870986",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.175892,
+      "longitude": 101.855181
+    },
+    "name": "MASJID KARIAH KUALA PERDIK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1924951b-63ad-4ec5-9515-6190e5bf135b",
+    "geohash": "w286jf0svt",
+    "source_musolla_id": "MY-10-HL-00015",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir yang kecil dan ruangan solat.",
+    "directions": "Masjid ini terletak dikawasan kampong Perdik ditepi jalan."
+  },
+  "w286j8wf4s": {
+    "address": "Kampung Jawa, Hulu Langat, Selangor, Malaysia 43100",
+    "contact": "019-2768120",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.167175,
+      "longitude": 101.852646
+    },
+    "name": "MASJID KARIAH KAMPUNG JAWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "932e08b6-5b48-49b3-8666-7a2186fb8a03",
+    "geohash": "w286j8wf4s",
+    "source_musolla_id": "MY-10-HL-00355",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir dan  ruangan solat yang luas. ,",
+    "directions": "Masjid ini terletak dikawasan kampong Jawa, di tepi jalan utama."
+  },
+  "w286jsjx3u": {
+    "address": "Hulu Langat, Selangor, Malaysia 43100",
+    "contact": "012-6819517",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.187303,
+      "longitude": 101.850898
+    },
+    "name": "MASJID KARIAH LUBUK KELUBI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "38d56251-d1a6-48e4-87c5-5611029e8277",
+    "geohash": "w286jsjx3u",
+    "source_musolla_id": "MY-10-HL-00024",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang kecil dan ruangan solat.",
+    "directions": "Masjid ini terletak ditepi jalan Kampong Lubuk Kelubi."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w0z9j2md7k": {
+    "address": "Beruas, Perak, Malaysia 32700",
+    "contact": "0125629154",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.396316,
+      "longitude": 100.785287
+    },
+    "name": "MASJID DARUL NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "74aab5af-1fcf-4b64-bbe7-350d81ddca69",
+    "geohash": "w0z9j2md7k",
+    "source_musolla_id": "MY-08-MJG-00035"
+  }
+}

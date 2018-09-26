@@ -1,0 +1,34 @@
+{
+  "w28694ndzy": {
+    "address": "Persiaran Pegawai, Selayang, 68100 Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.263448,
+      "longitude": 101.654774
+    },
+    "name": "MASJID AL - FIRDAUS BANDAR BARU SELAYANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bf90fa7f-31e1-4778-ab46-20e6ccc81482",
+    "geohash": "w28694ndzy",
+    "source_musolla_id": "MY-10-GBK-00069",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat untuk lelaki dan perempuan,bilik pejabat dan dewan.  \r\n .",
+    "directions": "Masjid ini terletak di kawasan bandar Baru Selayang."
+  },
+  "w28698m350": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.253502,
+      "longitude": 101.674819
+    },
+    "name": "MASJID JAMIATUS SOLAHIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7e815b33-2179-4034-bbb4-b1991665bc17",
+    "geohash": "w28698m350",
+    "source_musolla_id": "MY-10-GBK-00064",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir, van jenazah dan urusan jenazah dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Sungai Tua, 3 km dari Batu Caves."
+  }
+}

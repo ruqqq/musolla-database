@@ -1,0 +1,16 @@
+{
+  "w8gb4ru6qw": {
+    "address": "Tawau, Sabah, Malaysia 91000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.261744,
+      "longitude": 117.87844
+    },
+    "name": "MASJID AL-AMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d2203740-ff2e-4f56-9376-affd8d445dda",
+    "geohash": "w8gb4ru6qw",
+    "source_musolla_id": "MY-12-TAW-00752"
+  }
+}

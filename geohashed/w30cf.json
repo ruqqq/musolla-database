@@ -1,0 +1,67 @@
+{
+  "w30cfx02uz": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.971238,
+      "longitude": 102.415098
+    },
+    "name": "MASJID MUKIM TOK JUNUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "99781ee8-73df-4fe9-855a-b4f81aebdbe9",
+    "geohash": "w30cfx02uz",
+    "remarks": "Masjid ini telah mula dibina pada tahun 1962 yang dimana pada asalnya ia sebuah surau yang kecil. Masjid telah dibina di atas tanah yang telah diwakafkan dan dinaiktaraf menjadi sebuah masjid. Kemudian masjid ini telah dirasmikan oleh Allahyarham Hj. Mohd bin Abdullah",
+    "source_musolla_id": "MY-03-BCK-00550",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid ini juga mempunyai tempat parking motosikal yang berbumbung yang boleh memuatkan 12 buah kenderaan pada satu masa. Masjid juga dilengkapi lapan keranda dan mempunyai tempat untuk memandikan mayat.",
+    "directions": "Lokasi masjid terletak 30km dari Bandar Bachok. Masjid berhampiran dengan Sekolah Kolam dan berdekatan dengan Tabika Kampung Kolam."
+  },
+  "w30cfy789b": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.967039,
+      "longitude": 102.430424
+    },
+    "name": "MASJID MUKIM AUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5729a770-b70a-4a08-9594-ff256417c674",
+    "geohash": "w30cfy789b",
+    "source_musolla_id": "MY-03-BCK-00480",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berdekatam dengan jalan raya."
+  },
+  "w30cfjrrgs": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.962809,
+      "longitude": 102.402685
+    },
+    "name": "MASJID MUKIM KELUAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f2e9e139-8ed6-4ddf-b636-d796a736a0ed",
+    "geohash": "w30cfjrrgs",
+    "source_musolla_id": "MY-03-BCK-00466",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat wuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan kenderaan dan kolah di bahagian belakang masjid. Di belakang masjid juga terdapat kolah.",
+    "directions": "Masjid terletak di tepi jalan sebuah kawasan kampung. Lokasi masjid hanya 17km dari Bandar Bachok dan terletak di antara jalan yang menghubungkan Beris Kubur Besar dengan Tangok."
+  },
+  "w30cfke9kz": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.957591,
+      "longitude": 102.408575
+    },
+    "name": "MASJID MUKIM KUBANG TELAGA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "862e0bb3-f649-4b15-9dae-5781fcdf8162",
+    "geohash": "w30cfke9kz",
+    "source_musolla_id": "MY-03-BCK-00503",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid juga mempunyai parkir yang berbumbung untuk meletakkan kenderaan .",
+    "directions": "Lokasi masjid terletak di sebuah kampong  dan masjid hanya 20km dari Bandar Bachok. Masjid berada berhadapan dengan SMK Kubang Telaga dan terletak di tepi jalan raya yang menghubungkan Gunung dengan Pasir Puteh."
+  }
+}

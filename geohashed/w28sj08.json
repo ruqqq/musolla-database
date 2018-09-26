@@ -1,0 +1,16 @@
+{
+  "w28sj08p6y": {
+    "address": "Semantan, Pahang, Malaysia 28500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.519653,
+      "longitude": 102.172977
+    },
+    "name": "MASJID KAMPUNG MEMPATEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d6bcf8e7-15e4-43d0-8948-29b30cd50556",
+    "geohash": "w28sj08p6y",
+    "source_musolla_id": "MY-06-TLH-00484"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "w282bqwkxy": {
+    "address": "Bandar Bukit Puchong, Puchong, Selangor, Malaysia 47120",
+    "contact": "0133488921",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.980849,
+      "longitude": 101.621474
+    },
+    "name": "MASJID BANDAR BUKIT PUCHONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a268973e-2280-4a37-9693-4f48e5d5d589",
+    "geohash": "w282bqwkxy",
+    "source_musolla_id": "MY-10-PTG-00382",
+    "provision": "Antara kemudahannya ialah kawasan parkir, dewan dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini adalah dikawasan pekan Bandar Puchong."
+  }
+}

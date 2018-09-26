@@ -1,0 +1,17 @@
+{
+  "w0zfkh42ws": {
+    "address": "Ipoh, Perak, Malaysia 31400",
+    "contact": "0134477641",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.636341,
+      "longitude": 101.077597
+    },
+    "name": "MASJID JAMEK KAMPUNG DATO' AHMAD SAID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8e493a6c-86e4-4225-85a3-64b847635925",
+    "geohash": "w0zfkh42ws",
+    "source_musolla_id": "MY-08-IPH-00193"
+  }
+}

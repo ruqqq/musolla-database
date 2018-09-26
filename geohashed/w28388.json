@@ -1,0 +1,19 @@
+{
+  "w28388ex9d": {
+    "address": "PJS 2, Taman Sri Medan, Petaling Jaya, Selangor, Malaysia 46000",
+    "contact": "0173863896",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.080219,
+      "longitude": 101.628414
+    },
+    "name": "MASJID NURUL EHSAN TAMAN MEDAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b2d46417-6b75-4f60-9968-e4edd6a213e1",
+    "geohash": "w28388ex9d",
+    "source_musolla_id": "MY-10-PTG-00268",
+    "provision": "Antara kemudahan ialah ruang solat berhawa dingin, ruang wuduk,kediaman iman,bilik bilal,bilik pengurusan jenazah, van jenazah,bilik mesyuarat,dapur dan sebagainya.",
+    "directions": "Lokasi masjid ini ialah dikawasan perkampongan di Jalan Klang Lama, Kampong Medan."
+  }
+}

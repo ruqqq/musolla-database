@@ -1,0 +1,32 @@
+{
+  "w0zqxg303t": {
+    "address": "Taman Selasih, Keladi, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.379254,
+      "longitude": 100.537332
+    },
+    "name": "AL-MUTTAQIN taman selasih",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2539986a-f140-422f-abb2-66886a7f1136",
+    "geohash": "w0zqxg303t",
+    "source_musolla_id": "MY-02-KLM-00380"
+  },
+  "w0zqxvgek1": {
+    "address": "Keladi, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.39348,
+      "longitude": 100.54087
+    },
+    "name": "ABDUL RAHMAN PUTRA keladi",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "718f5633-624b-4590-92d8-c9e28ac4461d",
+    "geohash": "w0zqxvgek1",
+    "remarks": "Dirasmikan oleh D.Y.M.M Sultan Abdul Halim pada 11 September 1968 bersamaan 18 Jamadil Akhir 1388H.",
+    "source_musolla_id": "MY-02-KLM-00352",
+    "provision": "1. Bilik Kuliah\r\n2. Papan Tanda Nama Masjid\r\n3. Papan Kenyataan/ Iklan\r\n4. Tempat Letak Kenderaan\r\n5. Stor/Dapur\r\n6. Tempat Letak Kasut\r\n7. Tandas\r\n8. Bilik Mandi\r\n9. Komputer\r\n10.Tempat Wuduk\r\n11. Khat\r\n12. Permaidani\r\n13. Papan Tanda Waktu Solat\r\n14. Wakaf\r\n15. Pakaian Solat"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "w0zrhm9sbm": {
+    "address": "Mukim 7, Butterworth, Pulau Pinang, Malaysia 13050",
+    "contact": "04-3519621",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.480276,
+      "longitude": 100.384158
+    },
+    "name": "MASJID DAERAH SEBERANG PERAI UTARA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c2e1239d-c89d-42e5-a84f-0d54b7b48be6",
+    "geohash": "w0zrhm9sbm",
+    "source_musolla_id": "MY-07-BTW-00004",
+    "provision": "KEMUDAHAN WIFI\r\nRUANGAN PARKIR"
+  },
+  "w0zr1gs9bd": {
+    "address": "Tanjong Bungah, Pulau Pinang, Malaysia 11200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.468761,
+      "longitude": 100.278428
+    },
+    "name": "MASJID TANJONG BUNGA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "82cee373-acd7-4e13-8b24-ec20e376e1c2",
+    "geohash": "w0zr1gs9bd",
+    "remarks": "Masjid Tanjung Bunga ini merupakan antara masjid terapung yang terdapat di negara ini. Ia didirikan di atas tapak yang menganjur ke permukaan laut yang sebahagiannya telah ditambak. Kerja-kerja pembinaan masjid ini telah dimulakan pada 5 Syaaban 1424 Hijri bersamaan 1 Oktober 2003 Masihi dan diseliakan oleh Jabatan Kerja Raya.Konsep yang diutarakan pada masjid ini adalah konsep moden dan ilham keseluruhannya datang daripada pembinaan Masjid Putra, Putrajaya dan Masjid Tengku Tengah Zaharah, Kuala Terengganu.",
+    "source_musolla_id": "MY-07-TL-00033"
+  },
+  "w0zrkzy99u": {
+    "address": "Mukim 5, Kepala Batas, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.536016,
+      "longitude": 100.413062
+    },
+    "name": "MASJID LAHAR KEPAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4acb6706-7559-4684-85b7-0c935d7c1515",
+    "geohash": "w0zrkzy99u",
+    "source_musolla_id": "MY-07-KB-00105"
+  },
+  "w0zrn2p9ut": {
+    "address": "Mukim 13, Tasek Gelugor, Pulau Pinang, Malaysia 13310",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.449548,
+      "longitude": 100.480472
+    },
+    "name": "MASJID JARAK ATAS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f19569b2-e01f-4535-bd9e-3972fda0909c",
+    "geohash": "w0zrn2p9ut",
+    "source_musolla_id": "MY-07-BTW-00073"
+  },
+  "w0zrm5zwz3": {
+    "address": "Mukim 6, Seberang Perai Utara, Pulau Pinang, Malaysia 13300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.514928,
+      "longitude": 100.42566
+    },
+    "name": "MASJID KEPALA BATAS ( JAMIUL-BADAWI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1cf67736-4593-4262-9cb8-f6e276faa5be",
+    "geohash": "w0zrm5zwz3",
+    "source_musolla_id": "MY-07-KB-00100"
+  },
+  "w0zrpzncju": {
+    "address": "Kampung Permatang Tok Din, 09400 Naga Lilit, Kedah, Malaysia 09400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.487866,
+      "longitude": 100.545412
+    },
+    "name": "ABD. HALIM MUADZAM SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3b396256-3625-4abb-881c-af5177b63038",
+    "geohash": "w0zrpzncju",
+    "source_musolla_id": "MY-02-KLM-00356"
+  },
+  "w0zrrzr4qp": {
+    "address": "Kampung Guar Lobak, Sidam Kanan, Kedah, Malaysia 09400",
+    "contact": "04-4851182",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.533417,
+      "longitude": 100.545769
+    },
+    "name": "JAMEK DARUL AMAN guar lobak",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ff0ff29e-97ea-4187-a199-e23c71ca7381",
+    "geohash": "w0zrrzr4qp",
+    "source_musolla_id": "MY-02-KLM-00361"
+  },
+  "w0zrhr1pw9": {
+    "address": "Mukim 7, Butterworth, Pulau Pinang, Malaysia 13050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.488965,
+      "longitude": 100.383733
+    },
+    "name": "MASJID TELOK AIR TAWAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0956a9d4-d83c-4992-85b2-d0451755f857",
+    "geohash": "w0zrhr1pw9",
+    "source_musolla_id": "MY-07-BTW-00090"
+  },
+  "w0zrs0mwjh": {
+    "address": "13100 Penaga, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.539539,
+      "longitude": 100.37887
+    },
+    "name": "MASJID BAKAR KAPOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d0f69bd9-cdd7-4cf7-baa9-c71f43b77808",
+    "geohash": "w0zrs0mwjh",
+    "source_musolla_id": "MY-07-KB-00092",
+    "directions": "5.539539, 100.378870"
+  },
+  "w0zrsp7bym": {
+    "address": "Penaga, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.577093,
+      "longitude": 100.376515
+    },
+    "name": "MASJID BAKAU TUA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e94e36ef-93b9-45db-9e7f-500237e52d96",
+    "geohash": "w0zrsp7bym",
+    "source_musolla_id": "MY-07-KB-00093",
+    "directions": "5.577093, 100.376515"
+  },
+  "w0zrt7x4rt": {
+    "address": "Kampung Bumbung Lima, 13200 Kepala Batas, Pulau Pinang, Malaysia 13200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.556753,
+      "longitude": 100.435965
+    },
+    "name": "MASJID BUMBUNG LIMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "918e096b-6809-458b-9650-2291669b4406",
+    "geohash": "w0zrt7x4rt",
+    "source_musolla_id": "MY-07-KB-00094",
+    "directions": "5.556753, 100.435965"
+  },
+  "w0zrjy3zcj": {
+    "address": "Mukim 11, Seberang Perai Utara, Pulau Pinang, Malaysia 13800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.484912,
+      "longitude": 100.450454
+    },
+    "name": "MASJID KAMPONG BANGGOL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7fb3231d-0c44-463b-a63d-bb81419511e8",
+    "geohash": "w0zrjy3zcj",
+    "source_musolla_id": "MY-07-KB-00095",
+    "directions": "5.484912, 100.450454"
+  },
+  "w0zrsd9bdm": {
+    "address": "Kampung Tok Otek, Penaga, Pulau Pinang, Malaysia 13110",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.55096,
+      "longitude": 100.395572
+    },
+    "name": "MASJID KAMPONG LEMBAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4398678c-bfe9-4e17-b8b9-280d259141d0",
+    "geohash": "w0zrsd9bdm",
+    "source_musolla_id": "MY-07-KB-00096",
+    "directions": "5.550960, 100.395572"
+  },
+  "w0zrt0h0g1": {
+    "address": "Mukim 5, Kepala Batas, Pulau Pinang, Malaysia 13100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.537246,
+      "longitude": 100.420661
+    },
+    "name": "MASJID KAMPONG PADANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a11d0182-65fe-43f9-a3c0-754edcc7ce7a",
+    "geohash": "w0zrt0h0g1",
+    "source_musolla_id": "MY-07-KB-00097",
+    "directions": "5.537246, 100.420661"
+  }
+}

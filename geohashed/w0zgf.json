@@ -1,0 +1,17 @@
+{
+  "w0zgfgmybh": {
+    "address": "Pulau Kamiri, Perak, Malaysia 31120",
+    "contact": "0195730076",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.896967,
+      "longitude": 101.027193
+    },
+    "name": "MASJID ISMAILIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "827ec02a-ed2e-4ff2-98fc-f22336628f55",
+    "geohash": "w0zgfgmybh",
+    "source_musolla_id": "MY-08-KK-00364"
+  }
+}

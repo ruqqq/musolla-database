@@ -1,0 +1,17 @@
+{
+  "w0zbmzsk32": {
+    "address": "Kampar, Perak, Malaysia 31900",
+    "contact": "0175335861",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.304624,
+      "longitude": 101.157021
+    },
+    "name": "MASJID  AN - NUR KAMPAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c63cbba5-49d4-42ee-a9a0-0694fc376338",
+    "geohash": "w0zbmzsk32",
+    "source_musolla_id": "MY-08-BG-00332"
+  }
+}

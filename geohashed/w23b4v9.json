@@ -1,16 +1,18 @@
 {
-  "w23b4v9fe0": {
-    "address": "950 Yishun Ave 2, Singapore 769099",
+  "w23b4v996h": {
+    "address": "950 Yishun Avenue 2, Singapore 769099",
     "contact": "6752 1402",
-    "createdAt": "2014-12-23T06:50:22.269Z",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.436895,
-      "longitude": 103.834327
+      "latitude": 1.4367,
+      "longitude": 103.83394
     },
-    "name": "Darul Makmur  Mosque",
+    "name": "Darul Makmur Mosque",
     "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:26.892Z",
-    "uuid": "41623051-0a4b-4487-ba92-bcdf4c004f70",
-    "geohash": "w23b4v9fe0"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "ea621d8f-488a-4269-8760-53a88bcd5929",
+    "geohash": "w23b4v996h",
+    "remarks": "Morning is a hectic period at the masjid when doting parents wave their pre-schoolers goodbye. Besides kindergarten classes for these pre-schoolers, the mosque is among the few, which offers a Tahfiz (Al-Quran memorization) course for children. Built in 1989, it serves Muslim families living in Yishun and the North part of the island. The masjid, which falls under Phase Two of the Mosque Building Fund, can accommodate about 3000 people.",
+    "mosqueType": "MBMF"
   }
 }

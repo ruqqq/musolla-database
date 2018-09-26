@@ -1,7 +1,7 @@
 {
   "w21z75mxh0": {
     "address": "39 Hill Street, Singapore 179364",
-    "contact": "6224 1021",
+    "contact": "6334 3712",
     "createdAt": "2014-12-23T06:50:21.874Z",
     "location": {
       "latitude": 1.293469,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2015-07-02T06:55:25.481Z",
     "uuid": "ebf8111d-807b-41f2-95e6-50bb909ed99c",
-    "geohash": "w21z75mxh0"
+    "geohash": "w21z75mxh0",
+    "remarks": "Sandwiched between high-rise buildings, this old generation masjid was established by the Dawoodi Bohra community in Singapore as early as 1829. Conveniently located in the Central district, it can accommodate up to 150 people. It is also frequented by office workers in the Hill Street and High Street areas.",
+    "mosqueType": "Wakaf"
   }
 }

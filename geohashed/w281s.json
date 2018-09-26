@@ -1,0 +1,37 @@
+{
+  "w281sm5eh1": {
+    "address": "Kapar, Selangor, Malaysia 42200",
+    "contact": "03-42569848",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.104162,
+      "longitude": 101.441755
+    },
+    "name": "MASJID MUADZ BIN JABAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c7f3b4de-2e28-40a2-9b4a-b5a28ea086a8",
+    "geohash": "w281sm5eh1",
+    "remarks": "Masjid Muadz bin Jabal ini berlokasi di atas sebidang tanah lot 17915, mukim setiawangsa dengan keluasan tanah 633129m persegi dan telah didaftarkan dengan pendaftaran JAWI 1/5/035/. \r\n\r\nPada awal pembukaan masjid ini, ianya telah diselenggara dan diuruskan oleh Jawatankuasa Penaja sebelum ianya diambilalih oleh Majlis Agama Islam WP pada tahun 1998. Kos pembinaan anggaran 5 juta Ringgit Malaysia. Sehingga kini, masjid ini masih belum dirasmikan.",
+    "source_musolla_id": "MY-14-WKL-00014",
+    "provision": "Setakat ini, masjid ini telah dilengkapi pelbagai kemudahan prasarana antaranya dewan solat utama berhawa dingin, sekolah rendah agama, Kelas Al Quran dan Fardu Ain, 5 unit kuaters kakitangan, dewan serbaguna berkapasiti 350 orang berhawa dingin, bilik kuliah berkapasiti 100 orang berhawa dingin, bilik mesyuarat berhawa dingin, pejabat dan pusat sumber serta kemudahan parkir kereta untuk kemudahan para jemaah."
+  },
+  "w281shttk2": {
+    "address": "Kapar, Selangor, Malaysia 42200",
+    "contact": "03-2315274",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.101797,
+      "longitude": 101.433519
+    },
+    "name": "MASJID KHALID BIN AL-WALID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "448cc3be-9708-4649-9a0e-dc867435cf78",
+    "geohash": "w281shttk2",
+    "remarks": "Masjid yang baru siap dibina pada tahun 2011 menggantikan masjid lama di Jalan Padang Tembak yang dulunya kecil dan sudah usang.",
+    "source_musolla_id": "MY-14-WKL-00032",
+    "provision": "Mempunyai pejabat yang bertugas di waktu pejabat.",
+    "directions": "Masjid ini berada di Jalan Padang Tembak berdekatan kawasan Angkatan Tentera Malaysia."
+  }
+}

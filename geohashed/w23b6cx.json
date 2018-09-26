@@ -1,6 +1,6 @@
 {
   "w23b6cx5zx": {
-    "address": "27-B, Jalan Mempurong, Singapore 759055",
+    "address": "27-B Jalan Mempurong, Singapore 759055",
     "contact": "6257 7614",
     "createdAt": "2014-12-23T06:50:22.291Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:23.684Z",
     "uuid": "e928dcf3-883f-45db-b391-47971f702142",
-    "geohash": "w23b6cx5zx"
+    "geohash": "w23b6cx5zx",
+    "remarks": "Surrounded by lush greeneries and a reasonably huge compound, there is an air of serenity at this old generation masjid built in 1970. Located in the North and away from busy streets, it offers weekend madrasah classes as well as religious classes on a weekly basis. It has a capacity of 300 people.",
+    "mosqueType": "TOL"
   }
 }

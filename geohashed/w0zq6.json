@@ -1,0 +1,31 @@
+{
+  "w0zq6w4bsd": {
+    "address": "Mukim 13 Paya Terubong, Timur Laut, Pulau Pinang, Malaysia 11500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.350441,
+      "longitude": 100.309155
+    },
+    "name": "MASJID BATU UBAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6a9b941d-e0b9-498b-a99d-2132cb11e706",
+    "geohash": "w0zq6w4bsd",
+    "remarks": "Masjid Batu Uban telah diasaskan oleh Tuan Haji Mohammad Saleh yang digelar Nakhoda Nan Intan pada tahun 1734. Nama sebenar beliau ialah Maharaja Nan Intan Ibni Al-Marhum Tengku Patih Nan Sebatang. Beliau berhijrah dari Minangkabau. Nakhoda Nan Intan berasal dari Kampung Buadi, Paya Kumboh, Pagar Ruyung, Sumatera. Nakhoda Nan Intan diketahui telah datang ke Pulau Pinang bersama tiga buah bahtera. Nakhoda Nan Intan singgah di Batu Uban, satu lagi bahtera singgah di Bayan Lepas (Nakhoda Bayan) dan bahtera ketiga singgah di Jelutong (Nakhoda Kecil). Ketiga-tiga nakhoda tersebut mempunyai talian persaudaraan.",
+    "source_musolla_id": "MY-07-TL-00013"
+  },
+  "w0zq6qts6w": {
+    "address": "Universiti Sains Malaysia, Gelugor, Pulau Pinang, Malaysia 11800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.353854,
+      "longitude": 100.301854
+    },
+    "name": "MASJID AL MALIK KHALID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3c704b29-257d-495a-830d-8187861361ac",
+    "geohash": "w0zq6qts6w",
+    "source_musolla_id": "MY-07-TL-00007"
+  }
+}

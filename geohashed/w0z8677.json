@@ -1,0 +1,17 @@
+{
+  "w0z8677qk0": {
+    "address": "Lumut, Perak, Malaysia 32200",
+    "contact": "0125071603",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.281621,
+      "longitude": 100.650387
+    },
+    "name": "MASJID NURUL TAKZIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b0b2f714-e967-4a8e-b77c-8dd0648c608e",
+    "geohash": "w0z8677qk0",
+    "source_musolla_id": "MY-08-MJG-00043"
+  }
+}

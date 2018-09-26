@@ -1,0 +1,18 @@
+{
+  "w28694ndzy": {
+    "address": "Persiaran Pegawai, Selayang, 68100 Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.263448,
+      "longitude": 101.654774
+    },
+    "name": "MASJID AL - FIRDAUS BANDAR BARU SELAYANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bf90fa7f-31e1-4778-ab46-20e6ccc81482",
+    "geohash": "w28694ndzy",
+    "source_musolla_id": "MY-10-GBK-00069",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat untuk lelaki dan perempuan,bilik pejabat dan dewan.  \r\n .",
+    "directions": "Masjid ini terletak di kawasan bandar Baru Selayang."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "w308bqp1cw": {
+    "address": "Kampung Air Kayan, Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.790128,
+      "longitude": 101.973789
+    },
+    "name": "MASJID MUKIM ULU LAWANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "43afe83a-8a24-4c43-88a4-8eddbd9f193c",
+    "geohash": "w308bqp1cw",
+    "remarks": "Pada asalnya tapak masjid ini terdapat sebuah surau kayu,dan di ubahsuai menjadi sebuah masjid untuk menampung para jemaah yang semakin bertambah.",
+    "source_musolla_id": "MY-03-TM-00306",
+    "provision": "Di antara kemudahan-kemudahan yang terdapat masjid ini adalah stor, tandas dan tempat wuduk bagi lelaki dan perempuan, parking berbumbung untuk imam,bilal dan motosikal para jemaah. Parking terbuka juga boleh menempatkan lebih daripada 10 buah kenderaan dalam satu masa. Masjid ini juga terdapat juga bilik pejabat dan bilik imam",
+    "directions": "Masjid ini berada di dalam kawasan kampung dan berhampiran dengan Sekolah Kebangsaan Lawang. Ianya terletak 1Km daripada jalan utama yang menghubungkan  Jeli ke Tanah Merah."
+  },
+  "w308btp0z0": {
+    "address": "Kampung Air Kayan, Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.784434,
+      "longitude": 101.985016
+    },
+    "name": "MASJID MUKIM KELISAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a5707ab1-4e06-4d59-9525-017974646e17",
+    "geohash": "w308btp0z0",
+    "remarks": "Pada asalnya tapak masjid ini terdapat sebuah surau kayu,dan di ubahsuai menjadi sebuah masjid untuk menampung para jemaah yang semakin bertambah",
+    "source_musolla_id": "MY-03-TM-00307",
+    "provision": "Di antara kemudahan-kemudahan yang terdapat masjid ini adalah stor, tandas dan tempat wuduk bagi lelaki dan perempuan. Parking berbumbung untuk imam,bilal dan motosikal para jemaah juga disediakan, manakala parking terbuka pula boleh menempatkan lebih daripada 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini terletak di dalam kawasan ladang getah dan di dalam kawasan perkampungan."
+  }
+}

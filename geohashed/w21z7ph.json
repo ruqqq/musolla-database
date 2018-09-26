@@ -1,7 +1,7 @@
 {
   "w21z7ph8nn": {
     "address": "46 Bristol Road, Singapore 219852",
-    "contact": "6293 8357",
+    "contact": "6293 8351",
     "createdAt": "2014-12-23T06:50:21.948Z",
     "location": {
       "latitude": 1.3129,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:02.407Z",
     "uuid": "941c63b1-20dd-407a-adeb-d6e8451d6572",
-    "geohash": "w21z7ph8nn"
+    "geohash": "w21z7ph8nn",
+    "remarks": "In sharp contrast to a Saracenic style masjid or avant-garde looking religious structures, this old generation masjid is simple yet functional. Located at the junction of Bristol Road and Carlisle Road, this one-storey masjid can accommodate up to 120 people. Built in 1907 its main activities include daily and Friday prayers as well as occasional religious lectures.",
+    "mosqueType": "Wakaf"
   }
 }

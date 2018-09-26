@@ -1,0 +1,17 @@
+{
+  "w2933u3fg4": {
+    "address": "Bebar, Pahang, Malaysia 26700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.056057,
+      "longitude": 103.087258
+    },
+    "name": "MASJID MUADZAM SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b0926f96-e251-45ec-85e2-8b296708a34f",
+    "geohash": "w2933u3fg4",
+    "remarks": "Masjid Muadzam Shah terletak di daerah Rompin. Masjid yang dibina pada 25 Rejab 1406 Hijri bersamaan 5 April 1986 Masihi ini mempunyai pengaruh reka bentuk seni bina tempatan.",
+    "source_musolla_id": "MY-06-MZS-00007"
+  }
+}

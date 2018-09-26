@@ -1,0 +1,88 @@
+{
+  "w0xvm9tuwt": {
+    "address": "Hutan Melintang, Perak, Malaysia 36400",
+    "contact": "013 2667089",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.744392,
+      "longitude": 101.148315
+    },
+    "name": "MASJID JAMEK LADANG ULU BERNAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3fe916c9-0f52-4fba-b7aa-ea6ccbceb7cb",
+    "geohash": "w0xvm9tuwt",
+    "remarks": "Masjid Jamek Ladang Ulu Bernam telah dibina seawal tahun 1940an dan pengasasnya ialah Almarhom Imam Hj Abd Ghani Bin Jais. Masjid dibina diatas tapak tanah ladang ulu bernam yang telah diwakafkan kepada Majlis Agama Islam Perak. keluasan tapak masjid adalah 1 ekar. oleh kerana keuzuran masjid lama, maka masjid baru telah dibina pada tahun 1996 dengan kos perbelanjaan sebanyak RM 400,000.00 peruntukan kerajaan negeri persekutuan. keseluruhan struktur masjid dibina daripada batu-bata serta dapat menampung jemaah seramai 400 orang.",
+    "source_musolla_id": "MY-08-HP-00236",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-parkir\r\n-tandas awam",
+    "directions": "terletak di tengah-tengah kawasan ulu bernam division 1. lokasinya adalah tidak jauh dari bandar sg besar selangor (25km), bandar sabak bernam (45km) dan merupakan satu daerah yang paling jauh di hilir perak teluk intan"
+  },
+  "w0xv3yrnss": {
+    "address": "45200 Sabak Bernam, Selangor, Malaysia 45200",
+    "contact": "03-32162146",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.770823,
+      "longitude": 100.985158
+    },
+    "name": "MASJID JAMEK SULTAN HISHAMUDIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8624b63f-90bf-4d36-9903-56f71284e3c0",
+    "geohash": "w0xv3yrnss",
+    "source_musolla_id": "MY-10-SB-00143",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat, perpustakaan, kantin.",
+    "directions": "Masjid ini terletak di dalam pekan Sabak Bernam dan bersebelahan dengan kolej komuniti Sabak Bernam. berhampiranmuzium pertanian dan perikanan, perpustakaan sabak bernam, rumah rehat Hay resort."
+  },
+  "w0xv7d1vw6": {
+    "address": "Sungai Panjang, Selangor, Malaysia 45300",
+    "contact": "013-2088659",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.747296,
+      "longitude": 101.054925
+    },
+    "name": "MASJID AL - MUJAHIDIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9a59cf9b-61f1-4074-87ae-524b92e46bdf",
+    "geohash": "w0xv7d1vw6",
+    "source_musolla_id": "MY-10-SB-00147",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,mandi jenazah  dan juga pejabat.",
+    "directions": "Masjid ini terletak dikawasan kampung yang mana kawasan sekitarnya sawah padi. Berdekatan dengan masjid ini juga adalah sekolah rendah"
+  },
+  "w0xv0zmttu": {
+    "address": "Bagan Nakhoda Omar, Selangor, Malaysia 45100",
+    "contact": "017-6132215",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.732199,
+      "longitude": 100.939201
+    },
+    "name": "MASJID AL - EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "690fade9-ca56-46f9-97c7-a5fb635313d6",
+    "geohash": "w0xv0zmttu",
+    "source_musolla_id": "MY-10-SB-00160",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah, mandi jenazah dan masjid ini jugaa satu sudut  taman.",
+    "directions": "Masjid ini terletak di kawasan kampung, lebih kurang 3 kilometer dari pekan Sabak Bernam."
+  },
+  "w0xvd93n3d": {
+    "address": "Sabak Bernam, Selangor, Malaysia 45200",
+    "contact": "013-2618929",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.787251,
+      "longitude": 101.009746
+    },
+    "name": "MASJID AL - HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ffb50a9e-7c2f-4b20-aab0-ed89451ba1c6",
+    "geohash": "w0xvd93n3d",
+    "source_musolla_id": "MY-10-SB-00177",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,mandi jenazah dan juga pejabat.",
+    "directions": "Masjid ini berda di kawasan perkampungan. Terdapat stesen minyak BHP berdekatan dengan masjid ini."
+  }
+}

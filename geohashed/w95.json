@@ -1,0 +1,273 @@
+{
+  "w95crz0tzt": {
+    "contact": "089-224567",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.884194,
+      "longitude": 118.115029
+    },
+    "name": "MASJID BESAR SIM-SIM SANDAKAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3ad80d5d-d08d-4cf2-a904-99bb39054cbf",
+    "geohash": "w95crz0tzt",
+    "remarks": "JUMAAT 15 RABIULAKHIR 1401 H/ 20 FEB 1981 PERLETAKKAN BATU ASAS OLEH YB TAN SRI TG. RAZALI HAMZAH. MEN. KEWANGAN MALAYSIA. PENYESUAIAN TAPAK 11 OKT 1982. PEMBINAAN BANGUNAN 23 SEP 1985. SIAP DIS 1989. PERASMIAN HARI JUMAAT 5 MUHARRAM 1411H/27 JULAI 1990.",
+    "source_musolla_id": "MY-12-SAN-00007",
+    "address": "PETI SURAT 1576, JALAN BULI SIM-SIM, SANDAKAN 90717, Malaysia"
+  },
+  "w95cjzmmz4": {
+    "address": "Lorong Mawar 1B, Taman Mawar, 90000 Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.841605,
+      "longitude": 118.03364
+    },
+    "name": "MASJID NURURAHMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4ee36694-5924-4741-9518-08717ec27030",
+    "geohash": "w95cjzmmz4",
+    "remarks": "AJK PEMBINAAN MASJID DITUBUHKAN PADA 02/04/1998. KERJA PEMBINAAN DIMULAKAN PADA 18/08/1998",
+    "source_musolla_id": "MY-12-SAN-00131"
+  },
+  "w95npw1xfg": {
+    "address": "Pitas, Sabah, Malaysia 89100",
+    "contact": "0138587095",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.713993,
+      "longitude": 117.050525
+    },
+    "name": "MASJID AL-AMIN PEKAN PITAS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "027bb45a-abac-455b-94da-1509f5fb8c4a",
+    "geohash": "w95npw1xfg",
+    "source_musolla_id": "MY-12-PTS-00657",
+    "directions": "Lokasi Masjid Al-Amin Daerah Pitas terletak di tepi jalan utama Pekan Pitas."
+  },
+  "w9588jkx6v": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.428177
+    },
+    "name": "MASJID BABUS SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebc8a446-0d08-4ee1-ba59-a2bb2b48f624",
+    "geohash": "w9588jkx6v",
+    "remarks": "Kos pembinaan rm27,000 sahaja  separuh konkrit ,papan.",
+    "source_musolla_id": "MY-12-BLR-00031"
+  },
+  "w95cq1r9fm": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.851921,
+      "longitude": 118.047513
+    },
+    "name": "MASJID ASSYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c86ff237-9592-49b0-bd62-14d883439cd8",
+    "geohash": "w95cq1r9fm",
+    "source_musolla_id": "MY-12-SAN-00134"
+  },
+  "w95cqz0ucs": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.884016,
+      "longitude": 118.071172
+    },
+    "name": "MASJID ASSYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "26a6e2c4-6cf7-4c3a-b13d-bed1e8bed641",
+    "geohash": "w95cqz0ucs",
+    "source_musolla_id": "MY-12-SAN-00133"
+  },
+  "w959kxkupd": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.885253,
+      "longitude": 117.626477
+    },
+    "name": "MASJID NUR HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4db8aaf1-0a49-4070-a784-cf25b221b686",
+    "geohash": "w959kxkupd",
+    "source_musolla_id": "MY-12-BLR-00029"
+  },
+  "w956zqgfv1": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.145957,
+      "longitude": 117.394288
+    },
+    "name": "MASJID AL-AMIN KG. BUKIT BESI BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "881dfa3f-047e-461d-87ac-e2de207e4686",
+    "geohash": "w956zqgfv1",
+    "source_musolla_id": "MY-12-BLR-00020"
+  },
+  "w957n1pdv0": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.15831,
+      "longitude": 117.344506
+    },
+    "name": "MASJID MUHIBBAH KG. BAKONG-BAKONG BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9e331746-ca66-4bae-aaba-031e1b51c7a0",
+    "geohash": "w957n1pdv0",
+    "source_musolla_id": "MY-12-BLR-00021"
+  },
+  "w956gzbg2t": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.151558,
+      "longitude": 117.236169
+    },
+    "name": "MASJID AD-DINUL HAQ KG. TETABUAN BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5c8cffa8-b3bc-4700-ae92-eef7d401f25a",
+    "geohash": "w956gzbg2t",
+    "source_musolla_id": "MY-12-BLR-00022"
+  },
+  "w958f2bx7t": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.762231,
+      "longitude": 117.521596
+    },
+    "name": "MASJID NUR SYUHADAH KG. SUNGAI NANGKA BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "74edcdda-24f4-4cbe-b430-0c5c68b57d20",
+    "geohash": "w958f2bx7t",
+    "source_musolla_id": "MY-12-BLR-00023"
+  },
+  "w9590j719h": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.829904,
+      "longitude": 117.426045
+    },
+    "name": "MASJID IKHWAN ULU SAPI LABUK BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d0c2c860-5d26-46af-a037-b4e3cec07c66",
+    "geohash": "w9590j719h",
+    "source_musolla_id": "MY-12-BLR-00026"
+  },
+  "w9588pzr82": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.756755,
+      "longitude": 117.431849
+    },
+    "name": "MASJID NURUL IMAN KG. TEMBIDONG-BIDONG BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "261a14ec-00e6-4f4b-af20-964d2bc489e0",
+    "geohash": "w9588pzr82",
+    "source_musolla_id": "MY-12-BLR-00027"
+  },
+  "w9588h1xvf": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.736206,
+      "longitude": 117.424185
+    },
+    "name": "MASJID AL-AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4e0a1565-f230-4696-8f37-014d66d6cc51",
+    "geohash": "w9588h1xvf",
+    "source_musolla_id": "MY-12-BLR-00028"
+  },
+  "w9588jkrkm": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.427898
+    },
+    "name": "MASJID MUNAWWARATUL IKHWAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b9c7e8bb-1ba7-400e-9696-01e590c3dfd5",
+    "geohash": "w9588jkrkm",
+    "source_musolla_id": "MY-12-BLR-00030"
+  },
+  "w9588jkr6j": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.743006,
+      "longitude": 117.427801
+    },
+    "name": "MASJID DARUS SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "15d969fa-de1f-4d9b-821c-3703e0701fc8",
+    "geohash": "w9588jkr6j",
+    "source_musolla_id": "MY-12-BLR-00032"
+  },
+  "w958b245kw": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.757427,
+      "longitude": 117.435804
+    },
+    "name": "MASJID JAMEK PEKAN BELURAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "327b7cc0-b246-441f-bde8-b57e13247d5a",
+    "geohash": "w958b245kw",
+    "source_musolla_id": "MY-12-BLR-00033"
+  },
+  "w958b247kd": {
+    "address": "Labuk & Sugut, Sabah, Malaysia 90100",
+    "contact": "089-511021",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.757406,
+      "longitude": 117.436147
+    },
+    "name": "MASJID JAMEK KENIOGAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7e06f77d-2a60-4610-be7a-de0739b2bbf9",
+    "geohash": "w958b247kd",
+    "source_musolla_id": "MY-12-BLR-00034"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "w2855rnx6k": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-3542916",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.379567,
+      "longitude": 101.401853
+    },
+    "name": "MASJID INDIA- muslim bestari jaya",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "340b22e9-0eee-4622-8a04-4554da13e092",
+    "geohash": "w2855rnx6k",
+    "remarks": "Masjid ini adalah masjid lama dan sudah menjangkau umur lebih dari 70 tahun.",
+    "source_musolla_id": "MY-10-KSR-00371",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,dapur, pejabat,dewan mesyuarat, bilik imam,.",
+    "directions": "Masjid ini terletak di tepi jalan pekan Bestari Jaya dan berdekatan dengan balai polis dan balai bomba Bestari Jaya."
+  },
+  "w2855rnx49": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-3085214",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.379508,
+      "longitude": 101.401861
+    },
+    "name": "NIGEL GARDNER",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2450e2da-d5e5-4765-b950-cc807d95a6b8",
+    "geohash": "w2855rnx49",
+    "source_musolla_id": "MY-10-HSR-00096",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya ,bilik stor dan tempat wudhuk lelaki dan wanita .",
+    "directions": "Masjid ini terletak di luar Bandar dan bangunan utama masjid terletak dalam kawasan estet. Dari masjid ini lebih kurang 10 kilometer untuk ke UNISEL.\r\n\r\nUntuk ke Lebuhraya KESAS hanyan 500 meter sahaja dari masjid ini."
+  }
+}

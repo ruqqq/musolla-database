@@ -1,0 +1,35 @@
+{
+  "w30f81y360": {
+    "address": "Banggu, Kelantan, Malaysia 16150",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.074286,
+      "longitude": 102.313362
+    },
+    "name": "MASJID MUKIM LUBUK PUKUL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9088f2a7-58f9-4cc5-9d01-ad248a05fe06",
+    "geohash": "w30f81y360",
+    "source_musolla_id": "MY-03-KB-00281",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.yangb berada di luar masjid.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada  200m jalan menghubungkan Binjai dan Bandar Kota Bharu."
+  },
+  "w30f81fvv4": {
+    "address": "Banggu, Kelantan, Malaysia 16150",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.075064,
+      "longitude": 102.308684
+    },
+    "name": "MASJID MUKIM PARIT LAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "db80d233-9702-48ba-9247-6ab965043aa8",
+    "geohash": "w30f81fvv4",
+    "remarks": "Masjid ini dalam proses pengubahsuaian ruang  solat dan bahagian depan masjid.",
+    "source_musolla_id": "MY-03-KB-00317",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Masjid ini mempunyai bilik imam/bilal,pejabat,dewan dan juga van jenazah.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi ialah 500m ke jalan utama ke Kota Bharu dan Bandar Kota Bharu."
+  }
+}

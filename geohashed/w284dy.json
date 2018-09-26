@@ -1,0 +1,20 @@
+{
+  "w284dygprf": {
+    "address": "Ijok, Selangor, Malaysia 45600",
+    "contact": "019-3644686",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.290288,
+      "longitude": 101.37531
+    },
+    "name": "MASJID NURUL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a805ebd9-71d8-4404-b7ac-a3c5b0034eb7",
+    "geohash": "w284dygprf",
+    "remarks": "Masjid ini baru saja dibina dan siap pada tahun 2008.",
+    "source_musolla_id": "MY-10-KSR-00388",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, pejabat,bilik mesyuarat dan tandas VIP.",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan."
+  }
+}

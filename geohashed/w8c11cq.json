@@ -1,0 +1,17 @@
+{
+  "w8c11cq5nq": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "012-8728758",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.401947,
+      "longitude": 113.99167
+    },
+    "name": "MASJID AT-TAQWA MIRI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fbe6afff-b6cc-42f5-a0ee-ddf585538a65",
+    "geohash": "w8c11cq5nq",
+    "source_musolla_id": "MY-13-MRI-00419"
+  }
+}

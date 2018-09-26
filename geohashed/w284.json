@@ -1,0 +1,587 @@
+{
+  "w28465hzkb": {
+    "address": "Jalan Bukit Panjang, Taman Desa Ehsan, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "013-6646074",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.225732,
+      "longitude": 101.344623
+    },
+    "name": "MASJID AL - HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cfbf074d-a35d-400a-aba5-c9172f11a62f",
+    "geohash": "w28465hzkb",
+    "remarks": "Masjid ini aslanya adalah sebuah surau bagi penduduk disini. Ianya telah dinaik taraf sebagai sebuah masjid dan telah dirasmikian oleh Y Bhg Dato' Ishak Baharom.",
+    "source_musolla_id": "MY-10-KLG-00197",
+    "provision": "Antara kemudahannya terdapat ruang parkir yang kecil diluar masjid, WiFI, van jenazah dan ruang solat yang selesa.",
+    "directions": "Masjid ini berada ditepi jalan utam Jalan Johanh Setia sebelum traffic light."
+  },
+  "w284bjvzzv": {
+    "address": "Bandar Malawati, Kuala Selangor, Selangor, Malaysia 45000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.328845,
+      "longitude": 101.258237
+    },
+    "name": "MASJID JAMEK SULTAN IBRAHIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "63c1dc11-2ad6-4159-ab18-5b6b45fafe3c",
+    "geohash": "w284bjvzzv",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada tanggal 6hb. Mac 1987",
+    "source_musolla_id": "MY-10-KSR-00332",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat, bilik mesyuarat, dewan kuliah, perpustakaan, bilik imam dan bilal, dapur, bilik jenazah, wakaf, dewan, CCTV, gerai jualan dan WIFI.",
+    "directions": "Masjid ini terletak di pekan Kuala Selangor dan berdekatan balai polis kuala Selangor."
+  },
+  "w284zcgkbt": {
+    "address": "Kampung Melayu Batu 16, 48000 Rawang, Selangor, Malaysia 48000",
+    "contact": "03 - 60915619",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.306354,
+      "longitude": 101.595063
+    },
+    "name": "MASJID batu 16",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f1bbd1be-9139-445c-88c9-8be8d56f3e37",
+    "geohash": "w284zcgkbt",
+    "remarks": "Sejarah masjid ini bermula  sebelum pada tahun 2004 apabila ia mula-mula dibina dengan kayu dan dikenali dengan surau disebidang tanah yang telah diwakafkan.\r\n\r\nKemudian , ia diubahsuai dengan batu dan siap dibina pada tahun 2004 oleh kerajaan dan orang kampong bagi menggantikan binaan masjid yang dibina daripada kayu tersebut.",
+    "source_musolla_id": "MY-10-GBK-00062",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya . Dewan solat utama masjid dilengkapkan dengan penghawa dingin .\r\n\r\nSelain itu , terdapat juga bilik imam/bilal , bilik stor , pejabat , bilik mesyuarat , dapur , tempat wudhuk lelaki dan wanita ,bilik tetamu,bilik komputer, CCTV system penggera, van jenazah dan juga tempatt mandi jenazah.\r\n\r\nDi bahagian luar masjid terdapat beberapa ruang letak kereta khas untuk pegawai masjid yang berbumbung serta garaj untuk motosikal dan basikal . Ruang letak kereta terbuka pula mampu meletakkan lebih 20 kereta dalam satu-satu masa dalam kawasan masjid sahaja.",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan melayu yang mana kampong ini didiami oleh majoritinya adalah kaum melayu.\r\n\r\nBersebelahan masjid ini juga terdapat sebuah padang bola dan disebelahnya juga terdapat dewan serbaguna untuk penduduk sekitarnya.\r\n\r\nLokasi masjid ini kira-kira dua kilometer dari Bandar rawang dan juga 600 meter dari Kuala Selangor Expressway  (LATAR) highway."
+  },
+  "w284vh0fjg": {
+    "address": "48100 Batu Arang, Selangor, Malaysia 48100",
+    "contact": "0193245366",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.318231,
+      "longitude": 101.47101
+    },
+    "name": "MASJID JAMEK BATU ARANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "95b42cb8-176f-4624-a711-96e0879500dd",
+    "geohash": "w284vh0fjg",
+    "remarks": "Masjid ini dibina pada tahun 70an dan berkonsepkan melayu tradisional.",
+    "source_musolla_id": "MY-10-GBK-00046",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah di dalam kawasan Sekolah Agama Batu Arang, kuarters imam, bilik mesyuarat, ruang solat, stor, dan tempat parking motor berbumbung.",
+    "directions": "Masjid ini terletak di dalam kawasan kampung Batu Arang, berdekatan dengan balai polis dan kem tentera dan 15km dari Bandar Rawang."
+  },
+  "w284tp5s40": {
+    "address": "Bandar Tasik Puteri, Rawang, Selangor, Malaysia 48020",
+    "contact": "0192206072",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.291097,
+      "longitude": 101.474628
+    },
+    "name": "MASJID BANDAR TASIK PUTERI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "55e88ce7-d26f-4483-a065-42636a23ae5d",
+    "geohash": "w284tp5s40",
+    "source_musolla_id": "MY-10-GBK-00350",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang letak kereta yang luas, pejabat, sudut bacaan, van jenazah, tempat pengurusan jenazah,bilik mesyuarat,dapur, dan stor.",
+    "directions": "Masjid ini berada di kawasan perumahan,berdekatan dengan lebuhraya LATAR dan lebih kurang 10 km dari Bandar Rawang."
+  },
+  "w284mp30hq": {
+    "address": "Ijok, Selangor, Malaysia 45600",
+    "contact": "012-3689567",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.247866,
+      "longitude": 101.471291
+    },
+    "name": "MASJID AT - TAUFIQIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4f815bd3-f004-4041-b5dc-46e56f8e4fbc",
+    "geohash": "w284mp30hq",
+    "source_musolla_id": "MY-10-KSR-00319",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Seri Sentosa, Bistari Jaya."
+  },
+  "w284r0w07w": {
+    "address": "Bandar Baru Sungai Buloh, Sungai Buloh, Selangor, Malaysia 40160",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.210832,
+      "longitude": 101.566017
+    },
+    "name": "MASJID BANDAR BARU SG. BULOH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "41448326-df90-486c-9dbf-a558ae792937",
+    "geohash": "w284r0w07w",
+    "source_musolla_id": "MY-10-PTG-00285",
+    "provision": "Kemudahan yang terdapat disini ialah ruang parkir, dewan dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah di Pekan Bandar Baru Sungai Buloh, berhampiran dengan Paya Jaras."
+  },
+  "w284pveb4j": {
+    "address": "Damansara Damai, Petaling Jaya, Selangor, Malaysia 47830",
+    "contact": "0123581924",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.194306,
+      "longitude": 101.595817
+    },
+    "name": "MASJID AL - MUHTADIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "848a67ff-1368-483e-a9bd-53709097914b",
+    "geohash": "w284pveb4j",
+    "source_musolla_id": "MY-10-PTG-00279",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir, dewan dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah dikawasan perumahan Damansara Damai, Petaling Jaya."
+  },
+  "w284yrtw90": {
+    "address": "Jalan Desa 6/9, Bandar Country Homes, 48000 Rawang, Selangor, Malaysia 48000",
+    "contact": "016-9950608",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.338216,
+      "longitude": 101.532259
+    },
+    "name": "MASJID CAHAYA IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a4a0b281-208e-458e-9b23-ff0b8a218c61",
+    "geohash": "w284yrtw90",
+    "remarks": "Masjid in telah dirasmikan oleh DYMM Sultan Selangor pada 7 December 2007.",
+    "source_musolla_id": "MY-10-GBK-00075",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik jenazah dan pejaba",
+    "directions": "Masjid ini terletak di tengah Bandar country homes dan bersebelahan dengan sekolah kebangsaan desa aman."
+  },
+  "w284jpxj4y": {
+    "address": "Saujana Utama 1, Ijok, Selangor, Malaysia 47000",
+    "contact": "019-9820400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.206156,
+      "longitude": 101.479468
+    },
+    "name": "MASJID SAUJANA UTAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fd7c9beb-310d-462b-9ff4-4c8653f0d655",
+    "geohash": "w284jpxj4y",
+    "source_musolla_id": "MY-10-KSR-00373",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat,pejabat,skrin layar putih dan projector.",
+    "directions": "Masjid ini terletak di kawasan perumahan dan 15km dari pekan Sungai Buloh."
+  },
+  "w2841kzh3h": {
+    "address": "Jeram, Selangor, Malaysia 45800",
+    "contact": "012-2625413",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.19091,
+      "longitude": 101.314595
+    },
+    "name": "MASJID AN - NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a51ee34b-a1ad-4dcb-9a17-a9def1845202",
+    "geohash": "w2841kzh3h",
+    "source_musolla_id": "MY-10-KSR-00343",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat,dapur, van jenazah,bilik jenazah,bilik jenazah,kolam ikan dan taman permainan.",
+    "directions": "Lokasi masjid ini terletak di tepi jalan utama."
+  },
+  "w284np0uvq": {
+    "address": "Kampung Kubu Gajah Dalam, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0196932448",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.203366,
+      "longitude": 101.514929
+    },
+    "name": "MASJID JAMEK JAMIUL EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "11266f69-01c4-4a26-9515-20a2a871175d",
+    "geohash": "w284np0uvq",
+    "source_musolla_id": "MY-10-PTG-00289",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat lelaki dan perempuan, bilik bilal, ruang wuduk,tandas dan lain lain",
+    "directions": "Lokasi masjid ini terletak dikawasan perkampongan Kampong Kubu Gajah, berhampiran Lebuhraya Guthrie corridor dan bersebelahan kampung merbuk sempak."
+  },
+  "w284nwwzyg": {
+    "address": "Taman Sri Buloh, Sungai Buloh, Selangor, Malaysia 40160",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.201116,
+      "longitude": 101.545214
+    },
+    "name": "MASJID AL - HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e1085cd8-638f-4481-93ce-90d4015aa1d2",
+    "geohash": "w284nwwzyg",
+    "remarks": "Masjid ini dibina oelh masyarakat kampong Paya Jaras dan telah dirasmikan oleh YB Dato' Haji Saidin bin Tambi pada 30/11/1997",
+    "source_musolla_id": "MY-10-PTG-00286",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat untuk lelaki dan perempuan,bilik bilal,stor, ruang wuduk dan sebagainya.",
+    "directions": "Lokasi masjid ini ialah di kawasan perkampongan Paya Jaras."
+  },
+  "w284q18ufp": {
+    "address": "Kampung Merbau Sempak, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0192808241",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.217101,
+      "longitude": 101.51479
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ae3893ff-58dc-453a-bbf9-e19aee463e39",
+    "geohash": "w284q18ufp",
+    "source_musolla_id": "MY-10-PTG-00288",
+    "provision": "Antara kemudahan yg terdapat ialah ruang solat,bilik bilal,ruang wuduk dan lain lain kemudahan asas untk sesebuah masjid.",
+    "directions": "Lokasi masjid ini dikawasan perkampongan Kampong Merbau Sempak, Sungai Buloh.   Berhampiran dengan jalan kuala Selangor dan lebuhraya Guthrie corridor"
+  },
+  "w284wczytj": {
+    "address": "Kampung Bunga Raya, 48000 Rawang, Selangor, Malaysia 48000",
+    "contact": "03-60383246",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.262709,
+      "longitude": 101.557493
+    },
+    "name": "MASJID AL -ISLAHIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "582f0cec-4f7a-4d81-9b6d-49a6e1d60e8c",
+    "geohash": "w284wczytj",
+    "source_musolla_id": "MY-10-GBK-00073",
+    "provision": "Antara kemudahan yang terdapat di masjid tempat letak kereta, ruang solat untuk lelaki dan perempuan, rumah imam, tempat pengurusan jenazah,bilik stor dan pejabat.",
+    "directions": "Masjid ini terletak berhampiran stesen minyak dan 2 kilometer dari Pekan Kuang."
+  },
+  "w284r606rp": {
+    "address": "Sungai Buloh, Selangor, Malaysia 47000",
+    "contact": "036157074",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.219423,
+      "longitude": 101.569257
+    },
+    "name": "MASJID JAMEK PEKAN SG. BULOH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "58afae8f-4f4a-49f8-851b-5ada1f2e6fcd",
+    "geohash": "w284r606rp",
+    "source_musolla_id": "MY-10-GBK-00044",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,bilik mesyuarat, rumah pegawai masjid,  pusat cuci kereta dan pejabat pentadbiran.Di bahagian luar masjid terdapat sudut rekreasi seni taman yang sangat menarik dan cantik.",
+    "directions": "Masjid ini terletak berhampiran dengan hospital sungai buloh, dan berada di pekan sungai buloh."
+  },
+  "w284w22jvv": {
+    "address": "Kampung Permata, Rawang, Selangor, Malaysia 48050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.254343,
+      "longitude": 101.524913
+    },
+    "name": "MASJID NURUL YAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "38ebb21e-7b84-4cd0-9bcd-84bfed4fd1cd",
+    "geohash": "w284w22jvv",
+    "source_musolla_id": "MY-10-GBK-00052",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah van jenazah,tempat pengurusan jenazah,pejabat, ruang solat, stor,dan bilik bilal.",
+    "directions": "Masjid ini terletak 6 kilometer dari Bandar Sungai Buloh."
+  },
+  "w284z7x493": {
+    "address": "Kampung Kenanga, Rawang, Selangor, Malaysia 48000",
+    "contact": "03-60926062",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.315563,
+      "longitude": 101.578273
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e756a3c8-29af-416a-bf02-211b52c5857b",
+    "geohash": "w284z7x493",
+    "remarks": "Masjid ini telah dibina pada tahun 1969 , setelah 40 tahun,penduduk disini mengharapkan masjid baru. Kos pembinaan masjid ini menelan belanja RM 70juta.  Ianya telah dirasmikan pada 5 Mac 1971.",
+    "source_musolla_id": "MY-10-GBK-00057",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, tempat pengurusan jenazah,",
+    "directions": "Terletak di tepi jalan Bandar Rawang dan 200 meter dari Bandar Rawang"
+  },
+  "w284z7wgt3": {
+    "address": "Kampung Kenanga, Rawang, Selangor, Malaysia 48000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.315734,
+      "longitude": 101.578103
+    },
+    "name": "MASJID KAMPUNG GOMBAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3455328f-6c4e-4cf3-a077-c014e059c0a3",
+    "geohash": "w284z7wgt3",
+    "remarks": "Pada asalnya, ia adalah sebuah surau dan diubahsuai menjadi masjid yang mana pembinaannya telah siap pada tahun 1952.",
+    "source_musolla_id": "MY-10-GBK-00068",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan pejabat",
+    "directions": "Terletak 1km dari Pekan Kuang dan berada dalam perkampungan orang melayu."
+  },
+  "w284qrejpz": {
+    "address": "Rawang, Selangor, Malaysia 48000",
+    "contact": "0122135460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.250104,
+      "longitude": 101.529121
+    },
+    "name": "MASJID JAMEK AL - HIKMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7d34059f-323b-499b-9dd5-b19343ff40e4",
+    "geohash": "w284qrejpz",
+    "source_musolla_id": "MY-10-GBK-00049",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat.",
+    "directions": "Terletak 200 meter dari pekan Kuang dan terletak di dalam perkampungan melayu."
+  },
+  "w284g7jf64": {
+    "address": "Jalan Dato Muskam, 45600 Ijok, Selangor, Malaysia 45600",
+    "contact": "013-3388540",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.312778,
+      "longitude": 101.400815
+    },
+    "name": "MASJID NURUL IMAN bt 8 ijok",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4ab13580-b2e9-4c65-b451-659ee71aa2cd",
+    "geohash": "w284g7jf64",
+    "source_musolla_id": "MY-10-KSR-00322",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,klinik dan pusat dialysis, rumah iman dan bilal, tandas VIP, dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak bersebelahan dengan Sekolah Rendah Agama Kampung Ijok dan berdekatan dengan LATAR highway."
+  },
+  "w284gz2516": {
+    "address": "Taman Bukit Badong, Ijok, Selangor, Malaysia 45600",
+    "contact": "019-6540456",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.336251,
+      "longitude": 101.414851
+    },
+    "name": "MASJID AR -RAHMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e493056c-6567-4f53-beba-631dfc9965d1",
+    "geohash": "w284gz2516",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 26 Julai 1997",
+    "source_musolla_id": "MY-10-KSR-00325",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,perpustakaan,taman,wakaf,van jenazah,bilik jenazah,bilik mesyuarat dan pejabat.",
+    "directions": "Lokasi masjid ini terletak berdekatan dengan balai polis Ijok dan kawasan perindustrian serta bersebelahan dengan sekolah agama."
+  },
+  "w284d5e9c5": {
+    "address": "Jalan Cempaka, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "012-6366579",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.271498,
+      "longitude": 101.342748
+    },
+    "name": "MASJID DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6f12bced-cd5e-4176-baca-429ecc34aaa8",
+    "geohash": "w284d5e9c5",
+    "remarks": "Masjid ini telah dirasmikan pada 2 Jun 1972.",
+    "source_musolla_id": "MY-10-KSR-00342",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik jenazah, bilik mesyuarat,dan dapur.",
+    "directions": "Lokasi masjid ini bersebelahan dengan Sekolah Agama Kampung Kuching dan 1 km dari pekan Sungai Buloh."
+  },
+  "w284c0s9g7": {
+    "address": "Bukit Rotan, Selangor, Malaysia 45700",
+    "contact": "014-2222664",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.298966,
+      "longitude": 101.300265
+    },
+    "name": "MASJID AN-NURIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "84388476-11b1-4c2d-b86c-798cbef1e487",
+    "geohash": "w284c0s9g7",
+    "remarks": "Masjid ini siap dibina pada tahun 1926.",
+    "source_musolla_id": "MY-10-KSR-00374",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan bilik imam.",
+    "directions": "Masjid ini terletak 7km dari tempat kelip-kelip Kampong Kuantan, bersebelahan dengan Pos Malaysia lama Bukit Rotan, kuil india dan gereja."
+  },
+  "w2849hkfrj": {
+    "address": "Bukit Rotan, Selangor, Malaysia 45700",
+    "contact": "019-2754657",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.275713,
+      "longitude": 101.300769
+    },
+    "name": "MASJID JAMIUL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6f54347d-70a8-41b4-be06-e8c93b6b0c74",
+    "geohash": "w2849hkfrj",
+    "source_musolla_id": "MY-10-KSR-00349",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf, parker berbumbung,bilik jenazah dan van jenazah.",
+    "directions": "Masjid ini terletak di perkampung melayu di Kampung Api-api."
+  },
+  "w284c6rvkf": {
+    "address": "Bukit Rotan, Selangor, Malaysia 45700",
+    "contact": "0176525059",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.309174,
+      "longitude": 101.315781
+    },
+    "name": "MASJID JAMIUL MUHAMMADIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1b385c12-200a-41b6-aaf0-b9553a75db7e",
+    "geohash": "w284c6rvkf",
+    "source_musolla_id": "MY-10-KSR-00336",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,dapur, van jenazah, tandas vip dan beduk.",
+    "directions": "Masjid in terletak lebih kurang 170 km dari pekan Bestari Jaya."
+  },
+  "w284d5e9bf": {
+    "address": "Jalan Cempaka, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "013-2329067",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.271492,
+      "longitude": 101.342738
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8f5d339e-0742-4c60-93e1-6f97f13add4d",
+    "geohash": "w284d5e9bf",
+    "source_musolla_id": "MY-10-KSR-00346",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan van jenazah.",
+    "directions": "Lokasi masjid ini berada di dalam kawasan kampung dan berdekatan dengan Sekolah Menengah Maharajalela,"
+  },
+  "w284dygprf": {
+    "address": "Ijok, Selangor, Malaysia 45600",
+    "contact": "019-3644686",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.290288,
+      "longitude": 101.37531
+    },
+    "name": "MASJID NURUL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a805ebd9-71d8-4404-b7ac-a3c5b0034eb7",
+    "geohash": "w284dygprf",
+    "remarks": "Masjid ini baru saja dibina dan siap pada tahun 2008.",
+    "source_musolla_id": "MY-10-KSR-00388",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, pejabat,bilik mesyuarat dan tandas VIP.",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan."
+  },
+  "w284d7wmf4": {
+    "address": "Jeram, Selangor, Malaysia 45800",
+    "contact": "019-2413814",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.272178,
+      "longitude": 101.35755
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "02e0abbc-b1db-4f4f-ab32-ea02afffdd12",
+    "geohash": "w284d7wmf4",
+    "source_musolla_id": "MY-10-KSR-00347",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, Sekolah Agama Rakyat Al hidayah dan wakaf untuk berehat.",
+    "directions": "Masjid ini terletak bersebelahan dengan Balai Polis Bukit Kuching dan berada di dalam kawasan perkampungan melayu."
+  },
+  "w284m0ynw5": {
+    "address": "Saujana Utama 1, Ijok, Selangor, Malaysia 47000",
+    "contact": "019-3320076",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.213264,
+      "longitude": 101.478224
+    },
+    "name": "MASJID AN-NUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "110be59b-dbf6-4661-b98f-4566035c683b",
+    "geohash": "w284m0ynw5",
+    "source_musolla_id": "MY-10-KSR-00372",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat.",
+    "directions": "Masjid ini terletak di kawasan perumahan dan 16km dari pekan Sungai Buloh."
+  },
+  "w2841kzh11": {
+    "address": "Jeram, Selangor, Malaysia 45800",
+    "contact": "016-2689976",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.190851,
+      "longitude": 101.314598
+    },
+    "name": "MASJID AN - NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2f47e527-367b-40b1-9dff-0dec89bb80be",
+    "geohash": "w2841kzh11",
+    "source_musolla_id": "MY-10-KLG-00195",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak di kawasan kampung"
+  },
+  "w284h9vxts": {
+    "address": "Kampung Bukit Cerakah Jaya, Shah Alam, Selangor, Malaysia 40170",
+    "contact": "0126217884",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.174986,
+      "longitude": 101.455545
+    },
+    "name": "MASJID AL -BAROKAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8a867f22-c409-4a47-959d-dadac0404ed8",
+    "geohash": "w284h9vxts",
+    "source_musolla_id": "MY-10-PTG-00254",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak di kawasan kampung dan 15km dari pekan Meru."
+  },
+  "w284q3kz9s": {
+    "address": "Seksyen U20, Sungai Buloh, Selangor, Malaysia 40160",
+    "contact": "0133940263",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.216188,
+      "longitude": 101.531253
+    },
+    "name": "MASJID JAMEK KG. SG. PLONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9b9da281-586e-4085-850a-42ce2804f84f",
+    "geohash": "w284q3kz9s",
+    "source_musolla_id": "MY-10-PTG-00287",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya .\n\nSelain itu, terdapat juga bilik imam dan bilal , bilik stor , pejabat , bilik mesyuarat , dapur ,van jenazah, tempat mandi jenazah dan tempat wudhuk lelaki dan wanita .\n\nDi bahagian luar masjid terdapat beberapa ruang letak kereta khas pegawai masjid berbumbung serta garaj untuk motosikal dan basikal . Ruang letak kereta terbuka pula mampu meletakkan lebih 20 kereta dalam satu-satu masa dalam kawasan masjid sahaja.",
+    "directions": "Masjid ini terletak di luar Bandar dan bangunan utama masjid terletak di tepi  jalan utama yang menghubungkan Sungai Buluh dan Kuala Selangor.\n\nJarak pekan Sungai Buluh dari lokasi masjid ini lebih kurang 2 kilometer."
+  },
+  "w284uh47fm": {
+    "address": "Jalan Makmur, Kampung Harmoni, 45620 Ijok, Selangor, Malaysia 45620",
+    "contact": "019-3405535",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.318546,
+      "longitude": 101.428975
+    },
+    "name": "MASJID DARUL IBADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "77646b1a-5049-4034-8ebd-a6fa399dafe1",
+    "geohash": "w284uh47fm",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 5 November 1976",
+    "source_musolla_id": "MY-10-KSR-00327",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,bilik mandi jenazah,van jenazah,rumah imam,dewan,wakaf.",
+    "directions": "Masjid ini terletak berdekatan dengan stesen minyak dan berada di tepi jalan."
+  }
+}

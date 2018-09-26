@@ -1,0 +1,19 @@
+{
+  "w0zujnuu69": {
+    "address": "Jalan Bagan Serai, Kampung Baru Lasah, 31100 Pulau Kamiri, Perak, Malaysia 31100",
+    "contact": "055911241",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.95969,
+      "longitude": 101.124803
+    },
+    "name": "MASJID al - RAMLIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a0a9d247-f304-461b-9f1a-fd16a6066e5b",
+    "geohash": "w0zujnuu69",
+    "source_musolla_id": "MY-08-KK-00417",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parking\r\n-tandas awam\r\n-bazigo",
+    "directions": "-lokasi masjid kira-kira 26km dari sungai siput (u). 1km dari jalan utama lintang-lasah, sungai siput (u)"
+  }
+}

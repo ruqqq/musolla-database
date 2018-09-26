@@ -1,0 +1,19 @@
+{
+  "w289rgkmnq": {
+    "address": "Triang Hilir, Negeri Sembilan, Malaysia 72400",
+    "contact": "013-2059462",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.05097,
+      "longitude": 102.299815
+    },
+    "name": "MASJID KARIAH KG. LAKAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3f533926-11e0-4166-8fe1-b9cfc4497e43",
+    "geohash": "w289rgkmnq",
+    "remarks": "Telah dibina pada tahun 1983 diatas tapak daripada kerajaan negeri.Masjid ini telah dibaiki dan dinaiktaraf pada tahun 2006,2008 dan 2009.",
+    "source_musolla_id": "MY-05-JLB-00209",
+    "provision": "ruang solat,bilik air,bilik imam,kelas"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "w2834ds09m": {
+    "address": "Seri Kembangan, Selangor, Malaysia 43300",
+    "contact": "0172686842",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.002127,
+      "longitude": 101.71698
+    },
+    "name": "MASJID JAMEK QARYAH SERDANG (MASJID UPM)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f978235b-b9b0-4341-a94c-4f8f2f6fda2a",
+    "geohash": "w2834ds09m",
+    "source_musolla_id": "MY-10-PTG-00290",
+    "provision": "Parkir masjid amat luas. Kuliah-kuliah agama diadakan pada hari-hari- yang tertentu oleh pihak berkuasa masjid.",
+    "directions": "Masjid ini terletak di pintu depan UPM"
+  }
+}

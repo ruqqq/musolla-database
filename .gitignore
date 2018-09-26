@@ -1,3 +1,5 @@
 node_modules
 old_data
-tools/cache
+tools/cache/*
+
+!tools/cache/reverseGeocodeCache.json

@@ -1,0 +1,34 @@
+{
+  "w303puq5yt": {
+    "address": "Kampung Air Kayan, Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.824799,
+      "longitude": 101.950668
+    },
+    "name": "MASJID MUKIM JEDOK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ac99d481-7a2e-4340-b8a9-3319bca939cb",
+    "geohash": "w303puq5yt",
+    "source_musolla_id": "MY-03-TM-00304",
+    "provision": "Masjid ini terdapat pejabat dan bilik mesyuarat bagi tiap kali perjumpaan ahli AJK masjid. Terdapat juga  tempat parking berbumbung untuk para jemaah.Tempat wuduk, tandas lelaki dan perempuan juga disediakan untuk keselesaan orang ramai.\n\nMasjid ini juga menyediakan â€˜bedukâ€™ yang digunakan untuk memberitahu tentang kematian seseorang kepada orang kampong.Terdapat juga stor sebagai tempat menyimpan barang.",
+    "directions": "Lokasi masjid ini terletak di tepi jalan utama Jedok ke Bukit Bunga dan ke Grik"
+  },
+  "w303puqhnf": {
+    "address": "Jedok, Kelantan, Malaysia 17510",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.824829,
+      "longitude": 101.950676
+    },
+    "name": "MASJID MUKIM PANGLIMA BAYU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "685b8917-ed29-4511-917e-4e8816bbd637",
+    "geohash": "w303puqhnf",
+    "source_musolla_id": "MY-03-TM-00305",
+    "provision": "Masjid ini menyediakan tandas,tempat wuduk lelaki dan perempuan kepada para jemaah Bilik mandi turut disediakan sebagai salah satu kemudahan orang ramai \n\nTerdapat juga tempat parking terbuka di luar kawasn masjid untuk para jemaah melatakkan kenderaan",
+    "directions": "Masjid ini berada di kawasan kampong. Lokasi masjid ini berada di tepi jalan dari Tanah Merah ke Bukit Bunga.  Bersebelahannya terdapat tadika agama."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w88y7hu9kf": {
+    "address": "Niah-Suai, Sarawak, Malaysia 98200",
+    "contact": "0168845194",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.937454,
+      "longitude": 113.692912
+    },
+    "name": "MASJID DARUL IBADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2871fe74-777a-482f-8899-fffee92fe445",
+    "geohash": "w88y7hu9kf",
+    "source_musolla_id": "MY-13-MRI-00383"
+  }
+}

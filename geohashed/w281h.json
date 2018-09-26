@@ -1,0 +1,37 @@
+{
+  "w281hqhwvf": {
+    "address": "Kawasan 2, Klang, Selangor, Malaysia 41200",
+    "contact": "019-2400763",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.022414,
+      "longitude": 101.443199
+    },
+    "name": "MASJID AR -RAHIMIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5d04888d-a91f-489c-8b58-4e4ece937019",
+    "geohash": "w281hqhwvf",
+    "remarks": "Masjid ini telah dibina pada tahun 1980an diatas tapak yang sebelumnya adalah sebahagian daripada ladang getah yang mana pada sebelumnya penduduk disini sembahyang jumaat di sekolah Teknik .           \nIanya telah dirasmikan oleh DYMM Sultan Selangor pada 14/11/1986.  .",
+    "source_musolla_id": "MY-10-KLG-00203",
+    "provision": "Antara kemudahan yang terdapat ialah dewan serbaguna masjid, runagan masjid yang dilengkapi layar besar (big screen), van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian.",
+    "directions": "Masjid ini terletak di tepi Jalan Langat berhampiran dengan kubur."
+  },
+  "w281hz3ueb": {
+    "address": "Kawasan 1, Kampung Sungai Jati, Klang, Selangor, Malaysia 41200",
+    "contact": "012-2825584",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.028884,
+      "longitude": 101.461315
+    },
+    "name": "MASJID DATO' DAGANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ad636dac-796c-4b59-b665-042d022d2dbf",
+    "geohash": "w281hz3ueb",
+    "remarks": "Masjid ini telah dibina pada tahun 1812 Masihi. Bukti tarikh yang terdapat pada batu cerucuk masih disimpan oleh Haji Sulaiman, cucu kepada Datoâ€™ Dagang.\r\nTitik tolak pembinaan Masjid Datoâ€™ Dagang ini berdasarkan kepada pemberian sebidang tanah oleh Sultan Selangor kepada Datoâ€™ Dagang kerana jasa-jasa beliau membantu Tengku Kudin mengalahkan Raja Abdullah.\r\nMenurut sejarahnya nama asal Datoâ€™ Dagang ialah Nanggok. Beliau berasal dari Batu Bara, Inderapura Sumatera, Indonesia. Setelah menunaikan haji, beliau bergelar Haji Mohamad Tahir bin Haji Mahmood.",
+    "source_musolla_id": "MY-10-KLG-00201",
+    "directions": "Masjid ini terletak disimpang empat Kampong Jawa, berdekatan dengan Pusat Sumber Pendidikan dan JPJ."
+  }
+}

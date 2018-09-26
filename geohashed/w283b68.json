@@ -1,0 +1,18 @@
+{
+  "w283b68puz": {
+    "address": "Kampung Sungai Kayu Ara, Petaling Jaya, Selangor, Malaysia 47400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.135221,
+      "longitude": 101.612763
+    },
+    "name": "MASJID AL - MAKMURIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cbb3adad-c9ba-4296-a4ac-aad10fd0f4b9",
+    "geohash": "w283b68puz",
+    "source_musolla_id": "MY-10-PTG-00278",
+    "provision": "Antara kemudahan yang terdapat dimasjid ini ialah dewan, ruang parkir dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah dikawasan perkampongan di Kampong Sungai Kayu Ara, berdekatan dengan Taman Tun Dr. Ismail."
+  }
+}

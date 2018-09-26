@@ -1,0 +1,37 @@
+{
+  "w2889cwdcy": {
+    "address": "Ulu Klawang, Negeri Sembilan, Malaysia 71600",
+    "contact": "013-6499372",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.909139,
+      "longitude": 102.039034
+    },
+    "name": "MASJID KARIAH KAMPUNG BATU SERAMBAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f56e1212-76c6-40f3-99d0-15691b264bb5",
+    "geohash": "w2889cwdcy",
+    "remarks": "DIBINA PADA TAHUN 1968 DIATAS SEBIDANG TANAH YANG DIWAKAFKAN OLEH PN. HJH JENIAH BT. HJ ABD HAMID.Masjid ini pernah dibaiki dan dibaik pulih pada tahun 1992,1993 dan 2000.",
+    "source_musolla_id": "MY-05-JLB-00190",
+    "provision": "ruang solat,bilik air lelaki dan perempuan,tempat wudhuk ,bilik imam",
+    "directions": "Terletak di tepi jalan utama jelebu - seremban. berhampiran dengan sungai."
+  },
+  "w2889xvmrq": {
+    "address": "N132, 71600 Ulu Triang, Negeri Sembilan, Malaysia 71600",
+    "contact": "016-2969825",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.943898,
+      "longitude": 102.026567
+    },
+    "name": "MASJID KARIAH KAMPUNG GAGU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "58f06bf4-20ff-4a81-9a8b-11ee95a29747",
+    "geohash": "w2889xvmrq",
+    "remarks": "Telah dibina pada tahun 1966.Diasaskan oleh Tuan Haji maaseh bin Mengkota dan beliau telah mewakafkan tanah seluas 1/2 ekar.Masjid ini telah dibaiki dan dinaik taraf pada tahun 1986,1994,1995,1996,dan 2009.",
+    "source_musolla_id": "MY-05-JLB-00194",
+    "provision": "ruang solat,bilik air,tempat wuduk.tempat letak kereta,bilik imam."
+  }
+}

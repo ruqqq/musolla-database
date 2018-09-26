@@ -1,0 +1,191 @@
+{
+  "w28662ez1y": {
+    "address": "Kampung Sungai Mulia, Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "contact": "0126182750",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.211989,
+      "longitude": 101.705672
+    },
+    "name": "MASJID ZAID BIN HARITSAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "19a0347c-b450-4d55-9c39-da8f43339c03",
+    "geohash": "w28662ez1y",
+    "source_musolla_id": "MY-14-WKL-00052",
+    "directions": "Masjid ini berada di Jalan Utama Jalan Gombak."
+  },
+  "w2866dyg9q": {
+    "address": "Jalan Taman Melati 1/5, Taman Melati, 53100 Setapak, Wilayah Persekutuan, Malaysia 53100",
+    "contact": "03-41475133",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.223751,
+      "longitude": 101.720757
+    },
+    "name": "MASJID SALAHUDDIN AL-AYYUBI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0e0af5c5-ef25-4ae2-a2f4-1e21a0237591",
+    "geohash": "w2866dyg9q",
+    "remarks": "Masjid Salahuddin Al-Ayubi merupakan antara masjid yang menarik yang terletak di Kuala Lumpur. Masjid yang terletak di Taman Bukit Jati ini dibina pada 17 Zulhijjah 1427 Hijri bersamaan 8 Disember 2006 Masihi. Masjid ini berkonsepkan reka bentuk Timur Tengah dan moden.\r\n\r\nHiasan dalamannya turut mengetengahkan konsep hiasan seperti yang terdapat di dalam masjid-masjid di Timur Tengah. Masjid ini telah dijadikan tempat beribadah dan menjalankan aktiviti keagamaan oleh penduduk sekitar. Pengunjung akan bertambah ramai ketika menunaikan solat Jumaat kerana ia terletak di lokasi yang mudah disinggahi oleh orang ramai.",
+    "source_musolla_id": "MY-14-WKL-00013",
+    "provision": "dewan serbaguna,dewan makan, tempat pakir kereta, tandas dan tempat wuduk yang selesa, laluan oku, bilik mesyuarat, perpustakaan, bilik pengajian al-quran",
+    "directions": "Masjid ini terletak dikawasan perumahan Taman Melati."
+  },
+  "w2866s84h3": {
+    "address": "Selangor, Batu Caves, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.233077,
+      "longitude": 101.711613
+    },
+    "name": "MASJID AL -SYARIFF",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "607adf5d-2cde-482d-ac26-65061cb72edf",
+    "geohash": "w2866s84h3",
+    "remarks": "Dalam tahun 1890 lebih kurang 116 tahun yang lalu telah datang beberapa orang dari Sumatera dari suku kaum Minangkabau ke Kampung Simpang Tiga, Gombak sebagai satu penghijrahan yang mana pada masa itu kampung kecil tersebut didiami oleh hanya beberapa keluarga melayu sebagai penduduk asal. Lalu dibina sebuah surau untuk dijadikan tempat ibadat, terutamanya solat jumaat. Masjid ini sering menjadi singgahan bagi pengunjung-pengunjung dari pantai timor sebelum tiba di Kuala Lumpur.",
+    "source_musolla_id": "MY-10-GBK-00054",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir, pejabat, dewan  dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak di simpang tiga Greenwood dan jalan Gombak, dikawasan perkampongan Gombak."
+  },
+  "w28662efc3": {
+    "address": "Kampung Sungai Mulia, Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "contact": "017-2018010",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.211236,
+      "longitude": 101.705651
+    },
+    "name": "MASJID LAMA BATU 6",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ade80fae-5853-4657-a20c-d0a23df51a55",
+    "geohash": "w28662efc3",
+    "remarks": "Masjid ini didirikan di atas tanah wakaf pada Julai 1931 dan ianya merupakan masjid tertua di Selangor.\r\nIanya dirasmikan oleh DYMM Sultan Selangor pada tahun 1990.",
+    "source_musolla_id": "MY-10-GBK-00366",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan pejabat.",
+    "directions": "Masjid ini terletak di tepi jalan utama dan berada di pekan batu 6."
+  },
+  "w28669bdyw": {
+    "address": "Gombak, Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "contact": "0361899844",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.21813,
+      "longitude": 101.7124
+    },
+    "name": "MASJID AL - SYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cfc724f2-34ae-48fe-9a4e-7cdfa1235b11",
+    "geohash": "w28669bdyw",
+    "remarks": "Pada asalnya ia merupakan kebun sireh dan kemudiannya tanah ini diwakafkan dan dijadikan masjid   Masjid yang tersergam indah ini telah siap dibina pada tahun 1984 bagi menggantikan masjid batu 6 yang lama.",
+    "source_musolla_id": "MY-10-GBK-00071",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, CCTV, bilik kuliah berhawa dingin, tempat mandi jenazah",
+    "directions": "Masjid ini terletak berhampiran dengan Bandar Gombak dan 1 km dari Greenwood."
+  },
+  "w28660ykhs": {
+    "address": "Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "contact": "03-40223460",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.212841,
+      "longitude": 101.698234
+    },
+    "name": "MASJID SAIDINA ALI KW",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2069f090-258f-4735-896e-ce5387e70395",
+    "geohash": "w28660ykhs",
+    "remarks": "Masjid lama yang dibina pada tahun 1910. Pada tahun 1980 an, masjid lama tak dapat lagi menampung bilangan jemaah terutamanya semasa solat Jumaat dan solat Aidilfitri dan Aidiladha. Masjid Saidina Ali dibina untuk tujuan menampung jemaah. Peristiwa penting ialah tapak ditambak @ diratakan majlis dan pecah tanah dilakukan oleh bekas Perdana Menteri, Tun Abdullah bin Haji Ahmad Badawi pada 1991.",
+    "source_musolla_id": "MY-14-WKL-00022",
+    "provision": "Terdapat kemudahan seperti \r\n1-dewan solat utama \r\n2-Van jenazah\r\n3-bilik pentadbiran\r\n4-pejabat imam dan bilal\r\n5-BILIK MANDI JENAZAH\r\n6-DEWAN MAKAN\r\n7-BILIK MESYUARAT",
+    "directions": "Masjid ini berada dalam kawasan kampung Padang Balang berdekatan dengan pusat tahfiz Darul Furqan dan Sekolah Rendah Agama Sayydina Ali."
+  },
+  "w2866wgmsm": {
+    "address": "Gombak, Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.24606,
+      "longitude": 101.716074
+    },
+    "name": "MASJID SUNGAI CHINCHIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0748126b-561f-4ead-8665-9a9cc5ab10b8",
+    "geohash": "w2866wgmsm",
+    "remarks": "Masjid ini dibina di atas tanah wakaf dan pada asalnya ia merupakan sebuah surau. Pada tahun 1967, binaan nya diubah kepada simen.",
+    "source_musolla_id": "MY-10-GBK-00055",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah,dewan masjid dan terdapat sekolah agama rakyat",
+    "directions": "Terletak di kawasan perkampungan dan berdekatan dengan Bandar Kuala Lumpur. Terletak 15km dari pejabat daerah Gombak."
+  },
+  "w2866r1dpf": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "contact": "03-61855033",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.246818,
+      "longitude": 101.702834
+    },
+    "name": "MASJID AL -KHAIRIYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0756b790-a5af-40e5-a0f0-1cf10c0b68b9",
+    "geohash": "w2866r1dpf",
+    "source_musolla_id": "MY-10-GBK-00059",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir, pejabat, dewan dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan Taman Seri Gombak, berhampiran dengan taman tasik."
+  },
+  "w2866nyhhf": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.245785,
+      "longitude": 101.697904
+    },
+    "name": "MASJID AL-ITTIFAQIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6d15a169-0e82-45d1-99fc-34e7eb751a99",
+    "geohash": "w2866nyhhf",
+    "source_musolla_id": "MY-10-GBK-00364",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas.",
+    "directions": "Masjid ini terletak dikawasan Taman Sri Gombak, 4km daripada Batu Caves. ."
+  },
+  "w2866k2ym6": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "contact": "03-61881157",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.232441,
+      "longitude": 101.701702
+    },
+    "name": "MASJID AR -RAHIMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2aa288a2-6af0-42f2-9f23-983d901ea4e3",
+    "geohash": "w2866k2ym6",
+    "source_musolla_id": "MY-10-GBK-00070",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Taman Greenwood,  5Km dari Batu Caves."
+  },
+  "w2866zchdt": {
+    "address": "Gombak, Setapak, Wilayah Persekutuan, Malaysia 53000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.251381,
+      "longitude": 101.723895
+    },
+    "name": "MASJID ZAKARIA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2fa4b156-fff3-499a-86e0-56c542683e86",
+    "geohash": "w2866zchdt",
+    "remarks": "Pada asalnya,tanah masjid ini merupakan tanah individu yang diwakafkan. Selepas itu,sebuah surau dibangunkan dan akhirnya pada tahun 1975 masjid ini siap dibina bagi menampung keperluan jemaah penduduk kampung",
+    "source_musolla_id": "MY-10-GBK-00058",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat,van jenazah dan bilik jenazah.",
+    "directions": "Lokasi masjid ini terletak ditepi jalan dan berhampiran dengan pusat pendidikan UIA"
+  }
+}

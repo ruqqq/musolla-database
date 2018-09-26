@@ -1,0 +1,37 @@
+{
+  "w284d5e9c5": {
+    "address": "Jalan Cempaka, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "012-6366579",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.271498,
+      "longitude": 101.342748
+    },
+    "name": "MASJID DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6f12bced-cd5e-4176-baca-429ecc34aaa8",
+    "geohash": "w284d5e9c5",
+    "remarks": "Masjid ini telah dirasmikan pada 2 Jun 1972.",
+    "source_musolla_id": "MY-10-KSR-00342",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik jenazah, bilik mesyuarat,dan dapur.",
+    "directions": "Lokasi masjid ini bersebelahan dengan Sekolah Agama Kampung Kuching dan 1 km dari pekan Sungai Buloh."
+  },
+  "w284d5e9bf": {
+    "address": "Jalan Cempaka, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "013-2329067",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.271492,
+      "longitude": 101.342738
+    },
+    "name": "MASJID NURUL AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8f5d339e-0742-4c60-93e1-6f97f13add4d",
+    "geohash": "w284d5e9bf",
+    "source_musolla_id": "MY-10-KSR-00346",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan van jenazah.",
+    "directions": "Lokasi masjid ini berada di dalam kawasan kampung dan berdekatan dengan Sekolah Menengah Maharajalela,"
+  }
+}

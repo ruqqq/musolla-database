@@ -1,0 +1,35 @@
+{
+  "w2897x3enx": {
+    "address": "Kenaboi, Negeri Sembilan, Malaysia 71650",
+    "contact": "012-6797828",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.072606,
+      "longitude": 102.109277
+    },
+    "name": "MASJID KARIAH KG. PUOM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0ce8e21a-90b3-49f1-93c4-dfea14f49070",
+    "geohash": "w2897x3enx",
+    "remarks": "Berusia 25 tahun. Dahulu Masjid Kg.Puom hanyalah berdinding kayu dan hanya mampu memuatkan 60 orang jemaah. Selepas kerajaan negeri memberi peruntukan masjid Kg.Puom telah diubah suai dan boleh memuatkan 160 orang jemaah.",
+    "source_musolla_id": "MY-05-JLB-00198",
+    "directions": "berhampiran dengan pekan titi."
+  },
+  "w2897w5yxh": {
+    "address": "Kenaboi, Negeri Sembilan, Malaysia 71650",
+    "contact": "06-6111723",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.066323,
+      "longitude": 102.112388
+    },
+    "name": "MASJID KARIAH KG. SUNGAI ROTAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b8ae54b6-1869-4d66-869d-61b64f4fde22",
+    "geohash": "w2897w5yxh",
+    "remarks": "Telah dibina pada tahun 1986.Pengasasnya adalah Encik Abdul Aziz bin ujang serta penduduk setempat.Tapak masjid ini telah dikurniakan oleh kerajaan negeri.Bangunan asal telah didirikan pada tahun 1981 serentak dengan Rumah Rakyat Sungai Rotan.Bangunan baru dibina pada tahun 1983.masjid ini telah dibvaiki dan dinaiktaraf pada tahun 1993 dan 2009.",
+    "source_musolla_id": "MY-05-JLB-00199"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w1pk9m93f3": {
+    "address": "Sungai Adam, Perlis, Malaysia 02600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.446537,
+      "longitude": 100.252064
+    },
+    "name": "MASJID AL ABRAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "891b1283-7b32-461c-b127-ecd5b81baeaf",
+    "geohash": "w1pk9m93f3",
+    "source_musolla_id": "MY-09-AR-00065",
+    "provision": "1. Penghawa dingin masjid.Sumbangan oleh Dato' Seri Dr Shahidan Bin Kassim"
+  }
+}

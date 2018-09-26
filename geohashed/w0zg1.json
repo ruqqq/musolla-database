@@ -1,0 +1,65 @@
+{
+  "w0zg15mc5d": {
+    "address": "33000 Sayong, Perak, Malaysia 33000",
+    "contact": "0175782944",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.764134,
+      "longitude": 100.95044
+    },
+    "name": "MASJID DIRAJA UBUDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a6904107-a08d-43e0-aa36-e291d0fdd021",
+    "geohash": "w0zg15mc5d",
+    "remarks": "Masjid Diraja Ubudiah terletak di sebelah kawasan Makam Diraja Bukit Chandan, Kuala Kangsar. Masjid ini dibina atas titah Sultan Idris Murshidul Azam Shah, Sultan Perak ke -28 (1887-1816) kerana menunaikan nazar ketika baginda gering.\r\n\r\nKerajaan Negeri Perak kemudiannya telah mengarahkan Coloney Huxley dari Pejabat Kerja Raya di Kuala Lumpur sepaya merangka sebuah pelan masjid yang hendak didirikan itu. Tugas membuat pelan reka bentuknya telah diserahkan kepada Hubbeck, seorang arkitek kerajaan dan tugas melaksanakan pembinaan bangunan itu pula diserahkan kepada Caufield, iaitu ketua jurutera di Negeri Perak ketika itu.\r\n\r\nPada hari Jumaat, 25 Syawal 1331 Hijri bersamaan 26 September 1913 Masihi, Sultan Idris telah meletakkan batu asas masjid tersebut. Pembinaan masjid tergendala beberapa tahun kerana kerosakan ketul-ketul marmar di tempat simpanannya yang telah dipijak oleh dua ekor gajah kepunyaan Sultan Idris dan Raja Chulan.\r\n\r\nPenghantaran batu marmar yang dipesan dari Itali pula tergendala akibat meletusnya Perang Dunia Pertama. Setelah beberapa halangan berlaku, pada tahun 1917 Masihi barulah masjid yang terindah di Negeri Perak ini dengan rasminya dibuka oleh Sultan Abdul Jalil Nasaruddin Shah, iaitu pengganti Sultan Idris yang mangkat pada tahun 1916 Masihi.",
+    "source_musolla_id": "MY-08-KK-00006",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-laluan orang kurang upaya\r\n-tandas awam\r\n-perpustakaan\r\n-rumah musafir\r\n-kawasan riadah",
+    "directions": "terletak diatas bukit chandan berhampiran istana iskandariah."
+  },
+  "w0zg1kw388": {
+    "address": "Sayong, Perak, Malaysia 33000",
+    "contact": "0175735865",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.771072,
+      "longitude": 100.961983
+    },
+    "name": "MASJID IDRISIAH II",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "247539e3-2092-4d49-b69e-bdc54ac6c162",
+    "geohash": "w0zg1kw388",
+    "source_musolla_id": "MY-08-KK-00359"
+  },
+  "w0zg10gpd2": {
+    "address": "Sayong, Perak, Malaysia 33000",
+    "contact": "0132560921",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.751502,
+      "longitude": 100.946606
+    },
+    "name": "MASJID KOLEJ UNIVERSITI ISLAM SULTAN AZLAN SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "48ece5b5-9a87-4ba3-a81b-4f7810d043e8",
+    "geohash": "w0zg10gpd2",
+    "source_musolla_id": "MY-08-KK-00591"
+  },
+  "w0zg1hexn9": {
+    "address": "33000 Sayong, Perak, Malaysia 33000",
+    "contact": "0175322181",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.772024,
+      "longitude": 100.947478
+    },
+    "name": "MASJID KHAIRIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "21837e54-b35b-442e-ad41-1dfcdd953800",
+    "geohash": "w0zg1hexn9",
+    "source_musolla_id": "MY-08-KK-00386"
+  }
+}

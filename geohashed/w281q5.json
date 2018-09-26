@@ -1,0 +1,37 @@
+{
+  "w281q51wqw": {
+    "address": "Seksyen 18, Shah Alam, Selangor, Malaysia 40300",
+    "contact": "03-54412003",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.049816,
+      "longitude": 101.516013
+    },
+    "name": "MASJID AL - HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7aae00a3-4b14-4672-acf7-4fe973e7d1b4",
+    "geohash": "w281q51wqw",
+    "remarks": "Dibina hasil perancangan bersama kerajaan Negeri Selangor dan rakyat setempat, jemaah seksyen 18 barat Shah Alam melalui Jabatan Agama Islam Selangor dan Jabatan Kerja Raya. Pembiaan seawal tahun 2000 menggantukan surau kayu yang dibina secara gotong-royong oleh penduduk setempat mulai 1986 seaktu kawasan ini mula berkembang pesat. Masjid ini siap sepenuhnya pada April 2001 dan digunakan dengan kebenaran solat Jumaat pada 18Mei 2001. Peruntukan kerajaan negeri sebanyak RM3.9 juta ini dilengkapi dengan 6 bilik darjah, sekolah tadika Islam di sebelahnya. Bangunan berciri sejarah melayu. Bilik pejabat , dewan kuliah, dewan makan dan bilik jenazah juga dilengkapi.",
+    "source_musolla_id": "MY-10-PTG-00240",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah kelas mengaji Al-Quran untuk kanak-kanak dan dewasa, dilengkapi bilik mesyuarat dan pejabat, bilik pengurusan jenazah dan kawasan parkir kereta didepan masjid.",
+    "directions": "Lokasi masjid ini sesuai untuk oenduduk seksyen 18 Barat Shah Alam dan berada di tepi Jalan Besar."
+  },
+  "w281q5wr6d": {
+    "address": "Seksyen 18, Shah Alam, Selangor, Malaysia 40300",
+    "contact": "0172019246",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.052711,
+      "longitude": 101.522367
+    },
+    "name": "MASJID NAHDHAH AL ISLAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "846042fb-8694-4d5b-b293-cfda54b1ed55",
+    "geohash": "w281q5wr6d",
+    "source_musolla_id": "MY-10-PTG-00239",
+    "provision": "Kemudahan yang terdapat ialah Pusat Pengajian Fardu Ain dan ruang solat yang selesa dan moden.",
+    "directions": "Berada bersebelahan LKSA dan hanya 10 minit sahaja ke Pusat Bandar Shah Alam."
+  }
+}

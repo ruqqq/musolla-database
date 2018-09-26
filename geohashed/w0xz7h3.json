@@ -1,0 +1,17 @@
+{
+  "w0xz7h3zt1": {
+    "address": "Labu Kubong, Perak, Malaysia 36600",
+    "contact": "0175676560",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.111554,
+      "longitude": 101.032895
+    },
+    "name": "MASJID AL - HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a8fa74dd-bcbb-4cbd-be74-dc80f857d4f8",
+    "geohash": "w0xz7h3zt1",
+    "source_musolla_id": "MY-08-HP-00208"
+  }
+}

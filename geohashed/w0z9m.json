@@ -1,0 +1,17 @@
+{
+  "w0z9mrq41k": {
+    "address": "Beruas, Perak, Malaysia 32700",
+    "contact": "0174989517",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.478667,
+      "longitude": 100.785885
+    },
+    "name": "MASJID AS SAADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "549593a1-9bf8-4cdd-a61f-a41414e6abe7",
+    "geohash": "w0z9mrq41k",
+    "source_musolla_id": "MY-08-MJG-00032"
+  }
+}

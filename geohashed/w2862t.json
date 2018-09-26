@@ -1,0 +1,19 @@
+{
+  "w2862tpuqe": {
+    "address": "Kepong, Selangor, Malaysia 52100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.236224,
+      "longitude": 101.634459
+    },
+    "name": "MASJID JAMEK FRIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6093a90f-53d3-47ee-91e4-27d294de0002",
+    "geohash": "w2862tpuqe",
+    "remarks": "Masjid dibina pada tahun 1976 bagi menggantikan surau lama untuk kakitangan FRIM .",
+    "source_musolla_id": "MY-10-GBK-00048",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, dapur dan pengurusan jenazah.",
+    "directions": "Masjid ini terletak didalam kawasan FRIM."
+  }
+}

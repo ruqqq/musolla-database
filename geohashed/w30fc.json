@@ -1,0 +1,83 @@
+{
+  "w30fc1ke54": {
+    "address": "Jalan Penghulu Hj Mat Din, 16030 Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.115793,
+      "longitude": 102.354947
+    },
+    "name": "MASJID MUKIM TAKANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bac53bf8-8e97-46a4-858f-9c01b2ef8324",
+    "geohash": "w30fc1ke54",
+    "source_musolla_id": "MY-03-BCK-00472",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk berkolah lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid ini juga mempunyai tempat parking yang berbumbung untuk meletakkan kenderaan. Masjid mempunyai keselesaan yang tersendiri dengan dilengkapi ruang solat yang berair cond.",
+    "directions": "Lokasi masjid terletak di kawasan  kampung  dan masjid hanya 23km dari Bandar Bachok. Masjid ini terletak antara jalan yang menghubungkan Banggu dan Kedai Lalat."
+  },
+  "w30fc2bmtn": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.113497,
+      "longitude": 102.360182
+    },
+    "name": "MASJID MUKIM TAWANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "24fbc401-61d9-49a0-b830-fb4be82541b4",
+    "geohash": "w30fc2bmtn",
+    "source_musolla_id": "MY-03-BCK-00476",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid juga mempunyai parkir yang berbumbung untuk meletakkan kenderaan dan ruang solat tambahan di luar. Masjid ini juga mempunyai tempat mandi jenazah dan keranda serta van jenazah bagi menguruskan jenazah dengan lebih mudah. Masjid ini juga mempunyai ruang solat tambahan dan wakaf yang dibina untuk keselesaan pengunjung masjid.",
+    "directions": "Lokasi masjid ini berada bersebelahan dengan Jabatan Perikanan Malaysia.Masjid ini juga hanya 50km dari balai polis Tawang dan berada di tepi jalan raya yang menghubungkan Bachok dengan Pantai Senak."
+  },
+  "w30fc1pq5y": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.114955,
+      "longitude": 102.358758
+    },
+    "name": "MASJID MUKIM BERIS PANCHOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e29ac2a0-094c-41fc-aeaa-a010e4c90402",
+    "geohash": "w30fc1pq5y",
+    "source_musolla_id": "MY-03-BCK-00502",
+    "provision": "Masjid inimenyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan.",
+    "directions": "Lokasi masjid terletak di tepi jalan yang menghubungkan Beris Kubur Besar dengan Tawang dan terletak hanya 18km dari Bandar Bachok. Masjid ini juga berdekatan dengan Sekolah Menengah Agama (A) Muhammadiah Beris Panchor"
+  },
+  "w30fc3tr5n": {
+    "address": "Perupok, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.117876,
+      "longitude": 102.366958
+    },
+    "name": "MASJID MUKIM KUBANG BADAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d48175b9-cb72-434f-9dd7-64882123d418",
+    "geohash": "w30fc3tr5n",
+    "remarks": "Masjid ini dibina telah pada tahun 1994 dimana pada dahulu ia adalah sebuah surau. Masjid dibina diatas tanah yang telah dibeli dan diwakafkan untuk membina masjid. Masjid ini juga diasakan oleh Allahyarham Raja Soh Raja Bakar.",
+    "source_musolla_id": "MY-03-BCK-00520",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan.",
+    "directions": "Lokasi masjid terletak di kawasan kampung. Masjid berada 25km dari Bandar Bachok dan terletak dari  jalan yang menghubungkan  Kedai Lalat dengan Binjai."
+  },
+  "w30fc1pzkr": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.115179,
+      "longitude": 102.359461
+    },
+    "name": "MASJID MUKIM TERATAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f35392c3-f398-4eda-a1a3-4eab0753d4ac",
+    "geohash": "w30fc1pzkr",
+    "source_musolla_id": "MY-03-BCK-00505",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid juga mempunyai tempat parking yang berbumbung untuk meletakkan kenderaan. Masjid mempunyai beduk yang lama tetapi masih digunakan untuk menandakan tanda masuknya waktu solat.",
+    "directions": "Lokasi masjid terletak di sebuah kampong  dan masjid hanya 20km dari Bandar Bachok. Masjid ini berada diantara jalan yang menghubungkan Pantai Senak dengan Baris Pankor."
+  }
+}

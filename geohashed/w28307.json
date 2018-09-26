@@ -1,0 +1,18 @@
+{
+  "w28307kbpn": {
+    "address": "Kampung Bunga Melor, Batu 14, Puchong, Selangor, Malaysia 47100",
+    "contact": "0192117899",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.006168,
+      "longitude": 101.619377
+    },
+    "name": "MASJID DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8d690ca6-0967-43e6-956d-56b2050cc923",
+    "geohash": "w28307kbpn",
+    "source_musolla_id": "MY-10-PTG-00385",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Pasir Baru, Puchong."
+  }
+}

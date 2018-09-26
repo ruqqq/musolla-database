@@ -1,0 +1,34 @@
+{
+  "w280qj5u19": {
+    "address": "Kampung Jenjarum, Jenjarom, Selangor, Malaysia 42600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.884605,
+      "longitude": 101.518895
+    },
+    "name": "MASJID AL FALAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c0783db7-71b4-4f3c-bb3a-31b84f8619f9",
+    "geohash": "w280qj5u19",
+    "remarks": "BANGUNAN ASAL MASJID KG JENJAROM TELAH DIBINA SECARA GOTONG ROYONG PADA TAHUN 1933 DI HALAMAN MASJID AL-FALAH YANG ADA SEKARANG DI LOT 2199 SELUAS 2.5 EKAR > masjid ini sedang dalam pembinaan.",
+    "source_musolla_id": "MY-10-KL-00106"
+  },
+  "w280qve0mk": {
+    "address": "Kampung Sri Cheeding, Jenjarom, Selangor, Malaysia 42700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.886723,
+      "longitude": 101.550983
+    },
+    "name": "MASJID NURUL HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b225af54-18a5-4a6b-aa9e-6889d4805746",
+    "geohash": "w280qve0mk",
+    "remarks": "Maswjid ini telah dibina atas pembiayaan oleh Kerajaan Persekutuan Pembangunan Luar Bandar dengan kos RM 25 ribu. Pada tahun 1972 ubahsuai bangunan telah dibuat dengan perbelanjaan bernilai RM 50 ribu. Pada tahun 1984 masjid ini telah diubahsuai bernilai RM 250 ribu sapertimana yang ada sekarang.\r\n\r\nmasjid ini telah dirasmikan oleh Perdana Menteri Tun Abdul Razak pada   01/01/1970",
+    "source_musolla_id": "MY-10-KL-00107",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah, landskap dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Sawah."
+  }
+}

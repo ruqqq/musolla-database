@@ -1,0 +1,16 @@
+{
+  "w8uh15qr4g": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.94095,
+      "longitude": 118.177654
+    },
+    "name": "MASJID NURUL HIKMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7cda396b-5fcc-440a-8e8b-5f8e9274b166",
+    "geohash": "w8uh15qr4g",
+    "source_musolla_id": "MY-12-LD-00573"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w8c0d8j9c5": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "0168697652",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.30696,
+      "longitude": 114.023716
+    },
+    "name": "MASJID DARUL HANA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f014ec9a-b6fb-4376-b249-33a438776fe6",
+    "geohash": "w8c0d8j9c5",
+    "source_musolla_id": "MY-13-MRI-00274"
+  }
+}

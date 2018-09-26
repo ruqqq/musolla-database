@@ -1,0 +1,19 @@
+{
+  "w2865f3zc3": {
+    "address": "Taman Bukit Utama, Melawati, Selangor, Malaysia 68000",
+    "contact": "0341057286",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.177761,
+      "longitude": 101.768822
+    },
+    "name": "MASJID BUKIT ANTARA BANGSA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "07fc573e-d674-4a14-a701-dbdf9d516944",
+    "geohash": "w2865f3zc3",
+    "source_musolla_id": "MY-10-GBK-00380",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor dan bilik kuliah.",
+    "directions": "Lokasi masjid ini terletak di kawasan perumahan dan 50 meter dari pasaraya Giant."
+  }
+}

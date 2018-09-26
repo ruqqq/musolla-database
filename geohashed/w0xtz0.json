@@ -1,0 +1,20 @@
+{
+  "w0xtz06dzh": {
+    "address": "Sabak Bernam, Selangor, Malaysia 45200",
+    "contact": "019-6132108",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.825113,
+      "longitude": 100.858233
+    },
+    "name": "MASJID MA'SUMIAH SUNGAI TENGAR UTARA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "12199509-f287-45fd-8323-e529ddd8c68c",
+    "geohash": "w0xtz06dzh",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 19 April 1985.",
+    "source_musolla_id": "MY-10-SB-00167",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah,bilik imam, bilik mesyuarat, pejabat.",
+    "directions": "Masjid ini terletak kawasan Kampung Sungai Tengar Utara."
+  }
+}

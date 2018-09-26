@@ -1,0 +1,37 @@
+{
+  "w0xgqpqhvn": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "010-4322089",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.424463,
+      "longitude": 101.170564
+    },
+    "name": "MASJID AT-TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1fdfa5ba-83d4-4f47-a258-4d2242a6686a",
+    "geohash": "w0xgqpqhvn",
+    "source_musolla_id": "MY-10-KSR-00358",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,dapur, van jenazah,pejabat dan beduk.",
+    "directions": "Lokasi masjid ini terletak di kawasan kampung dan 10 km dari pekan Kuala Selangor."
+  },
+  "w0xgqpqhvh": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "019-6113086",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.424455,
+      "longitude": 101.170569
+    },
+    "name": "MASJID AR - RAUDHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "05a7784d-96ef-40db-a57d-f1ca425421b1",
+    "geohash": "w0xgqpqhvh",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 16 Jun 1989.",
+    "source_musolla_id": "MY-10-KSR-00318",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf,bilik imam dan bilal.,van jenazah, terdapat 5 lot kedai, perpustakaan, taman, rumah imam dan bilal.",
+    "directions": "Masjid ini terletak ditepi jalan utama dari Kuala Selangor ke Sabak Bernam dan ianya terletak di pekan Tanjung Karang."
+  }
+}

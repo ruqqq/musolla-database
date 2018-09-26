@@ -1,0 +1,19 @@
+{
+  "w2835neegw": {
+    "address": "Taman Taming Jaya, Balakong, Selangor, Malaysia 43300",
+    "contact": "012-2846156",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.024666,
+      "longitude": 101.738364
+    },
+    "name": "MASJID TAMING JAYA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "75d1f637-5337-4871-940e-8d6f0f548d02",
+    "geohash": "w2835neegw",
+    "source_musolla_id": "MY-10-HL-00023",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  landskap yang cantik dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan pekan Balakong, di taman Taming Jaya selepas deretan rumah kedai pekan Balakong."
+  }
+}

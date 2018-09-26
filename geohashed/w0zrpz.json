@@ -1,0 +1,16 @@
+{
+  "w0zrpzncju": {
+    "address": "Kampung Permatang Tok Din, 09400 Naga Lilit, Kedah, Malaysia 09400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.487866,
+      "longitude": 100.545412
+    },
+    "name": "ABD. HALIM MUADZAM SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3b396256-3625-4abb-881c-af5177b63038",
+    "geohash": "w0zrpzncju",
+    "source_musolla_id": "MY-02-KLM-00356"
+  }
+}

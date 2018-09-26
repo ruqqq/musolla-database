@@ -1,0 +1,16 @@
+{
+  "w95cq1r9fm": {
+    "address": "Sandakan, Sabah, Malaysia 90000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.851921,
+      "longitude": 118.047513
+    },
+    "name": "MASJID ASSYAKIRIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c86ff237-9592-49b0-bd62-14d883439cd8",
+    "geohash": "w95cq1r9fm",
+    "source_musolla_id": "MY-12-SAN-00134"
+  }
+}

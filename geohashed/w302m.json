@@ -1,0 +1,67 @@
+{
+  "w302mmm1uh": {
+    "address": "Jeli, Kelantan, Malaysia 17600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.69811,
+      "longitude": 101.839324
+    },
+    "name": "MASJID MUKIM BATU MELINTANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1252ae62-2a16-424f-9014-3a7f7b77779f",
+    "geohash": "w302mmm1uh",
+    "source_musolla_id": "MY-03-JL-00366",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini ialah berada berhampiran dengan kem tentera Batu Melintang.Lokasi masjid ini ialah 2km dari jalan utama Batu Melintang yang menuju ke Grik."
+  },
+  "w302msdht2": {
+    "address": "Jeli, Kelantan, Malaysia 17600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.694438,
+      "longitude": 101.846244
+    },
+    "name": "MASJID MUKIM BERDANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "84598b30-073f-47ed-bed4-ee0e1fb7d9fa",
+    "geohash": "w302msdht2",
+    "source_musolla_id": "MY-03-JL-00348",
+    "provision": "Masjid ini menyediakan pejabat bagi menguruskan urusan pentadbiran.Disamping itu,terdapat dewan serbaguna yang dijadikan sebagai tempat mengadakan aktiviti kemasyarakatan dan tempat berbuka puasa semasa bulan Ramadhan. Masjid ini menyediakan tempat parking berbumbung khusus untuk AJK masjid dan tempat parking terbuka yang melebihi 10 kenderaan pada satu masa kepada tetamunya.  Selain itu terdapat juga bilik mesyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid. Diluar bangunan masjid ini terdapat pondok rehat atau wakaf yang digunakan untuk ahli jemaah berehat, yang mana ianya merupakan salah satu kemudahan yang terdapat di masjid ini.",
+    "directions": "Masjid ini berada di dalam kawasan kampung dimana lokasinya ini adalah 1km dari bandar Jeli."
+  },
+  "w302mmh6f5": {
+    "address": "Jeli, Kelantan, Malaysia 17600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.696904,
+      "longitude": 101.838198
+    },
+    "name": "MASJID MUKIM JELI (SEBERANG SUNGAI)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "db74a25c-eb80-4e21-ac65-ccf0ab1a88d4",
+    "geohash": "w302mmh6f5",
+    "source_musolla_id": "MY-03-JL-00373",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan bandar Jeli.Kedudukan masjid ini ialah 500meter dari balai polis.Lokasi masjid ini ialah 500meter dari pejabat mahkamah rendah syariah Jeli."
+  },
+  "w302mt4jck": {
+    "address": "Jeli, Kelantan, Malaysia 17600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.697422,
+      "longitude": 101.846067
+    },
+    "name": "MASJID SULTAN MUHAMMAD I",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "93b38cfc-efb8-4a3c-8958-1dc9845efb60",
+    "geohash": "w302mt4jck",
+    "remarks": "Bagi yang bermusafir melalui jalan raya timur barat dari Jeli ke Grik, anda boleh singgah menunaikan solat atau berjumaat di masjid bandar Jeli. Dengan ruang parking kereta yang luas dan ruang solat mencukupi menampung jumlah jemaah yang ramai, ini sedikit sebanyak memberi kelesaan kepada pengunjung dari jauh. Kemudahan bilik air dan tandas turut disediakan oleh pihak masjid bagi yang ingin mandi untuk menyejukkan badan dalam perjalanan yang jauh.",
+    "source_musolla_id": "MY-03-JL-00009",
+    "provision": "Masjid ini mempunyai pejabat bagi menguruskan urusan pentadbiran dan bilik mesyuarat yang digunakan sebagai tempat perjumpaan ahli AJK masjid. Disamping itu, terdapat dewan terbuka yang dijadikan tempat mengadakan aktiviti kemasyarakatan dan tempat berbuka puasa semasa bulan ramadhan. Pihak masjid juga menyediakan rumah kepada imam, bilal dan siak bagi memudahkan mereka menguruskan masjid. Masjid ini turut menyediakan tempat parking berbumbung khas untuk AJK masjid sahaja dan tempat parking yang boleh memuatkan 20 kenderaan pada satu masa untuk para jemaahnya. Terdapat juga pengawal keselamatan di masjid ini bagi mempastikan keselamatan para jemaah terjamin.",
+    "directions": "Masjid ini berada di dalam kawasan bandar Jeli."
+  }
+}

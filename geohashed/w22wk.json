@@ -1,0 +1,90 @@
+{
+  "w22wkqsrww": {
+    "address": "Chengkau, Negeri Sembilan, Malaysia 71300",
+    "contact": "019-3991316",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.541911,
+      "longitude": 102.146017
+    },
+    "name": "MASJID KARIAH CHENGKAU ULU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "23862a2a-a003-4c78-bf1e-15887c0893ae",
+    "geohash": "w22wkqsrww",
+    "remarks": "Masjid Chengkau Ulu telah dibina pada tahun 1870M Pengasannya ialah YTM Dato' Undang Luak Rembau.\n\nTapak masjid ini telah diwakafkan oleh penduduk setempat. Bangunan asal masjid ini telah dibina oleh  YTM Dato' Undang Luak Rembau iaitu Dato' Haji Sail pada tahaun 1870M secara bergotong royong dan pada tahun 1893M bangunan masjid ini dibaiki semula oleh  YTM Dato' Undang Luak Rembau iaitu Dato' Hj Sulong bin Ambia.\n\nPada tahun 1976M sekali lagi bangunan Masjid Chengkau Ulu dibina baru oleh penduduk kampung dengan derma orang ramai serta sumbangan daripada pihak Kerajaan Negeri. Masjid ini pernah beberapa kali dibaiki dan dinaik taraf pada tahun1883M, 1976M, 1994M, 1995M, 2005M, 2006M, dan 2009M.\n\nSemasa dibina ahli jemaah masjid ini hanya seramai 60 orang sahaja akan tetapi kini ia telah meningkat kepada 150 orang jemaah dalam satu - satu masa.",
+    "source_musolla_id": "MY-05-RB-00100",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik Stor\n5.\tRuang pengurusan jenazah \n6.\tRuang makan jemaah \n7.\tParking kereta dan motosikal     \n8.    Tempat istirehat\n9.\tKenderaan Jenazah"
+  },
+  "w22wkdkc3s": {
+    "address": "Gadong, Negeri Sembilan, Malaysia 71350",
+    "contact": "06-4381530",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.517483,
+      "longitude": 102.157477
+    },
+    "name": "MASJID KARIAH KOTA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "54e98dcf-8ffa-4203-9b51-c93ccffbd3fe",
+    "geohash": "w22wkdkc3s",
+    "remarks": "Masjid ini telah dibina pada tahun 1898M. Pengasasnya adalah penduduk setempat.\nBangunan masjid asal dibina pada tahun 1898M di tepi Sungai Kota secara gotong-royong. Tapak masjid sekarang ini adalah kurniaan Kerajaan Negeri.\n\nMasjid ini telah dibina baru pada tahun 1959M. Masjid ini pernah dibaiki dan dinaik taraf pada tahun 1989M, 1990M dan 2004M. Semasa dibina ahli jemaah adalah seramai 70 orang, dan kini telah meningkat seramai 400 orang.",
+    "source_musolla_id": "MY-05-RB-00095",
+    "provision": "1.  Ruang solat lelaki dan wanita\n2.  Tempat wudhuk\n3.  Tandas\n4.  Bilik Imam \n5.  Mimbar\n6.  Penghawa dingin\n7.  Stor\n8.  Parking kereta\n9.  Tempat masak\n10. Ruang makan   \n11. Van jenazah",
+    "directions": "Lokasi masjid ini terletak di pekan kota berhampiran susur keluar jalan ke Astana Raja dan Jalan Seremban-Tampin."
+  },
+  "w22wkfewq8": {
+    "address": "Gadong, Negeri Sembilan, Malaysia 71350",
+    "contact": "019-6106437",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.519691,
+      "longitude": 102.16696
+    },
+    "name": "MASJID KARIAH GADONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "50b691ec-68a2-48b1-bca5-5d95af290614",
+    "geohash": "w22wkfewq8",
+    "remarks": "Masjid ini dibina pada tahun 1920M. Ia diasaskan oleh Allahyarham Hj Abd Karim. Tapak masjid ini telah diwakafkan oleh seorang individu.\n\nMasjid ini telah dibina baru pada tahun 1969M dengan sumbangan Kerajaan Negeri dan bantuan orang ramai.\n\nMasjid ini pernah dibaiki dan dinaik taraf pada tahun 2007M. Ahli jemaah pada masa itu adalah seramai 100 orang dan kini telah meningkat seramai 300 orang.",
+    "source_musolla_id": "MY-05-RB-00097",
+    "provision": "1. Ruang solat lelaki dan wanita\n3. Tempat wudhuk\n4. Tandas\n5. Ruang pengurusan jenazah \n6. Ruang makan jemaah      \n7. Parking kereta dan motosikal    \n8. Van jenazah",
+    "directions": "Lokasi masjid ini terletak di kawasan Kampung Gadong dan berhampiran dengan Kampung Seberang Paya."
+  },
+  "w22wkgv757": {
+    "address": "Gadong, Negeri Sembilan, Malaysia 71350",
+    "contact": "06-4381084",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.526015,
+      "longitude": 102.169222
+    },
+    "name": "MASJID KARIAH SEBERANG PAYA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3feac4c9-0c0d-4e8b-8672-e90598e3b9f1",
+    "geohash": "w22wkgv757",
+    "remarks": "Masjid ini telah dibina pada tahun 1918M dan diasaskan oleh YTM Dato' Undang Luak Rembau.\n\nTapak masjid ini telah diwakafkan oleh seorang individu perseorangan. Masjid ini pernai dibaiki dan dinaik taraf pada tahun 1982M dan 2007M.\n\nSemasa dibina, masjid ini dapat menampung seramai 80 orang dan kini telah mencapai seramai 200 orang.",
+    "source_musolla_id": "MY-05-RB-00098",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik mesyuarat\n5.\tRuang pengurusan jenazah \n6.     Ruang makan jemaah\n7.\tParking kereta dan motosikal        \n8.     Tempat istirehat\n9.\tKenderaan Jenazah",
+    "directions": "Masjid ini terletak di kawasan Kampung Seberang Paya dan berhampiran dengan tapak perkhemahan Gunung Datok."
+  },
+  "w22wk1q421": {
+    "address": "Legong Hulu, Negeri Sembilan, Malaysia 71350",
+    "contact": "06-4381310",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.512146,
+      "longitude": 102.137146
+    },
+    "name": "MASJID KARIAH LEGONG ULU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cdee65bb-f02e-4d32-9057-20cd1550e513",
+    "geohash": "w22wk1q421",
+    "remarks": "Masjid Kariah Legong Ulu telah dibina pada tahun 1920M. Pengasasnya ialah Allahyarham Dato' Shah Bandar Hj Sail. Tapak masjid ini telah diwakafkan oleh ahli kariah di mana sebuah bangunan kayu dibina secara bergotong - royong.\n\nMasjid ini pernai dibaik pulih dan dinaik taraf pada tahun 1968M, 1994M, 2006M, dan 2007M. Semasa dibina ahli jemaah cuma seramai 50 orang ahli jemaah sahaja dan kini jumlah tersebut telah meningkat kepada 170 orang ahli jemaah dalam satu - satu masa.",
+    "source_musolla_id": "MY-05-RB-00109",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik Stor\n5.\tRuang pengurusan jenazah\n6.\tRuang makan jemaah\n7.     Parking kereta dan motosikal\n8.     Tempat istirehat"
+  }
+}

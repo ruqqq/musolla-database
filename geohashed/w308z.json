@@ -1,0 +1,53 @@
+{
+  "w308z2h4mz": {
+    "address": "Kampung Belukar, Hulu Sat, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.757262,
+      "longitude": 102.277479
+    },
+    "name": "MASJID MUKIM KAMPUNG BELUKAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d4cd09c5-1be6-48fc-9065-a4a04a8ecbdd",
+    "geohash": "w308z2h4mz",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh penduduk asal kampung ini iaitu Tok Imam Jusuh selaku imam dan pengasas masjid ini.Masjid ini juga telah dibina pada tahun 1995 dan pembinaannya telah dijalankan secara berperingkat-peringkat.",
+    "source_musolla_id": "MY-03-MCG-00201",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu, terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini ialah 12km dari bandar Machang. Lokasi masjid ini ialah 2km  untuk ke jalan utama yang menghubungkan Machang ke Kota Bharu."
+  },
+  "w308z0mj75": {
+    "address": "Hulu Sat, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.75913,
+      "longitude": 102.267748
+    },
+    "name": "MASJID MUKIM ULU SAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1339f794-ed2a-476f-bb35-e76a52b90865",
+    "geohash": "w308z0mj75",
+    "remarks": "Masjid ini telah dibina pada tahun 2009.Masjid ini mempunyai keluasan yang besar dan dapat menampung para jemaah dari penduduk sekitar termasuk pelajar-pelajar UITM machang pada solat jumaat.Kos pembinaan masjid ini juga telah menelan belanja sebanyak RM 788,400. Proses pembinaan ini telah dijalankan oleh pemaju Mekar Mewah Construction.",
+    "source_musolla_id": "MY-03-MCG-00167",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada berdekatan dengan UITM Machang,Kedudukan masjid ini juga berada di tepi jalan Machang yang menuju ke Pasir Putih. Lokasi masjid ini ialah 2km daripada bandar Machang"
+  },
+  "w308z9pk3e": {
+    "address": "Hulu Sat, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.763079,
+      "longitude": 102.292736
+    },
+    "name": "MASJID MUKIM BANGGOL JUDAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3e0b8332-8483-46e8-85ca-e6fcc88de151",
+    "geohash": "w308z9pk3e",
+    "remarks": "Tanah asal masjid ini ialah tanah yang telah diwakafkan oleh kerajaan. Masjid ini telah didirikan pada tahun 1981 di atas tanah seluas 0.25ekar.Imam pertama masjid ini ialah Tuan Haji Abu Bakar bin Ishak dan telah digantikan oleh encik Zulkifli bin Jusoh sehingga ke hari ini.Masjid ini juga akan dipindahkan ke lokasi lain yang akan menelan belanja sebanyak RM 2.3 juta.Masjid ini bakal dipindahkan pada bulan Mac 2012 ini.",
+    "source_musolla_id": "MY-03-MCG-00188",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.",
+    "directions": "Masjid berada di dalam kawasan kampung.Kedudukan masjid ini juga ialah lebih kurang 200meter dari simpang berhadapan dengan pondok polis Banggol Judah.Lokasi masjid ini ialah 8km dari bandar Machang."
+  }
+}

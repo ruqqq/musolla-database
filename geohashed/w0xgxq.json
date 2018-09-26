@@ -1,0 +1,19 @@
+{
+  "w0xgxqu51t": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "019-3773541",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.465359,
+      "longitude": 101.222606
+    },
+    "name": "MASJID JAMIUL AHMADY",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a0f7505-6a37-4f31-bb22-4b6d211f2b39",
+    "geohash": "w0xgxqu51t",
+    "source_musolla_id": "MY-10-KSR-00307",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, tandas, bilik mesyuarat,pejabat dan dapur",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan melayu."
+  }
+}

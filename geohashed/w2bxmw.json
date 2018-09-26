@@ -1,0 +1,50 @@
+{
+  "w2bxmwxbpw": {
+    "address": "Kampung Hamzah, Batu Mengkebang, Kelantan, Malaysia 18000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.528906,
+      "longitude": 102.205794
+    },
+    "name": "MASJID MUKIM KENOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "440ae239-8a84-4c85-a967-d2be2fd9a67d",
+    "geohash": "w2bxmwxbpw",
+    "source_musolla_id": "MY-03-KK-00049",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 1km dari bandar Kuala Krai."
+  },
+  "w2bxmw1de6": {
+    "address": "Batu Mengkebang, Kelantan, Malaysia 18000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.526567,
+      "longitude": 102.197034
+    },
+    "name": "MASJID MUKIM SUNGAI PAS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a4a4ac75-12a7-4cc2-bbc3-5e785ca1e86d",
+    "geohash": "w2bxmw1de6",
+    "source_musolla_id": "MY-03-KK-00086",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 50meter dari sekolah kebangsaan Sungai Pas."
+  },
+  "w2bxmwhvrh": {
+    "address": "Batu Mengkebang, Kelantan, Malaysia 18000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.527048,
+      "longitude": 102.201648
+    },
+    "name": "MASJID MUKIM KEBUN KUALA PERTANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1e3f1b3e-4ff9-45d5-9afd-a67df792e25b",
+    "geohash": "w2bxmwhvrh",
+    "source_musolla_id": "MY-03-KK-00058",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung."
+  }
+}

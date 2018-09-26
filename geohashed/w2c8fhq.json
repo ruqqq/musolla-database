@@ -1,0 +1,16 @@
+{
+  "w2c8fhqexq": {
+    "address": "Kampung Meraga Beris, Kijal, Terengganu, Malaysia 24100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.374569,
+      "longitude": 103.456508
+    },
+    "name": "MASJID KAMPUNG BERIS MERAGA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d665771c-c28a-412c-8819-f7d61192be4d",
+    "geohash": "w2c8fhqexq",
+    "source_musolla_id": "MY-11-KMN-00243"
+  }
+}

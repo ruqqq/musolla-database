@@ -1,0 +1,51 @@
+{
+  "w309nnz6pj": {
+    "address": "Labok, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.838234,
+      "longitude": 102.227054
+    },
+    "name": "MASJID MUKIM JOH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9644b463-b854-4412-ad29-21cd51d8bf0e",
+    "geohash": "w309nnz6pj",
+    "source_musolla_id": "MY-03-MCG-00177",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu, bagi jemaah yang membawa kenderaan, tempat parking berbumbung juga disediakan dan tempat terbuka yang dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini terletak di dalam kawasan kampung. Jarak masjid ini untu ke Bandar Machang lebih kurang tujuh kilometer ."
+  },
+  "w309nnz6pr": {
+    "address": "Labok, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.838245,
+      "longitude": 102.227075
+    },
+    "name": "MASJID MUKIM LABOK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d3a753b8-eb7f-4fde-b975-efec53a990f9",
+    "geohash": "w309nnz6pr",
+    "source_musolla_id": "MY-03-MCG-00176",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.Terdapat juga laluan berjalan kaki berbumbung menuju ke tandas dan tempat wuduk.",
+    "directions": "Masjid ini berada 1km dari Sekolah Menengah Sains Labok.Kedudukan masjid ini ialah 50meter dari Komplek Darul Quran.Lokasi masjid ini ialah 6km daripada Bandar Machang."
+  },
+  "w309nnnjw0": {
+    "address": "Labok, Kelantan, Malaysia 18500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.834686,
+      "longitude": 102.225299
+    },
+    "name": "MASJID MUKIM SEK MEN SAINS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4f3a4690-e68e-49dd-9776-8824d5069584",
+    "geohash": "w309nnnjw0",
+    "remarks": "Masjid ini telah dibina di mukim Labok untuk kegunaan orang ramai dan khususnya para pelajar sekolah labok. Sekolah Menengah Sains Labok telah siap dibina pada tahun 1983 dan masjid ini telah siap dibina dua tahun selepas itu, iaitu pada tahun 1985.Dana masjid ini telah diperolehi daripada kontraktor sekolah tersebut dan juga daripada kutipan penduduk kampung.Anggaran bagi masjid ini ialah sebanyak RM200,000..",
+    "source_musolla_id": "MY-03-MCG-00200",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.Terdapat juga satu sudut perpustakan masjid ini bagi menggalakkan orang ramai untuk membaca.",
+    "directions": "Masjid ini berada di dalam kawasan Sekolah Menengah Sains Labok. Lokasi masjid ini ialah 5km daripada bandar Machang"
+  }
+}

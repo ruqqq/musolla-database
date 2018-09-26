@@ -1,18 +1,4 @@
 {
-  "w21z37h711": {
-    "address": "394 Pasir Panjang Road, Singapore 118730",
-    "contact": "",
-    "createdAt": "2014-12-23T06:50:22.547Z",
-    "location": {
-      "latitude": 1.291418,
-      "longitude": 103.771756
-    },
-    "name": "Hussain Sulaiman Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:56:15.786Z",
-    "uuid": "499c79f1-2ecb-4099-81df-193d7f86b75e",
-    "geohash": "w21z37h711"
-  },
   "w21z37sjrv": {
     "address": "10 Kent Ridge Crescent, Faculty of Arts and Social Sciences (S), 119260",
     "createdAt": "2014-12-23T04:46:38.052Z",
@@ -30,5 +16,21 @@
     "uuid": "6884ccfd-9be9-4165-855b-4bfb01dba9c9",
     "type": "Musolla",
     "geohash": "w21z37sjrv"
+  },
+  "w21z375fmt": {
+    "address": "394 Pasir Panjang Road, Singapore 118730",
+    "contact": null,
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.29131,
+      "longitude": 103.77126
+    },
+    "name": "Hussein Sulaiman Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "c376d55c-0b35-4668-9f8f-2b80e5dcf5aa",
+    "geohash": "w21z375fmt",
+    "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
+    "mosqueType": "Leasehold"
   }
 }

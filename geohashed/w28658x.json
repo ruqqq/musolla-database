@@ -1,0 +1,19 @@
+{
+  "w28658xpsb": {
+    "address": "Ampang, Selangor, Malaysia 54200",
+    "contact": "03-42575061",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.168101,
+      "longitude": 101.765196
+    },
+    "name": "MASJID DARUL EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "34f1708a-44fd-4f58-92a7-04d3b95dde9a",
+    "geohash": "w28658xpsb",
+    "source_musolla_id": "MY-10-GBK-00051",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,kuarter imam dan bilal, van jenazah dan dewan mesyuarat",
+    "directions": "Masjid ini terletak berhampiran dengan kawasan perumahan dan Kelab Golf Darul Ehsan serta terletak 2 km dari Bandar Ampang."
+  }
+}

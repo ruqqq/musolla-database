@@ -1,0 +1,36 @@
+{
+  "w2817cv4hj": {
+    "address": "Kawasan 7, Kampung Sungai Udang, Klang, Selangor, Malaysia 41250",
+    "contact": "019-2493560",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.042214,
+      "longitude": 101.421843
+    },
+    "name": "MASJID DARUL MUTTAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "dd7c687e-9e04-4be2-ae01-80df5aa60584",
+    "geohash": "w2817cv4hj",
+    "source_musolla_id": "MY-10-KLG-00216",
+    "provision": "Antara kemudahannya ialah ruang parkir, dewan, van jenazah dan urusan jenazah.",
+    "directions": "Lokasi masjid ini ialah dilkawasan perkampongan Sungai Pinang, ditepi jalan utama."
+  },
+  "w2817cv4ht": {
+    "address": "Kawasan 7, Kampung Sungai Udang, Klang, Selangor, Malaysia 41250",
+    "contact": "019-3799623",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.042212,
+      "longitude": 101.421859
+    },
+    "name": "MASJID AR-RAUDHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b604245e-f7f6-4c86-bef3-5a89be5dd650",
+    "geohash": "w2817cv4ht",
+    "source_musolla_id": "MY-10-KLG-00220",
+    "provision": "Antara kemudahan yang ada ialah ruang parkir yang luas, penghawa dingin dan tempat letak motosikal.",
+    "directions": "Masjid ini terletak dikawasan perkampongan di Kampong Sungai kembong, Pulau Indah."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "w28305ukwh": {
+    "address": "Taman Puchong Indah, Puchong, Selangor, Malaysia 47150",
+    "contact": "0193567133",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.009675,
+      "longitude": 101.607666
+    },
+    "name": "MASJID AS-SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3b8d3b30-adef-4bfb-b136-966995a7ba9b",
+    "geohash": "w28305ukwh",
+    "remarks": "Masjid ini terletak di Taman Puchong Perdana, Puchong. Masjid ini telah dirasmikan oleh Yang Teramat Mulia Sultan Sarafuddin Idris Shah Al-Haj ibni Al-Marhum Sultan Salahuddin Abdul Aziz Shah Al-Haj Sultan Selangor pada 17 Zulkaedah 1427 Hijri bersamaan 8 Disember 2006 Masihi.",
+    "source_musolla_id": "MY-10-PTG-00375",
+    "provision": "Terdapat pelbagai kemudahan disediakan seperti dewan solat lelaki di tingkat bawah dan dewan solat wanita di tingkat atas, tempat berwudhuk dan pejabat untuk kakitangan masjid bertugas."
+  },
+  "w2830m8z62": {
+    "address": "Taman Perindustrian Utama, Puchong, Selangor, Malaysia 47100",
+    "contact": "0122009467",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.01974,
+      "longitude": 101.613683
+    },
+    "name": "MASJID BATU 12 PUCHONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f852c25a-3aa1-4f63-91e9-0c1b6373cc65",
+    "geohash": "w2830m8z62",
+    "source_musolla_id": "MY-10-PTG-00293",
+    "provision": "Masjid ini menyediakan air-cond bagi keselesaan jemaah ketika beribadat. Kuliah-kuliah masjid diadakan pada hari-hari yang tertentu."
+  },
+  "w283090cfg": {
+    "address": "Kampung Baru Puchong, Puchong, Selangor, Malaysia 47100",
+    "contact": "0193576326",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.994091,
+      "longitude": 101.62469
+    },
+    "name": "MASJID JAMEK BATU 14 PUCHONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f7b92f79-ec61-43d1-ad4f-5a195691fc3a",
+    "geohash": "w283090cfg",
+    "source_musolla_id": "MY-10-PTG-00292",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat,ruang wuduk, parking,bilik bilal dan lain lain.",
+    "directions": "Masjid ini terletak di Jalan Puchong.  Terletak berhampiran Lebuhraya Damansara Puchong dan Taman orang asli Saujana Puchong."
+  },
+  "w28307kbpn": {
+    "address": "Kampung Bunga Melor, Batu 14, Puchong, Selangor, Malaysia 47100",
+    "contact": "0192117899",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.006168,
+      "longitude": 101.619377
+    },
+    "name": "MASJID DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8d690ca6-0967-43e6-956d-56b2050cc923",
+    "geohash": "w28307kbpn",
+    "source_musolla_id": "MY-10-PTG-00385",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Pasir Baru, Puchong."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "w284uh47fm": {
+    "address": "Jalan Makmur, Kampung Harmoni, 45620 Ijok, Selangor, Malaysia 45620",
+    "contact": "019-3405535",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.318546,
+      "longitude": 101.428975
+    },
+    "name": "MASJID DARUL IBADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "77646b1a-5049-4034-8ebd-a6fa399dafe1",
+    "geohash": "w284uh47fm",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 5 November 1976",
+    "source_musolla_id": "MY-10-KSR-00327",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,bilik mandi jenazah,van jenazah,rumah imam,dewan,wakaf.",
+    "directions": "Masjid ini terletak berdekatan dengan stesen minyak dan berada di tepi jalan."
+  }
+}

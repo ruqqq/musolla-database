@@ -1,0 +1,19 @@
+{
+  "w2849hkfrj": {
+    "address": "Bukit Rotan, Selangor, Malaysia 45700",
+    "contact": "019-2754657",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.275713,
+      "longitude": 101.300769
+    },
+    "name": "MASJID JAMIUL HUDA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6f54347d-70a8-41b4-be06-e8c93b6b0c74",
+    "geohash": "w2849hkfrj",
+    "source_musolla_id": "MY-10-KSR-00349",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf, parker berbumbung,bilik jenazah dan van jenazah.",
+    "directions": "Masjid ini terletak di perkampung melayu di Kampung Api-api."
+  }
+}

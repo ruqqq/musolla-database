@@ -1,0 +1,19 @@
+{
+  "w284tp5s40": {
+    "address": "Bandar Tasik Puteri, Rawang, Selangor, Malaysia 48020",
+    "contact": "0192206072",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.291097,
+      "longitude": 101.474628
+    },
+    "name": "MASJID BANDAR TASIK PUTERI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "55e88ce7-d26f-4483-a065-42636a23ae5d",
+    "geohash": "w284tp5s40",
+    "source_musolla_id": "MY-10-GBK-00350",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang letak kereta yang luas, pejabat, sudut bacaan, van jenazah, tempat pengurusan jenazah,bilik mesyuarat,dapur, dan stor.",
+    "directions": "Masjid ini berada di kawasan perumahan,berdekatan dengan lebuhraya LATAR dan lebih kurang 10 km dari Bandar Rawang."
+  }
+}

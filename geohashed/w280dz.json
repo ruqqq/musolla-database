@@ -1,0 +1,20 @@
+{
+  "w280dzs8tz": {
+    "address": "Kampung Teluk Gong, Klang, Selangor, Malaysia 42000",
+    "contact": "019-6142407",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.941718,
+      "longitude": 101.377284
+    },
+    "name": "MASJID AL - UBUDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fa3bac3f-199d-47c5-a287-23d6ec45a82d",
+    "geohash": "w280dzs8tz",
+    "remarks": "Masjid ini telah dibina pada tahun 80 an diatas tanah yang sederhana besar. Ianya telah dirasmikan oleh Menteri Besar Selangor pada 13/6/2001.",
+    "source_musolla_id": "MY-10-KLG-00218",
+    "provision": "Antara kemudahan yang terdapat ialah pejabat, van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian.",
+    "directions": "Masjid ini terletak di kawasan Kampong Pendamar dan lading kelapa sawit"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "w28knft20u": {
+    "address": "Bentong, Pahang, Malaysia 28700",
+    "contact": "09-2222724",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.529383,
+      "longitude": 101.905442
+    },
+    "name": "MASJID SULTAN HAJI AHMAD SHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "37e9b91c-e484-4b25-aa05-375d0c6f9b4c",
+    "geohash": "w28knft20u",
+    "remarks": "1)   KELUASAN BANGUNAN MASJID\t: \t3068m.per\n\n  2)  TARIKH MILIK TAPAK\t                : \t15.01.2003\n\n  3)   TARIKH SIAP KERJA ASAL\t: \t22.06.2004\n\n  4)   TARIKH SIAP SEBENAR\t: \t01.04.2005\n\n  5)   HARGA KONTRAK ASAL\t:\tRM 6,796,138.12\n\n  6)   HARGA KONTRAK BARU\t:\tRM 7,014,012.35\n\n  7)  KONTRAKTOR PEMBINAAN\t:\tEURISCO BINA SDN.,BHD.",
+    "source_musolla_id": "MY-06-BTG-00024",
+    "provision": "1) BANGUNAN KAFA\n            2) TEMPAT PERMAINAN KANAK-KANAK"
+  }
+}

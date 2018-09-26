@@ -1,0 +1,37 @@
+{
+  "w283s6u49j": {
+    "address": "Kampung Sungai Serai, Hulu Langat, Selangor, Malaysia 43100",
+    "contact": "019-6315808",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.091737,
+      "longitude": 101.793871
+    },
+    "name": "MASJID AL - EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d56f6c8f-4451-4b89-b352-ba6d38b32712",
+    "geohash": "w283s6u49j",
+    "remarks": "PEMBINAAN MASJID INI DILAKUKAN OLEH J.K.R. KAJANG PADA SEKITAR TAHUN 60-AN. ATAS USAHA YB. DATO ABD JALIL(ADUN) DUSUN TUA MASJID INI DIPERBAIKI  TAHUN DEMI TAHUN BEBERAPA PERUBAHAN TELAH DILAKUKAN BERSESUAIAN DENGAN KAPASITI JEMAAH KAMPUNG YANG SEMAKIN RAMAI. MASJID INI TELAH DILANDA BANJIR SEJAK TAHUN 80-AN HINGGA SEKARANG. DALAM TAHUN 2011, SEBANYAK 3 KALI BANJIR TELAH MELANDA MASJID INI SETINGGI 1 METER DAN MENGAKIBATKAN PERMAIDANI TELAH DIGANTI BEBERAPA KALI.",
+    "source_musolla_id": "MY-10-HL-00014",
+    "provision": "MASJID INI MEMPUNYAI KEMUDAHAN :\n1)\tBEKALAN ELEKTRIK\n2)\tBEKALAN AIR\n3)\tPENGHAWA DINGIN\n4)\tTEMPAT MANDI JENAZAH\n5)\tTEMPAT KULIAH",
+    "directions": "MASJID INI TERLETAK DI TENGAH QARIAH KAMPONG SUNGAI SERAI DAN BERADA DI TEPI JALAN BESAR-HULU LANGAT"
+  },
+  "w283s6u49e": {
+    "address": "Kampung Sungai Serai, Hulu Langat, Selangor, Malaysia 43100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.091724,
+      "longitude": 101.793893
+    },
+    "name": "MASJID JAMEK SG. SERAI KUANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e92fdcd6-acb2-4793-b049-3f4445f9535f",
+    "geohash": "w283s6u49e",
+    "remarks": "Masjid ini dibina bersebelahan dengan surau lama sungai serai. Ia dibina kerana surau lama tidak lagi dapat menampung kapasiti jemaah penduduk kampung.",
+    "source_musolla_id": "MY-10-GBK-00045",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang berhawa dingin, ruang letak kereta, stor, bilik bilal serta dewan utama untuk penduduk kampung.",
+    "directions": "Masjid ini terletak 2km dari pekan Kuang."
+  }
+}

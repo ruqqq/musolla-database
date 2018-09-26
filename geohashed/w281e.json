@@ -1,0 +1,37 @@
+{
+  "w281e54zx3": {
+    "address": "Kampung Sementa, Kapar, Selangor, Malaysia 42100",
+    "contact": "016-6142309",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.093947,
+      "longitude": 101.385933
+    },
+    "name": "MASJID KG. SEMENTA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "35cd1789-9a73-4185-a11f-710902845224",
+    "geohash": "w281e54zx3",
+    "remarks": "Masjid ini telah  dibina pada tahun 60 an diatas tanah yang diwakafkan oleh Tuan Hj Omar , bekas Ketua Kampong. Selepas itu masjid ini telah diubahsuai kepada masjid sapetimana yang ada sekarang yang telah  diusahakan oleh Tuan Hj Wahidan, bekas Ketua Kampung.",
+    "source_musolla_id": "MY-10-KLG-00189",
+    "provision": "Antara kemudahan yang terdapat ialah dewan masjid, van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian.",
+    "directions": "Masjid ini terletak di tepi jalan besar, batu 6 Â¾ Jalan  Kapar. dibina semula pada tahun 2014 dan siap sepenuhnya pada tahun 2016"
+  },
+  "w281eymq66": {
+    "address": "Kapar, Selangor, Malaysia 42200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.111588,
+      "longitude": 101.422109
+    },
+    "name": "MASJID JAMIUL EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "53317ebb-cbf4-4d89-b0ad-0ff01c9c8c69",
+    "geohash": "w281eymq66",
+    "remarks": "Masjid Jamiul Ehsan ini telah siap dibina pada tahun 1991. Ia terletak di Pekan Setapak, Jalan Pahang, Kuala Lumpur. Masjid ini didirikan bagi mengantikan masjid lama yang dibina pada tahun 1933. Masjid lama ini terletak di hadapan Masjid Jamiul Ehsan yang tidak lagi digunakan. Namun kerana masjid ini mempunyai nilai sejarah maka ia diletakkan di bawah pemuliharaan dan pengurusan Jabatan Warisan dan Antikuiti. Masjid lama ini dibina mengikut reka bentuk tradisional Melayu, manakala Masjid Jamiul Ehsan berkonsepkan reka bentuk Timur Tengah dan moden. Konsep ini jelas kelihatan pada bahagian kubah dan bumbung masjid yang direka bentuk mendatar.",
+    "source_musolla_id": "MY-14-WKL-00049",
+    "provision": "Antara kemudahan yang ada termasuklah ruang parkir dan solat yang selesa.",
+    "directions": "Masjid ini terletak di Jalan Pahang di kawasan perumahan Setapak."
+  }
+}

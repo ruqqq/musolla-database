@@ -1,0 +1,17 @@
+{
+  "w0zegcxh1q": {
+    "address": "Kampung Jana Baru, Asam Kumbang, Perak, Malaysia 34600",
+    "contact": "012-5282444",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.886892,
+      "longitude": 100.721344
+    },
+    "name": "MASJID MAIMON",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9ab57d73-14e9-4f1d-80f7-efa37db7aaf7",
+    "geohash": "w0zegcxh1q",
+    "source_musolla_id": "MY-08-TPG-00491"
+  }
+}

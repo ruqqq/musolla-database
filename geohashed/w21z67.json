@@ -1,7 +1,7 @@
 {
   "w21z67kh5x": {
     "address": "946 Margaret Drive, Singapore 149309",
-    "contact": "6472 7298",
+    "contact": "6928 0442",
     "createdAt": "2014-12-23T06:50:22.028Z",
     "location": {
       "latitude": 1.292992,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:54:23.421Z",
     "uuid": "7836b47e-f8b8-4e88-b92d-76e04b72c2ae",
-    "geohash": "w21z67kh5x"
+    "geohash": "w21z67kh5x",
+    "remarks": "Much of what was built in 1965 is retained today in this 35-year-old masjid. Located in the Central part of the island, this old generation masjid built in 1965 serves office workers around the area and has a capacity of 400 worshippers. Activities are confined to weekend madrasah classes as well as religious lectures on Thursday, Friday and Saturday.",
+    "mosqueType": "Leasehold"
   }
 }

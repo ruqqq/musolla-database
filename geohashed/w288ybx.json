@@ -1,0 +1,20 @@
+{
+  "w288ybxem8": {
+    "address": "72000 Pertang, Negeri Sembilan, Malaysia 72000",
+    "contact": "019-9108953",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.947643,
+      "longitude": 102.260296
+    },
+    "name": "MASJID KARIAH SIMPANG PERTANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "85dcb179-2a72-4215-b738-08350fe2c302",
+    "geohash": "w288ybxem8",
+    "remarks": "Telah dibina pada tahun 1983 diatas tapak seluas 2 1/2 ekar,tanah daripada kerajaan negeri.masjid ini telah dibaiki dan dinaiktaraf pada 2006,2008,2009.",
+    "source_musolla_id": "MY-05-JLB-00206",
+    "provision": "ruang solat,bilik air,bilik imam,stor,tempat meletak kereta.",
+    "directions": "terletak di pekan simpang pertang,dewan budaya simpang pertang,pusat kraftangan simpang pertang."
+  }
+}

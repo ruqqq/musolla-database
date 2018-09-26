@@ -1,0 +1,20 @@
+{
+  "w28465hzkb": {
+    "address": "Jalan Bukit Panjang, Taman Desa Ehsan, 45800 Jeram, Selangor, Malaysia 45800",
+    "contact": "013-6646074",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.225732,
+      "longitude": 101.344623
+    },
+    "name": "MASJID AL - HIDAYAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cfbf074d-a35d-400a-aba5-c9172f11a62f",
+    "geohash": "w28465hzkb",
+    "remarks": "Masjid ini aslanya adalah sebuah surau bagi penduduk disini. Ianya telah dinaik taraf sebagai sebuah masjid dan telah dirasmikian oleh Y Bhg Dato' Ishak Baharom.",
+    "source_musolla_id": "MY-10-KLG-00197",
+    "provision": "Antara kemudahannya terdapat ruang parkir yang kecil diluar masjid, WiFI, van jenazah dan ruang solat yang selesa.",
+    "directions": "Masjid ini berada ditepi jalan utam Jalan Johanh Setia sebelum traffic light."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "w30dt6my4z": {
+    "address": "Kubang Sepat, Kelantan, Malaysia 17030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.077881,
+      "longitude": 102.191863
+    },
+    "name": "MASJID MUKIM PERMATANG PUSU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "18ede8e1-a31f-4acd-be1f-ab2e6d5a5d6f",
+    "geohash": "w30dt6my4z",
+    "source_musolla_id": "MY-03-KB-00048",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.yangb berada di luar masjid.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada di tepi jalan artenatif ke Bachok Bandar Kota Bharu dan 1km ke jalan menhubungkan ke Melor dan Bandar Kota Bharu."
+  },
+  "w30dt657dr": {
+    "address": "Kubang Sepat, Kelantan, Malaysia 17030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.076083,
+      "longitude": 102.188398
+    },
+    "name": "MASJID MUKIM HUTAN CHENGAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d2144941-b766-472d-a087-392f2c00b6ec",
+    "geohash": "w30dt657dr",
+    "source_musolla_id": "MY-03-PM-00145",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berada di tepi jalan alternatif Pasir Mas yang menuju ke Kota Bharu."
+  }
+}

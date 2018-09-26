@@ -1,0 +1,19 @@
+{
+  "w284bjvzzv": {
+    "address": "Bandar Malawati, Kuala Selangor, Selangor, Malaysia 45000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.328845,
+      "longitude": 101.258237
+    },
+    "name": "MASJID JAMEK SULTAN IBRAHIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "63c1dc11-2ad6-4159-ab18-5b6b45fafe3c",
+    "geohash": "w284bjvzzv",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada tanggal 6hb. Mac 1987",
+    "source_musolla_id": "MY-10-KSR-00332",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat, bilik mesyuarat, dewan kuliah, perpustakaan, bilik imam dan bilal, dapur, bilik jenazah, wakaf, dewan, CCTV, gerai jualan dan WIFI.",
+    "directions": "Masjid ini terletak di pekan Kuala Selangor dan berdekatan balai polis kuala Selangor."
+  }
+}

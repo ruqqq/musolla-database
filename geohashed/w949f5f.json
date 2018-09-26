@@ -1,0 +1,17 @@
+{
+  "w949f5fqnv": {
+    "address": "Kota Kinabalu, Sabah, Malaysia 88000",
+    "contact": "088-241461",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.954278,
+      "longitude": 116.106902
+    },
+    "name": "MASJID NURUL HIKMAH BUKIT PADANG KOTA KINABALU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2d031cb7-4c6b-47cd-b67e-03e28d0513a1",
+    "geohash": "w949f5fqnv",
+    "source_musolla_id": "MY-12-KK-00298"
+  }
+}

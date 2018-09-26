@@ -1,0 +1,19 @@
+{
+  "w2866k2ym6": {
+    "address": "Batu Caves, Selangor, Malaysia 68100",
+    "contact": "03-61881157",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.232441,
+      "longitude": 101.701702
+    },
+    "name": "MASJID AR -RAHIMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2aa288a2-6af0-42f2-9f23-983d901ea4e3",
+    "geohash": "w2866k2ym6",
+    "source_musolla_id": "MY-10-GBK-00070",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas dan  ruangan solat yang luas.,",
+    "directions": "Masjid ini terletak dikawasan perkampongan Taman Greenwood,  5Km dari Batu Caves."
+  }
+}

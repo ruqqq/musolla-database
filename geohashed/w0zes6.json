@@ -1,0 +1,35 @@
+{
+  "w0zes67dq3": {
+    "address": "Kawasan Perusahaan Ringan Tupai, Tupai, Perak, Malaysia 34000",
+    "contact": "0195452330",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.846736,
+      "longitude": 100.738726
+    },
+    "name": "MASJID DAERAH TAIPING (KPG. JAMBU)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1fb52ff0-7b72-4546-98e9-a2aa3972702b",
+    "geohash": "w0zes67dq3",
+    "remarks": "masjid ini dibina pada tahun 1968 sebagai masjid melayu baru bandar taiping bagi menggantikan masjid melayu lama yang telah bertambah. ia terletak di atas sebidang tanah lot 2362 bandar taiping dengan keluasan tanah 4,0201 ekar. ianya dibina dengan kos rm500,000 daripada sumbangan kerajaan persekutuan, kerajaan negeri dan orang ramai.\r\n\r\nmasjid ini dirasmikan oleh dymm sultan perak sultan idris pada tahun 1972. pada tahun 1987 apabila kerajaan negeri hendak mewujudkan sebuah masjid daerah.masjid ini telah dipilih kerana ianya merupakan masjid yang tersebsar dan tercantik pada masa itu  dan nama masjid daerah kekal hingga sekarang. masjid ini telah digunakan untuk menunaikan solat jumaat dan solat hari raya oleh penduduk bandar taiping dan kawasan sekitarnya.",
+    "source_musolla_id": "MY-08-TPG-00010",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-bilik mesyuarat\r\n-bilik pegawai masjid\r\n-pejabat masjid\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-tandas orang kurang upaya\r\n-ruang bilik kuliah\r\n-pondok rehat\r\n-kawasan riadah",
+    "directions": "masjid ini terletak di jalan kampung jambu berhadapan stesyen bas taiping berhampiran hotel legend inn dan bank cimb cawangan taiping dan tidak juah dari hotel taiping perdana."
+  },
+  "w0zes62xhm": {
+    "address": "Taiping, Perak, Malaysia 34000",
+    "contact": "0194273596",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.847573,
+      "longitude": 100.734519
+    },
+    "name": "MASJID INDIA JALAN KOTA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5edba2e2-285a-42e0-8c90-fcbc9ee8f09d",
+    "geohash": "w0zes62xhm",
+    "source_musolla_id": "MY-08-TPG-00012"
+  }
+}

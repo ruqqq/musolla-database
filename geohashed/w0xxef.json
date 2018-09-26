@@ -1,0 +1,17 @@
+{
+  "w0xxefry6n": {
+    "address": "Lekir, Perak, Malaysia 32020",
+    "contact": "013-595 2310",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.144325,
+      "longitude": 100.722407
+    },
+    "name": "MASJID HAJI 'ISA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d51df70b-593e-44ef-8c84-cdbba8dc2844",
+    "geohash": "w0xxefry6n",
+    "source_musolla_id": "MY-08-MJG-00734"
+  }
+}

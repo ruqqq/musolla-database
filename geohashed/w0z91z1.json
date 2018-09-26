@@ -1,0 +1,17 @@
+{
+  "w0z91z1mex": {
+    "address": "Pengkalan Baharu, Perak, Malaysia 34900",
+    "contact": "0142551050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.43397,
+      "longitude": 100.625649
+    },
+    "name": "MASJID AL KHAIRIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a96e656b-fe0c-4503-b0b6-5627e4223cce",
+    "geohash": "w0z91z1mex",
+    "source_musolla_id": "MY-08-MJG-00023"
+  }
+}

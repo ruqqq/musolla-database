@@ -1,6 +1,6 @@
 {
   "w21zt88sbk": {
-    "address": "11A, Jalan Bilal Bedok Singapore 468862",
+    "address": "11A Jalan Bilal, Singapore 468862",
     "contact": "6442 7704",
     "createdAt": "2014-12-23T06:50:22.347Z",
     "location": {
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:15.324Z",
     "uuid": "c7623ffe-e628-4663-a50a-d47412fec80f",
-    "geohash": "w21zt88sbk"
+    "geohash": "w21zt88sbk",
+    "remarks": "In the ‘60s, this masjid was one of the important symbols for the villagers living in kampung around Bedok. Built in 1883, this single-storey masjid has gone several renovations. It now serves the handful residents living nearby as well as in the East. With a capacity of 400 worshippers, the masjid holds regular religious classes.",
+    "mosqueType": "Wakaf"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "w2852pfy25": {
+    "address": "Kampung Parit Serong, Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "019-3449130",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.427453,
+      "longitude": 101.253781
+    },
+    "name": "MASJID NURUL EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a46533b-c85e-44f6-a356-70bb595adc6a",
+    "geohash": "w2852pfy25",
+    "source_musolla_id": "MY-10-KSR-00305",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf,bilik mandi jenazah,rumah siak dan tanah perkuburan.",
+    "directions": "Masjid ini terletak di kawasan masjid dan tepi kawasan sawah."
+  }
+}

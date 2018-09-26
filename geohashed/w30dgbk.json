@@ -1,0 +1,35 @@
+{
+  "w30dgbk1tz": {
+    "address": "Bunut Susu, Kelantan, Malaysia 17020",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.110067,
+      "longitude": 102.123663
+    },
+    "name": "MASJID MUKIM BANGGOL NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0e12ff46-461a-4088-86aa-9950b1d6c5e5",
+    "geohash": "w30dgbk1tz",
+    "source_musolla_id": "MY-03-PM-00141",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa. Masjid ini menyediakan pejabat bagi menguruskan urusan pentadbiran.Selain itu,masjid ini juga dewan dan bilik imam.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berada di tepi jalan Pasir Mas yang menuju ke Kota Bharu."
+  },
+  "w30dgbk57n": {
+    "address": "Bunut Susu, Kelantan, Malaysia 17020",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.110363,
+      "longitude": 102.123547
+    },
+    "name": "MASJID MUKIM PALOH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a299b759-087f-4bba-a65a-8e0a4a9bca69",
+    "geohash": "w30dgbk57n",
+    "remarks": "Masjid ini telah dirasmikan oleh Y.B Dato haji Muhammad bin Nasir iaitu menteri di jabatan menteri pada masa itu pada tarikh 19.4.1982",
+    "source_musolla_id": "MY-03-PM-00538",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10  buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 200meter dari jalan Pasir Mas yang menuju ke Kota Bharu."
+  }
+}

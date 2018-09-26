@@ -1,0 +1,875 @@
+{
+  "w30cbhgn47": {
+    "address": "Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.959757,
+      "longitude": 102.308904
+    },
+    "name": "MASJID MUKIM SOKOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6b72f6a0-d464-4d84-bbf1-3956d0e6e7de",
+    "geohash": "w30cbhgn47",
+    "remarks": "DIGABUNGKAN DARIPADA 5 MUKIM IAITU PANGKAL KALONG, KOK LANAS, DENDANG, BATU TINGGI DAN SOKOR.KETIKA ITU SEMUANYA AKAN MENUNAIKAN SEMBAHYANG DI SURAU SOKOR (JUMAAT).SELEPAS ITU MAIK TELAH MEMECAHKAN KEPADA MUKIM MASING-MASING BARULAH DINAIK TARAF SEKARANG MENJADI MASJID.",
+    "source_musolla_id": "MY-03-KB-00392",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Masjid ini mempunyai bilik imam/bilal,pejabat,dewan dan juga van jenazah.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi ialah 1km ke jalan menhubungkan Bandar Kota Bharu ke Machang."
+  },
+  "w30cgh35wy": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.956598,
+      "longitude": 102.438197
+    },
+    "name": "MASJID MUKIM CHERANG HANGUS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b53f8dab-192b-4bf3-8ab7-05a45f323db8",
+    "geohash": "w30cgh35wy",
+    "source_musolla_id": "MY-03-BCK-00468",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan.",
+    "directions": "Lokasi masjid terletak di tepi dan terletak berdekatan dengan jalan yang menghubungkan Bekalam. Masjid ini hanya terletak  30km dari Bandar Bachok."
+  },
+  "w30cfx02uz": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.971238,
+      "longitude": 102.415098
+    },
+    "name": "MASJID MUKIM TOK JUNUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "99781ee8-73df-4fe9-855a-b4f81aebdbe9",
+    "geohash": "w30cfx02uz",
+    "remarks": "Masjid ini telah mula dibina pada tahun 1962 yang dimana pada asalnya ia sebuah surau yang kecil. Masjid telah dibina di atas tanah yang telah diwakafkan dan dinaiktaraf menjadi sebuah masjid. Kemudian masjid ini telah dirasmikan oleh Allahyarham Hj. Mohd bin Abdullah",
+    "source_musolla_id": "MY-03-BCK-00550",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid ini juga mempunyai tempat parking motosikal yang berbumbung yang boleh memuatkan 12 buah kenderaan pada satu masa. Masjid juga dilengkapi lapan keranda dan mempunyai tempat untuk memandikan mayat.",
+    "directions": "Lokasi masjid terletak 30km dari Bandar Bachok. Masjid berhampiran dengan Sekolah Kolam dan berdekatan dengan Tabika Kampung Kolam."
+  },
+  "w30cbhxw6d": {
+    "address": "Jalan Kampung Mahligai-Kampung Gunung, 16400 Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.958423,
+      "longitude": 102.315105
+    },
+    "name": "MASJID MUKIM JAMBU MERAH (MELOR)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "48e75a4a-3690-417d-9560-a9e334053369",
+    "geohash": "w30cbhxw6d",
+    "remarks": "Pada asalnya dibina pada tahun 1940. Dikenali sebagai Surau Melor Jambu Merah yang diperbuat daripada kayu. Pada tahun 1983 telah diubahsuai dengan bangunan batu dan dinamakan Masjid  Mukim Melor Jambu Merah",
+    "source_musolla_id": "MY-03-KB-00286",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa yang berada di luar masjid.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada  100m ke jalan menhubungkan ke Bandar Kota Bharu."
+  },
+  "w30c028e5b": {
+    "address": "Jeram, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.804047,
+      "longitude": 102.316532
+    },
+    "name": "MASJID MUKIM BUKIT ABAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "232cd794-b5b4-4554-817b-0999413aa61f",
+    "geohash": "w30c028e5b",
+    "remarks": "Pada asalnya masjid ioni merupakan sebuah masjid yang telah diubahsuai menjadi masjid.Kerajaan pusat telah menyumbangkan RM100,000 untuk pembinaan masjid ini.",
+    "source_musolla_id": "MY-03-PP-00409",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama yang menuju ke bandar Pasir Puteh.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c4qz3n8": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.838032,
+      "longitude": 102.41381
+    },
+    "name": "MASJID MUKIM GONG KEMUNING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ece2def7-eea4-4c93-b4f8-f2db3fb49fc2",
+    "geohash": "w30c4qz3n8",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh bekas timbalan mufti Kelantan iaitu Haji Ismail b. Yusuf.Dana bagi proses pembinaan masjid ini telah disumbangkan oleh bekas timbalan mufti Kelantan.Pengasas masjid ini ialah Haji Ismail b. Yusuf.Pada asalnya masjid ini merupakan sebuah surau.",
+    "source_musolla_id": "MY-03-PP-00420",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 15km dari bandar Pasir Puteh."
+  },
+  "w30c4nrqsv": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.83626,
+      "longitude": 102.402749
+    },
+    "name": "MASJID MUKIM GONG MESIRA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b37352f7-850f-46a3-82a4-90d481050891",
+    "geohash": "w30c4nrqsv",
+    "source_musolla_id": "MY-03-PP-00426",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 8km dari bandar Pasir Puteh."
+  },
+  "w30cfy789b": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.967039,
+      "longitude": 102.430424
+    },
+    "name": "MASJID MUKIM AUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5729a770-b70a-4a08-9594-ff256417c674",
+    "geohash": "w30cfy789b",
+    "source_musolla_id": "MY-03-BCK-00480",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berdekatam dengan jalan raya."
+  },
+  "w30cb1g24h": {
+    "address": "Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.942256,
+      "longitude": 102.309242
+    },
+    "name": "MASJID MUKIM BELUKAR BATU 8",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4ede88b1-83a8-4558-9ce4-a6310781d83e",
+    "geohash": "w30cb1g24h",
+    "source_musolla_id": "MY-03-KB-00382",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berada di tepi jalan  Kota Bharu â€“ Machang dan  13km dari Bandar Kota Bharu."
+  },
+  "w30c2ud1h1": {
+    "address": "Bukit Abal, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.869623,
+      "longitude": 102.340575
+    },
+    "name": "MASJID MUKIM PERMATANG GADING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "779f58ab-8abf-4bbd-a712-5558f21142ed",
+    "geohash": "w30c2ud1h1",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau.Tanah tapak masjid ini telah diwakafkan oleh orang perseorangan.Dana pembinaan masjid ini telah disumbangkan oleh kerajaan pusat sebanyak RM100,000.",
+    "source_musolla_id": "MY-03-PP-00408",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan pendalaman.Lokasi masjid ini ialah 10km dari bandar Pasir Puteh."
+  },
+  "w30c8m0e91": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.916749,
+      "longitude": 102.316411
+    },
+    "name": "MASJID MUKIM BUKIT TANAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "47f10506-ffee-4ec0-87c4-8ac8b6d88062",
+    "geohash": "w30c8m0e91",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah surau yang telah diubahsuai menjadi masjid dan kerajaan pusat telah menyumbangkan RM100,000",
+    "source_musolla_id": "MY-03-PP-00454",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama Pasir Puteh yang menuju ke Kota Bharu.Lokasi masjid ini ialah 15km dari bandar Pasir Puteh."
+  },
+  "w30c9bm0re": {
+    "address": "Jalan Kampung Jelor-Gunong, Kampung Jelor, 16800 Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.890109,
+      "longitude": 102.388783
+    },
+    "name": "MASJID MUKIM JELOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "259c4c1a-510a-4532-9525-84ed77410e42",
+    "geohash": "w30c9bm0re",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh seorang hamba Allah.Proses pembinaan masjid ini telah mendapat peruntukan sebanyak RM100,000 daripada kerajaan pusat sebagai permulaan pembinaan masjid ini.",
+    "source_musolla_id": "MY-03-PP-00457",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 10km dari bandar Pasir Puteh."
+  },
+  "w30c8pbmv5": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.932252,
+      "longitude": 102.305248
+    },
+    "name": "MASJID MUKIM JERUS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2a614508-6fb1-4ed9-8368-278b712206b8",
+    "geohash": "w30c8pbmv5",
+    "remarks": "Masjid ini telah mendapat dana daripada sumbangan orang ramai.",
+    "source_musolla_id": "MY-03-PP-00455",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Lokasi masjid ini ialah 5km dari bandar Melor dan 15km dari bandar Pasir Puteh."
+  },
+  "w30c894ryg": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.895514,
+      "longitude": 102.33005
+    },
+    "name": "MASJID MUKIM SELISING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "388657b1-d889-4215-8e27-73bbc04e9cc6",
+    "geohash": "w30c894ryg",
+    "remarks": "Pengasas masjid ini ialah En Mat Yatim.Pada asalnya masjid ini ialah sebuah surau kayu lama.",
+    "source_musolla_id": "MY-03-PP-00449",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini bersebelahan dengan klinik Selising.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c9hq05y": {
+    "address": "Kampung Tasik Pauh, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.912051,
+      "longitude": 102.357039
+    },
+    "name": "MASJID MUKIM TUALANG RENDAH LAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f3c6af26-a3e6-46ae-9e64-cd1e6ab90e15",
+    "geohash": "w30c9hq05y",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau kayu yang telah diubahsuai menjadi sebuah masjid.",
+    "source_musolla_id": "MY-03-PP-00456",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 13km dari bandar Pasir Puteh."
+  },
+  "w30c8ep00c": {
+    "address": "Kampung Wakaf Bunut, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.905157,
+      "longitude": 102.336311
+    },
+    "name": "MASJID MUKIM TUALANG RENDAH BARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7cb73a0a-7a84-4f30-a531-5a6cc28d54f3",
+    "geohash": "w30c8ep00c",
+    "remarks": "Pada asalnya masjid ini ialah surau kayu lama.Kerajaan pusat telah menyumbangkan dana sebanyak RM100,000.",
+    "source_musolla_id": "MY-03-PP-00407",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 11km dari bandar Pasir Puteh."
+  },
+  "w30c9601nh": {
+    "address": "Kampung Tasik Pauh, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.899853,
+      "longitude": 102.359877
+    },
+    "name": "MASJID MUKIM TASEK PAUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5cced46b-6f0a-49db-bf5e-8017cff7c3af",
+    "geohash": "w30c9601nh",
+    "source_musolla_id": "MY-03-PP-00406",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 12km dari bandar Pasir Puteh."
+  },
+  "w30c1yhyyf": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.834915,
+      "longitude": 102.388415
+    },
+    "name": "MASJID MUKIM MERKANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a9e447d8-85e2-4e7c-bb1f-0abfc43262c1",
+    "geohash": "w30c1yhyyf",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Abdullah b.Toyib dan beliau juga merupakan pengasas masjid ini.Kerajaan pusat telah menyumbangkan RM70,000 kepada masjid ini.",
+    "source_musolla_id": "MY-03-PP-00445",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Lokasi masjid ini ialah 2km dari jalan utama Pasir Puteh yang menuju ke Jerteh dan 5km dari bandar Pasir Puteh."
+  },
+  "w30c33he05": {
+    "address": "16800 Padang Pat Amat, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.850754,
+      "longitude": 102.365799
+    },
+    "name": "MASJID MUKIM PADANG PAK AMAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "aa7dee45-1010-424f-bb78-60154fd6bee9",
+    "geohash": "w30c33he05",
+    "remarks": "Pada asalnya masjid ini ialah surau kayu dan dana pembinaan masjid ini telah disumbangkan oleh pihak kerajaan pusat sebanyak RM100,000.",
+    "source_musolla_id": "MY-03-PP-00446",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama yang menuju ke bandar Pasir Puteh.Lokasi masjid ini ialah 7km dari bandar Pasir Puteh."
+  },
+  "w30cfjrrgs": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.962809,
+      "longitude": 102.402685
+    },
+    "name": "MASJID MUKIM KELUAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f2e9e139-8ed6-4ddf-b636-d796a736a0ed",
+    "geohash": "w30cfjrrgs",
+    "source_musolla_id": "MY-03-BCK-00466",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat wuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan kenderaan dan kolah di bahagian belakang masjid. Di belakang masjid juga terdapat kolah.",
+    "directions": "Masjid terletak di tepi jalan sebuah kawasan kampung. Lokasi masjid hanya 17km dari Bandar Bachok dan terletak di antara jalan yang menghubungkan Beris Kubur Besar dengan Tangok."
+  },
+  "w30cbpxsk8": {
+    "address": "Peringat, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.974546,
+      "longitude": 102.315191
+    },
+    "name": "MASJID MUKIM PADANG HALBAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f15dd7ed-32ca-42fb-8f46-d57812e45f1d",
+    "geohash": "w30cbpxsk8",
+    "source_musolla_id": "MY-03-KB-00278",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa yang berada di luar masjid.Masjid ini juga mempunyai pejabat,bilik imam dan perpustakaan.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada di tepi jalan dan 2km ke jalan utama menghubungkan Bandar Kota Bharu dan Pasir Puteh."
+  },
+  "w30c4mbyw2": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.833485,
+      "longitude": 102.404873
+    },
+    "name": "MASJID MUKIM BANGGOL PAK ESAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "da52e7c0-59e7-427f-9f69-a627b90e8218",
+    "geohash": "w30c4mbyw2",
+    "source_musolla_id": "MY-03-PP-00412",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c0ce9u5": {
+    "address": "Padang Pat Amat, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.809341,
+      "longitude": 102.342625
+    },
+    "name": "MASJID MUKIM LEPAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "167a6808-e62b-4bb0-951a-5567d63fb945",
+    "geohash": "w30c0ce9u5",
+    "remarks": "Masjid ini telah mendapat dana daripada kerajaan pusat sebanyak RM80,000",
+    "source_musolla_id": "MY-03-PP-00431",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 5km dari bandar Pasir Puteh."
+  },
+  "w30c26zgdy": {
+    "address": "Bukit Abal, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.860466,
+      "longitude": 102.326435
+    },
+    "name": "MASJID MUKIM PERMATANG SUNGKAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c572d45e-0273-4278-82f0-d51575995c8a",
+    "geohash": "w30c26zgdy",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Abdul Rahman b. Yaakob.Pada asalnya masjid ini ialah sebuah surau lama.",
+    "source_musolla_id": "MY-03-PP-00410",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 8km dari bandar Pasir Puteh."
+  },
+  "w30c6cvn9s": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.855482,
+      "longitude": 102.432473
+    },
+    "name": "MASJID MUKIM BUKIT AWANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "83f50544-cffb-40f0-8736-2fb8e2f4c118",
+    "geohash": "w30c6cvn9s",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh orang perseorangan.Dana bagi proses pembinaan masjid ini telah disumbangkan oleh Tengku Razaleigh iaitu sebanyak RM100,000.Pada asalnya masjid ini merupakan sebuah surau dan pengasas masjid ini ialah Haji Mat b. Haji Abdullah.",
+    "source_musolla_id": "MY-03-PP-00425",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini terletak 200 meter dari jalan Petai yang menuju ke Semerak.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c5j12np": {
+    "address": "Bukit Awang, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.828287,
+      "longitude": 102.438508
+    },
+    "name": "MASJID MUKIM GONG CHENGAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0959f342-1130-430d-8aec-c6f0db65efc3",
+    "geohash": "w30c5j12np",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Daud b. Salleh.Dana ialah sumbangan daripada kerajaan pusat.Masjid ini diasaskan oleh Awang b. Hamzah.",
+    "source_musolla_id": "MY-03-PP-00421",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 14km dari bandar Pasir Puteh."
+  },
+  "w30c4n99d1": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.836751,
+      "longitude": 102.394724
+    },
+    "name": "MASJID MUKIM GONG NANGKA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "68882560-7980-400a-a032-9eef5a93da43",
+    "geohash": "w30c4n99d1",
+    "remarks": "Tanah masjid ini telah diwakafkan oleh orang perseorangan.Dana bagi proses pembinaan masjid ini telah disumbangkan oleh Tengku Razeligh pada tahun 1982 sebanyak RM100,000.Pada asalnya masjid ini ialah surau kayu.Masjid ini telah diasaskan oleh Che Ismail b. Che Mat Zin.",
+    "source_musolla_id": "MY-03-PP-00428",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 8km dari bandar Pasir Puteh."
+  },
+  "w30c570ptc": {
+    "address": "Kampung Sungai Petai, Bukit Awang, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.818558,
+      "longitude": 102.447757
+    },
+    "name": "MASJID MUKIM PULAU LIMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5e088610-f62e-46db-ad44-d177abb7d016",
+    "geohash": "w30c570ptc",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Mat Min b. Jusoh.Dana masjid ini telah disumbangkan Perdana Menteri pada masa itu sebanyak RM500,000.Masjid ini telah diasaskan oleh Haji Awang b. Salleh.",
+    "source_musolla_id": "MY-03-PP-00530",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan Pasir Puteh yang menuju ke Semerak.Lokasi masjid ini ialah 5km dari bandar Pasir Puteh."
+  },
+  "w30c6nc28h": {
+    "address": "Kampung Jelor, Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.881918,
+      "longitude": 102.394295
+    },
+    "name": "MASJID MUKIM WAKAF RAJA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d22c248c-6666-447d-87c7-5145ef43e404",
+    "geohash": "w30c6nc28h",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Haji Ibrahim.Dana masjid ini telah disumbangkan oleh kerajaan pusat.Pada asalnya masjid ini merupakan sebuah surau lama.Dana masjid ini juga disumbangkan oleh sumbangan orang ramai.",
+    "source_musolla_id": "MY-03-PP-00436",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama Pasir Puteh yang menuju ke Jerteh.Lokasi masjid ini ialah 12km dari bandar Pasir Puteh."
+  },
+  "w30c4q8z5b": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.83769,
+      "longitude": 102.404766
+    },
+    "name": "MASJID MUKIM BUKIT BIDANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ba9acf05-eac5-4319-8c8c-c536df128d27",
+    "geohash": "w30c4q8z5b",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah surau lama.Kerajaan pusat telah menyumbangkan RM100,000 untuk dana pembinaan masjid ini.",
+    "source_musolla_id": "MY-03-PP-00430",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 12km dari bandar Pasir Puteh."
+  },
+  "w30c962npc": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.902067,
+      "longitude": 102.359962
+    },
+    "name": "MASJID MUKIM TASEK TUALANG TINGGI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2fcfe290-61f8-4035-b6c6-f76ae9cf2bed",
+    "geohash": "w30c962npc",
+    "remarks": "Pada asalnya masjid ini ialah sebuah madrasah dan telah diubahsuai menjadi sebuah masjid.",
+    "source_musolla_id": "MY-03-PP-00458",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan Jelor yang menuju ke bandar Pasir Puteh.Lokasi masjid ini ialah 11km dari bandar Pasir Puteh."
+  },
+  "w30c2uk0xw": {
+    "address": "Bukit Abal, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.868193,
+      "longitude": 102.343472
+    },
+    "name": "MASJID MUKIM GONG GAHARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8e5e090d-3daa-4690-9a66-388508a59de9",
+    "geohash": "w30c2uk0xw",
+    "source_musolla_id": "MY-03-PP-00417",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30cestrjy": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.914628,
+      "longitude": 102.465953
+    },
+    "name": "MASJID MUKIM KANDIS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fd7aee1b-d6e4-4c8b-b22a-4751d8d2890e",
+    "geohash": "w30cestrjy",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Che Ahmad.Dana bagi proses pembinaan masjid ini telah disumbangkan oleh kerajaan sebanyak RM80,000 dan daripada sumbangan orang ramai sebanyak RM20,000.Pengasas masjid ini ialah Che Ahmad b.Che Suh.",
+    "source_musolla_id": "MY-03-PP-00415",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c17sw80": {
+    "address": "Padang Pat Amat, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.821125,
+      "longitude": 102.365799
+    },
+    "name": "MASJID MUKIM BUKIT JERAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "79b7d4c1-f3b1-441a-ae1d-acee79caad84",
+    "geohash": "w30c17sw80",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh orang perseorangan.Masjid ini telah mendapat dana daripada Tengku Razaleigh sebanyak RM100,000.",
+    "source_musolla_id": "MY-03-PP-00444",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini 10km dari bandar Pasir Puteh."
+  },
+  "w30c4q1b73": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.833789,
+      "longitude": 102.406113
+    },
+    "name": "MASJID MUKIM KOK JERING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0978a5ae-6324-47d9-bdf1-59305af97739",
+    "geohash": "w30c4q1b73",
+    "remarks": "Masjid ini telah diasaskan oleh En Nik Leh Awang Talib.",
+    "source_musolla_id": "MY-03-PP-00531",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama Pasir Puteh yang menuju ke Jerteh.Lokasi masjid ini ialah 6km dari bandar Pasir Puteh."
+  },
+  "w30ckcn84h": {
+    "address": "Dalam Rhu, Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.850242,
+      "longitude": 102.52244
+    },
+    "name": "MASJID MUKIM DALAM RHU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d133120d-0f10-49cb-b816-183c91d92997",
+    "geohash": "w30ckcn84h",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau dan tanah tapak masjid ini ialah tanan kerajaan negeri.Dana masjid ini ialah daripada kerajaan dan sumbangan orang ramai.",
+    "source_musolla_id": "MY-03-PP-00424",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 20 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 18km dari bandar Pasir Puteh."
+  },
+  "w30c6cuuth": {
+    "address": "Kampung Kulim Hilir, Semerak, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.855135,
+      "longitude": 102.43228
+    },
+    "name": "MASJID MUKIM GONG KULIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f6b4b205-5af5-42b6-9761-711de99f5915",
+    "geohash": "w30c6cuuth",
+    "source_musolla_id": "MY-03-PP-00433",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 10km dari bandar Pasir Puteh."
+  },
+  "w30ckhb0f5": {
+    "address": "Kampung Sepulau, Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.870968,
+      "longitude": 102.480555
+    },
+    "name": "MASJID MUKIM GONG MANAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f29fa046-b033-4a9a-9000-1d08405f42e7",
+    "geohash": "w30ckhb0f5",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau lama.Tanah tapak masjid ini ialah tanah kerajaan negeri.",
+    "source_musolla_id": "MY-03-PP-00427",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Lokasi masjid ini ialah 17km dari bandar Pasir Puteh."
+  },
+  "w30ck06usp": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.846912,
+      "longitude": 102.484417
+    },
+    "name": "MASJID MUKIM KAMPUNG BESAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f50ca749-3ab9-4774-a661-4b7668fcd018",
+    "geohash": "w30ck06usp",
+    "remarks": "Tanah tapak masjid ini ialah tanah kerajaan pusat dan pada asalnya masjid ini ialah surau kayu lama.",
+    "source_musolla_id": "MY-03-PP-00435",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 15km dari bandar Pasir Puteh."
+  },
+  "w30c7bz438": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.849233,
+      "longitude": 102.479165
+    },
+    "name": "MASJID MUKIM GOLOK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "83a357ab-6ea1-4845-9bf0-0f1830b441f8",
+    "geohash": "w30c7bz438",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Haji Yusoff b. Mamat.",
+    "source_musolla_id": "MY-03-PP-00434",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 11km dari bandar Pasir Puteh."
+  },
+  "w30c4bg18m": {
+    "address": "Kampung Sungai Gali, Gong Datok, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.805189,
+      "longitude": 102.429668
+    },
+    "name": "MASJID MUKIM TELAGA PAPAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "70e33097-f906-4126-9b65-da34d40cb03c",
+    "geohash": "w30c4bg18m",
+    "remarks": "Pada asalnya masjid ini ialah sebuah surau dan pengasas masjid ini ialah Ismail b. Yaakob.",
+    "source_musolla_id": "MY-03-PP-00422",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 21km dari bandar Pasir Puteh."
+  },
+  "w30c4q8wh0": {
+    "address": "Jalan Klinik, 16800 Limbongan, Kelantan, Malaysia 16800",
+    "contact": "09-7862796",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.837519,
+      "longitude": 102.404423
+    },
+    "name": "MASJID BANDAR PASIR PUTEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a61455c-33cd-4568-a378-aa4b6b25178e",
+    "geohash": "w30c4q8wh0",
+    "remarks": "Masjid ini antara masjid lama yang masih terdapat di Pasir Putih, Kelantan. Bangunan tambahannya telah dirasmikan oleh Tun Haji Abdul Razak pada 8 Rejab 1395 Hijri bersamaan 17 Julai 1975 Masihi.\r\nMasjid ini mendapat pengiktirafan sebagai masjid terbaik kategori Masjid Bandar sempena sambutan Majlis Sambutan Hijratul Rasul Peringkat Negeri Kelantan, tahun 1427 Hijri bersamaan 2006 Masihi.",
+    "source_musolla_id": "MY-03-PP-00010",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 20 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan bandar Pasir Puteh.Lokasi masjid ini ialah berada di tepi jalan Pasir Puteh yang menuju ke Jerteh."
+  },
+  "w30cfke9kz": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.957591,
+      "longitude": 102.408575
+    },
+    "name": "MASJID MUKIM KUBANG TELAGA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "862e0bb3-f649-4b15-9dae-5781fcdf8162",
+    "geohash": "w30cfke9kz",
+    "source_musolla_id": "MY-03-BCK-00503",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid juga mempunyai parkir yang berbumbung untuk meletakkan kenderaan .",
+    "directions": "Lokasi masjid terletak di sebuah kampong  dan masjid hanya 20km dari Bandar Bachok. Masjid berada berhadapan dengan SMK Kubang Telaga dan terletak di tepi jalan raya yang menghubungkan Gunung dengan Pasir Puteh."
+  },
+  "w30cdjj374": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.916367,
+      "longitude": 102.399919
+    },
+    "name": "MASJID MUKIM PERMATANG PASIR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3ab0ba7a-f008-4f55-bb4a-c1e02cb26b71",
+    "geohash": "w30cdjj374",
+    "source_musolla_id": "MY-03-BCK-00501",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat wuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid ini mempunyai ruang parkir yang berbumbung untuk meletakkan kenderaan. Masjid juga memiliki tempat memandikan mayat dan mempunyai keranda serta mempunyai van jenazah.",
+    "directions": "Masjid terletak di tepi jalan. Lokasi masjid hanya 15km dari Bandar Bachok dan terletak di jalan yang menghubungkan dari Telaga Ara ke Gunung. Masjid 1km dari SMK Sri Gading."
+  },
+  "w30c2k0c2r": {
+    "address": "Bukit Abal, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.866955,
+      "longitude": 102.316715
+    },
+    "name": "MASJID MUKIM SELIGI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "93ce642c-5c6a-4da7-8621-97753990a12b",
+    "geohash": "w30c2k0c2r",
+    "remarks": "Pada asalnya masjid ini ialah surau kayu dan dana pembinaan masjid ini telah disumbangkan oleh pihak kerajaan pusat sebanyak RM100,000.",
+    "source_musolla_id": "MY-03-PP-00484",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 11km dari bandar Pasir Puteh."
+  },
+  "w30c2z8uj2": {
+    "address": "Bukit Jawa, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.886614,
+      "longitude": 102.338902
+    },
+    "name": "MASJID MUKIM BANIR BELIKONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "27ead22a-e072-4aaf-98a3-88b4f6d93923",
+    "geohash": "w30c2z8uj2",
+    "remarks": "Dana pembinaan masjid ini telah disumbangkan oleh kerajaan pusat sebanyak RM100,000 dan pada asalnya masjid ini ialah sebuah surau kayu.",
+    "source_musolla_id": "MY-03-PP-00405",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan utama yang menuju ke bandar Pasir Puteh.Lokasi masjid ini ialah 10km dari bandar Pasir Puteh."
+  },
+  "w30c4mxfrb": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.831382,
+      "longitude": 102.414545
+    },
+    "name": "MASJID MUKIM KOLAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4bbee231-546c-4cc7-9147-0765df5060a2",
+    "geohash": "w30c4mxfrb",
+    "remarks": "Tanah masjid ini telah diwakafkan oleh penduduk kampung.Masjid ini dibina secara gotong royaong dan dana bagi proses pembinaan masjid ini disumbangkan oleh kerajaan negeri dan kutipan derma dari penduduk kampung.",
+    "source_musolla_id": "MY-03-PP-00488",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 1.5km dari jalan utama ang menuju ke Jelor dan 15km dari bandar Pasir Puteh."
+  },
+  "w30c49352w": {
+    "address": "Gong Datok, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.808242,
+      "longitude": 102.415946
+    },
+    "name": "MASJID MUKIM WAKAF LINCHONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "062f9e47-46f6-4b37-9da6-cc161227dc0b",
+    "geohash": "w30c49352w",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Abu Bakar b. Wan Hamat dan beliau juga merupakan pengasas masjid ini.",
+    "source_musolla_id": "MY-03-PP-00489",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di tepi jalan Jertih yang menuju ke Pasir Puteh.Lokasi masjid ini ialah 6km dari bandar Pasir Puteh."
+  },
+  "w30c61n352": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.850396,
+      "longitude": 102.401311
+    },
+    "name": "MASJID MUKIM SERI GEDOMBAK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "98d2b93e-d86e-4733-a1ef-58baca33bddd",
+    "geohash": "w30c61n352",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah surau yang telah diubahsuai menjadi masjid.Proses pembinaan masjid ini telah mendapat peruntukan daripada JPP sebanyak RM150,000.Pada tahun 2007,JAIK telah menyumbangkan sebanyak RM60,000.Tanah tapak masjid ini telah diberikan oleh pihak kerajaan negeri.Masjid ini telah diasaskan oleh imam Nik Razali b. Hamzah.",
+    "source_musolla_id": "MY-03-PP-00486",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 1.5km dari bandar Pasir Puteh."
+  },
+  "w30c43y9h4": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.810579,
+      "longitude": 102.412663
+    },
+    "name": "MASJID MUKIM WAKAF BUNUT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7db0421d-3acf-4a3f-8a3c-d82e0de27ff1",
+    "geohash": "w30c43y9h4",
+    "remarks": "Tanah asal masjid ini telah diwakafkan oleh orang perseorangan.Dana masjid ini telah disumbangkan oleh kutipan oleh orang ramai.Pengasas masjid ini ialah Tuan Haji Deraman b. Awang Lah.",
+    "source_musolla_id": "MY-03-PP-00485",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 5.5 dari bandar Pasir Puteh."
+  },
+  "w30cd2xtd8": {
+    "address": "Telong, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.892366,
+      "longitude": 102.413977
+    },
+    "name": "MASJID MUKIM SRI AMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1687488a-396d-428d-a90f-663c40e0fd22",
+    "geohash": "w30cd2xtd8",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh Datok Tuan Mohamad Najib dan masjid ini telah diasaskan oleh AJK madrasah.Pada asalnya masjid ini merupakan sebuah surau lama yang telah diubahsuai menjadi sebuah masjid.",
+    "source_musolla_id": "MY-03-PP-00496",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini terletak 3km dari bandar Pasir Puteh."
+  },
+  "w30ck5nn35": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.862297,
+      "longitude": 102.488757
+    },
+    "name": "MASJID MUKIM CHERANG RUKU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7dbf4cc4-9e4d-4ae1-991e-c64663ecf888",
+    "geohash": "w30ck5nn35",
+    "remarks": "Tanah tapak masjid ini ialah tanah asal kerajaan pusat.",
+    "source_musolla_id": "MY-03-PP-00429",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 14km dari bandar Pasir Puteh."
+  }
+}

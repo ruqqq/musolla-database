@@ -1,0 +1,16 @@
+{
+  "w0zqxg303t": {
+    "address": "Taman Selasih, Keladi, Kedah, Malaysia 09000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.379254,
+      "longitude": 100.537332
+    },
+    "name": "AL-MUTTAQIN taman selasih",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2539986a-f140-422f-abb2-66886a7f1136",
+    "geohash": "w0zqxg303t",
+    "source_musolla_id": "MY-02-KLM-00380"
+  }
+}

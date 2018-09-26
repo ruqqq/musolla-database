@@ -1,0 +1,30 @@
+{
+  "w0zqj8j7mk": {
+    "address": "Mukim 14, Simpang Ampat, Pulau Pinang, Malaysia 14100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.274018,
+      "longitude": 100.444454
+    },
+    "name": "MASJID BUKIT TAMBUN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bedeab69-aad7-4c78-ae6a-378cdb02efcf",
+    "geohash": "w0zqj8j7mk",
+    "source_musolla_id": "MY-07-SPS-00135"
+  },
+  "w0zqj22gkx": {
+    "address": "Simpang Ampat, Pulau Pinang, Malaysia 14100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.275407,
+      "longitude": 100.427259
+    },
+    "name": "MASJID KAMPONG BATU KAWAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "bbd5368b-f2c4-44a7-9949-616e03a36ffa",
+    "geohash": "w0zqj22gkx",
+    "source_musolla_id": "MY-07-SPS-00137"
+  }
+}

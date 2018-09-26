@@ -1,0 +1,18 @@
+{
+  "w284w22jvv": {
+    "address": "Kampung Permata, Rawang, Selangor, Malaysia 48050",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.254343,
+      "longitude": 101.524913
+    },
+    "name": "MASJID NURUL YAQIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "38ebb21e-7b84-4cd0-9bcd-84bfed4fd1cd",
+    "geohash": "w284w22jvv",
+    "source_musolla_id": "MY-10-GBK-00052",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah van jenazah,tempat pengurusan jenazah,pejabat, ruang solat, stor,dan bilik bilal.",
+    "directions": "Masjid ini terletak 6 kilometer dari Bandar Sungai Buloh."
+  }
+}

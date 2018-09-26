@@ -1,0 +1,36 @@
+{
+  "w30f8yypbw": {
+    "address": "Jalan Tanjung Pauh-Tawang, 16030 Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.102898,
+      "longitude": 102.345918
+    },
+    "name": "MASJID MUKIM TANJUNG JEMBAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b0b1d379-ea71-4a7a-a594-249b0d81a3ba",
+    "geohash": "w30f8yypbw",
+    "remarks": "Masjid ini dibina diatas tanah yang telah diwakafkan dan pada sebelumnya ia merupakan sebuah surau. Kemudian ia telah dinaiktaraf menjadi sebuah masjid dan dapat menampung lebih ramai jemaah solat.",
+    "source_musolla_id": "MY-03-BCK-00473",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid juga mempunyai parking untuk meletakkan kenderaan  dan mempunyai kolah di belakang masjid.",
+    "directions": "Lokasi masjid terletak di kawasan kampung dan masjid hanya 22km dari Bandar Bachok. Masjid ini terletak di antara Banggu dan Kedai Lalat."
+  },
+  "w30f8yw3sg": {
+    "address": "Tawang, Kelantan, Malaysia 16030",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.100434,
+      "longitude": 102.346444
+    },
+    "name": "MASJID MUKIM PENGKALAN CHENGAL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e8d64482-718c-4206-b8c8-0f670eaea50a",
+    "geohash": "w30f8yw3sg",
+    "remarks": "Masjid ini dibina telah pada tahun 1973. Masjid ini dibina diatas tanah yang telah diwakafkan. Pengasas masjid ini ialah Allahyarham Hj Hassan.",
+    "source_musolla_id": "MY-03-BCK-00245",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan. Masjid juga mempunyai parking yang berbumbung untuk meletakkan kenderaan.",
+    "directions": "Lokasi masjid terletak di tepi jalan. Masjid berada 20km dari Bandar Bachok dan terletak 1km dari Sekolah Pengkalan Chengal."
+  }
+}

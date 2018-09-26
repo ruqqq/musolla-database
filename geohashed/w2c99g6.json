@@ -1,0 +1,17 @@
+{
+  "w2c99g6z0j": {
+    "address": "Kertih, Terengganu, Malaysia 24300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.501508,
+      "longitude": 103.440065
+    },
+    "name": "MASJID TENGKU MIZAN ZAINAL ABIDIN (KERAJAAN)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cd9af96b-d87b-452e-bcde-2bf94ca61173",
+    "geohash": "w2c99g6z0j",
+    "remarks": ".",
+    "source_musolla_id": "MY-11-KMN-00027"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "w30cbhgn47": {
+    "address": "Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.959757,
+      "longitude": 102.308904
+    },
+    "name": "MASJID MUKIM SOKOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6b72f6a0-d464-4d84-bbf1-3956d0e6e7de",
+    "geohash": "w30cbhgn47",
+    "remarks": "DIGABUNGKAN DARIPADA 5 MUKIM IAITU PANGKAL KALONG, KOK LANAS, DENDANG, BATU TINGGI DAN SOKOR.KETIKA ITU SEMUANYA AKAN MENUNAIKAN SEMBAHYANG DI SURAU SOKOR (JUMAAT).SELEPAS ITU MAIK TELAH MEMECAHKAN KEPADA MUKIM MASING-MASING BARULAH DINAIK TARAF SEKARANG MENJADI MASJID.",
+    "source_musolla_id": "MY-03-KB-00392",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.Masjid ini mempunyai bilik imam/bilal,pejabat,dewan dan juga van jenazah.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi ialah 1km ke jalan menhubungkan Bandar Kota Bharu ke Machang."
+  },
+  "w30cbhxw6d": {
+    "address": "Jalan Kampung Mahligai-Kampung Gunung, 16400 Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.958423,
+      "longitude": 102.315105
+    },
+    "name": "MASJID MUKIM JAMBU MERAH (MELOR)",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "48e75a4a-3690-417d-9560-a9e334053369",
+    "geohash": "w30cbhxw6d",
+    "remarks": "Pada asalnya dibina pada tahun 1940. Dikenali sebagai Surau Melor Jambu Merah yang diperbuat daripada kayu. Pada tahun 1983 telah diubahsuai dengan bangunan batu dan dinamakan Masjid  Mukim Melor Jambu Merah",
+    "source_musolla_id": "MY-03-KB-00286",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa yang berada di luar masjid.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada  100m ke jalan menhubungkan ke Bandar Kota Bharu."
+  },
+  "w30cb1g24h": {
+    "address": "Mahligai, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.942256,
+      "longitude": 102.309242
+    },
+    "name": "MASJID MUKIM BELUKAR BATU 8",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4ede88b1-83a8-4558-9ce4-a6310781d83e",
+    "geohash": "w30cb1g24h",
+    "source_musolla_id": "MY-03-KB-00382",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berada di tepi jalan  Kota Bharu â€“ Machang dan  13km dari Bandar Kota Bharu."
+  },
+  "w30cbpxsk8": {
+    "address": "Peringat, Kelantan, Malaysia 16400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.974546,
+      "longitude": 102.315191
+    },
+    "name": "MASJID MUKIM PADANG HALBAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f15dd7ed-32ca-42fb-8f46-d57812e45f1d",
+    "geohash": "w30cbpxsk8",
+    "source_musolla_id": "MY-03-KB-00278",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 5 buah kenderaan dalam satu masa yang berada di luar masjid.Masjid ini juga mempunyai pejabat,bilik imam dan perpustakaan.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Kedudukan masjid ini berada di tepi jalan dan 2km ke jalan utama menghubungkan Bandar Kota Bharu dan Pasir Puteh."
+  }
+}

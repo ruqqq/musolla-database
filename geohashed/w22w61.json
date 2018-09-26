@@ -1,0 +1,35 @@
+{
+  "w22w613dk3": {
+    "address": "Kundor, Negeri Sembilan, Malaysia 71400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.512146,
+      "longitude": 102.043267
+    },
+    "name": "MASJID DATO' DR MOHAMMAD EUSOFF TEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "955c2700-40b3-4762-8340-2feafbfce2a7",
+    "geohash": "w22w613dk3",
+    "remarks": "pembinaan masjid Kariah Pedas Hilir diatas tanah rizab masjid. kini masjid tersebut telah ditukar nama iaitu masjid Dr.Hj Mohammad Eusuff Teh.",
+    "source_musolla_id": "MY-05-RB-00094",
+    "provision": "1. tandas lelaki/perempuan\n2. ruang solat\n3. ruang makan\n4. ruang pengurusan jenazah\n5. pejabat\n6. mimbar"
+  },
+  "w22w6139ur": {
+    "address": "Kundor, Negeri Sembilan, Malaysia 71400",
+    "contact": "012-6837674",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.512092,
+      "longitude": 102.043267
+    },
+    "name": "MASJID KARIAH KUNDUR HILIR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "897e26f5-06b4-4dc0-846b-8b475e8b86ec",
+    "geohash": "w22w6139ur",
+    "remarks": "Masjid Kariah Kundur Hilir telah dibina pada tahun 1981M. Pengasasnya ialah penduduk setempat. Tapak masjid ini telah dikurniakan oleh Kerajaan Negeri. Masjid yang ada sekarang ini merupakan masjid yang ketiga didirikan. Dua bangunan sebelumnya adalah hasil gotong - royong penduduk kampung.\n\nBangunan baru ini dibina dengan bantuan kerajaan dan telah dirasmikan oleh YTM Dato' Undang Luak Rembau pada tahun 1982M. Masjid ini pernah dibaiki dan dibesarkan pada tahun 1981M, 1994M, dan 2008M. Semasa dibina masjid ini hanya mempunyai ahli jemaah seramai 40 orang sahaja dan kini jumlah tersebut telah menigkat hampir 100 orang jemaah kariah dalam satu - satu masa.",
+    "source_musolla_id": "MY-05-RB-00114",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tBilik Stor\n5     .Ruang pengurusan jenazah \n6.\tRuang makan jemaah   \n7.\tParking kereta dan motosikal  \n8.\tTempat istirehat"
+  }
+}

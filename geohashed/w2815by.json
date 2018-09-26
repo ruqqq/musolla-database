@@ -1,0 +1,19 @@
+{
+  "w2815bywq0": {
+    "address": "Kawasan 11, Kampung Idaman, Klang, Selangor, Malaysia 42000",
+    "contact": "013-3541471",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.993476,
+      "longitude": 101.423981
+    },
+    "name": "MASJID AL - FALAH KG. IDAMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fb03a2a3-aae8-429e-b0c8-0e9393ad0230",
+    "geohash": "w2815bywq0",
+    "source_musolla_id": "MY-10-KLG-00213",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak di kawasan kampung"
+  }
+}

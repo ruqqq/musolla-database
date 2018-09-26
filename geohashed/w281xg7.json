@@ -1,0 +1,18 @@
+{
+  "w281xg7rm7": {
+    "address": "SS 7, Petaling Jaya, Selangor, Malaysia 47300",
+    "contact": "0193810104",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.095289,
+      "longitude": 101.595274
+    },
+    "name": "MASJID TENGKU KELANA JAYA PETRA KELANA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "85ab6c3d-f91b-492e-931d-933bc4f741eb",
+    "geohash": "w281xg7rm7",
+    "source_musolla_id": "MY-10-PTG-00261",
+    "provision": "Antara kemudahan ialah ruang parkir, dewan dan ruang solat yang selesa."
+  }
+}

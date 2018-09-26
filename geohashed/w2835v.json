@@ -1,0 +1,20 @@
+{
+  "w2835vythm": {
+    "address": "Cheras, Selangor, Malaysia 43200",
+    "contact": "012-6863103",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.020757,
+      "longitude": 101.775476
+    },
+    "name": "MASJID KARIAH SG. SEKAMAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "67fbff71-0dbc-429e-962d-e4c2be214584",
+    "geohash": "w2835vythm",
+    "remarks": "Masjid ini telah dibina pada 1965 dan dibaik pulih serta diperbesarkan lebih kurang 10 tahun yang lepas.",
+    "source_musolla_id": "MY-10-HL-00020",
+    "provision": "Masjid ini mempunyai tandas dan tempat berwuduk untuk kaum lelaki dan perempuan. Ia juga mempunyai tempat meletak motosikal berbumbung.",
+    "directions": "Ia terletak di tepi jalan utama menuju ke Kajang,Bangi dan Kuala Lumpur. Terdapat juga stesen minyak berhampiran masjid ini sebagai mercu tanda untuk ke sana."
+  }
+}

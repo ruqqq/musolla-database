@@ -41,7 +41,7 @@
   },
   "w21zvc86g5": {
     "address": "2 Pasir Ris Walk, Singapore 518239",
-    "contact": "6583 8711",
+    "contact": "6426 7130",
     "createdAt": "2014-12-23T06:50:22.144Z",
     "location": {
       "latitude": 1.371037,
@@ -51,7 +51,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:48.500Z",
     "uuid": "7469dec1-9dc2-435d-8851-b5ce03b63268",
-    "geohash": "w21zvc86g5"
+    "geohash": "w21zvc86g5",
+    "remarks": "This three-storey masjid is one of the most recent mosques built under Phase Three of the Mosque Building Fund. Completed in June 1999, it is located in the East, along Pasir Ris Drive 3. it can be recognized by its outstanding blue dome and modern yet Islamic architecture. The masjid, which can accommodate a congregation of 3300 people offers madrasah and kindergarten classes. It is a hive of activities during the evening when religious classes opened its doors to Muslims in the vicinity and also those living nearby.",
+    "mosqueType": "MBMF"
   },
   "w21zv41t0w": {
     "address": "60 Tampines North Drive 2 S(5287640",

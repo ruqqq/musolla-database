@@ -1,32 +1,4 @@
 {
-  "w21zenqj5c": {
-    "address": "9A Bishan Street 14, Singapore 579786",
-    "contact": "6354 3138",
-    "createdAt": "2014-12-23T06:50:21.830Z",
-    "location": {
-      "latitude": 1.353559,
-      "longitude": 103.851182
-    },
-    "name": "An Nahdhah Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:53:45.910Z",
-    "uuid": "fa1d6bc2-21d1-4567-863c-9c22c542c7e7",
-    "geohash": "w21zenqj5c"
-  },
-  "w21zedsm0u": {
-    "address": "66 Pheng Geck Avenue, Singapore 348261",
-    "contact": "6280 0300",
-    "createdAt": "2014-12-23T06:50:22.335Z",
-    "location": {
-      "latitude": 1.332976,
-      "longitude": 103.87062
-    },
-    "name": "Alkaff Upp Serangoon Rd Mosque",
-    "type": "Mosque",
-    "updatedAt": "2014-12-23T06:55:16.944Z",
-    "uuid": "36c4c291-ed47-4b50-826a-4da5c498061e",
-    "geohash": "w21zedsm0u"
-  },
   "w21zeyfcuz": {
     "address": "2 Hillside Drive Upper Serangoon Road, S(548920)",
     "contact": "6284 5459",
@@ -53,7 +25,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:06.672Z",
     "uuid": "33806974-5d3f-40d5-9f47-12e2ec59e8fe",
-    "geohash": "w21zehwbgm"
+    "geohash": "w21zehwbgm",
+    "remarks": "The masjid has been re-built as part of the Singapore Islamic Hub development and was opened to public in January 2009.  \n\nMasjid Muhajirin is the first masjid to be built under the Mosque Building Fund. Back then it was easily recognizable by its prominent dome and minaret at the entrance of the building.  Sited next to the Islamic Centre of the Islamic Religious Council of Singapore, it was completed in April 1977 with a capacity of 1400 people and serves Muslims of all ages living in Toa Payoh and Bishan.",
+    "mosqueType": "MBMF"
   },
   "w21zec7gpg": {
     "address": "1 Mattar Road, Singapore 387713",
@@ -67,20 +41,56 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:56:00.330Z",
     "uuid": "1d3cdfab-0890-408c-b703-714a6f7c763a",
-    "geohash": "w21zec7gpg"
+    "geohash": "w21zec7gpg",
+    "remarks": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+    "mosqueType": "Wakaf"
   },
-  "w21ze32v3v": {
+  "w21zedsj4p": {
+    "address": "66 Pheng Geck Avenue, Singapore 348261",
+    "contact": "6280 0300",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.3329899,
+      "longitude": 103.87033
+    },
+    "name": "Alkaff Upper Serangoon Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "e9498cf8-8f79-43b3-b72e-a53d36070da8",
+    "geohash": "w21zedsj4p",
+    "remarks": "This old generation masjid sited next to Darul Libanat, a girls’ orphanage, was built in 1920. The masjid located in the Central part of the island has undergone several renovation, its most recent one in 1998, in which the prayer hall was extended to accommodate a larger congregation of 2,500 people. It serves the religious needs of the small Muslim residents in the area as well as office workers. Besides daily and Friday prayer, there are religious classes held at the masjid.",
+    "mosqueType": "Wakaf"
+  },
+  "w21zenq5jq": {
+    "address": "9A Bishan Street 14, Singapore 579786",
+    "contact": "6354 3138",
+    "createdAt": "2018-09-07T19:09:27+08:00",
+    "location": {
+      "latitude": 1.35324,
+      "longitude": 103.85124
+    },
+    "name": "An-Nahdhah Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4342d920-ae35-4fc4-a9ff-6a0f45086511",
+    "geohash": "w21zenq5jq",
+    "remarks": "This mosque is the sixth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community around the Bishan area. The mosque can accommodate about 4,000 people and was opened to the public on 6th January 2006. \n\nThe mosque complex also houses MUIS's Harmony Centre where visitors could learn of the Muslim Community and Islam as practiced in multi-cultural Singapore. Being the first of its kind in a Singapore mosque, the 2-storey Harmony Centre showcases exhibits, artifacts and information on Islamic civilisation and lifestyle. Contemporary issues in Islam and Inter-faith understanding will also be a feature at the Centre through talks and activities. The Centre is scheduled to be opened to all in October 2006.",
+    "mosqueType": "MBMF"
+  },
+  "w21ze32wkx": {
     "address": "76 Kim Keat Road, Singapore 328835",
     "contact": "6255 8262",
-    "createdAt": "2014-12-23T06:50:21.885Z",
+    "createdAt": "2018-09-07T19:09:27+08:00",
     "location": {
-      "latitude": 1.326157,
-      "longitude": 103.85487
+      "latitude": 1.32634,
+      "longitude": 103.85465
     },
-    "name": "Hajjah Rahimabi Kebun Limau Mosque",
+    "name": "Hajjah Rahimabi Mosque",
     "type": "Mosque",
-    "updatedAt": "2015-06-17T15:57:05.478Z",
-    "uuid": "d67e8436-1e02-4ca3-a114-bfb2b17ff141",
-    "geohash": "w21ze32v3v"
+    "updatedAt": "2018-09-07T19:09:27+08:00",
+    "uuid": "4a8392f9-0ab5-4942-a817-b431d50de769",
+    "geohash": "w21ze32wkx",
+    "remarks": "Built from donation by Hajjah Rahima Bee Ahmad Angullia, this masjid was redeveloped from an existing masjid, which had been around since 1960. the redeveloped masjid, which was completed in 1984, was renamed after the donor. Located in the Central part of the island, it is one of the several mosques which have pulpits decorated with woodcarvings. With a capacity of about 500 worshippers, it organizes Iqra’ and Mukaddam (Quran reading) courses.",
+    "mosqueType": "Leasehold"
   }
 }

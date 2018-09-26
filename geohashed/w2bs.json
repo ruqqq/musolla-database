@@ -1,0 +1,265 @@
+{
+  "w2bsmsxqjs": {
+    "address": "FELDA Chiku 05, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.991595,
+      "longitude": 102.205017
+    },
+    "name": "MASJID MUKIM CHALIL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e264b770-8871-405c-b4e3-e7b8e99b7fa1",
+    "geohash": "w2bsmsxqjs",
+    "remarks": "Masjid dibina oleh Kesedar pada tahun 1983.Masjid ini telah diluluskan untuk diguna sebagai tempat solat jumaat bagi penduduk Chalil pada tahun 1985. Masjid ini dibina untuk mengantikan surau yang kecil.",
+    "source_musolla_id": "MY-03-GM-00039",
+    "provision": "Masjid mengadakan kelas mengaji Al-quran, kuliah agama dan fardhu ain. Selain itu masjid mempunyai ruang parking untuk kereta dan motosikal dan mempunyai kemudahan seperti tandas dan tempat berwuduk..",
+    "directions": "Masjid terletak lebih kurang 25 km dari lebuhraya Paloh 2, Gua Musang ."
+  },
+  "w2bsqr4xud": {
+    "address": "Paloh 2, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.005617,
+      "longitude": 102.23142
+    },
+    "name": "MASJID MUKIM JERAM TEKUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "917ea4df-972f-4e23-bb55-b022fc5bf1f2",
+    "geohash": "w2bsqr4xud",
+    "remarks": "Masjid ini dibina pada tahun 1985 oleh pihak Kesedar untuk kemudahan penduduk Jeram Tekuh.Masjid ini juga menjadi tempat persinggahan Sultan Kelantan ketika melawat ke tempat ini.",
+    "source_musolla_id": "MY-03-GM-00029",
+    "provision": "Mempunyai tempat parking yang berbumbung manakala parking yang tidak berbumbung boleh memuatkan 20 buah kenderaan. Memiliki tempat wuduk dan tandas untuk kegunaan awam.Masjid ini menyediakan dewan untuk kegiatan penduduk dan mengadakan kelas fardu ain untuk penduduk kampung.Terdapat juga kuliah agama yang diadakan dua kali seminggu.",
+    "directions": "Terletak 6km dari lebuhraya Gua Musang yang menuju Kuala Krai. Lokasi masjid ini ialah 25km dari Bandar Gua Musang Kelantan."
+  },
+  "w2bsm9ec0p": {
+    "address": "FELDA Chiku 03, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.974274,
+      "longitude": 102.199979
+    },
+    "name": "MASJID MUKIM CHIKU 2",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ae06f506-e995-4d8c-a46f-9f0be1a3efaa",
+    "geohash": "w2bsm9ec0p",
+    "source_musolla_id": "MY-03-GM-00030",
+    "provision": "Masjid ini mempunyai laluan pejalan kaki berbumbung ke ruang solat dari tandas dan tempat wuduk. Mempunyai tempat parking berbumbung di kiri pintu menara masjid. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking yang boleh memuatkan lebih 20 buah kenderaan. Masjid juga mempunyai bilik bacaan di belakang bangunan masjid.",
+    "directions": "Masjid terletak di sebuah kampung dan kawasan felda. Masjid juga terletak 200 meter ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bsm9yxgz": {
+    "address": "Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.976802,
+      "longitude": 102.203912
+    },
+    "name": "MASJID MUKIM CHIKU 3",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "7a181a9b-9235-4e7d-bcb8-766d22db61a3",
+    "geohash": "w2bsm9yxgz",
+    "source_musolla_id": "MY-03-GM-00031",
+    "provision": "Masjid ini mempunyai sudut taman dan parking berbumbung di kiri masjid. Mempunyai bilik imam dan bilal serta pejabat untuk kemudahan ahli masjid.Mempunyai parking terbuka yang boleh memuatkan 30 buah kenderaan dan mempunyai van jenazah. Masjid ini mempunyai wakaf dan laluan pejalan kaki berbumbung ke tandas dan dilengkapi dengan kemudahan tandas",
+    "directions": "Masjid ini terletak di sebuah kampong dan 500 meter ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bsmsrx0j": {
+    "address": "56 Jalan Delima, FELDA Chiku 05, 18300 Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.990398,
+      "longitude": 102.205124
+    },
+    "name": "MASJID MUKIM CHIKU 5 & 6",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f1301e8a-c946-4ee8-bc6c-def596a76411",
+    "geohash": "w2bsmsrx0j",
+    "source_musolla_id": "MY-03-GM-00041",
+    "provision": "Terdapat kolam ditepi tempat parking berbumbung dan juga mempunyai bilik imam dan bilal.Parking yang berbumbung untuk AJK masjid dan parking terbuka lebih 30 buah kenderaan untuk dimuatkan juga turut disediakan.Terdapat wakaf sebagai tempat rehat awam. Masjid ini juga mempunyai pejabat dan dewan untuk kegunaan awam.",
+    "directions": "Lokasi masjid adalah bertempat di kampung atau felda. Masjid terletak 1km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bsmsr4v0": {
+    "address": "FELDA Chiku 05, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.989639,
+      "longitude": 102.204652
+    },
+    "name": "MASJID MUKIM CHIKU 7",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b60d2107-a117-4c11-857f-b7c0064a8bf1",
+    "geohash": "w2bsmsr4v0",
+    "source_musolla_id": "MY-03-GM-00042",
+    "provision": "Masjid mempunyai sudut taman dan parking berbumbung di kiri masjid. Mempunyai bilik imam dan bilal serta pejabat untuk kemudahan ahli masjid.Mempunyai parking terbuka yang boleh memuatkan 20 buah kenderaan dan mempunyai van jenazah. Masjid ini juga mempunyai wakaf dan laluan pejalan kakai berbumbung ke tandas  dan dilengkapi dengan kemudahan tandas",
+    "directions": "Masjid terletak di sebuah kampung atau felda dan 3km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bs0jynum": {
+    "address": "Galas, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.95465,
+      "longitude": 101.961553
+    },
+    "name": "MASJID MUKIM SETAR BARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cfa4e659-74ee-4192-b92d-c8d50b94961d",
+    "geohash": "w2bs0jynum",
+    "source_musolla_id": "MY-03-GM-00040",
+    "provision": "Masjid ini mempunyai tempat parking yang terbuka yang boleh memuatkan lebih 20 buah kenderaan. Selain itu,masjid ini juga mempunyai parking yang berbumbung di kanan pintu masuk masjid dan terdapat kolah atau tempat berwuduk di bahagian tepi perking berbumbung.",
+    "directions": "Masjid terletak di sebuah kampong dan merupakan berdekatan jalan alternatif ke Jeli. Masjid juga 10km dari Bandar Gua Musang."
+  },
+  "w2bsfshy2z": {
+    "address": "Kampung Limau Kasturi, Bertam, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.076795,
+      "longitude": 102.069554
+    },
+    "name": "MASJID MUKIM LIMAU KASTURI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2b3d7132-f496-496f-b6e8-c730217db942",
+    "geohash": "w2bsfshy2z",
+    "remarks": "Masjid ini telah dibina pada tahun 1979, dan dirasmikan oleh YBM Tengku Razali Hamzah pada tahun 1980. Masjid ini dibina untuk kemudahan penduduk kg Liman Kasturi solat jumaat serta akad dan nikah.",
+    "source_musolla_id": "MY-03-GM-00024",
+    "provision": "Kemudahan  yang dimiliki oleh masjid ini ialah mempunyai  ruang solat yang agak luas dan tempat berwuduk. Tandas juga dibina untuk kemudahan jemaah dan mempunyai ruang parking dalam yang terhad iaitu hanya 3 buah kereta boleh dimuatkan dalam satu masa.",
+    "directions": "Lokasi masjid terletak 18km dari lebuhraya Gua Musang  yang menuju ke Kuala Krai. Masjid adalah terletak lebih kurang 34km dari Bandar Gua Musang dan berdekatan dengan KG. Jeram Tekuh dan Bertam."
+  },
+  "w2bsmc3n16": {
+    "address": "Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.973729,
+      "longitude": 102.207243
+    },
+    "name": "MASJID MUKIM PALOH 1 & 2",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3f7f3595-54d5-4d91-9641-4d7f5e85c71f",
+    "geohash": "w2bsmc3n16",
+    "source_musolla_id": "MY-03-GM-00033",
+    "provision": "Kemudahan  yang dimiliki oleh masjid ini ialah mempunyai meja bulat dan dewan serbaguna untuk kemudahan jemaah dan pengunjung masjid. Ia juga mempunyai perpustakaan yang terletak di kanan pintu masjid dan dilengkapi pejabat sebagai tempat mengurus semua aktiviti masjid. Bilik imam juga diwujudkan disamping binaan laluan pejalan kaki berbumbung dari bilik wuduk dan tandas ke ruang solat untuk keselesaan masyarakat.",
+    "directions": "Masjid terletak di sebuah kampung dan 100meter ke jalan utama Gua Musang yang menuju ke Kuala Krai.. Lokasi masjid juga 200meter dari klinik desa Paloh."
+  },
+  "w2bs1jnvmw": {
+    "address": "Galas, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.950278,
+      "longitude": 102.006579
+    },
+    "name": "MASJID MUKIM PASIR TUMBUH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ca5aca7e-f7d3-4149-aa47-737cc06174dc",
+    "geohash": "w2bs1jnvmw",
+    "remarks": "Masjid dibina oleh Pejabat Tanah Jajahan Gua Musang dalam anggaran kos pembinaan Rm 30 000.00 pada tahun 1992. Masjid ini dibina untuk kemudahan penduduk Pasir Tumbuh untuk  solat berjemaah. Masjid ini dibina menggantikan madrasah untuk solat jumaat setelah mendapat kelulusan Majlis Agama Kelantan.",
+    "source_musolla_id": "MY-03-GM-00046",
+    "provision": "Masjid menyediakan peralatan kenduri seperti kawah, pinggan, meja untuk kegunaan penduduk setempat. masjid mempunyai tempat wuduk dan ruang solat bagi lelaki dan perempuan .Masjid ini juga mempunyai tempat parking motor dan kereta berbumbung dan terbuka yang dapat memuatkan 20 buah kereta dalam satu masa.",
+    "directions": "Lokasi masjid ini terletak 3km dari cabang masuk lebuhraya Gua Musang ke Jeli dan 40 km dari Bandar Gua Musang."
+  },
+  "w2bsx203z8": {
+    "address": "Paloh 3, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.010069,
+      "longitude": 102.272404
+    },
+    "name": "MASJID MUKIM PALOH 3",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8b3fc391-fc7b-4384-9150-c7205251ca59",
+    "geohash": "w2bsx203z8",
+    "remarks": "Masjid ini dibina oleh kesedar pada tahun 1984 untuk kemudahan penduduk  di atas tanah seluas  3 ekar untuk penduduk Paloh 3",
+    "source_musolla_id": "MY-03-GM-00465",
+    "provision": "Masjid dilengkapii garaj kereta dan tandas untuk kegunaan masyarakat. Terdapat dewan masakan untuk dapur seluas 50 x 20. Masjid mempunyai tanah perkuburan serta beberapa kerusi dan meja batu untuk tempat istirehat. Masjid juga mengadakan kelas fardu ain untuk orang dewas dan kanak-kanak.",
+    "directions": "Lokasi masjid terletak 6km dari cabang lebuhraya Gua Musang, yang menuju ke Kuala Krai manakala 1km dari kilang sawit kesedar Paloh 3 dan 60 km dari bandar Gua Musang."
+  },
+  "w2bs1cq3fe": {
+    "address": "Kampung Renok Baru, Galas, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.929061,
+      "longitude": 102.03872
+    },
+    "name": "MASJID MUKIM SUNGAI ASAP 'B'",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9388df3b-c28f-4d25-8a5f-f4229458ac92",
+    "geohash": "w2bs1cq3fe",
+    "remarks": "Masjid ini dibina oleh kesedar pada tahun 1980 untuk kemudahan penduduk sungai Asap â€˜Bâ€™.Masjid ini didirikan bagi memudahkan penduduk untuk mendirikan solat jumaat.Masjid ini menjadi tumpuan bagi pengguna lebuhraya Gua Musang yang menuju Kuala Krai Kerana ia berdekatan dengan lebuhraya.",
+    "source_musolla_id": "MY-03-GM-00018",
+    "provision": "Masjid ini mempunyai ruang parking yang agak luas dan tempat wuduk dan tandas untuk kegunaan awam.Masjid ini juga menjalankan kelas fardu agama pada waktu malam.",
+    "directions": "Lokasi masjid ini terletak 20 meter dari lebuhraya Gua Musang dan 18km dari Bandar Gua Musang Kelantan."
+  },
+  "w2bsm9y4qd": {
+    "address": "Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.975835,
+      "longitude": 102.203343
+    },
+    "name": "MASJID MUKIM CHIKU 1",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6ba5dfd6-71ba-429b-b814-713d96d9d365",
+    "geohash": "w2bsm9y4qd",
+    "source_musolla_id": "MY-03-GM-00566",
+    "provision": "Masjid mempunyai laluan pejalan kaki berbumbung yang menuju ke ruang solat dari tandas dan tempat wuduk. Masjid ini juga mempunyai tempat parking berbumbung di kiri pintu menara masjid dan dilengkapi wakaf sebagai tempat istirehat. Masjid ini juga dilengkapi pejabat bilik imam dan mempunyai tempat parking terbuka yang boleh memuatkan lebih 20 buah kenderaan.",
+    "directions": "Masjid terletak di sebuah kampung dan kawasan felda dan merupakan 2km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bs6bme65": {
+    "address": "Desa Cahaya, Galas, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.96777,
+      "longitude": 102.081624
+    },
+    "name": "MASJID MUKIM RPT LIMAU KASTURI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "c7b6c56d-3d84-4656-8690-e04633c78df1",
+    "geohash": "w2bs6bme65",
+    "source_musolla_id": "MY-03-GM-00462",
+    "provision": "Masjid tandas yang berada di luar kawasan luar masjid dan terdapat tempat berwuduk.Terdapat juga  tempat parking kereta dan motosikal.",
+    "directions": "Lokasi masjid ini terletak di dalam sebuah kampung,20km ke jalan utama Gua Musang yang menuju Kuala Krai."
+  },
+  "w2bsftqrgs": {
+    "address": "Bertam, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.083904,
+      "longitude": 102.071724
+    },
+    "name": "MASJID MUKIM KG. SERIAN BATU 11",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5133d573-740c-4072-8555-90d2bb0fc4d3",
+    "geohash": "w2bsftqrgs",
+    "source_musolla_id": "MY-03-GM-00043",
+    "provision": "Masjid ini mempunyai tempat parking yang berbumbung untuk motosikal dan ruang untuk meletakkan kenderaan. Mempunyai tempat mengambil wuduk lelaki dan perempuan serta kemudahan tandas awam.",
+    "directions": "Lokasi masjid ini terletak di dalam sebuah kampung. Masjid ini adalah 20km ke jalan utama Gua Musang yang menuju Kuala Krai."
+  },
+  "w2bs412ky8": {
+    "address": "Kampung Renok Baru, Galas, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.929558,
+      "longitude": 102.041638
+    },
+    "name": "MASJID MUKIM SUNGAI ASAP 'A'",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "db794f2c-4bae-4a45-9b4a-dfc3bdbac595",
+    "geohash": "w2bs412ky8",
+    "remarks": "Masjid ini telah dibina oleh Kesedar pada tahun 2001 untuk kemudahan penduduk Sungai Asap â€˜Aâ€™.Masjid  ini pernah memenangi pertandingan keindahan dan kecantikan untuk seluruh masjid di tanah kesedar pada tahun 2009 dan seterusnya menjadi contoh bagi masjid-masjid lain.",
+    "source_musolla_id": "MY-03-GM-00027",
+    "provision": "Masjid ini menyediakan alatan kenduri seperti kawah,pinggan, mangkuk cawan dan khemah.Masjid mempunyai parking yang luas iaitu boleh memuatkan lebih 30 buah kereta dalam satu masa. Masjid ini juga mengadakan kelas fardu ain untuk penduduk setempat.",
+    "directions": "Lokasi masjid terletak 700meter dari lebuhraya Gua Musang manakala 15 km dari  Bandar Gua Musang."
+  }
+}

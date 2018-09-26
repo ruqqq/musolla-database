@@ -1,0 +1,20 @@
+{
+  "w8c41ftx6m": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "0138137133",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.58532,
+      "longitude": 113.990811
+    },
+    "name": "MASJID NURUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "78ba35f1-c29e-4e54-b742-3ea7f30548c9",
+    "geohash": "w8c41ftx6m",
+    "remarks": "BANGUNAN MASJID INI TELAH DIBINA PADA TAHUN 1986 DENGAN PERUNTUKAN RM 50,000.00 DAN DILETAKKAN DI DALAM GRED IV IAITU GRED KAMPUNG.",
+    "source_musolla_id": "MY-13-MRI-00041",
+    "provision": "ANTARA KEMUDAHAN ASAS SEMASA YANG TELAH DISEDIAKAN SEPERTI RUANG SOLAT, DAPUR DAN BILIK PENGURUSAN JENAZAH.",
+    "directions": "MASJID INI TERLETAK DI KAMPUNG MASJID KUALA BARAM IAITU BERHAMPIRAN DENGAN SEMPADAN MIRI-BRUNEI DAN DIPISAHKAN DENGAN BANDARAYA MIRI OLEH SUNGAI BARAM."
+  }
+}

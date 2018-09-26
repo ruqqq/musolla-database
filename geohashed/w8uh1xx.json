@@ -1,0 +1,16 @@
+{
+  "w8uh1xxvr2": {
+    "address": "Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.963979,
+      "longitude": 118.201882
+    },
+    "name": "MASJID NUR SALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "97144d10-1990-4c95-b997-28774ebc1a34",
+    "geohash": "w8uh1xxvr2",
+    "source_musolla_id": "MY-12-LD-00017"
+  }
+}

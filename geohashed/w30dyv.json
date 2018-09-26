@@ -1,0 +1,36 @@
+{
+  "w30dyvqsp1": {
+    "address": "Panji, Kelantan, Malaysia 15400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.137931,
+      "longitude": 102.258993
+    },
+    "name": "MASJID MUKIM PADANG BONGOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f93cfab2-b89c-4848-8bff-3b54e7edd5f7",
+    "geohash": "w30dyvqsp1",
+    "remarks": "BANGUNAN INI DIDIRIKAN BAGI MENGGANTIKN SURAU YANG DIBINA DARI KAYU YANG TERLETAK BERHAMPIRAN TAPAK SEKARANG.SURAU YANG DAHULU DIDAPATI KECIL DAN TIDAK DAPAT MENAMPUNG KEPERLUAN JEMAAH YANG RAMAI.",
+    "source_musolla_id": "MY-03-KB-00260",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 20 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah berada 100m ke jalan menghubungkan Pengkalan Chepa.Masjid ini juga berada 100m Sekolah Maahad Muhammadi Lelaki."
+  },
+  "w30dyvtq1c": {
+    "address": "Panji, Kelantan, Malaysia 15400",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.139648,
+      "longitude": 102.257041
+    },
+    "name": "MASJID MUKIM SERING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "acb54120-b4a0-4de4-9093-6f0ac517d8c2",
+    "geohash": "w30dyvtq1c",
+    "remarks": "PADA AWALNYA DIBINA DARI KAYU DENGAN HASI GOTONG-ROYONG ORANG RAMAI,KEMUDIANYA DIBINA PULA DENGAN BATU DAN DIUBAHSUAI DARI SEMASA KESEMASA.",
+    "source_musolla_id": "MY-03-KB-00393",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas,tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 1km kejalan menghubungkan ke Sabak dan Bandar Kota Bharu."
+  }
+}

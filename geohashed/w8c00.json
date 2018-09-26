@@ -1,0 +1,19 @@
+{
+  "w8c00kv2cq": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "0198552144",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.245008,
+      "longitude": 113.92451
+    },
+    "name": "MASJID DARUL KHAIRAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f15db1d9-2abe-4167-a552-4169d23707a2",
+    "geohash": "w8c00kv2cq",
+    "source_musolla_id": "MY-13-MRI-00042",
+    "provision": "DI ANTARA KEMUDAHAN YANG TERDAPAT DI BANGUNAN MASJID INI IALAH PEJABAT, DAPUR DAN BILIK PENGURUSAN JENAZAH SERTA KERETA JENAZAH",
+    "directions": "MASJID DARUL KHAIRAT, KAMPUNG BAKAM TERLETAK DI KAWASAN PERSISIRAN PANTAI MIRI. MASJID INI MENJADI TUMPUAN BEBERAPA KAMPUNG BERDEKATAN KAMPUNG RAAN, KAMPUNG PUSIL, DAN KAMPUNG SIWAK JAYA SEBAGAI PUSAT IBADAH DI KAWASAN INI."
+  }
+}

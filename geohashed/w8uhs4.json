@@ -1,0 +1,16 @@
+{
+  "w8uhs4cx2h": {
+    "address": "91100 Lahad Datu, Sabah, Malaysia 91100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.026141,
+      "longitude": 118.30285
+    },
+    "name": "MASJID JAMEK DARUSSALAM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b3c48fc7-8798-4cf2-a186-d3259afdc0fd",
+    "geohash": "w8uhs4cx2h",
+    "source_musolla_id": "MY-12-LD-00018"
+  }
+}

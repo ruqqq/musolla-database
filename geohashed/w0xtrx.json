@@ -1,0 +1,20 @@
+{
+  "w0xtrxskbh": {
+    "address": "Bagan Nakhoda Omar, Selangor, Malaysia 45100",
+    "contact": "019-6313094",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.777389,
+      "longitude": 100.882312
+    },
+    "name": "MASJID UBUDIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "9b1f3c16-de14-420e-b7f0-20e98d02ecb2",
+    "geohash": "w0xtrxskbh",
+    "remarks": "Masjid ini telah dibangunkan dan siap pada akhir 1960an. Ianya telah dirasmikan oleh DYMM Sultan Selangor pada 23 Jun 1972.",
+    "source_musolla_id": "MY-10-SB-00152",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,pejabat,bilik imam,ketong, bilik mandi jenazah.",
+    "directions": "Masjid ini terletak berhampiran dengan jambatan Kampong Simpang 4 dan 500m dari jalan utama."
+  }
+}

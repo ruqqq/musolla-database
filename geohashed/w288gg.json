@@ -1,0 +1,19 @@
+{
+  "w288ggf06c": {
+    "address": "Peradong, Negeri Sembilan, Malaysia 76100",
+    "contact": "019-6356903",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.964984,
+      "longitude": 102.120788
+    },
+    "name": "MASJID KARIAH SUNGAI RELAI PERADONG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b0f013d7-fdd7-4345-aa19-f710341475d8",
+    "geohash": "w288ggf06c",
+    "remarks": "Telah dibina pada tahun 1972.Diasaskan oleh Allahyarham Tuan syed yusuf bin abdul rahman dan penduduk setempat.masjid ini telah dibaiki dan dinaiktaraf pada 1976,1993,2000,2007 dan 2009.",
+    "source_musolla_id": "MY-05-JLB-00202",
+    "provision": "Ruang solat,bilik imam,bilik air,stor,dapur,tempat penyembelihan,bilik mandi jenazah,bilik musafir."
+  }
+}

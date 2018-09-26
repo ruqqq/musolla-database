@@ -1,0 +1,90 @@
+{
+  "w2832fr6x3": {
+    "address": "Seksyen 5, Bandar Kinrara, Puchong, Selangor, Malaysia 47180",
+    "contact": "0126664952",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.045025,
+      "longitude": 101.644791
+    },
+    "name": "MASJID AL - EHSAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b787c8a9-5707-4b03-8042-df88923e8a40",
+    "geohash": "w2832fr6x3",
+    "source_musolla_id": "MY-10-PTG-00294",
+    "provision": "Antara kemudahan yang terdapat disini ialah dean, ruang parkir dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah di Bandar Puchong."
+  },
+  "w2832pu1dz": {
+    "address": "PJS 10, Taman Seri Subang, Petaling Jaya, Selangor, Malaysia 46150",
+    "contact": "0193016394",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.075095,
+      "longitude": 101.607183
+    },
+    "name": "MASJID AL -HUSNA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "28c30cc3-8814-42cb-8677-3ba170bb8636",
+    "geohash": "w2832pu1dz",
+    "remarks": "Perancangan pembinaan masjid ini diluluskan pada tahun 1999. Masjid ini dibina di atas tanah rizab di kawasan zon 24, Petaling Jaya Selatan.  Ianya dirasmikan oleh DYMM Sultan Sharafuddin Idris Shah pada 26/10/2004.",
+    "source_musolla_id": "MY-10-PTG-00259",
+    "provision": "Antara kemudahan yang terdapat ialah dewan syarahan, ruang solat, perpustakaaan, bilik pengurusan jenazah,HPA halal mart, ruang makan terbuka dan landskap.",
+    "directions": "Berhampiran Sunway Pyramid, kawasan perumahan PJS 8-10, LDP dan NPE."
+  },
+  "w2832rfkw6": {
+    "address": "PJS 6, Kg. Lindungan, Petaling Jaya, Selangor, Malaysia 46150",
+    "contact": "0192753538",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.075584,
+      "longitude": 101.615915
+    },
+    "name": "MASJID AL - ISLAMIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "09d4b6c9-be37-4110-9626-e8bbe6abc734",
+    "geohash": "w2832rfkw6",
+    "remarks": "Pada asalnya adalah sebuah surau yang dibina pada tahun 1987 dan telah dinaik taraf sebagai masjid pada tahun 1998. Kini, masjid ini sedang diperbesarkan dan masih lagi dalam peringkat pembinaan.",
+    "source_musolla_id": "MY-10-PTG-00262",
+    "provision": "Antara kemudahan ialah penghawa dingin,van jenazah,ruang solat dan tempat wuduk.",
+    "directions": "Lokasi masjid ini adalah berdekatan dengan jalan utama lebuhraya NPE,berhampiran kontena nasional dan kilang Guiness Stout."
+  },
+  "w28325745r": {
+    "address": "Jalan Industri USJ 1/10, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia 47600",
+    "contact": "0122407550",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.050464,
+      "longitude": 101.605827
+    },
+    "name": "MASJID AL-IRSYAD",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6c1cb981-f751-44c4-968d-c297e84e9c5b",
+    "geohash": "w28325745r",
+    "remarks": "Masjid ini merupakan masjid pertama di USJ 1. Ia dibina untuk menampung jemaah yang pesat bertambah berikutan dari surau yang sedia ada tidak dapat menampung kapasiti penduduk.",
+    "source_musolla_id": "MY-10-PTG-00383",
+    "provision": "Masjid ini mempunyai ruang yang luas, bilik mandi, bilik tetamu dan juga ruang pejabat.",
+    "directions": "Masjid ini berada bersebelahan Petronas USJ 1 dan Jalan Utama."
+  },
+  "w2832u9w19": {
+    "address": "Jalan Puchong, Taman Bukit Kuchai, 47190 Puchong, Selangor, Malaysia 47190",
+    "contact": "0122122635",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.057985,
+      "longitude": 101.636656
+    },
+    "name": "MASJID AL - AMIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "0b37d385-3204-4ac3-b975-a3f31d80a06a",
+    "geohash": "w2832u9w19",
+    "source_musolla_id": "MY-10-PTG-00297",
+    "provision": "Antara kemudahan yang terdapat ialah alat penghawa dingin dan  ruangan solat yang selesa.",
+    "directions": "Masjid ini terletak didalam kawasan perumahan di Taman Tenaga,  2km daripada pekan Puchong."
+  }
+}

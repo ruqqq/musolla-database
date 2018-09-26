@@ -1,0 +1,32 @@
+{
+  "w309tdnk2u": {
+    "address": "Kampung Lubuk Mak Udang, Pulai Chondong, Kelantan, Malaysia 16600",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.900413,
+      "longitude": 102.203445
+    },
+    "name": "MASJID MUKIM LAHA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4e1db2c1-bb82-4d2f-933e-cd1e16813ea6",
+    "geohash": "w309tdnk2u",
+    "source_musolla_id": "MY-03-MCG-00175",
+    "provision": "Kemudahan yang terdapat di masjid ini ialah stor yang dijadikan sebagai tempat menyimpan barang.Tandas, tempat  wuduk lelaki dan perempuan juga disediakan di masjid ini.Tempat parking berbumbung turut disediakan di masjid ini hanya untuk motosikal dan kereta.Selain itu,terdapat juga tempat parking terbuka  yang dapat memuatkan 10 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung masjid ini ialah 4km ke jalan utama machang ke Kota Bharu.Lokasi masjid ini ialah 18km dari bandar Machang."
+  },
+  "w309ttkx9g": {
+    "address": "Ketereh, Kelantan, Malaysia 16450",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.918816,
+      "longitude": 102.201084
+    },
+    "name": "MASJID MUKIM KEMUBU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3b49831a-29c1-4618-bbd8-ec390c40828f",
+    "geohash": "w309ttkx9g",
+    "source_musolla_id": "MY-03-KB-00384"
+  }
+}

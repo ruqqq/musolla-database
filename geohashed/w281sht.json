@@ -1,0 +1,20 @@
+{
+  "w281shttk2": {
+    "address": "Kapar, Selangor, Malaysia 42200",
+    "contact": "03-2315274",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.101797,
+      "longitude": 101.433519
+    },
+    "name": "MASJID KHALID BIN AL-WALID",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "448cc3be-9708-4649-9a0e-dc867435cf78",
+    "geohash": "w281shttk2",
+    "remarks": "Masjid yang baru siap dibina pada tahun 2011 menggantikan masjid lama di Jalan Padang Tembak yang dulunya kecil dan sudah usang.",
+    "source_musolla_id": "MY-14-WKL-00032",
+    "provision": "Mempunyai pejabat yang bertugas di waktu pejabat.",
+    "directions": "Masjid ini berada di Jalan Padang Tembak berdekatan kawasan Angkatan Tentera Malaysia."
+  }
+}

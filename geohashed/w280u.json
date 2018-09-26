@@ -1,0 +1,54 @@
+{
+  "w280unkhj0": {
+    "address": "Jalan Pandamaran, Kampung Pandamar, 42000 Klang, Selangor, Malaysia 42000",
+    "contact": "019-2233390",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.979358,
+      "longitude": 101.431494
+    },
+    "name": "MASJID KAMPUNG PENDAMAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "46cfcd05-9b98-4a37-8203-27387f943d94",
+    "geohash": "w280unkhj0",
+    "remarks": "Masjid ini telah dibina pada tahun 80 an diatas tanah tapak Lot 3120 yang diwakafkan oleh Almarhum Tuan Hj Asraf. Diawal pembinaannya keluasan tanah ialah suku ekar.",
+    "source_musolla_id": "MY-10-KLG-00223",
+    "provision": "Antara kemudahan yang terdapat ialah pejabat, van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian.",
+    "directions": "Masjid ini terletak di tepi Jalan Langat berhampiran dengan Sekolah Agama (KAFA Integrasi) Kampong Pendamaran.."
+  },
+  "w280unkhj2": {
+    "address": "Jalan Pandamaran, Kampung Pandamar, 42000 Klang, Selangor, Malaysia 42000",
+    "contact": "012-4991448",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.97936,
+      "longitude": 101.431505
+    },
+    "name": "MASJID AR - RAHMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4016e645-a3f7-4cf6-b2c1-87995bfdf704",
+    "geohash": "w280unkhj2",
+    "source_musolla_id": "MY-10-KLG-00212",
+    "provision": "Antara kemudahan yang terdapat ialah pejabat,ruang parking yang luas,  van jenazah, khidmat urusan jenazah, program kuliah pengajian dan tazkirah harian.",
+    "directions": "Masjid ini terletak di kawasan taman perumahan Pandamaran Jaya"
+  },
+  "w280u8hqhf": {
+    "address": "Telok Panglima Garang, Selangor, Malaysia 42500",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.945377,
+      "longitude": 101.453801
+    },
+    "name": "MASJID JAMIUL EHSANI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "dadf5907-a4f6-4ae4-bde0-cc3879192b6b",
+    "geohash": "w280u8hqhf",
+    "remarks": "Masjid asal adalah dikawasan tanah perkuburan yang agak jauh dari kampong ini dimana penduduk kampong terpaksa menggunakan laluan laut untuk kemasjid. Diatas keperluan penduduk, maka masjid ini telah dibina pada tahun 1930an dan dirasmikan oleh YTM Tengku Azman Shah Alhaj Ibni Almarhum Sultan Hishamuddin Alam Shah, Pemangku Raja Selangor pada tanggal 12 July 1996.",
+    "source_musolla_id": "MY-10-KL-00099",
+    "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  van jenazah dan urusan jenazah dan  ruangan solat yang luas, pondok rehat dan dewan serbaguna.",
+    "directions": "Masjid ini terletak didalam kawasan perkampongan, 4km daripada pekan Sijangkang."
+  }
+}

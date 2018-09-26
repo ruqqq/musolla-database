@@ -1,0 +1,17 @@
+{
+  "w0zg1hexn9": {
+    "address": "33000 Sayong, Perak, Malaysia 33000",
+    "contact": "0175322181",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.772024,
+      "longitude": 100.947478
+    },
+    "name": "MASJID KHAIRIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "21837e54-b35b-442e-ad41-1dfcdd953800",
+    "geohash": "w0zg1hexn9",
+    "source_musolla_id": "MY-08-KK-00386"
+  }
+}

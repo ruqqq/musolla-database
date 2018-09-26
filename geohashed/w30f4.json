@@ -1,0 +1,84 @@
+{
+  "w30f4nm70u": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.011433,
+      "longitude": 102.399825
+    },
+    "name": "MASJID MUKIM KUALA MELAWI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "440794fd-1f4f-4ece-a5e3-36591f377838",
+    "geohash": "w30f4nm70u",
+    "source_musolla_id": "MY-03-BCK-00551",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parkir yang berbumbung untuk meletakkan kenderaan. Masjid juga dilengkapi keranda dan mempunyai tempat untuk memandikan mayat. Terdapat kolah di kawasan masjid.",
+    "directions": "Masjid terletak di tepi jalan. Masjid terletak di antara jalan yang menghubungkan dari Pantai Melawi dengan Jelawat dan lokasi masjid hanya terletak 40meter dari Pantai Melawi."
+  },
+  "w30f4c9qsu": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.985942,
+      "longitude": 102.427468
+    },
+    "name": "MASJID MUKIM BERIS LALANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "71471f5c-9e5e-4362-9171-c2f26e00950b",
+    "geohash": "w30f4c9qsu",
+    "source_musolla_id": "MY-03-BCK-00552",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan motor. Masjid juga dilengkapi keranda dan mempunyai tempat untuk memandikan mayat. Terdapat kolah di kawasan masjid untuk mengambil wuduk.",
+    "directions": "Masjid terletak di tepi jalan. Masjid terletak di antara jalan yang menghubungkan dari Jelawat ke Tok Bali manakala lokasi masjid hanya terletak 10km dari Pantai Bali dan 18km dari Bandar Bachok. Masjid ini juga berdekatan dengan Sekolah Beris Lalang dan Klinik Desa Beris Lalang."
+  },
+  "w30f49m5xv": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.984059,
+      "longitude": 102.421758
+    },
+    "name": "MASJID MUKIM KUALA KANDIS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4a9e4744-f1a4-46b8-8c4a-0be45dcded9f",
+    "geohash": "w30f49m5xv",
+    "remarks": "Masjid ini dibina atas tanah yang telah diwakafkan. Tanah yang diwakafkan oleh Hajah Som dibina sebuah masjid untuk keperluan penduduk. Pengasas masjid ini ialah Allahyarham Haji Meme.",
+    "source_musolla_id": "MY-03-BCK-00479",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan motor. Masjid juga dilengkapi keranda dan mempunyai tempat untuk memandikan mayat. Terdapat kolah di kawasan masjid dan mempunyai stor untuk menyimpan barang barang milik masjid.",
+    "directions": "Masjid terletak dalam kawasan kampung dan berhadapan dengan pantai kandis. Masjid terletak di antara jalan yang menghubungkan dari Pantai Melawi ke Tok Bali dan lokasi masjid hanya terletak 10km dari Pantai Bali."
+  },
+  "w30f4qphg3": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 6.010345,
+      "longitude": 102.413317
+    },
+    "name": "MASJID MUKIM LO'OK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b12ef6a1-9e9f-48d4-bbfc-800ba3b3e8c2",
+    "geohash": "w30f4qphg3",
+    "remarks": "Masjid dibina pada tahun 2012.Masjid kini dalam proses pembinaan untuk pengubahsuaian supaya dapat memperbesarkan ruang solat. Masjid juga sedang dinaiktaraf untuk memberi keselesaan kepada masyarakat.",
+    "source_musolla_id": "MY-03-BCK-00525",
+    "provision": "Masjid menyediakan kemudahan tandas serta tempat berwuduk  lelaki dan perempuan untuk kemudahan pengunjung masjid.Selain itu, masjid ini mempunyai keranda serta tempat mandi mayat supaya pengurusan jenazah dapat dilakukan.",
+    "directions": "Lokasi masjid terletak di sebelah jalan iaitu jalan yang menhubungkan Bekalam dan Bukit Merak. Masjid hanya 25km dari Bandar Bachok"
+  },
+  "w30f49thtf": {
+    "address": "Melawi, Kelantan, Malaysia 16300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.985588,
+      "longitude": 102.421667
+    },
+    "name": "MASJID MUKIM BE'OH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2b8a0d5d-6db7-40b0-88ab-b317e2018beb",
+    "geohash": "w30f49thtf",
+    "source_musolla_id": "MY-03-BCK-00510",
+    "provision": "Masjid ini menyediakan kemudahan tandas serta tempat wuduk lelaki dan perempuan yang berasingan untuk kemudahan pengunjung masjid. Masjid mempunyai ruang parking yang berbumbung untuk meletakkan kenderaan dan mempunyai rak-rak untuk meletakkan Al-quran.",
+    "directions": "Masjid terletak di tepi jalan sebuah kawasan kampung. Lokasi masjid hanya 50km dari Bandar Bachok dan terletak berdekatan dengan Klinik Desa Beâ€™oh. 500meter lagi terdapat SMK Sri Kemunting yang berdekatan dengan masjid ini."
+  }
+}

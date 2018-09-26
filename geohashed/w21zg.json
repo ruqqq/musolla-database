@@ -67,7 +67,7 @@
     ]
   },
   "w21zg9rb5z": {
-    "address": "2,Seranggon North Avenue 2, Singapore 555876",
+    "address": "2 Serangoon North Avenue 2, Singapore 555876",
     "contact": "6281 4287",
     "createdAt": "2014-12-23T06:50:22.156Z",
     "location": {
@@ -78,7 +78,9 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:47.043Z",
     "uuid": "707522c6-ab2d-413f-a989-9c05529d7c25",
-    "geohash": "w21zg9rb5z"
+    "geohash": "w21zg9rb5z",
+    "remarks": "At one glance, the masjid blends the architectural flavours of buildings in the Middle East, Nusantra and Mauritius. Its cream and turquoise-green structure stands proudly amidst the housing estate in Serangoon. One of the newest masjids under the Mosque Building Fund, it was completed in May 1999 and can accommodate up to 3300 people at any given time. Located in the Northeast, it is dubbed the multimedia masjid for its IT facilities.",
+    "mosqueType": "MBMF"
   },
   "w21zg16qgm": {
     "address": "5140 Ang Mo Kio Central Avenue 6, S(569844)",

@@ -1,0 +1,48 @@
+{
+  "w29mxm0zqv": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "contact": "09-5165818",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.808038,
+      "longitude": 103.327736
+    },
+    "name": "MASJID NEGERI SULTAN AHMAD 1",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "581868ed-4b8b-42b3-85b2-f9eb1cc2c832",
+    "geohash": "w29mxm0zqv",
+    "remarks": "Masjid Negeri Sultan Ahmad I terletak di Bandar Kuantan. Masjid ini dirasmikan oleh Sultan Haji Ahmad Shah Al-Mustain Billah Ibni Almarhum Sultan Abu Bakar pada 21 Oktober 1994 Masihi.\n\nNama masjid ini diambil sempena nama pemerintah Pahang pertama, Sultan Ahmad Al-Mu'adzam Shah yang ditabal sebagai raja selepas mengalahkan Bendahara Wan Mutahir lewat 1890.\n\nMasjid Terbesar di Pahang\nMasjid Sultan Ahmad Shah I ini merupakan masjid yang terbesar di negeri Pahang dan menjadi kebanggaan kepada rakyat negeri. Menara masjidnya berukuran setinggi 180 kaki dan menjadikan ia antara masjid yang terkenal.Masjid ini  mampu memuatkan sekurang-kurangnya 8,000 orang.",
+    "source_musolla_id": "MY-06-KTN-00001",
+    "directions": "Ianya terletak di tengah-tengan Bandar Kuantan, ibu negeri Pahang. Terletak di Jalan Mahkota, masjid ini terletak di pusat bisnes yang sibuk. Di sekitar masjid ini terdapat bangunan-bangunan kerajaan, bank-bank dan kedai-kedai. Bersebelahan masjid ini ialah sebuah padang bola yang luas."
+  },
+  "w29mxtj152": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.806939,
+      "longitude": 103.344419
+    },
+    "name": "MASJID TANJUNG API",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ebef2cae-ec76-4048-bc1f-d3f0e4940d75",
+    "geohash": "w29mxtj152",
+    "remarks": "Masjid ini dibina berdasarkan seni bina masjid Melayu. Sebagaimana lazimnya masjid bercirikan tempatan seperti ini menitikberatkan keadaan iklim dan sosio budaya masyarakat Melayu setempat terutama di sekitar Pantai Timur. Konsep begini diterapkan juga pada sebahagian masjid di Pantai Barat Semenanjung.",
+    "source_musolla_id": "MY-06-KTN-00088"
+  },
+  "w29mxsd38d": {
+    "address": "Kuantan, Pahang, Malaysia 25200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.804288,
+      "longitude": 103.340524
+    },
+    "name": "MASJID TANJUNG LUMPUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "13bcb7d0-7b82-4448-8688-24fee2815dd4",
+    "geohash": "w29mxsd38d",
+    "source_musolla_id": "MY-06-KTN-00083"
+  }
+}

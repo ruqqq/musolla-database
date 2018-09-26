@@ -1,0 +1,19 @@
+{
+  "w289puuqqk": {
+    "address": "Pertang, Negeri Sembilan, Malaysia 72000",
+    "contact": "06-4951034",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.01547,
+      "longitude": 102.299815
+    },
+    "name": "MASJID KARIAH EHSANIAH FELDA PASOH ( 4 )",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d2429c58-3bec-411c-acbd-5b355ed6ae1a",
+    "geohash": "w289puuqqk",
+    "remarks": "dibina oleh Felda untuk kemudahan warga Felda Pasoh 4.",
+    "source_musolla_id": "MY-05-JLB-00208",
+    "provision": "Pusat Jalur Lebar (PJL)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "w23b1gt51j": {
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "contact": "6363 1383",
+    "createdAt": "2018-09-07T19:09:28+08:00",
+    "location": {
+      "latitude": 1.4260206,
+      "longitude": 103.7947605
+    },
+    "name": "Yusof Ishak Mosque",
+    "type": "Mosque",
+    "updatedAt": "2018-09-07T19:09:28+08:00",
+    "uuid": "067ecc8d-d1ea-4018-9f23-0bb60d8dd3d1",
+    "geohash": "w23b1gt51j",
+    "remarks": "Masjid Yusof Ishak is the 71st mosque in Singapore today, and the fourth mosque built under Phase 4 [1] of the Mosque Building Programme. It is Singapore’s 26th mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). Masjid Yusof Ishak is designed with a unique architecture blending traditional mosque characteristics with Nusantara heritage and elements, while also addressing functional requirements. Distinctive features of a tropical Nusantara house, such as eaves/overhangs, verandah, decorative fixed ventilation panels and beautifully crafted balustrades, are reinterpreted and expressed in a modern way befitting this new generation mosque.",
+    "mosqueType": "MBMF"
+  }
+}

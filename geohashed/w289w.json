@@ -1,0 +1,68 @@
+{
+  "w289w9vfmc": {
+    "address": "Triang Hilir, Negeri Sembilan, Malaysia 72400",
+    "contact": "013-2490557",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.08618,
+      "longitude": 102.246916
+    },
+    "name": "MASJID FELCRA BELIA LAKAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "677aea47-e588-4d8f-9a02-60710b464a54",
+    "geohash": "w289w9vfmc",
+    "remarks": "dibina oleh ahli jawatankuasa kariah dengan bantuan kerajaan. Semasa dibina ahli jemaah adalah seramai 100 orang. Masjid ini telah dibaiki dan dibesarkan pada tahun 1991 dan 2007. pada masa ini ahli jemaahtelah bertambah seramai 180 orang. Tapak masjid ini telah diwakafkan oleh kerajaan negeri.",
+    "source_musolla_id": "MY-05-JLB-00210"
+  },
+  "w289wtu313": {
+    "address": "Triang Hilir, Negeri Sembilan, Malaysia 72400",
+    "contact": "013-2296103",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.107938,
+      "longitude": 102.244669
+    },
+    "name": "MASJID KARIAH SUNGAI BULOH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "12467623-61e1-41dd-acf4-4756a73f7135",
+    "geohash": "w289wtu313",
+    "remarks": "Masjid Kg Sungai Buluh didirikan pada zaman darurat iaitu pada tahun 1955 ketika pemerintahan British pada masa itu dalam usaha menghapuskan komunis telah memindahkan penduduk ke Kg Tradisional dari pendalaman ke penempatan baru yang dikenakan perintah berkurung dan catuan makanan. Penduduk berasal dari Kg Bemban, kg kerdau, dan kg ing semasa pindah penduduk telah membawa bersama masjid yang hanya bersaiz kecil dan dibuat dari bahan batu/simen. Penempatan baru diberi nama Kg. Sungai Buluh kerana ditempat baru ini terdapat banyak pokok buluh.",
+    "source_musolla_id": "MY-05-JLB-00211"
+  },
+  "w289wh7jw3": {
+    "address": "Triang Hilir, Negeri Sembilan, Malaysia 72400",
+    "contact": "019-2554292",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.100471,
+      "longitude": 102.221192
+    },
+    "name": "MASJID JAMEK SIMPANG DURIAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "573d33f8-7a5d-4b19-a289-f4c3ad5fba88",
+    "geohash": "w289wh7jw3",
+    "remarks": "Telah mula dibina pada tahun 1960.Masjid ini telah dibangunkan oleh kerajaan negeri.masjid ini dibina diatas tanah seluas 1/4 ekar di pekan simpang durian.Masjid ini telah dibaiki pada tahun 1979,1986,1992,2002,dan 2007.",
+    "source_musolla_id": "MY-05-JLB-00188",
+    "provision": "ruang solat,bilik air lelaki dan perempuan,bilik imam,kelas fardhu ain.",
+    "directions": "berhampiran pekan simpang durian dan di tepi jalan utama ke Bentong Pahang."
+  },
+  "w289wrgu8b": {
+    "address": "Triang Hilir, Negeri Sembilan, Malaysia 72400",
+    "contact": "06-4914126",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.119519,
+      "longitude": 102.232972
+    },
+    "name": "MASJID KARIAH KAMPUNG MENTAUS",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "707db226-8113-4bca-af95-376dedd6283a",
+    "geohash": "w289wrgu8b",
+    "remarks": "telah dibina pada tahun 1982 dengan peruntukan daripada kerajaan negeri diatas tanah yang diwakafkan oleh salah seorang penduduk kampung.Bangunan asal didirikan dalam tahun 1930 secara gotong royong ditepi sungai jerang dan sebuah bangunan masjid baru didirikan di atas tapak masjid sekarang kerana masjid lama selalu dinaiki air.",
+    "source_musolla_id": "MY-05-JLB-00212"
+  }
+}

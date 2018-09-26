@@ -1,0 +1,16 @@
+{
+  "w0zq2e2b0u": {
+    "address": "Mukim 6 Batu Hitam, Balik Pulau, Pulau Pinang, Malaysia 11000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.335262,
+      "longitude": 100.218357
+    },
+    "name": "MASJID KAMPONG PAYA SIMPANG 4 GENTING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8c3c23c1-5255-45de-80fc-c2571a3753e1",
+    "geohash": "w0zq2e2b0u",
+    "source_musolla_id": "MY-07-BD-00053"
+  }
+}

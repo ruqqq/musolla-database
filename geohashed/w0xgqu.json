@@ -1,0 +1,19 @@
+{
+  "w0xgqu5zt5": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "019-2104838",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.40707,
+      "longitude": 101.200438
+    },
+    "name": "MASJID KG. SUNGAI GULANG - GULANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a3bda374-b19e-4ced-9701-ee4623c8d634",
+    "geohash": "w0xgqu5zt5",
+    "source_musolla_id": "MY-10-KSR-00328",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, wakaf, tandas,beduk dan dapur.",
+    "directions": "Masjid ini terletak di tepi jalan utama Kuala Selangor."
+  }
+}

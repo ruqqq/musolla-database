@@ -1,0 +1,19 @@
+{
+  "w2861m3wp6": {
+    "address": "Kampung Sungai Udang, Kuala Lumpur, Wilayah Persekutuan, Malaysia 52000",
+    "contact": "03-62595562",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.193947,
+      "longitude": 101.658873
+    },
+    "name": "MASJID AL-QURTUBI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d4066b1a-b97d-4f7d-b493-c4a88dca8d6d",
+    "geohash": "w2861m3wp6",
+    "source_musolla_id": "MY-14-WKL-00043",
+    "provision": "Masjid ini menyediakan Sekolah Agama dan mempunyai deretan rumah untuk kakitangan masjid.",
+    "directions": "Masjid ini berada berdekatan kawasan perumahan Taman Sri Segambut."
+  }
+}

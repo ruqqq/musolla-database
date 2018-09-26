@@ -1,0 +1,16 @@
+{
+  "w8gb6evy53": {
+    "address": "Tawau, Sabah, Malaysia 91000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.284335,
+      "longitude": 117.891341
+    },
+    "name": "MASJID BABUS SAADAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "90e8c4a6-0b31-4804-af35-601f40360ea6",
+    "geohash": "w8gb6evy53",
+    "source_musolla_id": "MY-12-TAW-00094"
+  }
+}

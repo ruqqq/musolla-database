@@ -1,0 +1,44 @@
+{
+  "w0zmw4nrbr": {
+    "address": "Mukim 11, Seberang Perai Selatan, Pulau Pinang, Malaysia 14300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.197902,
+      "longitude": 100.467588
+    },
+    "name": "MASJID CHANGKAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "cd53662f-e8a1-4d72-8772-c63762f0542c",
+    "geohash": "w0zmw4nrbr",
+    "source_musolla_id": "MY-07-SPS-00136"
+  },
+  "w0zmurjgeg": {
+    "address": "Mukim 16, Pulau Pinang, Malaysia 14100",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.268566,
+      "longitude": 100.390148
+    },
+    "name": "MASJID PULAU AMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "711b6ef6-429e-4be7-92e0-9328076a615d",
+    "geohash": "w0zmurjgeg",
+    "source_musolla_id": "MY-07-SPS-00143"
+  },
+  "w0zmjtkcz6": {
+    "address": "Bagan Tiang, Perak, Malaysia 34250",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.126811,
+      "longitude": 100.443853
+    },
+    "name": "MASJID BATU 3",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6c4315b4-e694-4298-bc31-dc780f4b80d4",
+    "geohash": "w0zmjtkcz6",
+    "source_musolla_id": "MY-07-SPS-00134"
+  }
+}

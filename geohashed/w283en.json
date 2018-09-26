@@ -1,0 +1,17 @@
+{
+  "w283enej9f": {
+    "address": "Kampung Bukit, 56000 Cheras (Kuala Lumpur), Wilayah Persekutuan, Malaysia 56000",
+    "contact": "03-22422255",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.112834,
+      "longitude": 101.737601
+    },
+    "name": "MASJID AR-RAHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "6e81a0ba-ea2c-4fb6-9dbb-35753f312d44",
+    "geohash": "w283enej9f",
+    "source_musolla_id": "MY-14-WKL-00059"
+  }
+}

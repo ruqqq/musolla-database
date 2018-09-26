@@ -1,0 +1,20 @@
+{
+  "w2855sn5dh": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "0172843589",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.362444,
+      "longitude": 101.412139
+    },
+    "name": "MASJID JAMI'UL HASANAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "45adf975-62f6-41a6-9e70-e113cadf0a20",
+    "geohash": "w2855sn5dh",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 22 April 1977",
+    "source_musolla_id": "MY-10-KSR-00321",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mandi jenazah,bilik mesyuarat,pejabat dan beduk.",
+    "directions": "Masjid ini terletak bersebelahan dengan Sekolah Agama Jaya Setia dan Sekolah Kebangsaan Jaya Setia."
+  }
+}

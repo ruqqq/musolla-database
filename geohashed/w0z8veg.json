@@ -1,0 +1,19 @@
+{
+  "w0z8vegm0f": {
+    "address": "Sitiawan, Perak, Malaysia 32000",
+    "contact": "0195468708",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.372057,
+      "longitude": 100.793071
+    },
+    "name": "MASJID AL RABBANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "59bac2fe-66f0-440e-b259-dd5f53f9d0ae",
+    "geohash": "w0z8vegm0f",
+    "source_musolla_id": "MY-08-MJG-00025",
+    "provision": "-tempat wuduk\r\n-telekung\r\n-sejadah\r\n-ruang makan\r\n-ruang memasak\r\n-parkir\r\n-kedai perniagaan\r\n-tandas awam\r\n-kerusi orang kurang upaya",
+    "directions": "jalan utama - 7 km ke bandar ayer tawar, 16km ke pekan beruas"
+  }
+}

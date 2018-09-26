@@ -1,0 +1,17 @@
+{
+  "w0zfk0tdrb": {
+    "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
+    "contact": "019-5647577",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.617391,
+      "longitude": 101.082109
+    },
+    "name": "MASJID AL -AULIA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "629b1b8e-b290-473f-a935-e1626f0c6b97",
+    "geohash": "w0zfk0tdrb",
+    "source_musolla_id": "MY-08-IPH-00161"
+  }
+}

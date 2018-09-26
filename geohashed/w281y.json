@@ -1,0 +1,72 @@
+{
+  "w281yj14zf": {
+    "address": "Shah Alam, Selangor, Malaysia 40000",
+    "contact": "0193332992",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.148071,
+      "longitude": 101.515381
+    },
+    "name": "MASJID AL - ISTIQAMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "914d656f-00ec-40c1-b44d-89149d8f7979",
+    "geohash": "w281yj14zf",
+    "source_musolla_id": "MY-10-PTG-00242",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah ,mandi jenazah wakaf,pejabat, bilik imam dan juga dewan makan, rumah imam dan juga siak  masjid ini juga berhawa dingin.",
+    "directions": "Masjid ini terletak di kawasan perumahan  dan juga berdekatan dengan sekolah."
+  },
+  "w281ymmx5s": {
+    "address": "U6, Kampung Melayu Subang, Shah Alam, Selangor, Malaysia 40150",
+    "contact": "0173517689",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.150181,
+      "longitude": 101.532371
+    },
+    "name": "MASJID AN - NUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "79c36975-8871-44f8-ae2e-5e778e0b2fb6",
+    "geohash": "w281ymmx5s",
+    "remarks": "Orang ramai bergotong-royong membuat separuh dari masjid ini dan selebihnya dari peruntukan.",
+    "source_musolla_id": "MY-10-PTG-00281",
+    "provision": "Antara kemudahan yang ada ialah kolam untuk termpat berwuduk bagi lelaki, perpustakaan, ruang membaca dan kelas Firdaun Ain.",
+    "directions": "Masjid ini berada di kawasan kampung dan berada 5km dari Lapangan Terbang SAAS."
+  },
+  "w281y7c4pu": {
+    "address": "U6, Taman Desa Subang Permai, Shah Alam, Selangor, Malaysia 40150",
+    "contact": "0192728143",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.141086,
+      "longitude": 101.526368
+    },
+    "name": "MASJID AT - TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "3593c7bb-4b42-4b6c-813b-4ed6eef79b99",
+    "geohash": "w281y7c4pu",
+    "remarks": "Masjid ini pernah menganjurkan kenduri untuk orang ramai dan penduduk setempat dengan menumbangkan 2 ekor lembu dan peristiwa bersejarah di mana pernah menganjurkan majlis khatam Al-Quran yang disertai oleh 37 orang.",
+    "source_musolla_id": "MY-10-PTG-00283",
+    "provision": "Kemudahan yang terdapat pada masjid ini ialah tempat letak kereta yang luas beserta tempat mengurut kaki bagi jemaah merehatkan diri di masjid selepas bersolat.",
+    "directions": "Sebelah jalan utama menhala ke Kg.Melayu Subang dan di tepi Guthri Highway."
+  },
+  "w281ytvscp": {
+    "address": "Shah Alam, Selangor, Malaysia 40000",
+    "contact": "0193304652",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.15256,
+      "longitude": 101.543249
+    },
+    "name": "MASJID TAMAN SUBANG PERDANA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d4e0e5e2-13a2-4d6c-820f-547c27453021",
+    "geohash": "w281ytvscp",
+    "source_musolla_id": "MY-10-PTG-00378",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,mandi jenazah,sudut kuliah /pembelajaran,bilik guru kafa,pejabat ,bilik mesyuarat dan juga dapur.",
+    "directions": "Masjid ini berada berdekatan Sekolah Subang Permai. Lokasi masjid ini terletak lebih kurang 3 kilometer dari lapangan terbang."
+  }
+}

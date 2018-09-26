@@ -1,0 +1,35 @@
+{
+  "w284mp30hq": {
+    "address": "Ijok, Selangor, Malaysia 45600",
+    "contact": "012-3689567",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.247866,
+      "longitude": 101.471291
+    },
+    "name": "MASJID AT - TAUFIQIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4f815bd3-f004-4041-b5dc-46e56f8e4fbc",
+    "geohash": "w284mp30hq",
+    "source_musolla_id": "MY-10-KSR-00319",
+    "directions": "Masjid ini terletak dikawasan perkampongan Kampong Seri Sentosa, Bistari Jaya."
+  },
+  "w284m0ynw5": {
+    "address": "Saujana Utama 1, Ijok, Selangor, Malaysia 47000",
+    "contact": "019-3320076",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.213264,
+      "longitude": 101.478224
+    },
+    "name": "MASJID AN-NUR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "110be59b-dbf6-4661-b98f-4566035c683b",
+    "geohash": "w284m0ynw5",
+    "source_musolla_id": "MY-10-KSR-00372",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat.",
+    "directions": "Masjid ini terletak di kawasan perumahan dan 16km dari pekan Sungai Buloh."
+  }
+}

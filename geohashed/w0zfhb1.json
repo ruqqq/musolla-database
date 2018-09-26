@@ -1,0 +1,17 @@
+{
+  "w0zfhb1rru": {
+    "address": "Hulu Kinta, Kinta, Perak, Malaysia 30010",
+    "contact": "019-5599636",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.571583,
+      "longitude": 101.109236
+    },
+    "name": "MASJID JAMEK KG. MELAYU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ffa2c5f1-5122-4ef7-b79e-ce254ea24899",
+    "geohash": "w0zfhb1rru",
+    "source_musolla_id": "MY-08-IPH-00180"
+  }
+}

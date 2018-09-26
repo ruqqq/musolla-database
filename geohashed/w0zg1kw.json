@@ -1,0 +1,17 @@
+{
+  "w0zg1kw388": {
+    "address": "Sayong, Perak, Malaysia 33000",
+    "contact": "0175735865",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.771072,
+      "longitude": 100.961983
+    },
+    "name": "MASJID IDRISIAH II",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "247539e3-2092-4d49-b69e-bdc54ac6c162",
+    "geohash": "w0zg1kw388",
+    "source_musolla_id": "MY-08-KK-00359"
+  }
+}

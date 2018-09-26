@@ -1,7 +1,7 @@
 {
   "w21z7zpx3z": {
     "address": "583 Geylang Road, Singapore 389522",
-    "contact": "6747 5607",
+    "contact": "67475607",
     "createdAt": "2014-12-23T06:50:22.391Z",
     "location": {
       "latitude": 1.314149,
@@ -11,6 +11,8 @@
     "type": "Mosque",
     "updatedAt": "2014-12-23T06:55:56.423Z",
     "uuid": "0ca2524b-9518-460d-8ad3-9224629d9087",
-    "geohash": "w21z7zpx3z"
+    "geohash": "w21z7zpx3z",
+    "remarks": "Built in 1920, the masjid is currently being restored to its original splendour. Named after the wealthy lady who donated $50000 in 1916 to build this masjid, restoration works was completed in 2001. The masjid located in the Central part of Singapore has a current capacity of 500 people. Its activities include computer classes, training and youth programmes as well as tuition.",
+    "mosqueType": "Wakaf"
   }
 }

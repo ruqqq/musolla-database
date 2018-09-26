@@ -1,0 +1,35 @@
+{
+  "w30c6cvn9s": {
+    "address": "Semerak, Kelantan, Malaysia 16700",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.855482,
+      "longitude": 102.432473
+    },
+    "name": "MASJID MUKIM BUKIT AWANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "83f50544-cffb-40f0-8736-2fb8e2f4c118",
+    "geohash": "w30c6cvn9s",
+    "remarks": "Tanah tapak masjid ini telah diwakafkan oleh orang perseorangan.Dana bagi proses pembinaan masjid ini telah disumbangkan oleh Tengku Razaleigh iaitu sebanyak RM100,000.Pada asalnya masjid ini merupakan sebuah surau dan pengasas masjid ini ialah Haji Mat b. Haji Abdullah.",
+    "source_musolla_id": "MY-03-PP-00425",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini terletak 200 meter dari jalan Petai yang menuju ke Semerak.Lokasi masjid ini ialah 9km dari bandar Pasir Puteh."
+  },
+  "w30c6cuuth": {
+    "address": "Kampung Kulim Hilir, Semerak, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.855135,
+      "longitude": 102.43228
+    },
+    "name": "MASJID MUKIM GONG KULIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f6b4b205-5af5-42b6-9761-711de99f5915",
+    "geohash": "w30c6cuuth",
+    "source_musolla_id": "MY-03-PP-00433",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 10km dari bandar Pasir Puteh."
+  }
+}

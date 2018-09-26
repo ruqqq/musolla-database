@@ -1,0 +1,68 @@
+{
+  "w8c11vz670": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "019-4878770",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.426507,
+      "longitude": 113.993245
+    },
+    "name": "MASJID NUR HIJRAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "546f47d7-007d-4151-8ffc-bd329e446148",
+    "geohash": "w8c11vz670",
+    "source_musolla_id": "MY-13-MRI-00273"
+  },
+  "w8c11be3gv": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "0198383740",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.397607,
+      "longitude": 113.987786
+    },
+    "name": "MASJID JAMEK",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "08cf4c35-b3d5-4536-969f-178e7f766968",
+    "geohash": "w8c11be3gv",
+    "remarks": "BANGUNAN MASJID INI TELAH DIBINA PADA TAHUN 1954 YANG MANA MERUPAKAN ANTARA BANGUNAN BERSEJARAH DI BANDARAYA MIRI DAN LAMBANG KEPADA PENINGKATAN SYIAR ISLAM DI MIRI. MASJID INI MEMPUNYAI NILAI WARISAN YANG SANGAT BERHARGA BAGI MASYARAKAT ISLAM DI BAHAGIAN MIRI.",
+    "source_musolla_id": "MY-13-MRI-00275",
+    "provision": "DI ANTARA KEMUDAHAN YANG TERDAPAT DI MASJID INI IALAH RUANG SOLAT YANG BERHAWA DINGIN DAN SELESA DAN DEWAN SERBAGUNA YANG BOLEH MEMUATKAN SERAMAI 150 ORANG.",
+    "directions": "KEDUDUKAN MASJID INI TERLETAK DI LOT 481, JALAN MERBAU, 98000 MIRI, SARAWAK. MASJID INI TERLETAK BERSEBELAHAN DENGAN MEGA HOTEL MIRI DAN SEKOLAH AGAMA RAKYAT MIRI."
+  },
+  "w8c11cq5nq": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "012-8728758",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.401947,
+      "longitude": 113.99167
+    },
+    "name": "MASJID AT-TAQWA MIRI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "fbe6afff-b6cc-42f5-a0ee-ddf585538a65",
+    "geohash": "w8c11cq5nq",
+    "source_musolla_id": "MY-13-MRI-00419"
+  },
+  "w8c11cmfvv": {
+    "address": "Miri, Sarawak, Malaysia 98000",
+    "contact": "0128728758",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.401898,
+      "longitude": 113.991307
+    },
+    "name": "MASJID AT-TAQWA MIRI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f0d25019-9988-4245-9b75-a7aabfbad5ed",
+    "geohash": "w8c11cmfvv",
+    "remarks": "MASJID AT TAQWA MIRI TERLETAK DI TENGAH-TENGAH PUSAT BANDARAYA MIRI. MASJID INI TELAH DIRASMIKAN PADA 30 OGOS 1983 BERSAMAAN 14 ZULHIJJAH 1405H OLEH MANTAN YUAN YANG TERUTAMA YANG DI-PERTUA NEGERI SARAWAK ALLAHYARHAM TUN AHMAD ZAIDI ADRUCE.",
+    "source_musolla_id": "MY-13--00414",
+    "provision": "DI ANTARA KEMUDAHAN YANG  TERDAPAT DI BANGUNAN INI IALAH BILIK-BILIK TETAMU KHAS ()VIP), BILIK MUSAFIR, BILIK TETAMU, DEWAN SEBAGUNA, KANTIN, BILIK KELAS,BILIK MESYUARAT DAN KEDAI GUNTING RAMBUT (LELAKI)",
+    "directions": "KEDUDUKAN STRATEGIK MASJID INI TERLETAK DIATAS LOT 398 JALAN MERPATI MIRI.KEDUDUKAN DI TENGAH PUSAT BANDAR."
+  }
+}

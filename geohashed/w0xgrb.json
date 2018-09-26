@@ -1,0 +1,20 @@
+{
+  "w0xgrbpcnn": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "019-3066808",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.383998,
+      "longitude": 101.249919
+    },
+    "name": "MASJID RAHMANI KAMPUNG PERMATANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4d712502-9f81-4539-86fc-cd376397dee6",
+    "geohash": "w0xgrbpcnn",
+    "remarks": "Masjid ini telah dibina oleh penduduk kampung pada tahun 60an dengan menggunakan konsep gotong royong. Ianya telah sempurna dirasmikan pada 1/1/1970.",
+    "source_musolla_id": "MY-10-KSR-00333",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik mesyuarat dan pejabat.",
+    "directions": "Masjid ini terletak di kawasan kampung 2km dari pekan Kuala Selangor dan berhadapan dengan kubur."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "w285kmcfqv": {
+    "address": "Bestari Jaya, Selangor, Malaysia 45000",
+    "contact": "019-6007800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.41579,
+      "longitude": 101.439461
+    },
+    "name": "MASJID UNISEL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b3def283-14d2-4e34-bcd9-e50d2200481b",
+    "geohash": "w285kmcfqv",
+    "remarks": "Masjid ini dibina khas untuk warga universiti Selangor dan dibina bersama-sama dengan bangunan lain didalam kampus UNISEL ini.",
+    "source_musolla_id": "MY-10-KSR-00368",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf,van jenazah,pejabat.unit agama dan pembangunan imam.",
+    "directions": "Masjid ini terletak di dalam kawasan UNISEL"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w0zrrzr4qp": {
+    "address": "Kampung Guar Lobak, Sidam Kanan, Kedah, Malaysia 09400",
+    "contact": "04-4851182",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.533417,
+      "longitude": 100.545769
+    },
+    "name": "JAMEK DARUL AMAN guar lobak",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ff0ff29e-97ea-4187-a199-e23c71ca7381",
+    "geohash": "w0zrrzr4qp",
+    "source_musolla_id": "MY-02-KLM-00361"
+  }
+}

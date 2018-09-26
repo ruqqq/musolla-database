@@ -1,0 +1,19 @@
+{
+  "w281mfk42n": {
+    "address": "Seksyen 17, Shah Alam, Selangor, Malaysia 40200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.045008,
+      "longitude": 101.508184
+    },
+    "name": "MASJID RIADHUS SOLIHIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b30c4dee-bea0-4301-aa88-44398750b34a",
+    "geohash": "w281mfk42n",
+    "remarks": "Masjid ini merupakan masjid pertama di Seksyen 17. Ia ditubuhkan untuk menjadi tempat beribadah dan tempat ilmu utama di Seksyen 17.",
+    "source_musolla_id": "MY-10-PTG-00244",
+    "provision": "Kemudahan yang disediakan di masjid ini ialah ruang parkir motor yang lengkap berbumbung, rak yang banyak untuk letak kasut dan juga air tempayan di pintu utama masjid untuk mencuci kaki.",
+    "directions": "Masjid ini berada dalam kawasan perumahan seksyen 17."
+  }
+}

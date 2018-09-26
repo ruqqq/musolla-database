@@ -1,0 +1,38 @@
+{
+  "w28629rv5t": {
+    "address": "Kuala Lumpur, Wilayah Persekutuan, Malaysia 50050",
+    "contact": "03-62741336",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.21576,
+      "longitude": 101.634336
+    },
+    "name": "MASJID AMANIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2db98239-b9d3-42b4-b36b-08c8e7886ee2",
+    "geohash": "w28629rv5t",
+    "remarks": "Masjid ini pada asalnya kecil sahaja dan dibina diantara Jalan Besar Kepong dan Sungai. Bagi memenuhi keperluan umat islam disekitar ini, maka ianya diperbesarkan dan dibina masjid indah ditepi Jalan Kepong ini.",
+    "source_musolla_id": "MY-14-WKL-00029",
+    "provision": "Antara kemudahan yang terdapat dimasjid ini ialah bilik mesyuarat,  ruang parkir , khidmat pengurusan jenazah danKelas Pengajian Al Quran dan Fardhu Ain.        \n\nPihak masjid juga menyediakan rumah untuk kakitangan pengurusan masjid yang terletak didalam kawasan masjid ini.",
+    "directions": "Masjid ini tersergam indah ditepi jalan Batu 5 Â½ Jalan Puchong dari Jalan Klang Lama menuju Puchong. Ianya terletak berhampiran dengan Klinik Kesihatan Petaling Bahagia."
+  },
+  "w28629k7w1": {
+    "address": "Kepong, Kuala Lumpur, Wilayah Persekutuan, Malaysia 52100",
+    "contact": "03-62753305",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.215481,
+      "longitude": 101.629634
+    },
+    "name": "MASJID AL - FAIZIN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f1776a15-a917-4b29-bb2d-61e1b006f2e0",
+    "geohash": "w28629k7w1",
+    "remarks": "Masjid ini dibina apabila terbinanya taman perumahan Taman Desa jaya dan Taman Ehsan pada tahun 1984 diatas sebuah tapak yang dianugerahkan oleh pemaju taman perumahan ini. Ianya telah dirasmikan oleh  DYMM Sultan Salahuddin Abdul aziz Shah pada tahun 1987.                                    \r\n\r\nMasjid ini dibina atas kesepakatan penduduk yang mana Ianya difikirkan perlu adanya sebuah masjid di kawasan perumahan ini.,  yang mana masjid ini akan digunakan sebagai tempat ibadah umat-umat islam di sekitarnya.",
+    "source_musolla_id": "MY-10-GBK-00061",
+    "provision": "Masjid ini mempunyai dewan solat utama untuk lelaki dan perempuan serta dewan solat tambahan di sebelah luarnya ..\r\n\r\nSelain itu , terdapat juga rumah imam/bilal , bilik stor , pejabat , bilik mesyuarat , dapur , tempat wudhuk lelaki dan wanita ,van jenazah dan tempat memandikan jenazah.\r\n \r\nDari segi keselamatan masjid ini juga terdapat  kamera litar tertutup (CCTV). Terdapat juga taman permainan  dan lapangan riadah untuk kanak-kanak sekitar bermain.\r\n\r\nDi bahagian luar masjid terdapat ruang letak kereta terbuka mampu meletakkan lebih 20 kereta dalam satu-satu masa dalam kawasan masjid sahaja.",
+    "directions": "Masjid ini terletak di kawasan perumahan di Taman Ehsan.\r\n\r\nDari Bandar Selayang pula lebih kurang hanya tiga kilometer sahaja. Masjid ini juga bersempadan diantara Selangor dan Wilayah."
+  }
+}

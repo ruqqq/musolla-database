@@ -1,0 +1,20 @@
+{
+  "w282bus2tw": {
+    "address": "Kampung Pulau Meranti, Puchong, Selangor, Malaysia 47120",
+    "contact": "013-2716394",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.969177,
+      "longitude": 101.640603
+    },
+    "name": "MASJID MERANTI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "16b44698-b45f-470a-bd88-8ca9cb1d971d",
+    "geohash": "w282bus2tw",
+    "remarks": "Mula dibina pada tahun 2004 dan siap sepenuhnya pada tahun 2007. Dibina bagi menggantikan masjjid lama iatu Masjid Nur Hidayah, kini ialah menjadi pusat jagaan orang -orang tua.",
+    "source_musolla_id": "MY-10-SPG-00132",
+    "provision": "Mempunyai pejabat dan bilik mesyuarat",
+    "directions": "Masjid ini terletak berhampiran dengan Putrajaya dan Putra Perdana"
+  }
+}

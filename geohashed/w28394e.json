@@ -1,0 +1,19 @@
+{
+  "w28394esv1": {
+    "address": "Seksyen 3, Petaling Jaya, Selangor, Malaysia 46000",
+    "contact": "0192213907",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.090729,
+      "longitude": 101.650539
+    },
+    "name": "MASJID JAMEK SULTAN ABDUL AZIZ",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "8b649ada-f7e3-4958-832d-c83d9eafc0fe",
+    "geohash": "w28394esv1",
+    "source_musolla_id": "MY-10-PTG-00264",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir, pejabat , dewan dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah dikawasan perumahan di Jalan Templer, Petaling Jaya."
+  }
+}

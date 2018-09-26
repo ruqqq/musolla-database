@@ -1,0 +1,20 @@
+{
+  "w288us4r50": {
+    "address": "Peradong, Negeri Sembilan, Malaysia 76100",
+    "contact": "017-6539973",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.967513,
+      "longitude": 102.154106
+    },
+    "name": "MASJID KARIAH SUNGAI PAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ee3fc9df-b7ab-4119-9f18-2842976a1856",
+    "geohash": "w288us4r50",
+    "remarks": "Telah dibina pada tahun 1965 M,diatas tapak yang telah diwakafkan oleh Allahyarham Tuan Haji said bin othman.Sejarah awal pembinaan hasil kerjasama Dato Dato lembaga dengan penduduk setempat di tepi sungai pah pada 1910.Masjid yang ada sekarang telah dibaiki dan dinaiktaraf pada 1982,2006,2007,2009",
+    "source_musolla_id": "MY-05-JLB-00214",
+    "provision": "ruang solat,bilik imam,bilik air,tempat wuduk,stor.",
+    "directions": "terletak berhampiran sungai."
+  }
+}

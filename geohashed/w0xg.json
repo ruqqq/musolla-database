@@ -1,0 +1,174 @@
+{
+  "w0xgrbpcnn": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "019-3066808",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.383998,
+      "longitude": 101.249919
+    },
+    "name": "MASJID RAHMANI KAMPUNG PERMATANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "4d712502-9f81-4539-86fc-cd376397dee6",
+    "geohash": "w0xgrbpcnn",
+    "remarks": "Masjid ini telah dibina oleh penduduk kampung pada tahun 60an dengan menggunakan konsep gotong royong. Ianya telah sempurna dirasmikan pada 1/1/1970.",
+    "source_musolla_id": "MY-10-KSR-00333",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah, bilik mesyuarat dan pejabat.",
+    "directions": "Masjid ini terletak di kawasan kampung 2km dari pekan Kuala Selangor dan berhadapan dengan kubur."
+  },
+  "w0xgqpqhvn": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "010-4322089",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.424463,
+      "longitude": 101.170564
+    },
+    "name": "MASJID AT-TAQWA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1fdfa5ba-83d4-4f47-a258-4d2242a6686a",
+    "geohash": "w0xgqpqhvn",
+    "source_musolla_id": "MY-10-KSR-00358",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,dapur, van jenazah,pejabat dan beduk.",
+    "directions": "Lokasi masjid ini terletak di kawasan kampung dan 10 km dari pekan Kuala Selangor."
+  },
+  "w0xgpzzvr3": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "012-9140988",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.383326,
+      "longitude": 101.24997
+    },
+    "name": "MASJID AHMADIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "523626d0-fefa-451a-b926-bc0df54f294e",
+    "geohash": "w0xgpzzvr3",
+    "source_musolla_id": "MY-10-KSR-00329",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat, bilik mesyuarat dan van jenazah",
+    "directions": "Lokasi masjid terletak di kawasan kampung dan bersebelahan dengan Sekolah Rendah Agama Ujang Permatang."
+  },
+  "w0xgpbr0ke": {
+    "address": "Kampung Tanjung Keramat, Kuala Selangor, Selangor, Malaysia 45000",
+    "contact": "012-3081543",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.341277,
+      "longitude": 101.248825
+    },
+    "name": "MASJID PEKAN KUALA SELANGOR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "dba823ea-8554-46bd-8a75-6e973882fe84",
+    "geohash": "w0xgpbr0ke",
+    "source_musolla_id": "MY-10-KSR-00331",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, bilik mesyuarat dan bilik bacaan.",
+    "directions": "Masjid ini terletak di dalam pekan Kuala Selangor dan berdekatan mahkamah syariah Kuala Selangor."
+  },
+  "w0xgw3e87z": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "019-3724843",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.436058,
+      "longitude": 101.178067
+    },
+    "name": "MASJID JAMIUL HASANAT",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a15b2925-5e8c-414e-afc2-63263a19a3f3",
+    "geohash": "w0xgw3e87z",
+    "source_musolla_id": "MY-10-KSR-00302",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf,bilik imam dan bilal.,van jenazah, pejabat,penghawa dingin.",
+    "directions": "Masjid ini terletak ditepi jalan utama dari pekan tanjung karang ke sabak bernam dan 1km dari pekan tanjung karang."
+  },
+  "w0xgxqu51t": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "019-3773541",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.465359,
+      "longitude": 101.222606
+    },
+    "name": "MASJID JAMIUL AHMADY",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a0f7505-6a37-4f31-bb22-4b6d211f2b39",
+    "geohash": "w0xgxqu51t",
+    "source_musolla_id": "MY-10-KSR-00307",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, tandas, bilik mesyuarat,pejabat dan dapur",
+    "directions": "Masjid ini terletak di dalam kawasan perkampungan melayu."
+  },
+  "w0xgtqw17z": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "013-2109161",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.463697,
+      "longitude": 101.137559
+    },
+    "name": "MASJID AR - RAHMAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2f4391c1-294b-4276-bff2-49046fa9a043",
+    "geohash": "w0xgtqw17z",
+    "source_musolla_id": "MY-10-KSR-00316",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,mandi jenazah,pejabat bilik mesyuarat dan juga wakaf untuk berehat.",
+    "directions": "Masjid ini terletak di tepi jalan utama Tanjung Karang ke Sabak Bernam.Lebih kurang 6 kilometer dari pekan Tanjung Karang."
+  },
+  "w0xgqpqhvh": {
+    "address": "Tanjung Karang, Selangor, Malaysia 45500",
+    "contact": "019-6113086",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.424455,
+      "longitude": 101.170569
+    },
+    "name": "MASJID AR - RAUDHAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "05a7784d-96ef-40db-a57d-f1ca425421b1",
+    "geohash": "w0xgqpqhvh",
+    "remarks": "Masjid ini telah dirasmikan oleh DYMM Sultan Selangor pada 16 Jun 1989.",
+    "source_musolla_id": "MY-10-KSR-00318",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,wakaf,bilik imam dan bilal.,van jenazah, terdapat 5 lot kedai, perpustakaan, taman, rumah imam dan bilal.",
+    "directions": "Masjid ini terletak ditepi jalan utama dari Kuala Selangor ke Sabak Bernam dan ianya terletak di pekan Tanjung Karang."
+  },
+  "w0xgqu5zt5": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "019-2104838",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.40707,
+      "longitude": 101.200438
+    },
+    "name": "MASJID KG. SUNGAI GULANG - GULANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a3bda374-b19e-4ced-9701-ee4623c8d634",
+    "geohash": "w0xgqu5zt5",
+    "source_musolla_id": "MY-10-KSR-00328",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, wakaf, tandas,beduk dan dapur.",
+    "directions": "Masjid ini terletak di tepi jalan utama Kuala Selangor."
+  },
+  "w0xgrpuq3h": {
+    "address": "Hujong Permatang, Selangor, Malaysia 45500",
+    "contact": "017-3370804",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.427459,
+      "longitude": 101.211936
+    },
+    "name": "MASJID DARUL IMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "03eb8c97-5a30-4358-9a4b-37672752e995",
+    "geohash": "w0xgrpuq3h",
+    "source_musolla_id": "MY-10-KSR-00334",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah,pejabat,bilik mesyuarat dan tempat urus jenazah.",
+    "directions": "Lokasi masjid ini terletak di kawasan kampung, berdekatan balai JKIKK, Sekolah Agama Parit Serong dan Sekolah Kebangsaan Parit Serong."
+  }
+}

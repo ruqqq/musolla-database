@@ -1,0 +1,51 @@
+{
+  "w2bsmsxqjs": {
+    "address": "FELDA Chiku 05, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.991595,
+      "longitude": 102.205017
+    },
+    "name": "MASJID MUKIM CHALIL",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "e264b770-8871-405c-b4e3-e7b8e99b7fa1",
+    "geohash": "w2bsmsxqjs",
+    "remarks": "Masjid dibina oleh Kesedar pada tahun 1983.Masjid ini telah diluluskan untuk diguna sebagai tempat solat jumaat bagi penduduk Chalil pada tahun 1985. Masjid ini dibina untuk mengantikan surau yang kecil.",
+    "source_musolla_id": "MY-03-GM-00039",
+    "provision": "Masjid mengadakan kelas mengaji Al-quran, kuliah agama dan fardhu ain. Selain itu masjid mempunyai ruang parking untuk kereta dan motosikal dan mempunyai kemudahan seperti tandas dan tempat berwuduk..",
+    "directions": "Masjid terletak lebih kurang 25 km dari lebuhraya Paloh 2, Gua Musang ."
+  },
+  "w2bsmsrx0j": {
+    "address": "56 Jalan Delima, FELDA Chiku 05, 18300 Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.990398,
+      "longitude": 102.205124
+    },
+    "name": "MASJID MUKIM CHIKU 5 & 6",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "f1301e8a-c946-4ee8-bc6c-def596a76411",
+    "geohash": "w2bsmsrx0j",
+    "source_musolla_id": "MY-03-GM-00041",
+    "provision": "Terdapat kolam ditepi tempat parking berbumbung dan juga mempunyai bilik imam dan bilal.Parking yang berbumbung untuk AJK masjid dan parking terbuka lebih 30 buah kenderaan untuk dimuatkan juga turut disediakan.Terdapat wakaf sebagai tempat rehat awam. Masjid ini juga mempunyai pejabat dan dewan untuk kegunaan awam.",
+    "directions": "Lokasi masjid adalah bertempat di kampung atau felda. Masjid terletak 1km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  },
+  "w2bsmsr4v0": {
+    "address": "FELDA Chiku 05, Chiku, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.989639,
+      "longitude": 102.204652
+    },
+    "name": "MASJID MUKIM CHIKU 7",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "b60d2107-a117-4c11-857f-b7c0064a8bf1",
+    "geohash": "w2bsmsr4v0",
+    "source_musolla_id": "MY-03-GM-00042",
+    "provision": "Masjid mempunyai sudut taman dan parking berbumbung di kiri masjid. Mempunyai bilik imam dan bilal serta pejabat untuk kemudahan ahli masjid.Mempunyai parking terbuka yang boleh memuatkan 20 buah kenderaan dan mempunyai van jenazah. Masjid ini juga mempunyai wakaf dan laluan pejalan kakai berbumbung ke tandas  dan dilengkapi dengan kemudahan tandas",
+    "directions": "Masjid terletak di sebuah kampung atau felda dan 3km ke jalan utama Gua Musang yang menuju ke Kuala Krai."
+  }
+}

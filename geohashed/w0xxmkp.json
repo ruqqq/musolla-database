@@ -1,0 +1,17 @@
+{
+  "w0xxmkpyzb": {
+    "address": "Batu 14 Lekir, Lekir, Perak, Malaysia 32020",
+    "contact": "0195655024",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 4.110046,
+      "longitude": 100.788567
+    },
+    "name": "MASJID AL-KHAIRIAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "17eb75ef-e6f2-40ee-8b8b-da264d81aa86",
+    "geohash": "w0xxmkpyzb",
+    "source_musolla_id": "MY-08-MJG-00040"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "w2pr03fe9r": {
+    "address": "Sri Aman, Sarawak, Malaysia 95000",
+    "contact": "083-322532",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 1.240721,
+      "longitude": 111.459793
+    },
+    "name": "MASJID BESAR SRI AMAN",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d874aa9a-d5ef-418f-b92e-4742a1838815",
+    "geohash": "w2pr03fe9r",
+    "source_musolla_id": "MY-13-SA-00032"
+  }
+}

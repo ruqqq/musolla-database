@@ -1,0 +1,19 @@
+{
+  "w281vnb5mb": {
+    "address": "Kampung Budiman, Shah Alam, Selangor, Malaysia 40170",
+    "contact": "0123258952",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.157756,
+      "longitude": 101.469982
+    },
+    "name": "MASJID AL - FALAH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "859d5d89-25ae-4edd-99fc-a2ae9d4ee053",
+    "geohash": "w281vnb5mb",
+    "source_musolla_id": "MY-10-PTG-00253",
+    "provision": "Antara kemudahan yang terdapat ialah ruang parkir, tempat wuduk dan ruang solat yang selesa.",
+    "directions": "Lokasi masjid ini ialah dikawasan perkampongan di Kampong Budiman, Meru."
+  }
+}

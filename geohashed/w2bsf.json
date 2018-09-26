@@ -1,0 +1,35 @@
+{
+  "w2bsfshy2z": {
+    "address": "Kampung Limau Kasturi, Bertam, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.076795,
+      "longitude": 102.069554
+    },
+    "name": "MASJID MUKIM LIMAU KASTURI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2b3d7132-f496-496f-b6e8-c730217db942",
+    "geohash": "w2bsfshy2z",
+    "remarks": "Masjid ini telah dibina pada tahun 1979, dan dirasmikan oleh YBM Tengku Razali Hamzah pada tahun 1980. Masjid ini dibina untuk kemudahan penduduk kg Liman Kasturi solat jumaat serta akad dan nikah.",
+    "source_musolla_id": "MY-03-GM-00024",
+    "provision": "Kemudahan  yang dimiliki oleh masjid ini ialah mempunyai  ruang solat yang agak luas dan tempat berwuduk. Tandas juga dibina untuk kemudahan jemaah dan mempunyai ruang parking dalam yang terhad iaitu hanya 3 buah kereta boleh dimuatkan dalam satu masa.",
+    "directions": "Lokasi masjid terletak 18km dari lebuhraya Gua Musang  yang menuju ke Kuala Krai. Masjid adalah terletak lebih kurang 34km dari Bandar Gua Musang dan berdekatan dengan KG. Jeram Tekuh dan Bertam."
+  },
+  "w2bsftqrgs": {
+    "address": "Bertam, Kelantan, Malaysia 18300",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.083904,
+      "longitude": 102.071724
+    },
+    "name": "MASJID MUKIM KG. SERIAN BATU 11",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5133d573-740c-4072-8555-90d2bb0fc4d3",
+    "geohash": "w2bsftqrgs",
+    "source_musolla_id": "MY-03-GM-00043",
+    "provision": "Masjid ini mempunyai tempat parking yang berbumbung untuk motosikal dan ruang untuk meletakkan kenderaan. Mempunyai tempat mengambil wuduk lelaki dan perempuan serta kemudahan tandas awam.",
+    "directions": "Lokasi masjid ini terletak di dalam sebuah kampung. Masjid ini adalah 20km ke jalan utama Gua Musang yang menuju Kuala Krai."
+  }
+}

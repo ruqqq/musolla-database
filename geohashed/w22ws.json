@@ -1,0 +1,37 @@
+{
+  "w22ws04ncj": {
+    "address": "Chengkau, Negeri Sembilan, Malaysia 71300",
+    "contact": "019-2074135",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.550019,
+      "longitude": 102.131706
+    },
+    "name": "MASJID JAMEK TANAH DATAR",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "716aeb79-6a50-493f-817b-18fabd1d8e9c",
+    "geohash": "w22ws04ncj",
+    "remarks": "Masjid ini telah dibina pada awal tahun 1900M. Pengasasnya ialah Allahyarham Tuan Haji Ahmad bin Haji Sail.\n\nTapak masjid ini telah diwakafkan oleh penduduk setempat. Mereka telah bekerjasama beramai-ramai bagi mewujudkan sebuah masjid atau tempat beribadah yang selesa. Masjid ini telah dibaiki pembinaannya dari masa  ke semasa.\n     \nPada tahun 1984M, kerajaan telah bersetuju untuk membantu penduduk sekitar bagi mendirikan sebuah masjid yang baru. Masjid ini pernah dibaiki dan dinaik taraf pada tahun 1984M, 1995M, 1997M sehinggalah pada tahun 2009M.\n\nSemasa dibina ahli jemaah cuma seramai 40 orang sahaja akan tetapi kini ia meningkat seramai 300 orang jemaah pada satu-satu masa.",
+    "source_musolla_id": "MY-05-RB-00082",
+    "provision": "1. Ruang solat lelaki dan wanita\n3. Tempat wudhuk\n4. Tandas\n5. Ruang pengurusan jenazah \n6. Ruang makan jemaah     \n7. Masjid lama",
+    "directions": "Lokasi masjid ini terletak berhampiran Jalan Seremban-Tampin."
+  },
+  "w22wsytndu": {
+    "address": "71300 Miku, Negeri Sembilan, Malaysia 71300",
+    "contact": "019-2278699",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 2.585673,
+      "longitude": 102.168857
+    },
+    "name": "MASJID KARIAH MIKU LAMA",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "463a43e5-8371-414b-9453-4694863944f8",
+    "geohash": "w22wsytndu",
+    "remarks": "Masjid Kariah Miku Lama telah dibina pada tahun  1945M. Pengasasnya ialah penduduk setempat yang juga mewakafkanya tapak masjid ini.\n\nAhli kariah telah mendirikan masjid sebelum tahun 1945M lagi dan apabila berlaku perpindahan zaman darurat ( 1948-1960 ) ramai penduduk berpindah kekawasan penempatan baru dan tidak pulang ke Miku. Oleh sebab itulah masjid Miku tidak dibesarkan sehingga kini.\n\nSemasa dibina ahli jemaah adalah cuma 40 orang dan kini ia berkurangan menjadi 15 orang sahaja.",
+    "source_musolla_id": "MY-05-RB-00102",
+    "provision": "1.\tRuang solat lelaki dan wanita\n2.\tTempat wudhuk\n3.\tTandas\n4.\tParking kereta dan motosikal"
+  }
+}

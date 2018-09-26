@@ -1,0 +1,19 @@
+{
+  "w283927y7e": {
+    "address": "Jalan Taman Seri Sentosa, Taman Seri Sentosa, 58200 Kuala Lumpur, Wilayah Persekutuan, Malaysia 58200",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.078638,
+      "longitude": 101.661801
+    },
+    "name": "MASJID JAMEK PETALING",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "62cd6837-4aaa-42a2-99bb-29099fc05b46",
+    "geohash": "w283927y7e",
+    "remarks": "Masjid ini telah lama dibina dikawasan perumahan ini diatas tanah yang diwakafkan. masjid pertama yang dibina disini tidak beroperasi dari 1996 hingga 2006.  tetapi kembali beroperasi pada February 2005.",
+    "source_musolla_id": "MY-14-WKL-00042",
+    "provision": "Antara kemudahan yang terdapat ialah ruang solat yang berhawa dingin dan  ruangan dapur.",
+    "directions": "Masjid ini terletak ditepi jalan besar dari Puchong ke Jalan Klang Lama menuju Kuala Lumpur"
+  }
+}

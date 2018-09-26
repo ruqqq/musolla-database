@@ -1,0 +1,34 @@
+{
+  "w2bwwetmfz": {
+    "address": "Kampung Manik Urai Baru, Olak Jeram, Kelantan, Malaysia 18000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.381582,
+      "longitude": 102.246103
+    },
+    "name": "MASJID MUKIM MANIK URAI",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "5f2742ae-beb8-49e1-9b65-0cf4317042e9",
+    "geohash": "w2bwwetmfz",
+    "source_musolla_id": "MY-03-KK-00077",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 10 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Lokasi masjid ini ialah 1km dari klinik kesihatan Manik Urai dan 1.5km dari jalan utama Kuala Krai yang menuju ke Gua Musang dan Machang."
+  },
+  "w2bwwekdzn": {
+    "address": "Kampung Manik Urai Baru, Olak Jeram, Kelantan, Malaysia 18000",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.379686,
+      "longitude": 102.24526
+    },
+    "name": "MASJID MUKIM MANIK URAI BARU",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "d6356442-e659-4e7d-a968-877bb17a5a9f",
+    "geohash": "w2bwwekdzn",
+    "source_musolla_id": "MY-03-KK-00085",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 15 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Lokasi masjid ini ialah 100 meter dari sekolah kebangsaan Manik Urai Baru dan 200 meter dari jalan utama Kuala Krai yang menuju ke Gua Musang."
+  }
+}

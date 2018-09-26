@@ -1,0 +1,37 @@
+{
+  "w30c4q8z5b": {
+    "address": "Limbongan, Kelantan, Malaysia 16800",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.83769,
+      "longitude": 102.404766
+    },
+    "name": "MASJID MUKIM BUKIT BIDANG",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "ba9acf05-eac5-4319-8c8c-c536df128d27",
+    "geohash": "w30c4q8z5b",
+    "remarks": "Pada asalnya masjid ini merupakan sebuah surau lama.Kerajaan pusat telah menyumbangkan RM100,000 untuk dana pembinaan masjid ini.",
+    "source_musolla_id": "MY-03-PP-00430",
+    "provision": "Tandas,tempat wuduk lelaki dan perempuan juga disediakan di masjid bagi menjamin kelesaan para jemaah.Stor sebagai tempat penyimpanan barang juga merupakan salah satu kemudahan masjid ini.Selain itu,bagi jemaah yang membawa kenderaan,tempat parking berbumbung juga disediakan dan tempat terbuka yanag dapat memuatkan lebih daripada 15 buah kenderaan dalam satu masa.",
+    "directions": "Masjid ini berada di dalam kawasan kampung.Lokasi masjid ini ialah 12km dari bandar Pasir Puteh."
+  },
+  "w30c4q8wh0": {
+    "address": "Jalan Klinik, 16800 Limbongan, Kelantan, Malaysia 16800",
+    "contact": "09-7862796",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 5.837519,
+      "longitude": 102.404423
+    },
+    "name": "MASJID BANDAR PASIR PUTEH",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "1a61455c-33cd-4568-a378-aa4b6b25178e",
+    "geohash": "w30c4q8wh0",
+    "remarks": "Masjid ini antara masjid lama yang masih terdapat di Pasir Putih, Kelantan. Bangunan tambahannya telah dirasmikan oleh Tun Haji Abdul Razak pada 8 Rejab 1395 Hijri bersamaan 17 Julai 1975 Masihi.\r\nMasjid ini mendapat pengiktirafan sebagai masjid terbaik kategori Masjid Bandar sempena sambutan Majlis Sambutan Hijratul Rasul Peringkat Negeri Kelantan, tahun 1427 Hijri bersamaan 2006 Masihi.",
+    "source_musolla_id": "MY-03-PP-00010",
+    "provision": "Masjid ini mempunyai pelbagai kemudahan khususnya untuk orang ramai seperti tempat parking terbuka yang mampu memuatkan lebih 20 buah kenderaan pada satu masa.l.Tandas,tempat wuduk lelaki dan perempuan juga turut disediakan bagi kelesaan para jemaah.Selain itu,stor turut disertakan di masjid sebagai tempat penyimpanan barang-barang.",
+    "directions": "Masjid ini berada di dalam kawasan bandar Pasir Puteh.Lokasi masjid ini ialah berada di tepi jalan Pasir Puteh yang menuju ke Jerteh."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "w2841kzh3h": {
+    "address": "Jeram, Selangor, Malaysia 45800",
+    "contact": "012-2625413",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.19091,
+      "longitude": 101.314595
+    },
+    "name": "MASJID AN - NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "a51ee34b-a1ad-4dcb-9a17-a9def1845202",
+    "geohash": "w2841kzh3h",
+    "source_musolla_id": "MY-10-KSR-00343",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, pejabat,dapur, van jenazah,bilik jenazah,bilik jenazah,kolam ikan dan taman permainan.",
+    "directions": "Lokasi masjid ini terletak di tepi jalan utama."
+  },
+  "w2841kzh11": {
+    "address": "Jeram, Selangor, Malaysia 45800",
+    "contact": "016-2689976",
+    "createdAt": "2018-09-09T15:44:09+08:00",
+    "location": {
+      "latitude": 3.190851,
+      "longitude": 101.314598
+    },
+    "name": "MASJID AN - NAIM",
+    "type": "Mosque",
+    "updatedAt": "2018-09-09T15:44:09+08:00",
+    "uuid": "2f47e527-367b-40b1-9dff-0dec89bb80be",
+    "geohash": "w2841kzh11",
+    "source_musolla_id": "MY-10-KLG-00195",
+    "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor,van jenazah,bilik mesyuarat dan pejabat,bilik imam dan bilik mandi jenazah.",
+    "directions": "Masjid ini terletak di kawasan kampung"
+  }
+}
