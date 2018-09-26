@@ -328,5 +328,25 @@
     "geohash": "w21z375fmt",
     "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
     "mosqueType": "Leasehold"
+  },
+  "w21z3scdn9": {
+    "uuid": "1779a3df-6960-4df7-9e04-a4704ab4157e",
+    "name": "B2 @ SIT Dover",
+    "address": "10 Dover Dr, Singapore 138683\r\n1.30086, 103.77920",
+    "location": {
+      "latitude": 1.30086,
+      "longitude": 103.7792
+    },
+    "type": "Musolla",
+    "geohash": "w21z3scdn9",
+    "mrt": "One-North",
+    "directions": "From The Canopy (main food court), turn right at the toilet and walk along the corridor to the next toilet. The musolla is under the staircase, beside the male toilet.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 8,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Fans",
+    "remarks": "If the musolla is fully occupied, you can pray at the turfed open area on mezzanine level, a few steps up outside the musolla.",
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
   }
 }

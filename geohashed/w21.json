@@ -2196,5 +2196,86 @@
     "geohash": "w21xxveb5e",
     "remarks": "Maarof Mosque is Singapore’s 25th satellite mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). At full capacity, Masjid Maarof can accommodate approximately 4,500 worshippers.",
     "mosqueType": "MBMF"
+  },
+  "w21ztq0y8t": {
+    "uuid": "37f96c5e-648d-46be-a5b8-a818edd493be",
+    "name": "Tampines Mall",
+    "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+    "location": {
+      "latitude": 1.3524636,
+      "longitude": 103.9427118
+    },
+    "type": "Musolla",
+    "geohash": "w21ztq0y8t",
+    "mrt": "Tampines",
+    "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
+    "level": "2/3",
+    "toiletLevel": "null",
+    "maleCapacity": 2,
+    "femaleCapacity": 3,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+    "remarks": null,
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21xxgugb3": {
+    "uuid": "1172ec34-b208-4e05-b9ca-28396a88d516",
+    "name": "Basement 2 Carpark @ Jurong Point 1",
+    "address": "1 Jurong West Central 2, #03-07, Singapore 648886\n1.33961, 103.70649",
+    "location": {
+      "latitude": 1.33961,
+      "longitude": 103.70649
+    },
+    "type": "Musolla",
+    "geohash": "w21xxgugb3",
+    "mrt": "Boon Lay",
+    "directions": "Take escalator to B2 carpark near Popular bookstore. Walk past trolley bay.  Musollah is about 10m ahead",
+    "level": "B2",
+    "toiletLevel": "B1",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Aircon",
+    "remarks": null,
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21z3scdn9": {
+    "uuid": "1779a3df-6960-4df7-9e04-a4704ab4157e",
+    "name": "B2 @ SIT Dover",
+    "address": "10 Dover Dr, Singapore 138683\r\n1.30086, 103.77920",
+    "location": {
+      "latitude": 1.30086,
+      "longitude": 103.7792
+    },
+    "type": "Musolla",
+    "geohash": "w21z3scdn9",
+    "mrt": "One-North",
+    "directions": "From The Canopy (main food court), turn right at the toilet and walk along the corridor to the next toilet. The musolla is under the staircase, beside the male toilet.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 8,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Fans",
+    "remarks": "If the musolla is fully occupied, you can pray at the turfed open area on mezzanine level, a few steps up outside the musolla.",
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21zeq33x4": {
+    "uuid": "95d793d3-9514-4268-9fb8-16dd6c8952ad",
+    "name": "Admin Building Locker",
+    "address": "Ang Mo Kio South Flyover, Singapore\r\n1.35296, 103.85578",
+    "location": {
+      "latitude": 1.35296,
+      "longitude": 103.85578
+    },
+    "type": "Musolla",
+    "geohash": "w21zeq33x4",
+    "mrt": "Bishan",
+    "directions": "Find Men's Locker/Bathroom near the Row of Motorcycle Lots near the canteen. Inside the locker room, walk all the way to the end.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 5,
+    "provision": "Slippers, Praying Mats, Wudu' Area, Fans",
+    "remarks": "This is a restricted area. You will need an escort if you are coming into this depot.",
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
   }
 }

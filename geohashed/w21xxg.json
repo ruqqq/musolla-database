@@ -1,0 +1,22 @@
+{
+  "w21xxgugb3": {
+    "uuid": "1172ec34-b208-4e05-b9ca-28396a88d516",
+    "name": "Basement 2 Carpark @ Jurong Point 1",
+    "address": "1 Jurong West Central 2, #03-07, Singapore 648886\n1.33961, 103.70649",
+    "location": {
+      "latitude": 1.33961,
+      "longitude": 103.70649
+    },
+    "type": "Musolla",
+    "geohash": "w21xxgugb3",
+    "mrt": "Boon Lay",
+    "directions": "Take escalator to B2 carpark near Popular bookstore. Walk past trolley bay.  Musollah is about 10m ahead",
+    "level": "B2",
+    "toiletLevel": "B1",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Aircon",
+    "remarks": null,
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
+  }
+}

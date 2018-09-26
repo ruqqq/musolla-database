@@ -92,5 +92,25 @@
     "geohash": "w21ze32wkx",
     "remarks": "Built from donation by Hajjah Rahima Bee Ahmad Angullia, this masjid was redeveloped from an existing masjid, which had been around since 1960. the redeveloped masjid, which was completed in 1984, was renamed after the donor. Located in the Central part of the island, it is one of the several mosques which have pulpits decorated with woodcarvings. With a capacity of about 500 worshippers, it organizes Iqra’ and Mukaddam (Quran reading) courses.",
     "mosqueType": "Leasehold"
+  },
+  "w21zeq33x4": {
+    "uuid": "95d793d3-9514-4268-9fb8-16dd6c8952ad",
+    "name": "Admin Building Locker",
+    "address": "Ang Mo Kio South Flyover, Singapore\r\n1.35296, 103.85578",
+    "location": {
+      "latitude": 1.35296,
+      "longitude": 103.85578
+    },
+    "type": "Musolla",
+    "geohash": "w21zeq33x4",
+    "mrt": "Bishan",
+    "directions": "Find Men's Locker/Bathroom near the Row of Motorcycle Lots near the canteen. Inside the locker room, walk all the way to the end.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 5,
+    "provision": "Slippers, Praying Mats, Wudu' Area, Fans",
+    "remarks": "This is a restricted area. You will need an escort if you are coming into this depot.",
+    "createdAt": "2018-09-26T23:23:29.569Z",
+    "updatedAt": "2018-09-26T23:23:29.569Z"
   }
 }
