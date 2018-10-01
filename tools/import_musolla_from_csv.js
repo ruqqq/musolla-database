@@ -35,6 +35,7 @@ function parseCSVToJSON(filename) {
             femaleCapacity: csv.data[i][9] !== "Shared" && csv.data[i][12] ? csv.data[i][12] : undefined,
             provision: csv.data[i][13] && csv.data[i][13].split("\n").join(", "),
             remarks: csv.data[i][14],
+            submittedBy: csv.data[i][1],
             createdAt: moment(),
             updatedAt: moment(),
         };

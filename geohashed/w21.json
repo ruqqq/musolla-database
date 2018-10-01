@@ -2215,6 +2215,7 @@
     "femaleCapacity": 3,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
     "remarks": null,
+    "submittedBy": "Nur Zaafira",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
   },
@@ -2235,6 +2236,7 @@
     "unisexCapacity": 5,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Aircon",
     "remarks": null,
+    "submittedBy": "Ayatollah",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
   },
@@ -2255,6 +2257,7 @@
     "unisexCapacity": 8,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Fans",
     "remarks": "If the musolla is fully occupied, you can pray at the turfed open area on mezzanine level, a few steps up outside the musolla.",
+    "submittedBy": "Umar Abdul Aziz",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
   },
@@ -2275,7 +2278,29 @@
     "maleCapacity": 5,
     "provision": "Slippers, Praying Mats, Wudu' Area, Fans",
     "remarks": "This is a restricted area. You will need an escort if you are coming into this depot.",
+    "submittedBy": "Noor Azmin",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21zbbudgn": {
+    "uuid": "b7feac58-8276-472c-9ab1-8c462f7c9e06",
+    "name": "Bukit Batok Driving Centre",
+    "address": "815 Bukit Batok West Ave 5, Singapore 659085\n1.36693, 103.75021",
+    "location": {
+      "latitude": 1.36693,
+      "longitude": 103.75021
+    },
+    "type": "Musolla",
+    "geohash": "w21zbbudgn",
+    "mrt": "Bukit Gombak",
+    "directions": "Level 3, turn left from the staircase and look for door stating 'Staircase 3'. It is at the end, near the toilets area.",
+    "level": "3",
+    "toiletLevel": "3",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Attar",
+    "remarks": null,
+    "submittedBy": "Muhammad Yazid",
+    "createdAt": "2018-10-01T12:25:18.579Z",
+    "updatedAt": "2018-10-01T12:25:18.580Z"
   }
 }

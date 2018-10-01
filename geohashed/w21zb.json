@@ -49,5 +49,26 @@
     "geohash": "w21zb47cxq",
     "remarks": "This old generation masjid located in the West, off Choa Chu Kang road, was built in 1962. In 1999, the masjid, which serves the needs of the nearby residents, was rebuilt. Today, it can accommodate up to 200 people.  There are religious classes for adults in the evening.",
     "mosqueType": "TOL"
+  },
+  "w21zbbudgn": {
+    "uuid": "b7feac58-8276-472c-9ab1-8c462f7c9e06",
+    "name": "Bukit Batok Driving Centre",
+    "address": "815 Bukit Batok West Ave 5, Singapore 659085\n1.36693, 103.75021",
+    "location": {
+      "latitude": 1.36693,
+      "longitude": 103.75021
+    },
+    "type": "Musolla",
+    "geohash": "w21zbbudgn",
+    "mrt": "Bukit Gombak",
+    "directions": "Level 3, turn left from the staircase and look for door stating 'Staircase 3'. It is at the end, near the toilets area.",
+    "level": "3",
+    "toiletLevel": "3",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Attar",
+    "remarks": null,
+    "submittedBy": "Muhammad Yazid",
+    "createdAt": "2018-10-01T12:25:18.579Z",
+    "updatedAt": "2018-10-01T12:25:18.580Z"
   }
 }
