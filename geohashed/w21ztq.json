@@ -23,7 +23,7 @@
   "w21ztq0y8t": {
     "uuid": "37f96c5e-648d-46be-a5b8-a818edd493be",
     "name": "Tampines Mall",
-    "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+    "address": "4 Tampines Central 5, Singapore 529510",
     "location": {
       "latitude": 1.3524636,
       "longitude": 103.9427118
@@ -33,7 +33,6 @@
     "mrt": "Tampines",
     "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
     "level": "2/3",
-    "toiletLevel": "null",
     "maleCapacity": 2,
     "femaleCapacity": 3,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",

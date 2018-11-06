@@ -92,7 +92,7 @@
   "w21ztq0y8t": {
     "uuid": "37f96c5e-648d-46be-a5b8-a818edd493be",
     "name": "Tampines Mall",
-    "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+    "address": "4 Tampines Central 5, Singapore 529510",
     "location": {
       "latitude": 1.3524636,
       "longitude": 103.9427118
@@ -102,7 +102,6 @@
     "mrt": "Tampines",
     "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
     "level": "2/3",
-    "toiletLevel": "null",
     "maleCapacity": 2,
     "femaleCapacity": 3,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
@@ -110,5 +109,25 @@
     "submittedBy": "Nur Zaafira",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21ztg01nx": {
+    "uuid": "2ffd4ff4-8e3c-49b8-b9d6-d602326d5a87",
+    "name": "UE Bizzhub (East)",
+    "address": "6 Changi Business Park Ave 1 #01-25, UE Bizhub (East), Singapore 486107",
+    "location": {
+      "latitude": 1.33505,
+      "longitude": 103.96391
+    },
+    "type": "Musolla",
+    "geohash": "w21ztg01nx",
+    "mrt": "Expo",
+    "directions": "GOTO UE Bizzhub building\nBefore Lift turn left \n\nMushola located near toiler",
+    "level": "1",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Eriek",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
   }
 }

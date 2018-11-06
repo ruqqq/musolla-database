@@ -2200,7 +2200,7 @@
   "w21ztq0y8t": {
     "uuid": "37f96c5e-648d-46be-a5b8-a818edd493be",
     "name": "Tampines Mall",
-    "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+    "address": "4 Tampines Central 5, Singapore 529510",
     "location": {
       "latitude": 1.3524636,
       "longitude": 103.9427118
@@ -2210,7 +2210,6 @@
     "mrt": "Tampines",
     "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
     "level": "2/3",
-    "toiletLevel": "null",
     "maleCapacity": 2,
     "femaleCapacity": 3,
     "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
@@ -2222,7 +2221,7 @@
   "w21xxgugb3": {
     "uuid": "1172ec34-b208-4e05-b9ca-28396a88d516",
     "name": "Basement 2 Carpark @ Jurong Point 1",
-    "address": "1 Jurong West Central 2, #03-07, Singapore 648886\n1.33961, 103.70649",
+    "address": "1 Jurong West Central 2, #03-07, Singapore 648886",
     "location": {
       "latitude": 1.33961,
       "longitude": 103.70649
@@ -2243,7 +2242,7 @@
   "w21z3scdn9": {
     "uuid": "1779a3df-6960-4df7-9e04-a4704ab4157e",
     "name": "B2 @ SIT Dover",
-    "address": "10 Dover Dr, Singapore 138683\r\n1.30086, 103.77920",
+    "address": "10 Dover Dr, Singapore 138683",
     "location": {
       "latitude": 1.30086,
       "longitude": 103.7792
@@ -2264,7 +2263,7 @@
   "w21zeq33x4": {
     "uuid": "95d793d3-9514-4268-9fb8-16dd6c8952ad",
     "name": "Admin Building Locker",
-    "address": "Ang Mo Kio South Flyover, Singapore\r\n1.35296, 103.85578",
+    "address": "Ang Mo Kio South Flyover, Singapore",
     "location": {
       "latitude": 1.35296,
       "longitude": 103.85578
@@ -2285,7 +2284,7 @@
   "w21zbbudgn": {
     "uuid": "b7feac58-8276-472c-9ab1-8c462f7c9e06",
     "name": "Bukit Batok Driving Centre",
-    "address": "815 Bukit Batok West Ave 5, Singapore 659085\n1.36693, 103.75021",
+    "address": "815 Bukit Batok West Ave 5, Singapore 659085",
     "location": {
       "latitude": 1.36693,
       "longitude": 103.75021
@@ -2302,5 +2301,67 @@
     "submittedBy": "Muhammad Yazid",
     "createdAt": "2018-10-01T12:25:18.579Z",
     "updatedAt": "2018-10-01T12:25:18.580Z"
+  },
+  "w21z7k9dkd": {
+    "uuid": "f83826e3-5ecb-4423-bf6f-8a7bf6cfdf96",
+    "name": "DUO Galleria",
+    "address": "7 Fraser Street, Singapore 189356",
+    "location": {
+      "latitude": 1.2995324,
+      "longitude": 103.8560191
+    },
+    "type": "Musolla",
+    "geohash": "w21z7k9dkd",
+    "mrt": "Bugis DTL",
+    "directions": "Exit C of Bugis DTL, walk right towards toilet (approx. 50m). Musollah located near toilet. Abulations area inside room. Male musollah near male toilet",
+    "level": "1",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": null,
+    "remarks": null,
+    "submittedBy": "Muhammad Iqbal",
+    "createdAt": "2018-11-06T01:57:19.419Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w21z3vbkmm": {
+    "uuid": "0b93e4db-8d8d-4fc2-87a2-9fabcea42fdf",
+    "name": "Star Vista",
+    "address": "The Star Vista, #01-03, 1 Vista Exchange Green, Singapore 138617",
+    "location": {
+      "latitude": 1.30676,
+      "longitude": 103.78842
+    },
+    "type": "Musolla",
+    "geohash": "w21z3vbkmm",
+    "mrt": "Buona Vista",
+    "directions": "Smoke stop lobby. Beside lift lobby.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Raimi bin Karim",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w21ztg01nx": {
+    "uuid": "2ffd4ff4-8e3c-49b8-b9d6-d602326d5a87",
+    "name": "UE Bizzhub (East)",
+    "address": "6 Changi Business Park Ave 1 #01-25, UE Bizhub (East), Singapore 486107",
+    "location": {
+      "latitude": 1.33505,
+      "longitude": 103.96391
+    },
+    "type": "Musolla",
+    "geohash": "w21ztg01nx",
+    "mrt": "Expo",
+    "directions": "GOTO UE Bizzhub building\nBefore Lift turn left \n\nMushola located near toiler",
+    "level": "1",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Eriek",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
   }
 }

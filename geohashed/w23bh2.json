@@ -1,0 +1,23 @@
+{
+  "w23bh2560k": {
+    "uuid": "09d8ff3e-33ec-435a-890c-c57319db70b6",
+    "name": "Waterway Point",
+    "address": "83 Punggol Central, Singapore 828761",
+    "location": {
+      "latitude": 1.40662,
+      "longitude": 103.90218
+    },
+    "type": "Musolla",
+    "geohash": "w23bh2560k",
+    "mrt": "Punggol",
+    "directions": "B2 near lift lobby and NTUC. Exit door turn left. Musollah is facing car park.\nToilet nearby  to perform wudhuk.",
+    "level": "B2",
+    "toiletLevel": "B2",
+    "unisexCapacity": 0,
+    "provision": null,
+    "remarks": "Ladies bring your own telekong.",
+    "submittedBy": "Nur hazlina Abdul rahman",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  }
+}

@@ -486,5 +486,26 @@
     "geohash": "w21z7ybu59",
     "remarks": "A historic milestone was achieved in November 1999 when its new four-storey building was officially opened after more than a year of extensive rebuilding. The original structure which dated back in 1896 was built on land donated by an individual. The masjid with its simple and modern architecture can accommodate up to 1,500 congregants.",
     "mosqueType": "Wakaf"
+  },
+  "w21z7k9dkd": {
+    "uuid": "f83826e3-5ecb-4423-bf6f-8a7bf6cfdf96",
+    "name": "DUO Galleria",
+    "address": "7 Fraser Street, Singapore 189356",
+    "location": {
+      "latitude": 1.2995324,
+      "longitude": 103.8560191
+    },
+    "type": "Musolla",
+    "geohash": "w21z7k9dkd",
+    "mrt": "Bugis DTL",
+    "directions": "Exit C of Bugis DTL, walk right towards toilet (approx. 50m). Musollah located near toilet. Abulations area inside room. Male musollah near male toilet",
+    "level": "1",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": null,
+    "remarks": null,
+    "submittedBy": "Muhammad Iqbal",
+    "createdAt": "2018-11-06T01:57:19.419Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "w23b50bgb9": {
+    "uuid": "c223bd7f-ad52-4c55-8c7c-faea51e1ed17",
+    "name": "Orchid Country Club",
+    "address": "1 Orchid Club Rd, Singapore 769162",
+    "location": {
+      "latitude": 1.41102,
+      "longitude": 103.84383
+    },
+    "type": "Musolla",
+    "geohash": "w23b50bgb9",
+    "directions": "Basement near the spiral staircase just opposite Royal Palm Restaurant",
+    "level": "Basement",
+    "toiletLevel": "Also basement",
+    "unisexCapacity": 6,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator",
+    "remarks": null,
+    "submittedBy": "Ramli Yusoff",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  }
+}

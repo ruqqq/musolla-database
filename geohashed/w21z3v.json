@@ -1,0 +1,23 @@
+{
+  "w21z3vbkmm": {
+    "uuid": "0b93e4db-8d8d-4fc2-87a2-9fabcea42fdf",
+    "name": "Star Vista",
+    "address": "The Star Vista, #01-03, 1 Vista Exchange Green, Singapore 138617",
+    "location": {
+      "latitude": 1.30676,
+      "longitude": 103.78842
+    },
+    "type": "Musolla",
+    "geohash": "w21z3vbkmm",
+    "mrt": "Buona Vista",
+    "directions": "Smoke stop lobby. Beside lift lobby.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Raimi bin Karim",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  }
+}

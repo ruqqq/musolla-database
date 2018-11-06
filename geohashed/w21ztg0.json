@@ -1,0 +1,22 @@
+{
+  "w21ztg01nx": {
+    "uuid": "2ffd4ff4-8e3c-49b8-b9d6-d602326d5a87",
+    "name": "UE Bizzhub (East)",
+    "address": "6 Changi Business Park Ave 1 #01-25, UE Bizhub (East), Singapore 486107",
+    "location": {
+      "latitude": 1.33505,
+      "longitude": 103.96391
+    },
+    "type": "Musolla",
+    "geohash": "w21ztg01nx",
+    "mrt": "Expo",
+    "directions": "GOTO UE Bizzhub building\nBefore Lift turn left \n\nMushola located near toiler",
+    "level": "1",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Eriek",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
+  }
+}

@@ -11,25 +11,33 @@ function parseCSVToJSON(filename) {
     });
 
     const results = [];
+    const emailsApproved = [];
+    const emailsRejected = [];
 
     for (let i = 1; i < csv.data.length; i++) {
-        const addressSplit = csv.data[i][4].split("\n")[1].split(", ");
+        if (csv.data[i][18] != "1") {
+            emailsRejected.push(csv.data[i][2]);
+            continue;
+        }
+
+        const addressSplit = csv.data[i][4].split("\n");
+        const latLngSplit = addressSplit[1].split(", ");
         let latLng = {
-            latitude: parseFloat(addressSplit[0]),
-            longitude: parseFloat(addressSplit[1]),
+            latitude: parseFloat(latLngSplit[0]),
+            longitude: parseFloat(latLngSplit[1]),
         };
 
         const data = {
             uuid: uuid(),
             name: csv.data[i][3],
-            address: csv.data[i][4],
+            address: addressSplit[0].replace(/\\n/g, "").trim(),
             location: latLng,
             type: "Musolla",
             geohash: ngeohash.encode(latLng.latitude, latLng.longitude, 10),
-            mrt: csv.data[i][5] && csv.data[i][5].replace(/mrt/ig, "").trim(),
+            mrt: csv.data[i][5] ? csv.data[i][5].replace(/mrt/ig, "").trim() : undefined,
             directions: csv.data[i][6],
             level: csv.data[i][7] + "",
-            toiletLevel: csv.data[i][8] + "",
+            toiletLevel: csv.data[i][8] ? csv.data[i][8] + "" : undefined,
             unisexCapacity: csv.data[i][9] === "Shared" ? csv.data[i][10] : undefined,
             maleCapacity: csv.data[i][9] !== "Shared" && csv.data[i][11] ? csv.data[i][11] : undefined,
             femaleCapacity: csv.data[i][9] !== "Shared" && csv.data[i][12] ? csv.data[i][12] : undefined,
@@ -41,7 +49,11 @@ function parseCSVToJSON(filename) {
         };
 
         results.push(data);
+        emailsApproved.push(csv.data[i][2]);
     }
+
+    console.log("Approved:", emailsApproved.join(", "));
+    console.log("Rejected:", emailsRejected.join(", "));
 
     return results;
 }

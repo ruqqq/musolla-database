@@ -57,5 +57,26 @@
     "geohash": "w23b4v996h",
     "remarks": "Morning is a hectic period at the masjid when doting parents wave their pre-schoolers goodbye. Besides kindergarten classes for these pre-schoolers, the mosque is among the few, which offers a Tahfiz (Al-Quran memorization) course for children. Built in 1989, it serves Muslim families living in Yishun and the North part of the island. The masjid, which falls under Phase Two of the Mosque Building Fund, can accommodate about 3000 people.",
     "mosqueType": "MBMF"
+  },
+  "w23b4u5qwp": {
+    "uuid": "0de7c5a8-ab0d-41b5-8d97-b1ff203f0ffa",
+    "name": "Northpoint City, Lift Lobby B",
+    "address": "930 Yishun Ave 2, Singapore 769098",
+    "location": {
+      "latitude": 1.42938,
+      "longitude": 103.83651
+    },
+    "type": "Musolla",
+    "geohash": "w23b4u5qwp",
+    "mrt": "Yishun",
+    "directions": "1) Face Poh Kim DVD library at Basement 2, turn left and walk towards the carpark. Enter carpark and head towards C6 parking lot. Musollah will be visible from there.\n\n2) At Basement 1 near Beauty Language and Spectacle Hut, head towards lift lobby B and take travellator down. The musollah will be located beneath the travellator.",
+    "level": "B2",
+    "toiletLevel": "B1, B2 (distance away)",
+    "unisexCapacity": 4,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Air Conditioned",
+    "remarks": "1030 - 2230hrs\n\nMaximum capacity is 4 for jemaah prayers.",
+    "submittedBy": "Nawzi Liamsi",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
   }
 }

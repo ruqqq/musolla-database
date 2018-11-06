@@ -332,7 +332,7 @@
   "w21z3scdn9": {
     "uuid": "1779a3df-6960-4df7-9e04-a4704ab4157e",
     "name": "B2 @ SIT Dover",
-    "address": "10 Dover Dr, Singapore 138683\r\n1.30086, 103.77920",
+    "address": "10 Dover Dr, Singapore 138683",
     "location": {
       "latitude": 1.30086,
       "longitude": 103.7792
@@ -349,5 +349,26 @@
     "submittedBy": "Umar Abdul Aziz",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21z3vbkmm": {
+    "uuid": "0b93e4db-8d8d-4fc2-87a2-9fabcea42fdf",
+    "name": "Star Vista",
+    "address": "The Star Vista, #01-03, 1 Vista Exchange Green, Singapore 138617",
+    "location": {
+      "latitude": 1.30676,
+      "longitude": 103.78842
+    },
+    "type": "Musolla",
+    "geohash": "w21z3vbkmm",
+    "mrt": "Buona Vista",
+    "directions": "Smoke stop lobby. Beside lift lobby.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Raimi bin Karim",
+    "createdAt": "2018-11-06T01:57:19.420Z",
+    "updatedAt": "2018-11-06T01:57:19.420Z"
   }
 }

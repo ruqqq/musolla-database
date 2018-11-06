@@ -24018,5 +24018,129 @@
         "submittedBy": "Muhammad Yazid",
         "createdAt": "2018-10-01T12:25:18.579Z",
         "updatedAt": "2018-10-01T12:25:18.580Z"
+    },
+    "f83826e3-5ecb-4423-bf6f-8a7bf6cfdf96": {
+        "uuid": "f83826e3-5ecb-4423-bf6f-8a7bf6cfdf96",
+        "name": "DUO Galleria",
+        "address": "7 Fraser Street, Singapore 189356",
+        "location": {
+            "latitude": 1.2995324,
+            "longitude": 103.8560191
+        },
+        "type": "Musolla",
+        "geohash": "w21z7k9dkd",
+        "mrt": "Bugis DTL",
+        "directions": "Exit C of Bugis DTL, walk right towards toilet (approx. 50m). Musollah located near toilet. Abulations area inside room. Male musollah near male toilet",
+        "level": "1",
+        "maleCapacity": 10,
+        "femaleCapacity": 10,
+        "provision": null,
+        "remarks": null,
+        "submittedBy": "Muhammad Iqbal",
+        "createdAt": "2018-11-06T01:57:19.419Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
+    },
+    "c223bd7f-ad52-4c55-8c7c-faea51e1ed17": {
+        "uuid": "c223bd7f-ad52-4c55-8c7c-faea51e1ed17",
+        "name": "Orchid Country Club",
+        "address": "1 Orchid Club Rd, Singapore 769162",
+        "location": {
+            "latitude": 1.41102,
+            "longitude": 103.84383
+        },
+        "type": "Musolla",
+        "geohash": "w23b50bgb9",
+        "directions": "Basement near the spiral staircase just opposite Royal Palm Restaurant",
+        "level": "Basement",
+        "toiletLevel": "Also basement",
+        "unisexCapacity": 6,
+        "provision": "Praying Mats, Telekung, Qiblat Indicator",
+        "remarks": null,
+        "submittedBy": "Ramli Yusoff",
+        "createdAt": "2018-11-06T01:57:19.420Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
+    },
+    "0b93e4db-8d8d-4fc2-87a2-9fabcea42fdf": {
+        "uuid": "0b93e4db-8d8d-4fc2-87a2-9fabcea42fdf",
+        "name": "Star Vista",
+        "address": "The Star Vista, #01-03, 1 Vista Exchange Green, Singapore 138617",
+        "location": {
+            "latitude": 1.30676,
+            "longitude": 103.78842
+        },
+        "type": "Musolla",
+        "geohash": "w21z3vbkmm",
+        "mrt": "Buona Vista",
+        "directions": "Smoke stop lobby. Beside lift lobby.",
+        "level": "B1",
+        "toiletLevel": "B1",
+        "unisexCapacity": 2,
+        "provision": "Praying Mats",
+        "remarks": null,
+        "submittedBy": "Raimi bin Karim",
+        "createdAt": "2018-11-06T01:57:19.420Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
+    },
+    "09d8ff3e-33ec-435a-890c-c57319db70b6": {
+        "uuid": "09d8ff3e-33ec-435a-890c-c57319db70b6",
+        "name": "Waterway Point",
+        "address": "83 Punggol Central, Singapore 828761",
+        "location": {
+            "latitude": 1.40662,
+            "longitude": 103.90218
+        },
+        "type": "Musolla",
+        "geohash": "w23bh2560k",
+        "mrt": "Punggol",
+        "directions": "B2 near lift lobby and NTUC. Exit door turn left. Musollah is facing car park.\nToilet nearby  to perform wudhuk.",
+        "level": "B2",
+        "toiletLevel": "B2",
+        "unisexCapacity": 0,
+        "provision": null,
+        "remarks": "Ladies bring your own telekong.",
+        "submittedBy": "Nur hazlina Abdul rahman",
+        "createdAt": "2018-11-06T01:57:19.420Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
+    },
+    "2ffd4ff4-8e3c-49b8-b9d6-d602326d5a87": {
+        "uuid": "2ffd4ff4-8e3c-49b8-b9d6-d602326d5a87",
+        "name": "UE Bizzhub (East)",
+        "address": "6 Changi Business Park Ave 1 #01-25, UE Bizhub (East), Singapore 486107",
+        "location": {
+            "latitude": 1.33505,
+            "longitude": 103.96391
+        },
+        "type": "Musolla",
+        "geohash": "w21ztg01nx",
+        "mrt": "Expo",
+        "directions": "GOTO UE Bizzhub building\nBefore Lift turn left \n\nMushola located near toiler",
+        "level": "1",
+        "unisexCapacity": 3,
+        "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+        "remarks": null,
+        "submittedBy": "Eriek",
+        "createdAt": "2018-11-06T01:57:19.420Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
+    },
+    "0de7c5a8-ab0d-41b5-8d97-b1ff203f0ffa": {
+        "uuid": "0de7c5a8-ab0d-41b5-8d97-b1ff203f0ffa",
+        "name": "Northpoint City, Lift Lobby B",
+        "address": "930 Yishun Ave 2, Singapore 769098",
+        "location": {
+            "latitude": 1.42938,
+            "longitude": 103.83651
+        },
+        "type": "Musolla",
+        "geohash": "w23b4u5qwp",
+        "mrt": "Yishun",
+        "directions": "1) Face Poh Kim DVD library at Basement 2, turn left and walk towards the carpark. Enter carpark and head towards C6 parking lot. Musollah will be visible from there.\n\n2) At Basement 1 near Beauty Language and Spectacle Hut, head towards lift lobby B and take travellator down. The musollah will be located beneath the travellator.",
+        "level": "B2",
+        "toiletLevel": "B1, B2 (distance away)",
+        "unisexCapacity": 4,
+        "provision": "Praying Mats, Telekung, Qiblat Indicator, Air Conditioned",
+        "remarks": "1030 - 2230hrs\n\nMaximum capacity is 4 for jemaah prayers.",
+        "submittedBy": "Nawzi Liamsi",
+        "createdAt": "2018-11-06T01:57:19.420Z",
+        "updatedAt": "2018-11-06T01:57:19.420Z"
     }
 }
