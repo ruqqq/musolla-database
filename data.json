@@ -23874,7 +23874,7 @@
     "7dea7689-dfb5-441f-97f4-b0c456a22c27": {
         "uuid": "7dea7689-dfb5-441f-97f4-b0c456a22c27",
         "name": "Tampines Mall @ Level 3",
-        "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+        "address": "4 Tampines Central 5, Singapore 529510",
         "location": {
             "latitude": 1.3524636,
             "longitude": 103.9427118
@@ -23896,7 +23896,7 @@
     "1172ec34-b208-4e05-b9ca-28396a88d516": {
         "uuid": "1172ec34-b208-4e05-b9ca-28396a88d516",
         "name": "Basement 2 Carpark @ Jurong Point 1",
-        "address": "1 Jurong West Central 2, #03-07, Singapore 648886\n1.33961, 103.70649",
+        "address": "1 Jurong West Central 2, #03-07, Singapore 648886",
         "location": {
             "latitude": 1.33961,
             "longitude": 103.70649
@@ -23917,7 +23917,7 @@
     "37f96c5e-648d-46be-a5b8-a818edd493be": {
         "uuid": "37f96c5e-648d-46be-a5b8-a818edd493be",
         "name": "Tampines Mall",
-        "address": "4 Tampines Central 5, Singapore 529510\n1.3524636, 103.9427118",
+        "address": "4 Tampines Central 5, Singapore 529510",
         "location": {
             "latitude": 1.3524636,
             "longitude": 103.9427118
@@ -23927,7 +23927,6 @@
         "mrt": "Tampines",
         "directions": "Cross the small road towards Tampines mall. Look for the toilet nearest to HnM",
         "level": "2/3",
-        "toiletLevel": "null",
         "maleCapacity": 2,
         "femaleCapacity": 3,
         "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
@@ -23939,7 +23938,7 @@
     "1779a3df-6960-4df7-9e04-a4704ab4157e": {
         "uuid": "1779a3df-6960-4df7-9e04-a4704ab4157e",
         "name": "B2 @ SIT Dover",
-        "address": "10 Dover Dr, Singapore 138683\r\n1.30086, 103.77920",
+        "address": "10 Dover Dr, Singapore 138683",
         "location": {
             "latitude": 1.30086,
             "longitude": 103.7792
@@ -23960,7 +23959,7 @@
     "95d793d3-9514-4268-9fb8-16dd6c8952ad": {
         "uuid": "95d793d3-9514-4268-9fb8-16dd6c8952ad",
         "name": "Admin Building Locker",
-        "address": "Ang Mo Kio South Flyover, Singapore\r\n1.35296, 103.85578",
+        "address": "Ang Mo Kio South Flyover, Singapore",
         "location": {
             "latitude": 1.35296,
             "longitude": 103.85578
@@ -23981,7 +23980,7 @@
     "385ec8fd-2d52-4a9b-b648-a1145ad03e2c": {
         "uuid": "385ec8fd-2d52-4a9b-b648-a1145ad03e2c",
         "name": "Woodlands Regional Library @ Woodlands Civics Centre",
-        "address": "S730900, 900 South Woodlands Drive, Singapore 730900\r\n1.43458, 103.78658",
+        "address": "S730900, 900 South Woodlands Drive, Singapore 730900",
         "location": {
             "latitude": 1.43458,
             "longitude": 103.78658
@@ -24002,7 +24001,7 @@
     "b7feac58-8276-472c-9ab1-8c462f7c9e06": {
         "uuid": "b7feac58-8276-472c-9ab1-8c462f7c9e06",
         "name": "Bukit Batok Driving Centre",
-        "address": "815 Bukit Batok West Ave 5, Singapore 659085\n1.36693, 103.75021",
+        "address": "815 Bukit Batok West Ave 5, Singapore 659085",
         "location": {
             "latitude": 1.36693,
             "longitude": 103.75021
