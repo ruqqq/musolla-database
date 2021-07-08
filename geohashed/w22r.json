@@ -181,5 +181,26 @@
     "source_musolla_id": "MY-10-SPG-00120",
     "provision": "Antara kemudahan yang terdapat di masjid ini ialah ruang solat yang selesa untuk lelaki dan wanita, tempat wuduk, tempat letak kereta, stor, van jenazah dan bilik mesyuarat.",
     "directions": "Masjid ini terletak di tepi jalan utama ke Sepang dan bersebelahan Sekolah Rendah Agama."
+  },
+  "w22rr1w3ru": {
+    "uuid": "27c819aa-2184-4a04-95f6-1d62224fb0c1",
+    "name": "masjid hussain seremban 2",
+    "address": "Persiaran S2 D8, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "location": {
+      "latitude": 2.68914,
+      "longitude": 101.9181
+    },
+    "type": "Musolla",
+    "geohash": "w22rr1w3ru",
+    "mrt": "No",
+    "directions": "Landmarks city park seremban 2",
+    "level": "5",
+    "toiletLevel": "5A",
+    "unisexCapacity": 10000,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans, Air conditioning",
+    "remarks": null,
+    "submittedBy": "Muhammad al amin",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

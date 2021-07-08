@@ -1,0 +1,23 @@
+{
+  "w21z8fe1mu": {
+    "uuid": "0e4254e3-a83c-4bb0-82b8-e9b639ef7189",
+    "name": "Lobby A Basement @ The Furniture Mall",
+    "address": "10 Toh Guan Rd, Singapore 608838",
+    "location": {
+      "latitude": 1.33233,
+      "longitude": 103.74827
+    },
+    "type": "Musolla",
+    "geohash": "w21z8fe1mu",
+    "mrt": "Jurong East",
+    "directions": "Bus 49, 52, 99, 990.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Quran, Fans",
+    "remarks": "Go down Lift Lobby A to Basement, enter the staircase and the Musolla is there. Toilets are outside the Lobby doors (on the left).",
+    "submittedBy": "Muhammad Fawzan",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

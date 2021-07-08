@@ -12,5 +12,45 @@
     "updatedAt": "2014-12-23T06:55:36.378Z",
     "uuid": "27a49ee1-f6ca-4e13-a2a4-53da251eca07",
     "geohash": "w21zc6ucjk"
+  },
+  "w21zc5nyge": {
+    "uuid": "8138fece-b6b8-47ac-a480-647cf5e1056b",
+    "name": "Level 3 Bukit Panjang Plaza",
+    "address": "1 Jelebu Rd, Singapore 677743",
+    "location": {
+      "latitude": 1.37996,
+      "longitude": 103.76431
+    },
+    "type": "Musolla",
+    "geohash": "w21zc5nyge",
+    "directions": "Take the escalator infront of Starbucks at level 1 to level 3. Enter the Exit door in between Coslab and Bt Panjang Public Library, then turn to the left. Slippers and prayer mats are available for use. For more privacy, prayer can be done at the staircase landing. Ablution can be taken at the nearest toilet.",
+    "level": "3",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats",
+    "remarks": "Looks to be an unofficial praying area. I am not sure if telekung is provided for the ladies, as I brought my own.",
+    "submittedBy": "Insyirah",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21zc5nvtf": {
+    "uuid": "9e87ba23-7ba8-4213-9838-5c564d89f922",
+    "name": "Bukit Panjang Plaza",
+    "address": "1 Jelebu Rd, Singapore 677743",
+    "location": {
+      "latitude": 1.37974,
+      "longitude": 103.7644
+    },
+    "type": "Musolla",
+    "geohash": "w21zc5nvtf",
+    "mrt": "bukit panjang",
+    "directions": "at the Exit beside Coslab",
+    "level": "4",
+    "toiletLevel": "4",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Telekung",
+    "remarks": "Wudhu can take at the nearest toilet",
+    "submittedBy": "suhaila",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

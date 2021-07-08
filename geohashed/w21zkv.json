@@ -1,0 +1,23 @@
+{
+  "w21zkvx4nj": {
+    "uuid": "8abf1725-f28c-4404-9259-85a076dc9a3d",
+    "name": "Enak Enak Hong Kong Tea House East Coast",
+    "address": "1202 ECP, Singapore 449881",
+    "location": {
+      "latitude": 1.305,
+      "longitude": 103.92955
+    },
+    "type": "Musolla",
+    "geohash": "w21zkvx4nj",
+    "directions": "East Coast Seafood Center, Carpark E1,\nLevel 2 at Enak Enak Hong Kong Tea House.\nAsk staff.",
+    "level": "2",
+    "toiletLevel": "2",
+    "maleCapacity": 3,
+    "femaleCapacity": 3,
+    "provision": "Praying Mats, Telekung, Wudu' Area, Fans",
+    "remarks": null,
+    "submittedBy": "Azhar Ahmad",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

@@ -33,5 +33,70 @@
     "geohash": "w21zkpgf7s",
     "remarks": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
     "mosqueType": "Wakaf"
+  },
+  "w21zkpxnnt": {
+    "uuid": "a9d491be-ef80-4bec-ba4f-e2ed27c22249",
+    "name": "Wisma Geylang Serai",
+    "address": "885 Geylang Rd, Singapore 409299",
+    "location": {
+      "latitude": 1.31667,
+      "longitude": 103.89662
+    },
+    "type": "Musolla",
+    "geohash": "w21zkpxnnt",
+    "mrt": "Paya Lebar",
+    "directions": "Wisma Geylang Serai",
+    "level": "3",
+    "toiletLevel": "3",
+    "maleCapacity": 20,
+    "femaleCapacity": 20,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Mohd Salleh",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21zkpu7jt": {
+    "uuid": "8a5f5947-5417-4f7b-b273-f331719955b7",
+    "name": "PLQ Mall",
+    "address": "15 Paya Lebar Rd, Singapore 409049",
+    "location": {
+      "latitude": 1.31753,
+      "longitude": 103.8928
+    },
+    "type": "Musolla",
+    "geohash": "w21zkpu7jt",
+    "mrt": "Paya Lebar",
+    "directions": "Musholla is at B1A carpark.\n\nTake the escalator down to B2 and walk towards the carpark. You will see a money changer, \"Altas Exchange\" on your left. Take travellator beside it up to B1A. Walk towards the bicycle parking and you'll see the prayer rooms",
+    "level": "B1A",
+    "toiletLevel": "B1A",
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+    "remarks": "Wudu' Area is nearby at the wheelchair accessible toilet.",
+    "submittedBy": "Muhammad Mustaqim",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21zkpmfg3": {
+    "uuid": "0c302b94-5324-45e8-854d-0712671e3f31",
+    "name": "Kinex Mall Musholla @Next to Kucina Restaurant",
+    "address": "15 Tanjong Katong Rd, Singapore 436950",
+    "location": {
+      "latitude": 1.31472,
+      "longitude": 103.89476
+    },
+    "type": "Musolla",
+    "geohash": "w21zkpmfg3",
+    "mrt": "Paya Lebar",
+    "directions": "Head to Kucina Italian Restaurant. Musholla is just beside it.",
+    "level": "B1-09/10",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Agil Arfan",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

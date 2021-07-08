@@ -1,0 +1,22 @@
+{
+  "w21z6c64p5": {
+    "uuid": "4838c428-4b4e-4a7f-82ae-8dc6da162c2e",
+    "name": "Mosque @ SGH",
+    "address": "10 College Rd, Singapore 169851",
+    "location": {
+      "latitude": 1.28164,
+      "longitude": 103.83484
+    },
+    "type": "Musolla",
+    "geohash": "w21z6c64p5",
+    "mrt": "Outram Park",
+    "directions": "Behind Houseman Canteen, The Academia @ SGH",
+    "level": "1",
+    "unisexCapacity": 100,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Mohd Syamim Danial bin Rodzi",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

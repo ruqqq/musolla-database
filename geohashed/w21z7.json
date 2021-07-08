@@ -507,5 +507,129 @@
     "submittedBy": "Muhammad Iqbal",
     "createdAt": "2018-11-06T01:57:19.419Z",
     "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w21z76wtgf": {
+    "uuid": "36b8a985-b5f2-4b14-8c73-2fcae4c95249",
+    "name": "Singapore Flyer",
+    "address": "30 Raffles Ave, Singapore 039803",
+    "location": {
+      "latitude": 1.28915,
+      "longitude": 103.86285
+    },
+    "type": "Musolla",
+    "geohash": "w21z76wtgf",
+    "directions": "Below escalator (up) near tickets office (west entrance)",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 4,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Eriek",
+    "createdAt": "2021-07-08T03:52:32.977Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z74y1jv": {
+    "uuid": "97a8b735-6d17-452d-80ff-e0df68647f84",
+    "name": "National Gallery Singapore",
+    "address": "1 St Andrew's Rd, Singapore 178957",
+    "location": {
+      "latitude": 1.28972,
+      "longitude": 103.85127
+    },
+    "type": "Musolla",
+    "geohash": "w21z74y1jv",
+    "mrt": "City Hall",
+    "directions": "Go to lift lobby A and go to level 3.\nGo towards the toilet and walk all the way to the end. Passing the handicap toilet.\nThe door has \"only staff\" on it.",
+    "level": "3",
+    "toiletLevel": "3",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Tasbih",
+    "remarks": null,
+    "submittedBy": "Ezat",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z77u2vz": {
+    "uuid": "2e108706-87a6-4aaf-ac98-c2424050f77f",
+    "name": "Suntec city level 3 Red",
+    "address": "3E Temasek Blvd, Singapore 038984",
+    "location": {
+      "latitude": 1.29518,
+      "longitude": 103.85985
+    },
+    "type": "Musolla",
+    "geohash": "w21z77u2vz",
+    "directions": "Just beside Singapore post on level 3",
+    "level": "3",
+    "toiletLevel": "3",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": "Slippers, Praying Mats, Fans",
+    "remarks": "Convenient male and female prayer room with toilets on same level",
+    "submittedBy": "Mohamed Mafaz",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z704pqz": {
+    "uuid": "c9d062ab-93de-4a51-a6c6-04621175e2a8",
+    "name": "International Plaza",
+    "address": "14 Anson Rd, Singapore 079903",
+    "location": {
+      "latitude": 1.2757,
+      "longitude": 103.84581
+    },
+    "type": "Musolla",
+    "geohash": "w21z704pqz",
+    "mrt": "Tanjong Pagar",
+    "directions": "Take car park lift near Staircase G to Level 7. Lift is beside Trung Nguyen Coffee at Level 1. At Level 7, walk out straight, musholla is on the right. Wudhu' from toilet at Level 7 car park itself.",
+    "level": "7",
+    "toiletLevel": "7",
+    "unisexCapacity": 20,
+    "provision": "Slippers, Praying Mats",
+    "remarks": null,
+    "submittedBy": "Mohamed",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21z705m8t": {
+    "uuid": "6923c5fc-9180-45dd-ae9b-04e220269d60",
+    "name": "AXA B2 Parking Staircase (Surau)",
+    "address": "8 Shenton Way, AXA Tower, Singapore 068811",
+    "location": {
+      "latitude": 1.27539,
+      "longitude": 103.84726
+    },
+    "type": "Musolla",
+    "geohash": "w21z705m8t",
+    "mrt": "Tanjong Pagar",
+    "directions": "At AXA Tower\nOption 1: B1 Concierge entrance. As you enter there is a glass door to the left to exit the lobby. Once you exit next to the toilets there is the door to the Staircase 5. Go down the staircase.\nOption 2: if you enter from L1 go to the B1. Walk around until the Mailroom. Go through the mailroom as you exit turn right. there is the door to the Staircase 5. Go down the staircase.",
+    "level": "B2",
+    "toiletLevel": "B1",
+    "unisexCapacity": 4,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Hiraash Thawfeek",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21z7q3q7x": {
+    "uuid": "3ba7dea5-ce7e-4200-9e5b-39b3b13c5525",
+    "name": "Kebab n runs@mustafa",
+    "address": "148 Syed Alwi Rd, Singapore 207707",
+    "location": {
+      "latitude": 1.30986,
+      "longitude": 103.85563
+    },
+    "type": "Musolla",
+    "geohash": "w21z7q3q7x",
+    "mrt": "Farrer park",
+    "directions": "Take lift to the top, to level R enter the Kebab and Run restaurant. And go towards the kitchen. And you will see place for musollah. Besides their kitchen and fridges!",
+    "level": "R",
+    "maleCapacity": 15,
+    "provision": "Praying Mats, Wudu' Area, Fans, Songkok",
+    "remarks": null,
+    "submittedBy": "Abu qushayri",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

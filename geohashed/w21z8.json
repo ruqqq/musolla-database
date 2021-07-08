@@ -91,5 +91,47 @@
     "geohash": "w21z88eu48",
     "remarks": "First built in 1971, this masjid was redeveloped in 1993 into a four-storey building complete with elevator. Its two levels of prayer hall can accommodate up to 2500 worshippers. Located in the West, it has Internet Corner, which for a nominal annual subscription of $5, members can surf the net for $2 an hour. A newly set up Youth Wing organizes recreational activities such as camping and soccer games for the young. Muslims can benefit from its imam and muezzin courses organized on an ad-hoc basis.",
     "mosqueType": "Leasehold"
+  },
+  "w21z8gjnv6": {
+    "uuid": "c1c9ed2f-f041-4f27-926a-0aa19fecd0a4",
+    "name": "The Furniture Mall",
+    "address": "10 Toh Guan Rd E, Singapore 608597",
+    "location": {
+      "latitude": 1.33601,
+      "longitude": 103.75099
+    },
+    "type": "Musolla",
+    "geohash": "w21z8gjnv6",
+    "mrt": "Jurong East",
+    "directions": "Opposite Jurong Hospital",
+    "level": "B1 beside the lift and inside the Staircase Lobby A",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Quran, Fans, Tasbir",
+    "remarks": null,
+    "submittedBy": "Abdul Karim",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z8fe1mu": {
+    "uuid": "0e4254e3-a83c-4bb0-82b8-e9b639ef7189",
+    "name": "Lobby A Basement @ The Furniture Mall",
+    "address": "10 Toh Guan Rd, Singapore 608838",
+    "location": {
+      "latitude": 1.33233,
+      "longitude": 103.74827
+    },
+    "type": "Musolla",
+    "geohash": "w21z8fe1mu",
+    "mrt": "Jurong East",
+    "directions": "Bus 49, 52, 99, 990.",
+    "level": "B1",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Quran, Fans",
+    "remarks": "Go down Lift Lobby A to Basement, enter the staircase and the Musolla is there. Toilets are outside the Lobby doors (on the left).",
+    "submittedBy": "Muhammad Fawzan",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

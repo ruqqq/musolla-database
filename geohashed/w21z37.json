@@ -32,5 +32,25 @@
     "geohash": "w21z375fmt",
     "remarks": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
     "mosqueType": "Leasehold"
+  },
+  "w21z37vb6y": {
+    "uuid": "cde9e8fd-f4a3-4fa4-b3c3-5945e4a037f6",
+    "name": "COM1",
+    "address": "NUS School of Computing, COM1, 13 Computing Drive, Singapore 117417",
+    "location": {
+      "latitude": 1.29509,
+      "longitude": 103.77389
+    },
+    "type": "Musolla",
+    "geohash": "w21z37vb6y",
+    "directions": "Near Makers@SOC, go up the staircase to fourth floor",
+    "level": "4",
+    "toiletLevel": "4",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Wudu' Area",
+    "remarks": null,
+    "submittedBy": "Ahmad Syafiq",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

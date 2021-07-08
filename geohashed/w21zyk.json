@@ -1,0 +1,23 @@
+{
+  "w21zyk9pun": {
+    "uuid": "e2da8207-eeba-40e6-ae86-fa819aa82524",
+    "name": "Musollah @Putera Puteri Kampong Restaurant",
+    "address": "5 Changi Village Rd, Singapore 500005",
+    "location": {
+      "latitude": 1.38839,
+      "longitude": 103.98715
+    },
+    "type": "Musolla",
+    "geohash": "w21zyk9pun",
+    "mrt": "Pasir Ris",
+    "directions": "Inside Putera Puteri Kampong Restaurant",
+    "level": "1",
+    "toiletLevel": "Beside musollah",
+    "unisexCapacity": 6,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans, Free Tea & Coffee",
+    "remarks": null,
+    "submittedBy": "Putera Puteri Kampong Restaurant",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

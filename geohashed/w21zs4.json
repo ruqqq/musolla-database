@@ -1,0 +1,22 @@
+{
+  "w21zs4d0xh": {
+    "uuid": "011ba681-388e-4fde-bf5a-a1e1710f877f",
+    "name": "Oxley Bizhub",
+    "address": "Blk 71 Ubi Road 1 #10-47, Oxley Bizhub Singapore, Singapore 408732",
+    "location": {
+      "latitude": 1.3322,
+      "longitude": 103.88977
+    },
+    "type": "Musolla",
+    "geohash": "w21zs4d0xh",
+    "mrt": "Tai Seng",
+    "directions": "Go up lift at Lobby 4 to level 10.\nMusollah is in IslamicEvents office.\n#10-47",
+    "level": "null",
+    "unisexCapacity": 10,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": "i cannot amend musollah level and toilet level in this form.\nthere is toilet in the IslamicEvents office.",
+    "submittedBy": "Khai",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

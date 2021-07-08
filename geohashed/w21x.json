@@ -69,5 +69,89 @@
     "submittedBy": "Ayatollah",
     "createdAt": "2018-09-26T23:23:29.569Z",
     "updatedAt": "2018-09-26T23:23:29.569Z"
+  },
+  "w21xxkdgq6": {
+    "uuid": "dc5d0d8a-4bb7-46c6-8f81-664f98e55167",
+    "name": "NTU South Spine Male Musolla",
+    "address": "50 Nanyang Avenue, S3 Level 2, South Spine, Singapore 639798",
+    "location": {
+      "latitude": 1.34365,
+      "longitude": 103.68203
+    },
+    "type": "Musolla",
+    "geohash": "w21xxkdgq6",
+    "mrt": "Pioneer",
+    "directions": "Take lift from Nanyang Business School (NBS), Block S3.\nNBS Building is beside The Hive.\n\nFrom Hive, building is connected to NBS at Level B2.\nTake the first lift after crossing the bridge from Hive to NBS, and go to Level 2 (Roof).",
+    "level": "2",
+    "maleCapacity": 10,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Adikmu",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21xxkds93": {
+    "uuid": "ae49a7a2-7bc1-4c1b-83d5-518eb9cfa124",
+    "name": "NTU South Spine Blk S4",
+    "address": "50 Nanyang Ave, Block N3.1, Singapore 639798",
+    "location": {
+      "latitude": 1.34386,
+      "longitude": 103.68147
+    },
+    "type": "Musolla",
+    "geohash": "w21xxkds93",
+    "mrt": "Pioneer",
+    "directions": "From Carpark Basement B3, go to S.Rajaratnam Blk S4. Musollah is at Staircase SS4-SC11.\n\nToilet is just outside the staircase.",
+    "level": "B3",
+    "toiletLevel": "B3",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator",
+    "remarks": null,
+    "submittedBy": "Adikmu",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21xxkd2ud": {
+    "uuid": "f8be351f-9768-424c-b451-51076648d0f2",
+    "name": "NTU South Spine Blk S2",
+    "address": "21 Nanyang Link, Singapore 637371 Nanyang Link, Singapore 637371",
+    "location": {
+      "latitude": 1.34322,
+      "longitude": 103.68127
+    },
+    "type": "Musolla",
+    "geohash": "w21xxkd2ud",
+    "mrt": "Pioneer",
+    "directions": "From Basement Carpark B3, go to EEE Blk S2. Musollah is at Staircase SS2-SC4.\n\nToilet is just outside the staircase.",
+    "level": "B3",
+    "toiletLevel": "B3",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats, Qiblat Indicator",
+    "remarks": "Prayer mats hanged on hanger.\nSlippers are not provided.",
+    "submittedBy": "Adikmu",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21xxm90yp": {
+    "uuid": "25e67f8e-c382-4334-af35-3055a3fd5f8b",
+    "name": "NIE Musolla between Blk 2 & Blk 3",
+    "address": "1 Nanyang Walk, Singapore 637616",
+    "location": {
+      "latitude": 1.34874,
+      "longitude": 103.67961
+    },
+    "type": "Musolla",
+    "geohash": "w21xxm90yp",
+    "mrt": "Pioneer",
+    "directions": "Musolla is located between blk 2 and 3 of NIE at level B1. It overlooks a carpark.",
+    "level": "B1",
+    "toiletLevel": "B1. There is a partitioned wudu area for male and female. Toilet is nearby.",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+    "remarks": null,
+    "submittedBy": "Nur Mashitah",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

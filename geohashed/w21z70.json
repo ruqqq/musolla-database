@@ -1,0 +1,44 @@
+{
+  "w21z704pqz": {
+    "uuid": "c9d062ab-93de-4a51-a6c6-04621175e2a8",
+    "name": "International Plaza",
+    "address": "14 Anson Rd, Singapore 079903",
+    "location": {
+      "latitude": 1.2757,
+      "longitude": 103.84581
+    },
+    "type": "Musolla",
+    "geohash": "w21z704pqz",
+    "mrt": "Tanjong Pagar",
+    "directions": "Take car park lift near Staircase G to Level 7. Lift is beside Trung Nguyen Coffee at Level 1. At Level 7, walk out straight, musholla is on the right. Wudhu' from toilet at Level 7 car park itself.",
+    "level": "7",
+    "toiletLevel": "7",
+    "unisexCapacity": 20,
+    "provision": "Slippers, Praying Mats",
+    "remarks": null,
+    "submittedBy": "Mohamed",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21z705m8t": {
+    "uuid": "6923c5fc-9180-45dd-ae9b-04e220269d60",
+    "name": "AXA B2 Parking Staircase (Surau)",
+    "address": "8 Shenton Way, AXA Tower, Singapore 068811",
+    "location": {
+      "latitude": 1.27539,
+      "longitude": 103.84726
+    },
+    "type": "Musolla",
+    "geohash": "w21z705m8t",
+    "mrt": "Tanjong Pagar",
+    "directions": "At AXA Tower\nOption 1: B1 Concierge entrance. As you enter there is a glass door to the left to exit the lobby. Once you exit next to the toilets there is the door to the Staircase 5. Go down the staircase.\nOption 2: if you enter from L1 go to the B1. Walk around until the Mailroom. Go through the mailroom as you exit turn right. there is the door to the Staircase 5. Go down the staircase.",
+    "level": "B2",
+    "toiletLevel": "B1",
+    "unisexCapacity": 4,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Hiraash Thawfeek",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

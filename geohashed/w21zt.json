@@ -129,5 +129,26 @@
     "submittedBy": "Eriek",
     "createdAt": "2018-11-06T01:57:19.420Z",
     "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w21zthcr36": {
+    "uuid": "612ee7c5-959b-4eed-a3db-9cd29d02b778",
+    "name": "Temasek Polytechnic Engine Block 17 Muslimin",
+    "address": "21 Tampines Ave 1, Singapore 529757",
+    "location": {
+      "latitude": 1.34571,
+      "longitude": 103.93244
+    },
+    "type": "Musolla",
+    "geohash": "w21zthcr36",
+    "mrt": "Tampines West",
+    "directions": "Walk down engineering school until you see a food court named short circuit. Take the stairs up to level 4. Or the lift beside the printing shop. Walk towards block 17. Walk until you reached the end of the block. There will be a door that leads to the staircase. Mussollah between the doors of block 17 and staircase.",
+    "level": "4",
+    "toiletLevel": "Near the staircase at concourse",
+    "maleCapacity": 4,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator",
+    "remarks": "Muslimah mussollah is directly above the Muslimin mussollah at level 5.",
+    "submittedBy": "Muhammad Jadulhaq Rifa'ie",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

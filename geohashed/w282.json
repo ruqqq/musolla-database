@@ -299,5 +299,26 @@
     "source_musolla_id": "MY-10-HL-00361",
     "provision": "Antara kemudahan yang terdapat ialah  ruang parkir yang luas,  parkir berbumbung dan ruangan solat yang luas.,",
     "directions": "Masjid ini terletak dikawasan perkampongan Kampong Sesapan batu Rembau."
+  },
+  "w282sj0j1y": {
+    "uuid": "cf8384fd-19c6-4531-bd7a-f48fe6d93e4c",
+    "name": "Masjid UKM",
+    "address": "KJ 260 Masjid UKM, Jalan Nik Ahmed Kamil, 43600 Bangi, Selangor, Malaysia",
+    "location": {
+      "latitude": 2.92875,
+      "longitude": 101.77742
+    },
+    "type": "Musolla",
+    "geohash": "w282sj0j1y",
+    "mrt": "KTM UKM",
+    "directions": "Find The National University of Malaysia. Its near to the main gate.",
+    "level": "2",
+    "maleCapacity": 10000,
+    "femaleCapacity": 5000,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Fakhrul Hakim",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

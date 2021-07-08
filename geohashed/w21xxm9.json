@@ -1,0 +1,24 @@
+{
+  "w21xxm90yp": {
+    "uuid": "25e67f8e-c382-4334-af35-3055a3fd5f8b",
+    "name": "NIE Musolla between Blk 2 & Blk 3",
+    "address": "1 Nanyang Walk, Singapore 637616",
+    "location": {
+      "latitude": 1.34874,
+      "longitude": 103.67961
+    },
+    "type": "Musolla",
+    "geohash": "w21xxm90yp",
+    "mrt": "Pioneer",
+    "directions": "Musolla is located between blk 2 and 3 of NIE at level B1. It overlooks a carpark.",
+    "level": "B1",
+    "toiletLevel": "B1. There is a partitioned wudu area for male and female. Toilet is nearby.",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+    "remarks": null,
+    "submittedBy": "Nur Mashitah",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

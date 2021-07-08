@@ -1,0 +1,22 @@
+{
+  "w23gwq3ktj": {
+    "uuid": "9e24e4a1-bf5c-4a86-ab2b-90be524d1bc6",
+    "name": "Masjid Jamek Al Ukwah, Tenggaroh 6",
+    "address": "Jln Tun Mamat, Felda Tenggaroh 6, 85200 Jementah, Johor, Malaysia",
+    "location": {
+      "latitude": 2.05662,
+      "longitude": 103.98753
+    },
+    "type": "Musolla",
+    "geohash": "w23gwq3ktj",
+    "directions": "Main Rd of Tenggaroh 6",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 100,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Husni Hussein",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

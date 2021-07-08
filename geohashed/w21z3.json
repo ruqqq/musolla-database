@@ -370,5 +370,46 @@
     "submittedBy": "Raimi bin Karim",
     "createdAt": "2018-11-06T01:57:19.420Z",
     "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w21z37vb6y": {
+    "uuid": "cde9e8fd-f4a3-4fa4-b3c3-5945e4a037f6",
+    "name": "COM1",
+    "address": "NUS School of Computing, COM1, 13 Computing Drive, Singapore 117417",
+    "location": {
+      "latitude": 1.29509,
+      "longitude": 103.77389
+    },
+    "type": "Musolla",
+    "geohash": "w21z37vb6y",
+    "directions": "Near Makers@SOC, go up the staircase to fourth floor",
+    "level": "4",
+    "toiletLevel": "4",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Wudu' Area",
+    "remarks": null,
+    "submittedBy": "Ahmad Syafiq",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z3y6v7f": {
+    "uuid": "88d22de3-32e3-45b5-8c18-7d64bde611c8",
+    "name": "Civil Service College near carpark",
+    "address": "31 North Buona Vista Rd, Singapore 275983",
+    "location": {
+      "latitude": 1.30966,
+      "longitude": 103.79179
+    },
+    "type": "Musolla",
+    "geohash": "w21z3y6v7f",
+    "mrt": "Buona Vista",
+    "directions": "After exiting from the main entrance, turn to your right and walk towards the direction of the carpark of the building. Turn right when you see a bicycle stand. Walk to the end. The door to the Musollah is on your right.",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Nurul Khalisa",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

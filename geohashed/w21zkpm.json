@@ -1,0 +1,23 @@
+{
+  "w21zkpmfg3": {
+    "uuid": "0c302b94-5324-45e8-854d-0712671e3f31",
+    "name": "Kinex Mall Musholla @Next to Kucina Restaurant",
+    "address": "15 Tanjong Katong Rd, Singapore 436950",
+    "location": {
+      "latitude": 1.31472,
+      "longitude": 103.89476
+    },
+    "type": "Musolla",
+    "geohash": "w21zkpmfg3",
+    "mrt": "Paya Lebar",
+    "directions": "Head to Kucina Italian Restaurant. Musholla is just beside it.",
+    "level": "B1-09/10",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Agil Arfan",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

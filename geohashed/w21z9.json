@@ -63,5 +63,26 @@
     "uuid": "7b1cf79a-9fbd-465a-8f18-a3198fd92462",
     "type": "Musolla",
     "geohash": "w21z96pf2q"
+  },
+  "w21z96p3hp": {
+    "uuid": "a7cb6254-dbb3-4223-bad7-87d51aa081e8",
+    "name": "Singapore Institute of Management (SIM) near Library",
+    "address": "461 Clementi Rd, Singapore 599491",
+    "location": {
+      "latitude": 1.32956,
+      "longitude": 103.776
+    },
+    "type": "Musolla",
+    "geohash": "w21z96p3hp",
+    "mrt": "King Albert Park",
+    "directions": "Blk A of SIM HQ.\nFind Stairs 2 near to SIM Library\nWalk down Stairs 2  to Level B1\nMusollah is under the stairs.",
+    "level": "B1",
+    "toiletLevel": "Beside SIM Library",
+    "unisexCapacity": 3,
+    "provision": "Praying Mats",
+    "remarks": "There is only 2 prayer mats in a box.\nNo indication of qiblat.",
+    "submittedBy": "Azim",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

@@ -51,5 +51,26 @@
     "source_musolla_id": "MY-14-WKL-00028",
     "provision": "Mempunyai deretan rumah untuk kakitangan masjid, beserta tapak niaga pada hari jumaat bagi umat islam berniaga dan kawasan TEMPAT LETAK KERETA yang luas. MASJID INI JUGA ADA MENYEDIAKAN PERKHIDMATAN SEWAAN PENGINAPAN (6 UNIT), DEWAN SERBAGUNA (KENDURI KAHWIN/PROGRAM)DAN MELAYARI INTERNET SECARA PERCUMA OLEH TM.",
     "directions": "Masjid ini berada di pertengahan Kawasan Bukit Damansara dan Kawasan Perumahan ELIT."
+  },
+  "w283c629fy": {
+    "uuid": "f2569309-69cc-4b73-9370-cb741b8794b6",
+    "name": "Surau Akademi Pengajian Islam Universiti Malaya",
+    "address": "Unnamed Road, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "location": {
+      "latitude": 3.13281,
+      "longitude": 101.6573
+    },
+    "type": "Musolla",
+    "geohash": "w283c629fy",
+    "mrt": "Pusat Bandar Damansara",
+    "directions": "Head straight from Universiti Malaya Damansara Gate to a T-junction and make a left onto Lingkungan Budi. Head straight for 300m and make the first right exit, going uphill to the Akademi Pengajian Islam Universiti Malaya and the musolla will in on the roundabout",
+    "level": "2",
+    "toiletLevel": "1",
+    "unisexCapacity": 1000,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Ismat Jazli",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

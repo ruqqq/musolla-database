@@ -48,5 +48,26 @@
     "updatedAt": "2014-12-23T06:54:16.669Z",
     "uuid": "a558d090-3328-417f-aece-9fe955090b17",
     "geohash": "w21z74j20h"
+  },
+  "w21z74y1jv": {
+    "uuid": "97a8b735-6d17-452d-80ff-e0df68647f84",
+    "name": "National Gallery Singapore",
+    "address": "1 St Andrew's Rd, Singapore 178957",
+    "location": {
+      "latitude": 1.28972,
+      "longitude": 103.85127
+    },
+    "type": "Musolla",
+    "geohash": "w21z74y1jv",
+    "mrt": "City Hall",
+    "directions": "Go to lift lobby A and go to level 3.\nGo towards the toilet and walk all the way to the end. Passing the handicap toilet.\nThe door has \"only staff\" on it.",
+    "level": "3",
+    "toiletLevel": "3",
+    "unisexCapacity": 5,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Tasbih",
+    "remarks": null,
+    "submittedBy": "Ezat",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

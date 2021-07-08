@@ -1,0 +1,24 @@
+{
+  "w21zvd9x6g": {
+    "uuid": "31df9d60-30cf-409f-94fc-95d8c27cd97c",
+    "name": "Downtown East",
+    "address": "1 Pasir Ris Cl, Singapore 519599",
+    "location": {
+      "latitude": 1.3773,
+      "longitude": 103.95482
+    },
+    "type": "Musolla",
+    "geohash": "w21zvd9x6g",
+    "mrt": "Pasir Ris",
+    "directions": "McDonald's restaurant opposite wild wild wet",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 5,
+    "femaleCapacity": 5,
+    "provision": "Wudu' Area",
+    "remarks": "Behind McDonald restaurant",
+    "submittedBy": "Mohd Salleh",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

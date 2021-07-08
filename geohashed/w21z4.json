@@ -14,5 +14,48 @@
     "uuid": "7e07b4f9-1098-4732-9272-d3fec9c56e20",
     "type": "Musolla",
     "geohash": "w21z4kz9j5"
+  },
+  "w21z4w407e": {
+    "uuid": "ca454036-903a-426e-8874-5516a410debe",
+    "name": "VivoCity",
+    "address": "1 Harbourfront Walk, Singapore 098585",
+    "location": {
+      "latitude": 1.26349,
+      "longitude": 103.8237
+    },
+    "type": "Musolla",
+    "geohash": "w21z4w407e",
+    "mrt": "HarborFront",
+    "directions": "Head to Level 2 Lobby G",
+    "level": "2",
+    "toiletLevel": "2",
+    "unisexCapacity": 4,
+    "provision": null,
+    "remarks": "This is an unofficial place for Musholla but I always pray here.",
+    "submittedBy": "Agil Arfan",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z4wde8y": {
+    "uuid": "4f408b41-5277-4bc6-83ca-afc702666680",
+    "name": "Masjid Temenggong Daeng Ibrahim",
+    "address": "30 Telok Blangah Rd, Singapore 098827",
+    "location": {
+      "latitude": 1.26681,
+      "longitude": 103.82427
+    },
+    "type": "Musolla",
+    "geohash": "w21z4wde8y",
+    "mrt": "Harbourfront",
+    "directions": "In front of Vivo City and next the Bay Hotel",
+    "level": "4.7",
+    "toiletLevel": "5B",
+    "maleCapacity": 700,
+    "femaleCapacity": 20,
+    "provision": "Slippers, Telekung, Wudu' Area, Quran, Fans, Canteen, parkings, snacks, wifi, drinks, ice-creams",
+    "remarks": "Otherwise, there have a lot of free parking but it is a clamp areas here and have a canteen for everybody relax and also sell a snacks, drinks and ice-creams but it is all self-service and more important is have a free wifi for everybody. That is all.",
+    "submittedBy": "Noor Syafiq Bin Noordin",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

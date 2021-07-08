@@ -1,0 +1,46 @@
+{
+  "w21zvdc924": {
+    "uuid": "998d9a24-cc21-45d3-8619-22516c60c6ba",
+    "name": "Downtown East",
+    "address": "Unnamed Road, Singapore",
+    "location": {
+      "latitude": 1.37764,
+      "longitude": 103.9547
+    },
+    "type": "Musolla",
+    "geohash": "w21zvdc924",
+    "mrt": "Pasir Ris",
+    "directions": "Beside Macdonalds. In between Macdonalds and escalator. Infront of the toilet. separated rooms for male and female. ablution area provided in musollah room itself",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area",
+    "remarks": null,
+    "submittedBy": "Nurain Suhaila",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21zvdc3q0": {
+    "uuid": "5982d200-2766-4087-bfc2-d09db63a8511",
+    "name": "Downtown East",
+    "address": "Unnamed Road, Singapore",
+    "location": {
+      "latitude": 1.37763,
+      "longitude": 103.95462
+    },
+    "type": "Musolla",
+    "geohash": "w21zvdc3q0",
+    "mrt": "Pasir Ris",
+    "directions": "Musollah is directly behind McDonalds at Downtown East Level 1. Follow the signboard to the toilet and you will see the musollah. Same level as WildWild Wet.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 4,
+    "femaleCapacity": 4,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Airconditioned",
+    "remarks": null,
+    "submittedBy": "Siti Suhaili",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

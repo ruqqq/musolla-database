@@ -1,0 +1,22 @@
+{
+  "w21z76wtgf": {
+    "uuid": "36b8a985-b5f2-4b14-8c73-2fcae4c95249",
+    "name": "Singapore Flyer",
+    "address": "30 Raffles Ave, Singapore 039803",
+    "location": {
+      "latitude": 1.28915,
+      "longitude": 103.86285
+    },
+    "type": "Musolla",
+    "geohash": "w21z76wtgf",
+    "directions": "Below escalator (up) near tickets office (west entrance)",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 4,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "remarks": null,
+    "submittedBy": "Eriek",
+    "createdAt": "2021-07-08T03:52:32.977Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "w21zkpxnnt": {
+    "uuid": "a9d491be-ef80-4bec-ba4f-e2ed27c22249",
+    "name": "Wisma Geylang Serai",
+    "address": "885 Geylang Rd, Singapore 409299",
+    "location": {
+      "latitude": 1.31667,
+      "longitude": 103.89662
+    },
+    "type": "Musolla",
+    "geohash": "w21zkpxnnt",
+    "mrt": "Paya Lebar",
+    "directions": "Wisma Geylang Serai",
+    "level": "3",
+    "toiletLevel": "3",
+    "maleCapacity": 20,
+    "femaleCapacity": 20,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Mohd Salleh",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

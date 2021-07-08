@@ -1,0 +1,23 @@
+{
+  "w21z4w407e": {
+    "uuid": "ca454036-903a-426e-8874-5516a410debe",
+    "name": "VivoCity",
+    "address": "1 Harbourfront Walk, Singapore 098585",
+    "location": {
+      "latitude": 1.26349,
+      "longitude": 103.8237
+    },
+    "type": "Musolla",
+    "geohash": "w21z4w407e",
+    "mrt": "HarborFront",
+    "directions": "Head to Level 2 Lobby G",
+    "level": "2",
+    "toiletLevel": "2",
+    "unisexCapacity": 4,
+    "provision": null,
+    "remarks": "This is an unofficial place for Musholla but I always pray here.",
+    "submittedBy": "Agil Arfan",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

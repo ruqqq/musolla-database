@@ -1,0 +1,22 @@
+{
+  "w21zv3vexv": {
+    "uuid": "18997162-d6ef-45db-9cbd-35814819557c",
+    "name": "White Sand Surau",
+    "address": "Pasir Ris Drive 1, Pasir Ris, Singapore",
+    "location": {
+      "latitude": 1.37255,
+      "longitude": 103.94954
+    },
+    "type": "Musolla",
+    "geohash": "w21zv3vexv",
+    "mrt": "Pasir Ris",
+    "directions": "Take lift to level 5\nLook for Stanford Learning Centre\nWalk along the corridor and turn left at the door and you see the door",
+    "level": "null",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator",
+    "remarks": "Take your wudhu at the nearest toilet which is just few metre away at the same level\n\nSurau can only fit in 2 people",
+    "submittedBy": "Muhammad Yunus Bin Abdul Halim",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

@@ -94,5 +94,45 @@
     "geohash": "w21zs849zw",
     "remarks": "Combining both modern and Islamic architecture, this spanking new masjid was rebuilt to replace an old one built way back in 1924. Completed in 1999, the four-storey masjid located in the East can accommodate up to 2000 people. It is linked to Wisma Indah, a wakaf complex which houses the masjid’s office, commercial offices. Besides organizing regular religious courses for adults, the masjid also provides Internet facilities for visitors.",
     "mosqueType": "Wakaf"
+  },
+  "w21zs4d0xh": {
+    "uuid": "011ba681-388e-4fde-bf5a-a1e1710f877f",
+    "name": "Oxley Bizhub",
+    "address": "Blk 71 Ubi Road 1 #10-47, Oxley Bizhub Singapore, Singapore 408732",
+    "location": {
+      "latitude": 1.3322,
+      "longitude": 103.88977
+    },
+    "type": "Musolla",
+    "geohash": "w21zs4d0xh",
+    "mrt": "Tai Seng",
+    "directions": "Go up lift at Lobby 4 to level 10.\nMusollah is in IslamicEvents office.\n#10-47",
+    "level": "null",
+    "unisexCapacity": 10,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": "i cannot amend musollah level and toilet level in this form.\nthere is toilet in the IslamicEvents office.",
+    "submittedBy": "Khai",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21zse2d26": {
+    "uuid": "e01b76bb-4277-48be-b4a3-0a5419343f72",
+    "name": "Lobby B Level 5",
+    "address": "1 Kaki Bukit View, Singapore 415941",
+    "location": {
+      "latitude": 1.33661,
+      "longitude": 103.90939
+    },
+    "type": "Musolla",
+    "geohash": "w21zse2d26",
+    "mrt": "Kaki Bukit",
+    "directions": "Office Building Techview\nLift from Lobby B\nMusollah situated behind the lift there's a door indicating Prayers Room",
+    "level": "null",
+    "unisexCapacity": 3,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Quran, Fans",
+    "remarks": "Wudu' area can common Male and Female Toilet or Handicap Toilet at Level 1 behind the Lift at lobby B",
+    "submittedBy": "Noor H Abas",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

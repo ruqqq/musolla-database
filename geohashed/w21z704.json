@@ -1,0 +1,23 @@
+{
+  "w21z704pqz": {
+    "uuid": "c9d062ab-93de-4a51-a6c6-04621175e2a8",
+    "name": "International Plaza",
+    "address": "14 Anson Rd, Singapore 079903",
+    "location": {
+      "latitude": 1.2757,
+      "longitude": 103.84581
+    },
+    "type": "Musolla",
+    "geohash": "w21z704pqz",
+    "mrt": "Tanjong Pagar",
+    "directions": "Take car park lift near Staircase G to Level 7. Lift is beside Trung Nguyen Coffee at Level 1. At Level 7, walk out straight, musholla is on the right. Wudhu' from toilet at Level 7 car park itself.",
+    "level": "7",
+    "toiletLevel": "7",
+    "unisexCapacity": 20,
+    "provision": "Slippers, Praying Mats",
+    "remarks": null,
+    "submittedBy": "Mohamed",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

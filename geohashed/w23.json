@@ -339,5 +339,66 @@
     "submittedBy": "Nawzi Liamsi",
     "createdAt": "2018-11-06T01:57:19.420Z",
     "updatedAt": "2018-11-06T01:57:19.420Z"
+  },
+  "w23b4u50ux": {
+    "uuid": "e3ca9b4d-cbe8-447c-81d5-ea3bc5e5e256",
+    "name": "NorthPoint City B2 Musollah",
+    "address": "930 Yishun Ave 2, Singapore 769098",
+    "location": {
+      "latitude": 1.42839,
+      "longitude": 103.83611
+    },
+    "type": "Musolla",
+    "geohash": "w23b4u50ux",
+    "mrt": "Yishun",
+    "directions": "Find Lift Lobby B in the North Wing (find direction towards National Library Board (NLB)). Go to Level B2.\n\nPerform wudhu at Level B1. From Musollah, walk straight towards the escalator, go up to level B1. Walk straight and there will be handicap, male and female toilets.",
+    "level": "B2",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator",
+    "remarks": "Musollah is very small. Expect to wait awhile as there will sure be people performing prayers. Musollah is a little difficult to locate unless you are familiar with the shopping mall.",
+    "submittedBy": "Hafilah Mohamed",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w23b3b4v2d": {
+    "uuid": "d121fb96-7d8b-433a-8f52-e84d0a9abf1f",
+    "name": "Harvest @ Woodlands",
+    "address": "280 Woodlands Industrial Park E5, Singapore 757291",
+    "location": {
+      "latitude": 1.45111,
+      "longitude": 103.79165
+    },
+    "type": "Musolla",
+    "geohash": "w23b3b4v2d",
+    "directions": "Musollah located in the food court.\nMusollah is beside WowWok and is covered by curtains.",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 3,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Izwan Ismail",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w23gwq3ktj": {
+    "uuid": "9e24e4a1-bf5c-4a86-ab2b-90be524d1bc6",
+    "name": "Masjid Jamek Al Ukwah, Tenggaroh 6",
+    "address": "Jln Tun Mamat, Felda Tenggaroh 6, 85200 Jementah, Johor, Malaysia",
+    "location": {
+      "latitude": 2.05662,
+      "longitude": 103.98753
+    },
+    "type": "Musolla",
+    "geohash": "w23gwq3ktj",
+    "directions": "Main Rd of Tenggaroh 6",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 100,
+    "provision": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans",
+    "remarks": null,
+    "submittedBy": "Husni Hussein",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
   }
 }

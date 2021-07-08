@@ -19,5 +19,26 @@
     "uuid": "43c95d07-1993-4d27-a78c-23bf65f9aab2",
     "type": "Musolla",
     "geohash": "w21z8g40t6"
+  },
+  "w21z8gjnv6": {
+    "uuid": "c1c9ed2f-f041-4f27-926a-0aa19fecd0a4",
+    "name": "The Furniture Mall",
+    "address": "10 Toh Guan Rd E, Singapore 608597",
+    "location": {
+      "latitude": 1.33601,
+      "longitude": 103.75099
+    },
+    "type": "Musolla",
+    "geohash": "w21z8gjnv6",
+    "mrt": "Jurong East",
+    "directions": "Opposite Jurong Hospital",
+    "level": "B1 beside the lift and inside the Staircase Lobby A",
+    "toiletLevel": "B1",
+    "unisexCapacity": 2,
+    "provision": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Quran, Fans, Tasbir",
+    "remarks": null,
+    "submittedBy": "Abdul Karim",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }

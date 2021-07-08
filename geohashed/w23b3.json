@@ -1,0 +1,22 @@
+{
+  "w23b3b4v2d": {
+    "uuid": "d121fb96-7d8b-433a-8f52-e84d0a9abf1f",
+    "name": "Harvest @ Woodlands",
+    "address": "280 Woodlands Industrial Park E5, Singapore 757291",
+    "location": {
+      "latitude": 1.45111,
+      "longitude": 103.79165
+    },
+    "type": "Musolla",
+    "geohash": "w23b3b4v2d",
+    "directions": "Musollah located in the food court.\nMusollah is beside WowWok and is covered by curtains.",
+    "level": "1",
+    "toiletLevel": "1",
+    "unisexCapacity": 3,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Izwan Ismail",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

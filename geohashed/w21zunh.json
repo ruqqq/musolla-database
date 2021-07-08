@@ -1,0 +1,45 @@
+{
+  "w21zunhf70": {
+    "uuid": "52a9aad3-eb2f-4c99-9f81-ce3affbd8bb0",
+    "name": "KOUFU @ SENGKANG GENERAL HOSPITAL",
+    "address": "110 Sengkang E Way, Singapore 548655",
+    "location": {
+      "latitude": 1.39565,
+      "longitude": 103.89338
+    },
+    "type": "Musolla",
+    "geohash": "w21zunhf70",
+    "directions": "Alhamdullillah, tempat Solat (musolah) dalam hospital Sengkang sangat elok. Kalau anda masih mencari ia berada dalam tempat makan Kou Fu. Cari toilet dihujung Insyaallah anda boleh dapat, tak bimbang waktu Solat lagi. Semoga berguna.",
+    "level": "#01-21",
+    "toiletLevel": "#01-21",
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provision": "Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran",
+    "remarks": null,
+    "submittedBy": "Muhammad Suhaimi Othman",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21zunhc7d": {
+    "uuid": "c3c1daa9-efdf-49cf-851e-4b696866df79",
+    "name": "Behind koufu @ skgh",
+    "address": "110 Sengkang E Way, Singapore 548655",
+    "location": {
+      "latitude": 1.39549,
+      "longitude": 103.8934
+    },
+    "type": "Musolla",
+    "geohash": "w21zunhc7d",
+    "mrt": "Cheng lim",
+    "directions": "Behind koufu there is a toilet. Prayer room is just in front of the toilet.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 3,
+    "femaleCapacity": 3,
+    "provision": "Praying Mats",
+    "remarks": null,
+    "submittedBy": "Khidhir Hamid",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
+  }
+}

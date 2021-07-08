@@ -1,0 +1,22 @@
+{
+  "w21z7q3q7x": {
+    "uuid": "3ba7dea5-ce7e-4200-9e5b-39b3b13c5525",
+    "name": "Kebab n runs@mustafa",
+    "address": "148 Syed Alwi Rd, Singapore 207707",
+    "location": {
+      "latitude": 1.30986,
+      "longitude": 103.85563
+    },
+    "type": "Musolla",
+    "geohash": "w21z7q3q7x",
+    "mrt": "Farrer park",
+    "directions": "Take lift to the top, to level R enter the Kebab and Run restaurant. And go towards the kitchen. And you will see place for musollah. Besides their kitchen and fridges!",
+    "level": "R",
+    "maleCapacity": 15,
+    "provision": "Praying Mats, Wudu' Area, Fans, Songkok",
+    "remarks": null,
+    "submittedBy": "Abu qushayri",
+    "createdAt": "2021-07-08T03:52:32.979Z",
+    "updatedAt": "2021-07-08T03:52:32.979Z"
+  }
+}

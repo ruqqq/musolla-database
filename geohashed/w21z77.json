@@ -49,5 +49,26 @@
         "updatedAt": "2015-06-15T07:57:07.206Z"
       }
     ]
+  },
+  "w21z77u2vz": {
+    "uuid": "2e108706-87a6-4aaf-ac98-c2424050f77f",
+    "name": "Suntec city level 3 Red",
+    "address": "3E Temasek Blvd, Singapore 038984",
+    "location": {
+      "latitude": 1.29518,
+      "longitude": 103.85985
+    },
+    "type": "Musolla",
+    "geohash": "w21z77u2vz",
+    "directions": "Just beside Singapore post on level 3",
+    "level": "3",
+    "toiletLevel": "3",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provision": "Slippers, Praying Mats, Fans",
+    "remarks": "Convenient male and female prayer room with toilets on same level",
+    "submittedBy": "Mohamed Mafaz",
+    "createdAt": "2021-07-08T03:52:32.978Z",
+    "updatedAt": "2021-07-08T03:52:32.978Z"
   }
 }
