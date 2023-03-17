@@ -77,7 +77,7 @@ Let's begin.
 
 async function getUnreadSubmissions() {
   const submissions = await jotform.getFormSubmissions(
-    82582716945468,
+    process.env.FORM_ID,
     { filter: { new: '1' } },
   );
   // console.log(submissions);
@@ -87,11 +87,20 @@ async function getUnreadSubmissions() {
   return submissions;
 }
 
+async function markSubmissionAsRead(submissionId) {
+  await jotform.editSubmission(submissionId, { "submission[new]": '0' });
+}
+
 async function main() {
   const formSubmissions = await getUnreadSubmissions();
   const submissions = formSubmissions.map(s => { 
     const answers = Object.values(s.answers)
       .filter(it => it.answer && it.name !== "yourEmail");
+    answers.push({
+      name: 'sid',
+      text: 'Submission ID',
+      answer: s.id,
+    });
     answers.push({
       name: 'createdAt',
       text: 'Created At',
@@ -99,6 +108,7 @@ async function main() {
     });
     return answers;
   });
+  const processedSubmissionIds = [];
 
   const item = submissions[0];
   console.log("Form Data:", JSON.stringify(item, undefined, 2));
@@ -111,6 +121,8 @@ async function main() {
       result = await openaiChatCompletion(JSON.stringify([item]));
       resultExtracted = JSON.parse(result.data.choices?.[0]?.message?.content);
       console.log("Extracted:", JSON.stringify(resultExtracted, undefined, 2));
+
+      processedSubmissionIds.push(item.filter(i => i.name === "sid")[0].answer);
 
       break;
     } catch (e) {
@@ -139,6 +151,12 @@ async function main() {
   console.log("Writing to file...");
   fs.writeFileSync(path.resolve(__dirname, "../data.json"), JSON.stringify(dataset, undefined, 4));
   console.log("...done!");
+
+  console.log("Marking these sids as processed:", processedSubmissionIds);
+  for (const sid of processedSubmissionIds) {
+    await markSubmissionAsRead(sid);
+  }
+  console.log("...done!");
 }
 
 main();
@@ -150,5 +168,5 @@ main();
 // 3. Run tool in pipeline
 // 4. Create an entry in the main data and generate relevant files
 // 5. Commit and Push
-// 6. Mark data in jotform as read
+// 6. Mark data in jotform as read (/)
 // 7. check for duplicates (embedding)
