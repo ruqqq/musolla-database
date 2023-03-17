@@ -110,42 +110,45 @@ async function main() {
   });
   const processedSubmissionIds = [];
 
-  const item = submissions[0];
-  console.log("Form Data:", JSON.stringify(item, undefined, 2));
+  for (const item of submissions) {
+    console.log("Form Data:", JSON.stringify(item, undefined, 2));
 
-  let attempt = 0;
-  let resultExtracted;
-  while (attempt++ < 3) {
-    let result;
-    try {
-      result = await openaiChatCompletion(JSON.stringify([item]));
-      resultExtracted = JSON.parse(result.data.choices?.[0]?.message?.content);
-      console.log("Extracted:", JSON.stringify(resultExtracted, undefined, 2));
+    let attempt = 0;
+    let resultExtracted;
+    while (attempt++ < 3) {
+      let result;
+      try {
+        result = await openaiChatCompletion(JSON.stringify([item]));
+        resultExtracted = JSON.parse(result.data.choices?.[0]?.message?.content);
+        console.log("Extracted:", JSON.stringify(resultExtracted, undefined, 2));
 
-      processedSubmissionIds.push(item.filter(i => i.name === "sid")[0].answer);
+        processedSubmissionIds.push(item.filter(i => i.name === "sid")[0].answer);
 
-      break;
-    } catch (e) {
-      console.warn("Invalid GPT response: ", result);
-      console.warn(e);
-      console.warn("Retrying...");
+        break;
+      } catch (e) {
+        console.warn("Invalid GPT response: ", result);
+        console.warn(e);
+        console.warn("Retrying...");
+      }
     }
-  }
 
-  if (resultExtracted.isSpam || resultExtracted.confidence < 0.7) {
-    console.warn("Rejected.");
-  } else {
-    const enrichedResult = {
-      ...resultExtracted.data,
-      type: "Musolla",
-      uuid: uuid(),
-      geohash: ngeohash.encode(resultExtracted.data.location.latitude, resultExtracted.data.location.longitude, 10),
-      createdAt: resultExtracted.data.createdAt ?? new Date().toISOString(),
-      updatedAt: new Date().toISOString(),
+    if (resultExtracted.isSpam || resultExtracted.confidence < 0.7) {
+      console.warn("Rejected.");
+    } else {
+      const enrichedResult = {
+        ...resultExtracted.data,
+        type: "Musolla",
+        uuid: uuid(),
+        geohash: ngeohash.encode(resultExtracted.data.location.latitude, resultExtracted.data.location.longitude, 10),
+        createdAt: resultExtracted.data.createdAt ?? new Date().toISOString(),
+        updatedAt: new Date().toISOString(),
+      }
+      console.log("Enriched:", JSON.stringify(enrichedResult, undefined, 2));
+
+      dataset[enrichedResult.uuid] = enrichedResult;
     }
-    console.log("Enriched:", JSON.stringify(enrichedResult, undefined, 2));
 
-    dataset[enrichedResult.uuid] = enrichedResult;
+    console.log("=================");
   }
 
   console.log("Writing to file...");

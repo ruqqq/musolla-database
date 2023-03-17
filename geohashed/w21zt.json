@@ -150,5 +150,65 @@
     "submittedBy": "Muhammad Jadulhaq Rifa'ie",
     "createdAt": "2021-07-08T03:52:32.979Z",
     "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21ztkj3xc": {
+    "createdAt": "2023-01-24T02:50:40.000Z",
+    "address": "2 Simei St 3, Singapore 529889",
+    "directions": "Century Square, 2 Tampines Central 5 #04-11/12, Singapore 529509 \r\nTel: 6789 8180\r\nOperation Hour: 11 a.m. to 10 p.m.\r\nA musholla is available for Muslim customers to perform solat.",
+    "level": "4",
+    "location": {
+      "latitude": 1.3406,
+      "longitude": 103.9492
+    },
+    "sharedCapacity": 0,
+    "mrt": "Tampines Mrt",
+    "name": "Century Sq",
+    "submitterName": "Siti Jantan",
+    "type": "Musolla",
+    "uuid": "0335d0e3-b971-4c17-ad71-70f919d79d51",
+    "geohash": "w21ztkj3xc",
+    "updatedAt": "2023-03-17T14:38:34.428Z"
+  },
+  "w21ztnr43v": {
+    "createdAt": "2022-11-27T06:47:38.000Z",
+    "address": "1 Tampines Walk, Singapore",
+    "directions": "Tampines hub",
+    "level": "Beside McD",
+    "toiletLevel": "Toilet Same as above , Wudhu at prayer room",
+    "location": {
+      "latitude": 1.35311,
+      "longitude": 103.94036
+    },
+    "maleCapacity": 4,
+    "femaleCapacity": 4,
+    "provisions": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans, Mirror",
+    "mrt": "Tampines Mrt",
+    "name": "Tampines Hub beside McDonald",
+    "submitterName": "CT",
+    "type": "Musolla",
+    "uuid": "6711a21d-90aa-4cb5-bbd4-35c53e889401",
+    "geohash": "w21ztnr43v",
+    "updatedAt": "2023-03-17T14:39:59.171Z"
+  },
+  "w21ztq6b8n": {
+    "createdAt": "2022-07-09T01:10:43.000Z",
+    "address": "4 Tampines Central 5, Singapore 529510",
+    "directions": "if from level 1, take the lift near to bodyshop or the escalator near Innisfree up to level 3. the musollah is near the level 3 toilet. pls bring own mat and sejadah. space can fit max 2 people at 1 time.",
+    "level": "3",
+    "toiletLevel": "3",
+    "location": {
+      "latitude": 1.35281,
+      "longitude": 103.94543
+    },
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provisions": "Qiblat Indicator, Wudu' Area",
+    "mrt": "tampines",
+    "name": "Tampines Mall Level 3 near Uniqlo",
+    "submitterName": "fara",
+    "type": "Musolla",
+    "uuid": "7be97bb6-45c2-4f52-9eee-858240cf8814",
+    "geohash": "w21ztq6b8n",
+    "updatedAt": "2023-03-17T14:41:07.813Z"
   }
 }

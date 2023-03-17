@@ -1,0 +1,23 @@
+{
+  "w21ztq6b8n": {
+    "createdAt": "2022-07-09T01:10:43.000Z",
+    "address": "4 Tampines Central 5, Singapore 529510",
+    "directions": "if from level 1, take the lift near to bodyshop or the escalator near Innisfree up to level 3. the musollah is near the level 3 toilet. pls bring own mat and sejadah. space can fit max 2 people at 1 time.",
+    "level": "3",
+    "toiletLevel": "3",
+    "location": {
+      "latitude": 1.35281,
+      "longitude": 103.94543
+    },
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provisions": "Qiblat Indicator, Wudu' Area",
+    "mrt": "tampines",
+    "name": "Tampines Mall Level 3 near Uniqlo",
+    "submitterName": "fara",
+    "type": "Musolla",
+    "uuid": "7be97bb6-45c2-4f52-9eee-858240cf8814",
+    "geohash": "w21ztq6b8n",
+    "updatedAt": "2023-03-17T14:41:07.813Z"
+  }
+}

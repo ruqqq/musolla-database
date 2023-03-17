@@ -631,5 +631,68 @@
     "submittedBy": "Abu qushayri",
     "createdAt": "2021-07-08T03:52:32.979Z",
     "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21z7hswnk": {
+    "createdAt": "2022-10-30T07:04:56.000Z",
+    "address": "1 Selegie Rd, Singapore 188306",
+    "directions": "Level 3. Walk towards the toilet area. Wudu can be taken at the handicap toilet beside the musholla.",
+    "level": "Level 3",
+    "toiletLevel": "Level 3",
+    "location": {
+      "latitude": 1.30019,
+      "longitude": 103.84923
+    },
+    "sharedCapacity": 2,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "name": "GR.iD",
+    "submitterName": "Max",
+    "type": "Musolla",
+    "uuid": "e42425fe-b614-4996-a6a8-ed53667d3d95",
+    "geohash": "w21z7hswnk",
+    "updatedAt": "2023-03-17T14:40:19.834Z"
+  },
+  "w21z77801e": {
+    "musollaName": "Fairmont Hotel Prayer Room",
+    "directions": "Near Asian Market Cafe, beside escalator, theres designated prayer room for Men and Women. Toilet is at opposite Asian Market Cafe.",
+    "musollaLevel": "2",
+    "nearestToilet": "2",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provisions": "Slippers, Praying Mats",
+    "submitterName": "Faris Rasid",
+    "nearestMrt": "Esplanade / City Hall",
+    "isThis": "Gender specific / Gender separated spaces",
+    "sharedCapacity": 0,
+    "location": {
+      "latitude": 1.29366,
+      "longitude": 103.85383
+    },
+    "createdAt": "2022-09-15T10:06:03.000Z",
+    "type": "Musolla",
+    "uuid": "7345a5e8-608e-4109-92ff-87cc491a7151",
+    "geohash": "w21z77801e",
+    "updatedAt": "2023-03-17T14:40:40.768Z"
+  },
+  "w21z7ke400": {
+    "createdAt": "2022-05-21T15:28:21.000Z",
+    "address": "3 Fraser St, Singapore 189352",
+    "directions": "Opposite GATEWSY WEST. Traffic light juction 4 BEACH ROAD/ROCHORE ROAD.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 7,
+    "femaleCapacity": 7,
+    "additionalInfo": "At the moment bring your own mat and telekung due C-19.\r\nWuduk inside musolla",
+    "provisions": "Slippers, Qiblat Indicator, Wudu' Area, Quran, Aircon",
+    "mrt": "BUGIS",
+    "name": "Duo",
+    "submitterName": "MAJ",
+    "location": {
+      "latitude": 1.29948,
+      "longitude": 103.85789
+    },
+    "type": "Musolla",
+    "uuid": "1c506622-5077-4587-87cb-a3395530551e",
+    "geohash": "w21z7ke400",
+    "updatedAt": "2023-03-17T14:41:26.267Z"
   }
 }

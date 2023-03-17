@@ -1,0 +1,20 @@
+{
+  "w21ze08yte": {
+    "createdAt": "2023-02-12T21:05:14.000Z",
+    "address": "38 Irrawaddy Rd, Singapore 329563",
+    "directions": "Beside #01-03",
+    "level": "1",
+    "location": {
+      "latitude": 1.32224,
+      "longitude": 103.84404
+    },
+    "sharedCapacity": 2,
+    "mrt": "Novena",
+    "name": "Mount Elizabeth Novena Hospital",
+    "submitterName": "Max Mohamed",
+    "type": "Musolla",
+    "uuid": "377bde57-c31a-477d-a9d6-a266ea948fcb",
+    "geohash": "w21ze08yte",
+    "updatedAt": "2023-03-17T14:38:17.883Z"
+  }
+}

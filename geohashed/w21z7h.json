@@ -54,5 +54,24 @@
     "uuid": "bac9cb06-6886-4729-b6a0-ed18c917bb11",
     "geohash": "w21z7hc9v7",
     "submitterName": "Radin Khairulirwan"
+  },
+  "w21z7hswnk": {
+    "createdAt": "2022-10-30T07:04:56.000Z",
+    "address": "1 Selegie Rd, Singapore 188306",
+    "directions": "Level 3. Walk towards the toilet area. Wudu can be taken at the handicap toilet beside the musholla.",
+    "level": "Level 3",
+    "toiletLevel": "Level 3",
+    "location": {
+      "latitude": 1.30019,
+      "longitude": 103.84923
+    },
+    "sharedCapacity": 2,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "name": "GR.iD",
+    "submitterName": "Max",
+    "type": "Musolla",
+    "uuid": "e42425fe-b614-4996-a6a8-ed53667d3d95",
+    "geohash": "w21z7hswnk",
+    "updatedAt": "2023-03-17T14:40:19.834Z"
   }
 }

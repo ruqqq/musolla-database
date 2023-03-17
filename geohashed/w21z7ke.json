@@ -1,25 +1,4 @@
 {
-  "w21z7k9dkd": {
-    "uuid": "f83826e3-5ecb-4423-bf6f-8a7bf6cfdf96",
-    "name": "DUO Galleria",
-    "address": "7 Fraser Street, Singapore 189356",
-    "location": {
-      "latitude": 1.2995324,
-      "longitude": 103.8560191
-    },
-    "type": "Musolla",
-    "geohash": "w21z7k9dkd",
-    "mrt": "Bugis DTL",
-    "directions": "Exit C of Bugis DTL, walk right towards toilet (approx. 50m). Musollah located near toilet. Abulations area inside room. Male musollah near male toilet",
-    "level": "1",
-    "maleCapacity": 10,
-    "femaleCapacity": 10,
-    "provision": null,
-    "remarks": null,
-    "submittedBy": "Muhammad Iqbal",
-    "createdAt": "2018-11-06T01:57:19.419Z",
-    "updatedAt": "2018-11-06T01:57:19.420Z"
-  },
   "w21z7ke400": {
     "createdAt": "2022-05-21T15:28:21.000Z",
     "address": "3 Fraser St, Singapore 189352",

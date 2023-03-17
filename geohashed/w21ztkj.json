@@ -1,0 +1,20 @@
+{
+  "w21ztkj3xc": {
+    "createdAt": "2023-01-24T02:50:40.000Z",
+    "address": "2 Simei St 3, Singapore 529889",
+    "directions": "Century Square, 2 Tampines Central 5 #04-11/12, Singapore 529509 \r\nTel: 6789 8180\r\nOperation Hour: 11 a.m. to 10 p.m.\r\nA musholla is available for Muslim customers to perform solat.",
+    "level": "4",
+    "location": {
+      "latitude": 1.3406,
+      "longitude": 103.9492
+    },
+    "sharedCapacity": 0,
+    "mrt": "Tampines Mrt",
+    "name": "Century Sq",
+    "submitterName": "Siti Jantan",
+    "type": "Musolla",
+    "uuid": "0335d0e3-b971-4c17-ad71-70f919d79d51",
+    "geohash": "w21ztkj3xc",
+    "updatedAt": "2023-03-17T14:38:34.428Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "w21z77801e": {
+    "musollaName": "Fairmont Hotel Prayer Room",
+    "directions": "Near Asian Market Cafe, beside escalator, theres designated prayer room for Men and Women. Toilet is at opposite Asian Market Cafe.",
+    "musollaLevel": "2",
+    "nearestToilet": "2",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provisions": "Slippers, Praying Mats",
+    "submitterName": "Faris Rasid",
+    "nearestMrt": "Esplanade / City Hall",
+    "isThis": "Gender specific / Gender separated spaces",
+    "sharedCapacity": 0,
+    "location": {
+      "latitude": 1.29366,
+      "longitude": 103.85383
+    },
+    "createdAt": "2022-09-15T10:06:03.000Z",
+    "type": "Musolla",
+    "uuid": "7345a5e8-608e-4109-92ff-87cc491a7151",
+    "geohash": "w21z77801e",
+    "updatedAt": "2023-03-17T14:40:40.768Z"
+  }
+}

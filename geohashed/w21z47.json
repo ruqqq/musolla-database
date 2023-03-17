@@ -1,0 +1,21 @@
+{
+  "w21z47txmr": {
+    "createdAt": "2021-12-12T08:59:35.000Z",
+    "address": "62 Siloso Beach Walk, Singapore 098998",
+    "directions": "B1, Beach Station carpark. Yellow zone. Take the escalator opposite the information counter to the basement carpark. Turn right. There are separate rooms for male & female with saying \"Prayer Room\". There's a nearby water point for ablution just to the right of the musollah.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.25098,
+      "longitude": 103.8176
+    },
+    "maleCapacity": 5,
+    "femaleCapacity": 5,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Fans",
+    "name": "Sentosa Island, Beach Station",
+    "submitterName": "Max Mohamed",
+    "type": "Musolla",
+    "uuid": "a4fd5a1c-e7ba-457f-a002-26ad314b85af",
+    "geohash": "w21z47txmr",
+    "updatedAt": "2023-03-17T14:42:50.785Z"
+  }
+}

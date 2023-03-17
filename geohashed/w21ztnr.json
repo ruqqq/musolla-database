@@ -1,0 +1,23 @@
+{
+  "w21ztnr43v": {
+    "createdAt": "2022-11-27T06:47:38.000Z",
+    "address": "1 Tampines Walk, Singapore",
+    "directions": "Tampines hub",
+    "level": "Beside McD",
+    "toiletLevel": "Toilet Same as above , Wudhu at prayer room",
+    "location": {
+      "latitude": 1.35311,
+      "longitude": 103.94036
+    },
+    "maleCapacity": 4,
+    "femaleCapacity": 4,
+    "provisions": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans, Mirror",
+    "mrt": "Tampines Mrt",
+    "name": "Tampines Hub beside McDonald",
+    "submitterName": "CT",
+    "type": "Musolla",
+    "uuid": "6711a21d-90aa-4cb5-bbd4-35c53e889401",
+    "geohash": "w21ztnr43v",
+    "updatedAt": "2023-03-17T14:39:59.171Z"
+  }
+}

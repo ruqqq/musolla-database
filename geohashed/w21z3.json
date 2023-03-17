@@ -411,5 +411,25 @@
     "submittedBy": "Nurul Khalisa",
     "createdAt": "2021-07-08T03:52:32.978Z",
     "updatedAt": "2021-07-08T03:52:32.978Z"
+  },
+  "w21z3esb8f": {
+    "createdAt": "2023-02-25T01:34:25.000Z",
+    "address": "5 Lower Kent Ridge Rd, Singapore 119074",
+    "directions": "Wheelchair storage area on the right of ward 56.\r\nTurn right before entrance to ward 56.",
+    "level": "5",
+    "toiletLevel": "Kopitiam @ level 1",
+    "location": {
+      "latitude": 1.29374,
+      "longitude": 103.78342
+    },
+    "sharedCapacity": 2,
+    "provisions": "Praying Mats, Telekung",
+    "mrt": "Kent Ridge",
+    "name": "NUH Wards",
+    "submitterName": "Nizam",
+    "type": "Musolla",
+    "uuid": "eba70234-a491-417d-acca-53b50e3d063e",
+    "geohash": "w21z3esb8f",
+    "updatedAt": "2023-03-17T14:38:03.956Z"
   }
 }

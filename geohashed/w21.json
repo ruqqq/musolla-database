@@ -3075,5 +3075,206 @@
     "submittedBy": "Azhar Ahmad",
     "createdAt": "2021-07-08T03:52:32.979Z",
     "updatedAt": "2021-07-08T03:52:32.979Z"
+  },
+  "w21z3esb8f": {
+    "createdAt": "2023-02-25T01:34:25.000Z",
+    "address": "5 Lower Kent Ridge Rd, Singapore 119074",
+    "directions": "Wheelchair storage area on the right of ward 56.\r\nTurn right before entrance to ward 56.",
+    "level": "5",
+    "toiletLevel": "Kopitiam @ level 1",
+    "location": {
+      "latitude": 1.29374,
+      "longitude": 103.78342
+    },
+    "sharedCapacity": 2,
+    "provisions": "Praying Mats, Telekung",
+    "mrt": "Kent Ridge",
+    "name": "NUH Wards",
+    "submitterName": "Nizam",
+    "type": "Musolla",
+    "uuid": "eba70234-a491-417d-acca-53b50e3d063e",
+    "geohash": "w21z3esb8f",
+    "updatedAt": "2023-03-17T14:38:03.956Z"
+  },
+  "w21ze08yte": {
+    "createdAt": "2023-02-12T21:05:14.000Z",
+    "address": "38 Irrawaddy Rd, Singapore 329563",
+    "directions": "Beside #01-03",
+    "level": "1",
+    "location": {
+      "latitude": 1.32224,
+      "longitude": 103.84404
+    },
+    "sharedCapacity": 2,
+    "mrt": "Novena",
+    "name": "Mount Elizabeth Novena Hospital",
+    "submitterName": "Max Mohamed",
+    "type": "Musolla",
+    "uuid": "377bde57-c31a-477d-a9d6-a266ea948fcb",
+    "geohash": "w21ze08yte",
+    "updatedAt": "2023-03-17T14:38:17.883Z"
+  },
+  "w21ztkj3xc": {
+    "createdAt": "2023-01-24T02:50:40.000Z",
+    "address": "2 Simei St 3, Singapore 529889",
+    "directions": "Century Square, 2 Tampines Central 5 #04-11/12, Singapore 529509 \r\nTel: 6789 8180\r\nOperation Hour: 11 a.m. to 10 p.m.\r\nA musholla is available for Muslim customers to perform solat.",
+    "level": "4",
+    "location": {
+      "latitude": 1.3406,
+      "longitude": 103.9492
+    },
+    "sharedCapacity": 0,
+    "mrt": "Tampines Mrt",
+    "name": "Century Sq",
+    "submitterName": "Siti Jantan",
+    "type": "Musolla",
+    "uuid": "0335d0e3-b971-4c17-ad71-70f919d79d51",
+    "geohash": "w21ztkj3xc",
+    "updatedAt": "2023-03-17T14:38:34.428Z"
+  },
+  "w21z4zyfsv": {
+    "createdAt": "2023-01-21T07:21:51.000Z",
+    "address": "200 Cantonment Rd, Southpoint, Singapore 089763",
+    "directions": "Located at B1 of Southpoint building.",
+    "level": "B1",
+    "toiletLevel": "B2",
+    "location": {
+      "latitude": 1.2735,
+      "longitude": 103.84127
+    },
+    "maleCapacity": 5,
+    "femaleCapacity": 5,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Fans",
+    "mrt": "Outram Park/Tanjong Pagar",
+    "name": "Southpoint",
+    "submitterName": "Aiman",
+    "type": "Musolla",
+    "uuid": "7b5832c1-4170-474c-af3f-d03bc4f04449",
+    "geohash": "w21z4zyfsv",
+    "updatedAt": "2023-03-17T14:38:49.402Z"
+  },
+  "w21ztnr43v": {
+    "createdAt": "2022-11-27T06:47:38.000Z",
+    "address": "1 Tampines Walk, Singapore",
+    "directions": "Tampines hub",
+    "level": "Beside McD",
+    "toiletLevel": "Toilet Same as above , Wudhu at prayer room",
+    "location": {
+      "latitude": 1.35311,
+      "longitude": 103.94036
+    },
+    "maleCapacity": 4,
+    "femaleCapacity": 4,
+    "provisions": "Slippers, Praying Mats, Telekung, Qiblat Indicator, Wudu' Area, Quran, Fans, Mirror",
+    "mrt": "Tampines Mrt",
+    "name": "Tampines Hub beside McDonald",
+    "submitterName": "CT",
+    "type": "Musolla",
+    "uuid": "6711a21d-90aa-4cb5-bbd4-35c53e889401",
+    "geohash": "w21ztnr43v",
+    "updatedAt": "2023-03-17T14:39:59.171Z"
+  },
+  "w21z7hswnk": {
+    "createdAt": "2022-10-30T07:04:56.000Z",
+    "address": "1 Selegie Rd, Singapore 188306",
+    "directions": "Level 3. Walk towards the toilet area. Wudu can be taken at the handicap toilet beside the musholla.",
+    "level": "Level 3",
+    "toiletLevel": "Level 3",
+    "location": {
+      "latitude": 1.30019,
+      "longitude": 103.84923
+    },
+    "sharedCapacity": 2,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Fans",
+    "name": "GR.iD",
+    "submitterName": "Max",
+    "type": "Musolla",
+    "uuid": "e42425fe-b614-4996-a6a8-ed53667d3d95",
+    "geohash": "w21z7hswnk",
+    "updatedAt": "2023-03-17T14:40:19.834Z"
+  },
+  "w21z77801e": {
+    "musollaName": "Fairmont Hotel Prayer Room",
+    "directions": "Near Asian Market Cafe, beside escalator, theres designated prayer room for Men and Women. Toilet is at opposite Asian Market Cafe.",
+    "musollaLevel": "2",
+    "nearestToilet": "2",
+    "maleCapacity": 10,
+    "femaleCapacity": 10,
+    "provisions": "Slippers, Praying Mats",
+    "submitterName": "Faris Rasid",
+    "nearestMrt": "Esplanade / City Hall",
+    "isThis": "Gender specific / Gender separated spaces",
+    "sharedCapacity": 0,
+    "location": {
+      "latitude": 1.29366,
+      "longitude": 103.85383
+    },
+    "createdAt": "2022-09-15T10:06:03.000Z",
+    "type": "Musolla",
+    "uuid": "7345a5e8-608e-4109-92ff-87cc491a7151",
+    "geohash": "w21z77801e",
+    "updatedAt": "2023-03-17T14:40:40.768Z"
+  },
+  "w21ztq6b8n": {
+    "createdAt": "2022-07-09T01:10:43.000Z",
+    "address": "4 Tampines Central 5, Singapore 529510",
+    "directions": "if from level 1, take the lift near to bodyshop or the escalator near Innisfree up to level 3. the musollah is near the level 3 toilet. pls bring own mat and sejadah. space can fit max 2 people at 1 time.",
+    "level": "3",
+    "toiletLevel": "3",
+    "location": {
+      "latitude": 1.35281,
+      "longitude": 103.94543
+    },
+    "maleCapacity": 2,
+    "femaleCapacity": 2,
+    "provisions": "Qiblat Indicator, Wudu' Area",
+    "mrt": "tampines",
+    "name": "Tampines Mall Level 3 near Uniqlo",
+    "submitterName": "fara",
+    "type": "Musolla",
+    "uuid": "7be97bb6-45c2-4f52-9eee-858240cf8814",
+    "geohash": "w21ztq6b8n",
+    "updatedAt": "2023-03-17T14:41:07.813Z"
+  },
+  "w21z7ke400": {
+    "createdAt": "2022-05-21T15:28:21.000Z",
+    "address": "3 Fraser St, Singapore 189352",
+    "directions": "Opposite GATEWSY WEST. Traffic light juction 4 BEACH ROAD/ROCHORE ROAD.",
+    "level": "1",
+    "toiletLevel": "1",
+    "maleCapacity": 7,
+    "femaleCapacity": 7,
+    "additionalInfo": "At the moment bring your own mat and telekung due C-19.\r\nWuduk inside musolla",
+    "provisions": "Slippers, Qiblat Indicator, Wudu' Area, Quran, Aircon",
+    "mrt": "BUGIS",
+    "name": "Duo",
+    "submitterName": "MAJ",
+    "location": {
+      "latitude": 1.29948,
+      "longitude": 103.85789
+    },
+    "type": "Musolla",
+    "uuid": "1c506622-5077-4587-87cb-a3395530551e",
+    "geohash": "w21z7ke400",
+    "updatedAt": "2023-03-17T14:41:26.267Z"
+  },
+  "w21z47txmr": {
+    "createdAt": "2021-12-12T08:59:35.000Z",
+    "address": "62 Siloso Beach Walk, Singapore 098998",
+    "directions": "B1, Beach Station carpark. Yellow zone. Take the escalator opposite the information counter to the basement carpark. Turn right. There are separate rooms for male & female with saying \"Prayer Room\". There's a nearby water point for ablution just to the right of the musollah.",
+    "level": "Basement 1",
+    "location": {
+      "latitude": 1.25098,
+      "longitude": 103.8176
+    },
+    "maleCapacity": 5,
+    "femaleCapacity": 5,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Fans",
+    "name": "Sentosa Island, Beach Station",
+    "submitterName": "Max Mohamed",
+    "type": "Musolla",
+    "uuid": "a4fd5a1c-e7ba-457f-a002-26ad314b85af",
+    "geohash": "w21z47txmr",
+    "updatedAt": "2023-03-17T14:42:50.785Z"
   }
 }

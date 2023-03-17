@@ -1,0 +1,23 @@
+{
+  "w21z4zyfsv": {
+    "createdAt": "2023-01-21T07:21:51.000Z",
+    "address": "200 Cantonment Rd, Southpoint, Singapore 089763",
+    "directions": "Located at B1 of Southpoint building.",
+    "level": "B1",
+    "toiletLevel": "B2",
+    "location": {
+      "latitude": 1.2735,
+      "longitude": 103.84127
+    },
+    "maleCapacity": 5,
+    "femaleCapacity": 5,
+    "provisions": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Fans",
+    "mrt": "Outram Park/Tanjong Pagar",
+    "name": "Southpoint",
+    "submitterName": "Aiman",
+    "type": "Musolla",
+    "uuid": "7b5832c1-4170-474c-af3f-d03bc4f04449",
+    "geohash": "w21z4zyfsv",
+    "updatedAt": "2023-03-17T14:38:49.402Z"
+  }
+}
