@@ -2,10 +2,13 @@ const ex1 = require("./examples/1.json");
 const ex2 = require("./examples/2.json");
 const ex3 = require("./examples/3.json");
 const ex4 = require("./examples/4.json");
+// const currentDataSet = require("../data.json");
+const uuid = require('uuid4');
+const ngeohash = require('ngeohash');
 const { Configuration, OpenAIApi } = require("openai");
 const jotform = require("jotform");
 jotform.options({
-    debug: true,
+    debug: false,
     apiKey: process.env.JOTFORM_API_KEY,
 });
 
@@ -82,21 +85,50 @@ async function getUnreadSubmissions() {
 }
 
 async function main() {
-  const submissions = await getUnreadSubmissions();
-  const item0 = Object.values(submissions[17].answers)
-    .filter(it => it.answer && it.name !== "yourEmail");
-  console.log(JSON.stringify(item0, undefined, 2));
+  const formSubmissions = await getUnreadSubmissions();
+  const submissions = formSubmissions.map(s => { 
+    const answers = Object.values(s.answers)
+      .filter(it => it.answer && it.name !== "yourEmail");
+    answers.push({
+      name: 'createdAt',
+      text: 'Created At',
+      answer: s.created_at,
+    });
+    return answers;
+  });
+
+  const item = submissions[4];
+  console.log("Form Data:", JSON.stringify(item, undefined, 2));
 
   let attempt = 0;
+  let resultExtracted;
   while (attempt++ < 3) {
+    let result;
     try {
-      const result = await openaiChatCompletion(JSON.stringify([item0]));
-      const resultExtracted = JSON.parse(result.data.choices?.[0]?.message?.content);
-      console.log(JSON.stringify(resultExtracted, undefined, 2));
+      result = await openaiChatCompletion(JSON.stringify([item]));
+      resultExtracted = JSON.parse(result.data.choices?.[0]?.message?.content);
+      console.log("Extracted:", JSON.stringify(resultExtracted, undefined, 2));
+
       break;
     } catch (e) {
+      console.warn("Invalid GPT response: ", result);
       console.warn(e);
+      console.warn("Retrying...");
     }
+  }
+
+  if (resultExtracted.isSpam || resultExtracted.confidence < 0.7) {
+    console.warn("Rejected.");
+  } else {
+    const enrichedResult = {
+      ...resultExtracted.data,
+      type: "Musolla",
+      uuid: uuid(),
+      geohash: ngeohash.encode(resultExtracted.data.location.latitude, resultExtracted.data.location.longitude, 10),
+      createdAt: resultExtracted.data.createdAt ?? new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
+    }
+    console.log("Enriched:", JSON.stringify(enrichedResult, undefined, 2));
   }
 }
 
@@ -105,7 +137,7 @@ main();
 // 1. get form submissions (unread) (/)
 // 2. convert submission to expected json if not spam (/)
 // 2b. Enhance prompt to ensure all fields are mapped (/)
-// 2c. Enhance examples to exclude mosques and masjid
+// 2c. Enhance examples to exclude mosques and masjid (/)
 // 3. Run tool in pipeline
 // 4. Create an entry in the main data and generate relevant files
 // 5. Commit and Push

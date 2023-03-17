@@ -60,6 +60,11 @@
         "text": "Musolla Location",
         "type": "control_widget",
         "answer": "2 Simei St 3, Singapore 529889\r\n1.34060, 103.94920"
+      },
+      {
+        "name": "createdAt",
+        "text": "Created At",
+        "answer": "2021-12-09 07:35:20"
       }
     ]
   ],
@@ -67,6 +72,7 @@
     "isSpam": false,
     "reason": "The input data contains relevant metadata such as name, address, location, type, capacity, and remarks. The directions are also clear and concise. The data seems to be a valid submission for a place of interest. However, the quality of the data is queationable.",
     "data": {
+      "createdAt": "2021-12-09T07:35:20.000Z",
       "address": "2 Simei St 3, Singapore 529889",
       "directions": "Century Square, 2 Tampines Central 5 #04-11/12, Singapore 529509 \r\nTel: 6789 8180\r\nOperation Hour: 11 a.m. to 10 p.m.\r\nA musholla is available for Muslim customers to perform solat.",
       "level": "4",
@@ -76,7 +82,8 @@
       },
       "sharedCapacity": 0,
       "mrt": "Tampines Mrt",
-      "name": "Century Sq"
+      "name": "Century Sq",
+      "submitterName": "Nur J"
     }
   }
 }

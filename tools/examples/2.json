@@ -89,6 +89,11 @@
         "text": "Musolla Location",
         "type": "control_widget",
         "answer": "200 Cantonment Rd, Southpoint, Singapore 089763\r\n1.27350, 103.84127"
+      },
+      {
+        "name": "createdAt",
+        "text": "Created At",
+        "answer": "2023-03-14 15:01:05"
       }
     ]
   ],
@@ -97,6 +102,7 @@
     "isSpam": false,
     "reason": "The input data contains relevant metadata such as name, address, location, type, capacity, and remarks. The directions are also clear and concise.",
     "data": {
+      "createdAt": "2023-03-14T15:01:05.000Z",
       "address": "200 Cantonment Rd, Southpoint, Singapore 089763",
       "directions": "Located at B1 of Southpoint building.",
       "level": "B1",
@@ -107,15 +113,10 @@
       },
       "maleCapacity": 5,
       "femaleCapacity": 5,
-      "provisions": [
-        "Slippers",
-        "Praying Mats",
-        "Qiblat Indicator",
-        "Wudu' Area",
-        "Fans"
-      ],
+      "provisions": "Slippers, Praying Mats, Qiblat Indicator, Wudu' Area, Fans",
       "mrt": "Outram Park/Tanjong Pagar",
-      "name": "Southpoint"
+      "name": "Southpoint",
+      "submitterName": "Ahmad"
     }
   }
 }
