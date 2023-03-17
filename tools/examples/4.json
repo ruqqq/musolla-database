@@ -1,0 +1,93 @@
+{
+  "input": [
+    {
+      "name": "musollaName",
+      "order": "4",
+      "text": "Musolla Name",
+      "type": "control_textbox",
+      "answer": "Al-Iman,Singapore "
+    },
+    {
+      "name": "directions",
+      "order": "7",
+      "text": "Directions",
+      "type": "control_textarea",
+      "answer": "Take Lrt alight at Bangkit Station "
+    },
+    {
+      "name": "musollaLevel",
+      "order": "8",
+      "text": "Musolla Level",
+      "type": "control_textbox",
+      "answer": "4"
+    },
+    {
+      "name": "nearestToilet",
+      "order": "9",
+      "text": "Nearest Toilet Level",
+      "type": "control_textbox",
+      "answer": "1"
+    },
+    {
+      "name": "additionalInfo",
+      "order": "15",
+      "text": "Additional Info or Remarks on the Musolla",
+      "type": "control_textarea",
+      "answer": "One of the beautiful Masjid @ Bukit Panjang."
+    },
+    {
+      "name": "provisions",
+      "order": "14",
+      "text": "Provisions",
+      "type": "control_checkbox",
+      "answer": [
+        "Quran"
+      ],
+      "prettyFormat": "Quran"
+    },
+    {
+      "name": "yourName",
+      "order": "2",
+      "text": "Your Name",
+      "type": "control_textbox",
+      "answer": "Mat"
+    },
+    {
+      "name": "nearestMrt",
+      "order": "6",
+      "text": "Nearest MRT",
+      "type": "control_textbox",
+      "answer": "Mrt Chua Chu Kang Station then take Lrt to Bangkit Station "
+    },
+    {
+      "name": "isThis",
+      "order": "10",
+      "text": "Is this a shared (between Male and Female) Musolla?",
+      "type": "control_radio",
+      "answer": "Shared"
+    },
+    {
+      "maxValue": "",
+      "name": "sharedCapacity",
+      "order": "11",
+      "text": "Shared Capacity",
+      "type": "control_number",
+      "answer": "13"
+    },
+    {
+      "cfname": "GPS Location",
+      "name": "typeA21",
+      "order": "5",
+      "selectedField": "5379f8c6d6aa823065000009",
+      "static": "No",
+      "text": "Musolla Location",
+      "type": "control_widget",
+      "answer": "31B Exeter Rd, Singapore 239733\r\n1.29894, 103.83832"
+    }
+  ],
+  "output": {
+    "isSpam": true,
+    "reason": "Although the submission is for a place in Singapore, we do not accept submissions for masjid or mosques.",
+    "data": []
+  }
+}

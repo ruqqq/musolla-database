@@ -1,0 +1,57 @@
+{
+  "input": [
+    [
+      {
+        "name": "musollaName",
+        "order": "4",
+        "text": "Musolla Name",
+        "type": "control_textbox",
+        "answer": "Masjid Taman Tasik Utama"
+      },
+      {
+        "name": "directions",
+        "order": "7",
+        "text": "Directions",
+        "type": "control_textarea",
+        "answer": "Jalan TU 30"
+      },
+      {
+        "name": "yourName",
+        "order": "2",
+        "text": "Your Name",
+        "type": "control_textbox",
+        "answer": "Siti J"
+      },
+      {
+        "name": "isThis",
+        "order": "10",
+        "text": "Is this a shared (between Male and Female) Musolla?",
+        "type": "control_radio",
+        "answer": "Shared"
+      },
+      {
+        "maxValue": "",
+        "name": "sharedCapacity",
+        "order": "11",
+        "text": "Shared Capacity",
+        "type": "control_number",
+        "answer": "0"
+      },
+      {
+        "cfname": "GPS Location",
+        "name": "typeA21",
+        "order": "5",
+        "selectedField": "5379f8c6d6aa823065000009",
+        "static": "No",
+        "text": "Musolla Location",
+        "type": "control_widget",
+        "answer": "50, Jalan TU 30, 75350 Ayer Keroh, Melaka, Malaysia\r\n2.27787, 102.28251"
+      }
+    ]
+  ],
+  "output": {
+    "isSpam": true,
+    "reason": "The input data does not have a valid directions. The submission is also for a place of interest in Malaysia but we only support submissions for places in Singapore. We also do not accept submissions for masjid or mosques.",
+    "data": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "input": [
+    [
+      {
+        "name": "musollaName",
+        "order": "4",
+        "text": "Musolla Name",
+        "type": "control_textbox",
+        "answer": "Southpoint"
+      },
+      {
+        "name": "directions",
+        "order": "7",
+        "text": "Directions",
+        "type": "control_textarea",
+        "answer": "Located at B1 of Southpoint building.\r\n"
+      },
+      {
+        "name": "musollaLevel",
+        "order": "8",
+        "text": "Musolla Level",
+        "type": "control_textbox",
+        "answer": "B1"
+      },
+      {
+        "name": "nearestToilet",
+        "order": "9",
+        "text": "Nearest Toilet Level",
+        "type": "control_textbox",
+        "answer": "B2"
+      },
+      {
+        "maxValue": "",
+        "name": "maleCapacity",
+        "order": "12",
+        "text": "Male Capacity",
+        "type": "control_number",
+        "answer": "5"
+      },
+      {
+        "maxValue": "",
+        "name": "femaleCapacity",
+        "order": "13",
+        "text": "Female Capacity",
+        "type": "control_number",
+        "answer": "5"
+      },
+      {
+        "name": "provisions",
+        "order": "14",
+        "text": "Provisions",
+        "type": "control_checkbox",
+        "answer": [
+          "Slippers",
+          "Praying Mats",
+          "Qiblat Indicator",
+          "Wudu' Area",
+          "Fans"
+        ],
+        "prettyFormat": "Slippers; Praying Mats; Qiblat Indicator; Wudu' Area; Fans"
+      },
+      {
+        "name": "yourName",
+        "order": "2",
+        "text": "Your Name",
+        "type": "control_textbox",
+        "answer": "Ahmad"
+      },
+      {
+        "name": "nearestMrt",
+        "order": "6",
+        "text": "Nearest MRT",
+        "type": "control_textbox",
+        "answer": "Outram Park/Tanjong Pagar"
+      },
+      {
+        "name": "isThis",
+        "order": "10",
+        "text": "Is this a shared (between Male and Female) Musolla?",
+        "type": "control_radio",
+        "answer": "Gender specific / Gender separated spaces"
+      },
+      {
+        "cfname": "GPS Location",
+        "name": "typeA21",
+        "order": "5",
+        "selectedField": "5379f8c6d6aa823065000009",
+        "static": "No",
+        "text": "Musolla Location",
+        "type": "control_widget",
+        "answer": "200 Cantonment Rd, Southpoint, Singapore 089763\r\n1.27350, 103.84127"
+      }
+    ]
+  ],
+  "output": 
+  {
+    "isSpam": false,
+    "reason": "The input data contains relevant metadata such as name, address, location, type, capacity, and remarks. The directions are also clear and concise.",
+    "data": {
+      "address": "200 Cantonment Rd, Southpoint, Singapore 089763",
+      "directions": "Located at B1 of Southpoint building.",
+      "level": "B1",
+      "toiletLevel": "B2",
+      "location": {
+        "latitude": 1.2735,
+        "longitude": 103.84127
+      },
+      "maleCapacity": 5,
+      "femaleCapacity": 5,
+      "provisions": [
+        "Slippers",
+        "Praying Mats",
+        "Qiblat Indicator",
+        "Wudu' Area",
+        "Fans"
+      ],
+      "mrt": "Outram Park/Tanjong Pagar",
+      "name": "Southpoint"
+    }
+  }
+}
