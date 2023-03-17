@@ -2,11 +2,14 @@ const ex1 = require("./examples/1.json");
 const ex2 = require("./examples/2.json");
 const ex3 = require("./examples/3.json");
 const ex4 = require("./examples/4.json");
-// const currentDataSet = require("../data.json");
-const uuid = require('uuid4');
-const ngeohash = require('ngeohash');
+const dataset = require("../data.json");
+const uuid = require("uuid4");
+const ngeohash = require("ngeohash");
+const fs = require("fs");
+const path = require("path");
 const { Configuration, OpenAIApi } = require("openai");
 const jotform = require("jotform");
+
 jotform.options({
     debug: false,
     apiKey: process.env.JOTFORM_API_KEY,
@@ -97,7 +100,7 @@ async function main() {
     return answers;
   });
 
-  const item = submissions[4];
+  const item = submissions[0];
   console.log("Form Data:", JSON.stringify(item, undefined, 2));
 
   let attempt = 0;
@@ -129,7 +132,13 @@ async function main() {
       updatedAt: new Date().toISOString(),
     }
     console.log("Enriched:", JSON.stringify(enrichedResult, undefined, 2));
+
+    dataset[enrichedResult.uuid] = enrichedResult;
   }
+
+  console.log("Writing to file...");
+  fs.writeFileSync(path.resolve(__dirname, "../data.json"), JSON.stringify(dataset, undefined, 4));
+  console.log("...done!");
 }
 
 main();
